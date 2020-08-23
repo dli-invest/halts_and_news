@@ -2,6 +2,7 @@ import requests
 import os
 import sys
 import pandas as pd
+import time
 from news_and_halts import make_embed_from_news_item, is_valid_news_item, post_webhook_embeds
 from cad_tickers.news import scrap_news_for_ticker
 from concurrent.futures import ThreadPoolExecutor
@@ -100,7 +101,10 @@ if __name__ == "__main__":
 
   if updated_news_df.empty == False:
     for index, row in updated_news_df.iterrows():
+      # Need to chunk 10 messages, into one
       embeds = make_embed_from_news_item(row)
+      # But a channel has a 30 msg/60 sec limit for webhooks
+      time.sleep(2)
       post_webhook_embeds(embeds)
 
   updated_news_df.to_csv(fnews_file)
