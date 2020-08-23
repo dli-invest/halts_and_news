@@ -1,2 +1,1 @@
-pandas==1.1.1
 cad_tickers==0.2.6

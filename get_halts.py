@@ -2,9 +2,29 @@ import sys
 import os
 import argparse
 import pandas as pd
+import requests
+import os
+import json
+
 from cad_tickers.news import get_halts_resumption
 # https://friendlyuser.github.io/cad_tickers_list/8/cse_8_2020.csv
 # https://friendlyuser.github.io/cad_tickers_list/8/tsx_8_2020.csv
+
+
+def post_webhook(content: str):
+  url = os.getenv('DISCORD_NEWS_WEBHOOK')
+  data = {}
+  #for all params, see https://discordapp.com/developers/docs/resources/webhook#execute-webhook
+  data["content"] = content
+
+  result = requests.post(url, data=f"```js{json.dumps(data)}```", headers={"Content-Type": "application/json"})
+
+  try:
+      result.raise_for_status()
+  except requests.exceptions.HTTPError as err:
+      print(err)
+  else:
+      print("Payload delivered successfully, code {}.".format(result.status_code))
 
 def download_csvs():
   # check if files exists
@@ -37,6 +57,10 @@ if __name__ == "__main__":
       .merge(old_halts_df, how = 'outer' , indicator=True) \
       .loc[lambda x : x['_merge'] == 'left_only']
     drop_unnamed_columns(diff_df)
+    content_str = diff_df.to_string(index=False)
+    # move later, just return df
+    for chunk in [content_str[i:i+2000] for i in range(0, len(content_str), 2000)]:
+      post_webhook(chunk)
   else:
     halts_df = get_halts_resumption()
     drop_unnamed_columns(halts_df)
