@@ -1,4 +1,4 @@
-name: Scan Market High Low
+name: Getting Halts
 # Don't want to burn my private minutes at this point
 on:
   push:
