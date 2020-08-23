@@ -30,6 +30,7 @@ jobs:
         
       - name: Commit files
         run: |
+          git add *.csv
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -m "Add changes" -a
