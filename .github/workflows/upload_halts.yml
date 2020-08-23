@@ -1,0 +1,46 @@
+name: Scan Market High Low
+# Don't want to burn my private minutes at this point
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '30 13-22 * * 1-5'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+      
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.7' # Version range or exact version of a Python version to use, using SemVer's version range syntax
+          architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
+      
+      - name: getting halts
+        run: | 
+          python get_halts.py
+          mv halts.html dist/
+        
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Add changes" -a
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@3.5.9
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: dist # The folder the action should deploy.
