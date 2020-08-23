@@ -79,12 +79,17 @@ if __name__ == "__main__":
   # no need to publish the results to github pages
   download_csvs()
   tickers = get_tickers()
-  with ThreadPoolExecutor(max_workers=3) as tpe:
-    iterables = tpe.map(scrap_news_for_ticker, tickers)
+  with ThreadPoolExecutor(max_workers=16) as tpe:
+    try:
+      iterables = tpe.map(scrap_news_for_ticker, tickers)
+    except Exception as e:
+      print(e)
   raw_news = list(iterables)
   # flatten list
+  print(raw_news)
   flatten = lambda l: [item for sublist in l for item in sublist]
   flat_news = flatten(raw_news)
+  print(flat_news)
   # remove empty news articles
   valid_news = [i for i in flat_news if is_valid_news_item(i)]
   news_df = pd.DataFrame(valid_news)
