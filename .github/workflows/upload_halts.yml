@@ -29,7 +29,7 @@ jobs:
 
       - name: Run Script
         run: |
-          python get_halts.py
+          python news_and_halts.py
           mv halts.html dist/
         
       - name: Commit files
