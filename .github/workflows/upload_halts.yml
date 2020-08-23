@@ -8,6 +8,8 @@ on:
     # * is a special character in YAML so you have to quote this string
     - cron:  '30 13-22 * * 1-5'
 
+env:
+  DISCORD_NEWS_WEBHOOK: ${{ secrets.DISCORD_NEWS_WEBHOOK }}
 jobs:
   build:
     runs-on: ubuntu-latest
