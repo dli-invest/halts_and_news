@@ -11,6 +11,7 @@ on:
 
 env:
   DISCORD_NEWS_WEBHOOK: ${{ secrets.DISCORD_NEWS_WEBHOOK }}
+  STOCK_API: ${{ secrets.STOCK_API }}
 jobs:
   build:
     runs-on: ubuntu-latest
