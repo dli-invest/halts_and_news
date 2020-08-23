@@ -22,9 +22,11 @@ jobs:
           python-version: '3.7' # Version range or exact version of a Python version to use, using SemVer's version range syntax
           architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
       
-      - name: Getting Halts
-        run: | 
-          pip install -r requirements.txt
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Run Script
+        run: |
           python get_halts.py
           mv halts.html dist/
         
