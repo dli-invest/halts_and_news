@@ -2,8 +2,9 @@ import requests
 import os
 import sys
 import pandas as pd
+import numpy as np
 import time
-from news_and_halts import make_embed_from_news_item, is_valid_news_item, post_webhook_embeds
+from news_and_halts import format_news_item_for_embed, is_valid_news_item, post_webhook_embeds
 from cad_tickers.news import scrap_news_for_ticker
 from concurrent.futures import ThreadPoolExecutor
 
@@ -78,7 +79,7 @@ if __name__ == "__main__":
   # grabbing all news for all stocks will be done in another script
   # no need to publish the results to github pages
   download_csvs()
-  tickers = get_tickers()
+  tickers = get_tickers()[0:12]
   with ThreadPoolExecutor(max_workers=16) as tpe:
     try:
       iterables = tpe.map(scrap_news_for_ticker, tickers)
@@ -103,11 +104,11 @@ if __name__ == "__main__":
     .reset_index(drop=True)
 
   if updated_news_df.empty == False:
-    for index, row in updated_news_df.iterrows():
-      # Need to chunk 10 messages, into one
-      embeds = make_embed_from_news_item(row)
-      # But a channel has a 30 msg/60 sec limit for webhooks
-      time.sleep(2)
+    # randomly compute best chunk
+    for chunk_array in np.array_split(updated_news_df, 6):
+      embeds_np = np.apply_along_axis(format_news_item_for_embed, axis=1, arr=chunk_array)
+      embeds = embeds_np.tolist()
       post_webhook_embeds(embeds)
+      time.sleep(2)
 
   updated_news_df.to_csv(fnews_file)

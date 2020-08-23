@@ -2,9 +2,11 @@ import sys
 import os
 import argparse
 import pandas as pd
+import numpy as np
 import requests
 import os
 import json
+from typing import Union
 from cad_tickers.news import get_halts_resumption, scrap_news_for_ticker
 
 def post_webhook_content(content: str):
@@ -28,6 +30,7 @@ def post_webhook_embeds(embeds):
   data["content"] = ''
   #for all params, see https://discordapp.com/developers/docs/resources/webhook#execute-webhook
   data["embeds"] = embeds
+  print(embeds)
   result = requests.post(url, data=json.dumps(data), headers={"Content-Type": "application/json"})
 
   try:
@@ -89,16 +92,29 @@ def make_embed_from_news_item(news_item: pd.Series):
       link_href is url 
       title is source
   """
-  y_base_url = 'https://finance.yahoo.com'
+  single_embed = format_news_item_for_embed(news_item)
   embeds = [
-    {
-      "description": news_item['link_text'],
-      'url': f"{y_base_url}/{news_item['link_href']}",
-      'title': news_item['source']
-    }
+    single_embed
   ]
   return embeds
   # description can take 2000 characters
+
+def format_news_item_for_embed(news_item: Union[np.ndarray,pd.Series]):
+  y_base_url = 'https://finance.yahoo.com'
+  if isinstance(news_item, np.ndarray):
+    source, link_href, link_text, ticker = news_item
+    embed_obj = {
+      "description": link_text,
+      "url": f"{y_base_url}/{link_href}",
+      "title": f"{ticker} - {source}"
+    }
+    return embed_obj
+  else:
+    return {
+      "description": news_item['link_text'],
+      'url': f"{y_base_url}/{news_item['link_href']}",
+      'title': f"{news_item['ticker']} - {news_item['source']}"
+    }
 
 def get_news():
   # fetch all the tickers from dashboard
