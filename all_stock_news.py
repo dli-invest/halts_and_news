@@ -86,10 +86,8 @@ if __name__ == "__main__":
       print(e)
   raw_news = list(iterables)
   # flatten list
-  print(raw_news)
   flatten = lambda l: [item for sublist in l for item in sublist]
   flat_news = flatten(raw_news)
-  print(flat_news)
   # remove empty news articles
   valid_news = [i for i in flat_news if is_valid_news_item(i)]
   news_df = pd.DataFrame(valid_news)
