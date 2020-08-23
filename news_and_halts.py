@@ -112,29 +112,40 @@ def make_embed_from_news_item(news_item: pd.Series):
   ]
   return embeds
   # description can take 2000 characters
+
 def get_news():
   # fetch all the tickers from dashboard
   tickers = get_tickers()
-  stock_df = pd.DataFrame()
+  news_df = pd.DataFrame()
+  # Load csv if exists
+  news_file = 'news.csv'
+  if os.path.exists(news_file):
+    old_news_df = pd.read_csv(news_file)
+  else:
+    old_news_df = pd.DataFrame()
   for t in tickers[0:3]:
     stock_news = scrap_news_for_ticker(t)
     # filter list
     stock_news = [i for i in stock_news if is_valid_news_item(i)] 
     if len(stock_news) == 0:
       continue
-    stock_df = stock_df.append(stock_news, ignore_index=True)
+    news_df = news_df.append(stock_news, ignore_index=True)
 
-  if stock_df.empty == False:
-    for index, row in stock_df.iterrows():
+  updated_news_df = pd.concat([old_news_df, news_df]) \
+    .drop_duplicates(subset=['link_href', 'link_text'], keep='first') \
+    .reset_index(drop=True)
+  if updated_news_df.empty == False:
+    for index, row in updated_news_df.iterrows():
       embeds = make_embed_from_news_item(row)
       post_webhook_embeds(embeds)
-    # content_str = stock_df.to_string(index=False)
-    # move later, just return df
-    # for chunk in [content_str[i:i+1950] for i in range(0, len(content_str), 1950)]:
-    #   post_webhook(chunk)
+  
+  updated_news_df.to_csv('news.csv')
+  updated_news_df.to_html('news.html')
 
 if __name__ == "__main__":
+  # Grab news for my stocks
   assert sys.version_info >= (3, 6)
+  # grabbing all news for all stocks will be done in another script
+  # no need to publish the results to github pages
   get_halts()
   get_news()
-

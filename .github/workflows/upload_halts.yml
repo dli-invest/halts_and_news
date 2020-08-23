@@ -31,6 +31,7 @@ jobs:
         run: |
           python news_and_halts.py
           mv halts.html dist/
+          mv news.html dist/
         
       - name: Commit files
         run: |
