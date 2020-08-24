@@ -101,6 +101,8 @@ def make_embed_from_news_item(news_item: pd.Series):
 
 def format_news_item_for_embed(news_item: Union[np.ndarray,pd.Series]):
   y_base_url = 'https://finance.yahoo.com'
+  if news_item is None:
+    return {}
   if isinstance(news_item, np.ndarray):
     source, link_href, link_text, ticker = news_item
     embed_obj = {
