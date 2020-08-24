@@ -79,7 +79,7 @@ if __name__ == "__main__":
   # grabbing all news for all stocks will be done in another script
   # no need to publish the results to github pages
   download_csvs()
-  tickers = get_tickers()[0:13]
+  tickers = get_tickers()
   with ThreadPoolExecutor(max_workers=16) as tpe:
     try:
       iterables = tpe.map(scrap_news_for_ticker, tickers)
