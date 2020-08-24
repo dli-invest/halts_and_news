@@ -55,6 +55,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ secrets.GITHUB_REF }}
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.5.9
