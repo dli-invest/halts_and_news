@@ -4,7 +4,7 @@ import sys
 import pandas as pd
 import numpy as np
 import time
-from news_and_halts import format_news_item_for_embed, is_valid_news_item, post_webhook_embeds
+from news_and_halts import format_news_item_for_embed, is_valid_news_item, post_webhook_embeds, drop_unnamed_columns
 from cad_tickers.news import scrap_news_for_ticker
 from concurrent.futures import ThreadPoolExecutor
 
@@ -92,7 +92,6 @@ if __name__ == "__main__":
   # remove empty news articles
   valid_news = [i for i in flat_news if is_valid_news_item(i)]
   news_df = pd.DataFrame(valid_news)
-
   # get old news df from file
   fnews_file = 'full_news.csv'
   if os.path.exists(fnews_file):
@@ -102,7 +101,7 @@ if __name__ == "__main__":
   updated_news_df = pd.concat([old_news_df, news_df]) \
     .drop_duplicates(subset=['link_href', 'link_text', 'ticker'], keep='first') \
     .reset_index(drop=True)
-
+  drop_unnamed_columns(updated_news_df)
   if updated_news_df.empty == False:
     # randomly compute best chunk
     for chunk_array in np.array_split(updated_news_df, 6):
@@ -111,4 +110,4 @@ if __name__ == "__main__":
       post_webhook_embeds(embeds)
       time.sleep(2)
 
-  updated_news_df.to_csv(fnews_file)
+  news_df.to_csv(fnews_file)
