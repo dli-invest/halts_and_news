@@ -12,7 +12,7 @@ on:
 env:
   DISCORD_NEWS_WEBHOOK: ${{ secrets.DISCORD_NEWS_WEBHOOK }}
   STOCK_API: ${{ secrets.STOCK_API }}
-  BRANCH_NAME: develop
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -62,7 +62,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${GITHUB_REF#refs/heads/}
+          branch: ${{ github.head_ref }}
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.5.9
