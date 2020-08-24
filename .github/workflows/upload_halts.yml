@@ -12,6 +12,7 @@ on:
 env:
   DISCORD_NEWS_WEBHOOK: ${{ secrets.DISCORD_NEWS_WEBHOOK }}
   STOCK_API: ${{ secrets.STOCK_API }}
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -23,18 +24,27 @@ jobs:
       
       - uses: actions/setup-python@v2
         with:
-          python-version: '3.7' # Version range or exact version of a Python version to use, using SemVer's version range syntax
+          python-version: '3.6.7' # Version range or exact version of a Python version to use, using SemVer's version range syntax
           architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
       
       - name: Install
         run: pip install -r requirements.txt
 
-      - name: Run Script
+      - name: Run Script for news and halts
         run: |
           python news_and_halts.py
           mv halts.html dist/
           mv news.html dist/
-        
+
+      - name: Run Script for all news
+        run: |
+          python all_stock_news.py
+
+      - uses: actions/upload-artifact@v2
+        with:
+          name: csvs
+          path: full_news.csv
+
       - name: Commit files
         run: |
           git add *.csv
@@ -42,10 +52,17 @@ jobs:
           git config --local user.name "GitHub Action"
           git commit -m "Add changes" -a
 
+      - name: Extract branch name
+        shell: bash
+        run: echo "::set-env name=BRANCH_NAME::$(echo ${GITHUB_REF#refs/heads/} | sed 's/\//_/g')"
+      - name: Test
+        run: echo "${BRANCH_NAME}"
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.5.9

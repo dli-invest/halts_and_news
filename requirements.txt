@@ -1,1 +1,1 @@
-cad_tickers==0.2.6
+cad-tickers==0.2.8
