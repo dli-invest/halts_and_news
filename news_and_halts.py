@@ -126,7 +126,10 @@ def get_news():
   # Load csv if exists
   news_file = 'news.csv'
   if os.path.exists(news_file):
-    old_news_df = pd.read_csv(news_file)
+    try:
+      old_news_df = pd.read_csv(news_file)
+    except Exception as e:
+      old_news_df = pd.DataFrame()
   else:
     old_news_df = pd.DataFrame()
   for t in tickers[0:3]:
@@ -145,7 +148,7 @@ def get_news():
       embeds = make_embed_from_news_item(row)
       post_webhook_embeds(embeds)
   
-  updated_news_df.to_csv('news.csv')
+  news_df.to_csv('news.csv')
   updated_news_df.to_html('news.html')
 
 if __name__ == "__main__":
