@@ -132,7 +132,7 @@ def get_news():
       old_news_df = pd.DataFrame()
   else:
     old_news_df = pd.DataFrame()
-  for t in tickers[0:3]:
+  for t in tickers:
     stock_news = scrap_news_for_ticker(t)
     # filter list
     stock_news = [i for i in stock_news if is_valid_news_item(i)] 

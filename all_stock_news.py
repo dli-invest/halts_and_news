@@ -79,13 +79,18 @@ if __name__ == "__main__":
   # grabbing all news for all stocks will be done in another script
   # no need to publish the results to github pages
   download_csvs()
-  tickers = get_tickers()
-  with ThreadPoolExecutor(max_workers=16) as tpe:
-    try:
-      iterables = tpe.map(scrap_news_for_ticker, tickers)
-    except Exception as e:
-      print(e)
-  raw_news = list(iterables)
+  tickers = get_tickers()[0:5]
+  # with ThreadPoolExecutor(max_workers=16) as tpe:
+  #   try:
+  #     iterables = tpe.map(scrap_news_for_ticker, tickers)
+  #   except Exception as e:
+  #     print(e)
+  # raw_news = list(iterables)
+  # single threaded approach
+  raw_news = []
+  for ticker in tickers:
+    news_items = scrap_news_for_ticker(ticker)
+    raw_news.append(news_items)
   # flatten list
   flatten = lambda l: [item for sublist in l for item in sublist]
   flat_news = flatten(raw_news)
