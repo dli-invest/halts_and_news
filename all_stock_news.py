@@ -73,6 +73,18 @@ def tsx_ticker_to_yahoo(row: pd.Series)-> str:
   yahoo_ex = switcher.get(exchange, "TSXV")
   return f"{ticker}.{yahoo_ex}"
 
+
+def generate_news_items(tickers: str):
+  # at most 10 embeds
+  # each news item had at most 3
+  for chunked_tickers in np.array_split(tickers, 3):
+    raw_news = []
+    for ticker in chunked_tickers:
+      news_items = scrap_news_for_ticker(ticker)
+      raw_news.append(news_items)
+    yield raw_news
+
+
 if __name__ == "__main__":
   # Grab news for my stocks
   assert sys.version_info >= (3, 6)
@@ -80,39 +92,43 @@ if __name__ == "__main__":
   # no need to publish the results to github pages
   download_csvs()
   tickers = get_tickers()
-  # with ThreadPoolExecutor(max_workers=16) as tpe:
-  #   try:
-  #     iterables = tpe.map(scrap_news_for_ticker, tickers)
-  #   except Exception as e:
-  #     print(e)
-  # raw_news = list(iterables)
   # single threaded approach
-  raw_news = []
-  for ticker in tickers:
-    news_items = scrap_news_for_ticker(ticker)
-    raw_news.append(news_items)
+  # raw_news = []
+  # for ticker in tickers:
+  #   news_items = scrap_news_for_ticker(ticker)
+  #   raw_news.append(news_items)
   # flatten list
+  full_news_list = []
   flatten = lambda l: [item for sublist in l for item in sublist]
-  flat_news = flatten(raw_news)
-  # remove empty news articles
-  valid_news = [i for i in flat_news if is_valid_news_item(i)]
-  news_df = pd.DataFrame(valid_news)
-  # get old news df from file
-  fnews_file = 'full_news.csv'
-  if os.path.exists(fnews_file):
-    old_news_df = pd.read_csv(fnews_file)
-  else:
-    old_news_df = pd.DataFrame()
-  updated_news_df = pd.concat([old_news_df, news_df]) \
-    .drop_duplicates(subset=['link_href', 'link_text', 'ticker'], keep='first') \
-    .reset_index(drop=True)
-  drop_unnamed_columns(updated_news_df)
-  if updated_news_df.empty == False:
-    # randomly compute best chunk
-    for chunk_array in np.array_split(updated_news_df, 6):
-      embeds_np = np.apply_along_axis(format_news_item_for_embed, axis=1, arr=chunk_array)
-      embeds = embeds_np.tolist()
-      post_webhook_embeds(embeds)
-      time.sleep(2)
+  for raw_news in generate_news_items(tickers):
+    flat_news = flatten(raw_news)
+    full_news_list.append(flat_news)
+    # remove empty news articles
+    valid_news = [i for i in flat_news if is_valid_news_item(i)]
+    embeds_np = np.apply_along_axis(format_news_item_for_embed, axis=1, arr=valid_news)
+    embeds = embeds_np.tolist()
+    post_webhook_embeds(embeds)
+    time.sleep(2)
+  print(full_news_list)
+  condesned_list = flatten(full_news_list)
+  print(full_news_list)
+    # news_df = pd.DataFrame(valid_news)
+    # get old news df from file
+  # fnews_file = 'full_news.csv'
+  # if os.path.exists(fnews_file):
+  #   old_news_df = pd.read_csv(fnews_file)
+  # else:
+  #   old_news_df = pd.DataFrame()
+  # updated_news_df = pd.concat([old_news_df, news_df]) \
+  #   .drop_duplicates(subset=['link_href', 'link_text', 'ticker'], keep='first') \
+  #   .reset_index(drop=True)
+  # drop_unnamed_columns(updated_news_df)
+  # if updated_news_df.empty == False:
+  #   # randomly compute best chunk
+  #   for chunk_array in np.array_split(updated_news_df, 6):
+  #     embeds_np = np.apply_along_axis(format_news_item_for_embed, axis=1, arr=chunk_array)
+  #     embeds = embeds_np.tolist()
+  #     post_webhook_embeds(embeds)
+  #     time.sleep(2)
 
-  news_df.to_csv(fnews_file)
+  # news_df.to_csv(fnews_file)
