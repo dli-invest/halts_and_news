@@ -14,8 +14,8 @@
 12,ACCESSWIRE,/news/frank-holmes-present-snn-network-123000817.html,"Frank Holmes to Present at the SNN Network Virtual Investor Conference on Monday, August 3, 2020",HIVE.V
 13,PR Newswire,/news/hive-blockchain-partners-ecocooling-maximize-230000446.html,HIVE Blockchain partners with EcoCooling to maximize operational excellence in the most efficient High Performance Computing facility in the world; announces extended timeline for filing annual and quarterly financial statements due to COVID-19,HIVE.V
 14,PR Newswire,/news/hive-blockchain-continues-increasing-bitcoin-123000320.html,HIVE Blockchain Continues Increasing Bitcoin Mining Power Through Additional Purchase of Next Generation Miners for Green Energy-Powered Quebec Facility,HIVE.V
-15,GlobeNewswire,/news/indiva-secures-agreement-cannmart-120000716.html,Indiva Secures Agreement With CannMart,N.V
-16,CNW Group,/news/ontario-lottery-gaming-corporation-midday-183800871.html,Namaste Announces the Addition of Indiva Products to CannMart,N.V
+15,PR Newswire,/news/namaste-announces-addition-indiva-products-120000212.html,Namaste Announces the Addition of Indiva Products to CannMart,N.V
+16,GlobeNewswire,/news/indiva-secures-agreement-cannmart-120000716.html,Indiva Secures Agreement With CannMart,N.V
 17,CNW Group,/news/namaste-files-preliminary-shelf-prospectus-210100742.html,Namaste Files Preliminary Base Shelf Prospectus,N.V
 18,InvestorPlace,/news/7-marijuana-stocks-buy-industry-150223679.html,7 Marijuana Stocks to Buy As the Industry Continues to Grow,APHA.TO
 19,Motley Fool,/m/90f9b0b6-234d-309f-a5a5-8361a9034d8f/is-aphria-stock-a-buy-.html,Is Aphria Stock a Buy?,APHA.TO
@@ -50,87 +50,97 @@
 48,CNW Group,/news/thank-canada-cineplex-reopen-entire-140000721.html,Thank You Canada! Cineplex to Reopen Its Entire Circuit of Theatres Tomorrow,CGX.TO
 49,Bloomberg,/news/cineplex-reports-95-revenue-drop-114601449.html,Cineplex Reports 95% Revenue Drop After Virus Closes Theaters,CGX.TO
 50,CNW Group,/news/cineplex-announces-closing-over-allotment-123000547.html,Cineplex Announces Closing of Over-Allotment Option in Connection with Recently Completed Convertible Debenture Offering,CGX.TO
-51,Zacks,/news/cenovus-energy-cve-stock-stands-123712098.html,How Cenovus Energy (CVE) Stock Stands Out in a Strong Industry,CVE.TO
-52,Zacks,/news/why-cenovus-cve-down-6-153003936.html,Why Is Cenovus (CVE) Down 6% Since Last Earnings Report?,CVE.TO
-53,Reuters,/news/rpt-canada-curbs-methane-emissions-100000891.html,"RPT-As Canada curbs methane emissions, new measurements show problem bigger than thought",CVE.TO
-54,Business Wire,/news/trutrace-technologies-ensures-consumer-safety-120000185.html,"TruTrace Technologies Ensures Consumer Safety for Riviera Beverages & Bottling, West One Logistics and their Hygen-X Sanitizer Products",TTT.CN
-55,GlobeNewswire,/news/medipharm-labs-selected-university-health-110110435.html,"MediPharm Labs Selected by University Health Network and Medical Cannabis by Shoppers Inc. for First Real-World Evidence, Patient-Centred Clinical Trial Using Blockchain Technology",TTT.CN
-56,CNW Group,/news/trutrace-technologies-advancedcare-announce-strategic-110000922.html,TruTrace Technologies and AdvancedCare announce strategic plan to integrate technology platforms,TTT.CN
-57,CNW Group,/news/iiroc-trading-resumption-hrh-124800763.html,IIROC Trading Resumption - HRH,HRH.V
-58,CNW Group,/news/iiroc-trading-halt-hrh-121600180.html,IIROC Trading Halt - HRH,HRH.V
-59,Simply Wall St.,/news/life-hillcrest-petroleum-cve-hrh-121544239.html,Such Is Life: How Hillcrest Petroleum (CVE:HRH) Shareholders Saw Their Shares Drop 58%,HRH.V
-60,Zacks,/news/aurora-cannabis-inc-acb-outpaces-214509307.html,Aurora Cannabis Inc. (ACB) Outpaces Stock Market Gains: What You Should Know,ACB.TO
-61,Motley Fool,/m/a4e965f8-d0a1-36f8-8c5f-ca27d2f6ffdc/how-close-are-aurora-cannabis.html,How Close Are Aurora Cannabis and Canopy Growth to Turning a Profit?,ACB.TO
-62,InvestorPlace,/news/7-marijuana-stocks-buy-industry-150223679.html,7 Marijuana Stocks to Buy As the Industry Continues to Grow,ACB.TO
-63,Benzinga,/news/air-canada-beat-us-airlines-170058647.html,How Air Canada Beat US Airlines Removing Seats For Cargo,AC.TO
-64,PR Newswire,/news/air-china-enhances-uatp-network-123100250.html,Air China Enhances UATP Network As Newest Airline Issuer,AC.TO
-65,PR Newswire,/news/air-canada-unveils-details-transformed-103000483.html,"Air Canada Unveils Details of Transformed Aeroplan Program, Offering More Value and New Benefits",AC.TO
-66,ACCESSWIRE,/news/ydx-innovation-partners-comic-convention-091500638.html,YDX Innovation Partners with Comic Convention Group to Create an International Esports Cup in 17 Countries,YDX.V
-67,ACCESSWIRE,/news/ydx-innovation-partners-liquid-media-143000173.html,YDX Innovation Partners with Liquid Media to Add More Virtual Reality Content to Streaming Platform,YDX.V
-68,ACCESSWIRE,/news/ydx-innovation-appoints-ayan-abdu-091500129.html,YDX Innovation Appoints Ayan Abdu as Advisor to Create more Inclusive and Diverse Initiatives in Esports,YDX.V
-69,GlobeNewswire,/news/victory-square-technologies-portfolio-company-070100910.html,Victory Square Technologies Portfolio Company Gets FDA Permission to Manufacture and Market Safetest Covid-19 Antibody Test,VST.CN
-70,GlobeNewswire,/news/victory-square-portfolio-company-fansunite-070100084.html,"Victory Square Portfolio Company FansUnite Entertainment Inc. Closed Oversubscribed Private Placement of $5,009,846 CAD",VST.CN
-71,GlobeNewswire,/news/victory-square-portfolio-company-fansunite-070510638.html,Victory Square Portfolio Company FansUnite Announces Merger with Askott Entertainment to Create One of Canada’s Leading Gaming Companies,VST.CN
-72,CNW Group,/news/vsblty-groupe-technologies-announces-filing-013900462.html,VSBLTY Groupe Technologies Announces Filing of Final Prospectus,VSBY.CN
-73,CNW Group,/news/vsblty-groupe-technologies-announces-short-184700687.html,VSBLTY Groupe Technologies Announces Short Form Prospectus Offering,VSBY.CN
-74,CNW Group,/news/iiroc-trading-halt-vsby-132000777.html,IIROC Trading Halt - VSBY,VSBY.CN
-75,CNW Group,/news/lightspeed-launches-ecom-restaurants-110000370.html,Lightspeed Launches eCom for Restaurants,LSPD.TO
-76,PR Newswire,/news/lightspeed-pos-inc-participate-upcoming-123000859.html,Lightspeed POS Inc. to Participate in Upcoming Virtual Investor Conferences,LSPD.TO
-77,CNW Group,/news/lightspeed-announces-voting-results-election-120000036.html,Lightspeed Announces Voting Results on the Election of Directors Held During its Annual Shareholders' Meeting,LSPD.TO
-78,GlobeNewswire,/news/digital-transformation-healthcare-ceo-onem-143700178.html,"Digital Transformation of Healthcare: CEO’s of ONEM, HCAT, DOCRF, IRTC, Discuss Telemedicine, Big Data, and Diagnostics",DOC.CN
-79,GlobeNewswire,/news/cloudmd-acquire-profitable-seven-location-113000384.html,CloudMD to Acquire Profitable Seven Location Rehabilitation Clinic Network with $5.8 Million in Annual Revenue,DOC.CN
-80,GlobeNewswire,/news/ceos-servicenow-weyland-tech-cloudmd-152300378.html,"CEOs of ServiceNow, Weyland Tech, CloudMD, and Jumia Discuss Innovation in Cloud, Telemedicine, AI, Ecomm & Fintech:",DOC.CN
-81,GlobeNewswire,/news/threed-capital-commences-trading-otcqb-150900917.html,ThreeD Capital Commences Trading On OTCQB Market Under Ticker Symbol IDKFF; Adds Information To Website Regarding Sector Investments,IDK.CN
-82,GlobeNewswire,/news/threed-capital-inc-provides-investment-120010833.html,ThreeD Capital Inc. Provides Update To Its Investment in Premium Nickel Resources And Announces Normal Course Issuer Bid,IDK.CN
-83,GlobeNewswire,/news/threed-capital-inc-announces-issuance-122010501.html,ThreeD Capital Inc. Announces Issuance of Common Shares,IDK.CN
-84,Thomson Reuters StreetEvents,/news/edited-transcript-efl-earnings-conference-185415191.html,Edited Transcript of EFL.TO earnings conference call or presentation 21-Jul-20 12:00pm GMT,EFL.TO
-85,ACCESSWIRE,/news/electrovaya-announces-us-3-million-110000504.html,Electrovaya Announces US$3 Million Purchase Order and Updates Previously Issued Revenue Guidance,EFL.TO
-86,ACCESSWIRE,/news/electrovaya-reports-q3-fy2020-results-213500638.html,"Electrovaya Reports Q3 FY2020 Results Strong Revenue Growth, Positive EBITDA(1) and Net Profit for the Quarter",EFL.TO
-87,Newsfile,/news/very-good-food-company-inc-110000607.html,The Very Good Food Company Inc. Announces Logistics Partners and Provides Production Capacity Update,VERY.CN
-88,Newsfile,/news/very-good-food-company-announces-162500106.html,The Very Good Food Company Announces Closing of Oversubscribed $8.5 Million Bought Deal Public Offering,VERY.CN
-89,Newsfile,/news/very-good-food-company-announces-182700728.html,The Very Good Food Company Announces Listing On Frankfurt Stock Exchange,VERY.CN
-90,Newsfile,/news/modern-meat-significantly-expand-production-210000837.html,Modern Meat to Significantly Expand Production Capacity with New Manufacturing Facility,MEAT.CN
-91,Newsfile,/news/modern-meat-doubles-retail-presence-070100740.html,Modern Meat Doubles Retail Presence to over 50 Locations and Closes Final Tranche of Non-Brokered Private Placement for $2.5 Million,MEAT.CN
-92,Newsfile,/news/modern-meat-announces-sell-flash-070100252.html,Modern Meat Announces Sell Out from Flash Sale and Online Initiatives,MEAT.CN
-93,GlobeNewswire,/news/earthrenew-announces-preliminary-results-feasibility-120000617.html,EarthRenew Announces Preliminary Results From Its Feasibility Study on Partner and Site Location for Its First U.S. Facility,ERTH.CN
-94,GlobeNewswire,/news/earthrenew-closes-first-tranche-private-000000690.html,EarthRenew Closes First Tranche of Private Placement,ERTH.CN
-95,GlobeNewswire,/news/repeat-earthrenew-announces-feasibility-study-130010566.html,REPEAT - EarthRenew Announces Feasibility Study With One of the Largest Feedlots in the Southwestern United States,ERTH.CN
-96,Newsfile,/news/appia-commences-diamond-drilling-high-114500093.html,Appia Commences Diamond Drilling on High-Grade Critical Rare Earth Elements Alces Lake Property,API.CN
-97,Newsfile,/news/appia-provides-summary-alces-lake-120800151.html,"Appia Provides a Summary of the Alces Lake Project and Presents at the John Tumazos Virtual Conference, August 10, 2020",API.CN
-98,Newsfile,/news/appia-discovers-least-seven-surface-120300727.html,Appia Discovers at Least Seven Surface Rare Earth and Uranium Zones on the Alces Lake Project,API.CN
-99,GlobeNewswire,/news/sharc-energy-announces-acceleration-warrant-120000466.html,SHARC Energy Announces Acceleration of Warrant Expiry Date,SHRC.CN
-100,GlobeNewswire,/news/sharc-energy-proud-help-colorado-120000961.html,SHARC Energy Proud to Help Colorado Achieve its First Net-Zero-Energy Building Offering Commercial Leases and Rents,SHRC.CN
-101,GlobeNewswire,/news/sharc-energy-hires-chief-operating-120010154.html,SHARC Energy Hires Chief Operating Officer,SHRC.CN
-102,GlobeNewswire,/news/legend-power-schedules-q3-2020-110000508.html,Legend Power® Schedules Q3 2020 Financial Results Release  and Conference Call,LPS.V
-103,GlobeNewswire,/news/global-property-manager-deepens-legend-110000745.html,Global Property Manager Deepens Legend Power® Partnership to Drive Results,LPS.V
-104,GlobeNewswire,/news/leading-north-american-property-manager-110000275.html,Leading North American Property Manager Ups Investment in SmartGATE™ Solutions,LPS.V
-105,CNW Group,/news/mcloud-announces-second-quarter-2020-110000983.html,Government of Canada begins consultation to better ensure the continuity of supervised consumption sites and services in Canada,MCLD.V
-106,CNW Group,/news/mcloud-host-virtual-mcloud-connect-110000626.html,mCloud to Host Virtual mCloud Connect 2020 from September 21 to 23,MCLD.V
-107,CNW Group,/news/mcloud-announces-closing-public-offering-142600612.html,mCloud Announces Closing of Public Offering and Exercise of Underwriters' Over-Allotment Option,MCLD.V
-108,PR Newswire,/news/biorem-reports-2020-second-quarter-120000491.html,BIOREM Reports 2020 Second Quarter Results,BRM.V
-109,CNW Group,/news/biorem-reports-first-quarter-financial-213100566.html,Biorem Reports First Quarter Financial Results,BRM.V
-110,CNW Group,/news/biorem-announces-delay-filing-interim-142100513.html,BIOREM Announces Delay in Filing Interim Financial Statements,BRM.V
-111,Simply Wall St.,/news/quick-analysis-ecosynthetixs-tse-eco-133647377.html,A Quick Analysis On EcoSynthetix's (TSE:ECO) CEO Salary,ECO.TO
-112,CNW Group,/news/ecosynthetix-host-2020-second-quarter-173000876.html,EcoSynthetix to Host 2020 Second Quarter Results Conference Call,ECO.TO
-113,Thomson Reuters StreetEvents,/news/edited-transcript-eco-earnings-conference-051009946.html,Edited Transcript of ECO.TO earnings conference call or presentation 7-May-20 12:30pm GMT,ECO.TO
-114,GlobeNewswire,/news/eguana-announces-3rd-quarter-2020-130000513.html,Eguana Announces 3rd Quarter 2020 Financial Results,EGT.V
-115,GlobeNewswire,/news/eguana-highlight-solar-partner-bring-130000697.html,Eguana and Highlight Solar Partner to Bring Intelligent Energy Storage Solutions to San Jose and the San Francisco Bay Area,EGT.V
-116,GlobeNewswire,/news/eguana-announces-debt-settlement-doughty-130000345.html,Eguana Announces Debt Settlement with Doughty Hanson,EGT.V
-117,GlobeNewswire,/news/eestor-enters-letter-intent-acquire-174600825.html,EEStor enters into Letter of Intent to Acquire Green NH3,ESU.V
-118,CNW Group,/news/iiroc-trading-halt-esu-163700235.html,IIROC Trading Halt - ESU,ESU.V
-119,GlobeNewswire,/news/eestor-corporation-completes-filing-2019-012001215.html,EEStor Corporation Completes Filing of 2019 Audit and Q1,ESU.V
-120,Newsfile,/news/greenbriar-comments-recent-controversy-social-045100439.html,Greenbriar Comments on Recent Controversy on Social Media,GRB.V
-121,Newsfile,/news/greenbriar-executes-master-sales-marketing-220600246.html,Greenbriar Executes a Master Sales and Marketing Agreement with Keller Willams - Paul Morris Forward Living Inc,GRB.V
-122,Newsfile,/news/greenbriar-engages-law-firm-application-205700715.html,Greenbriar Engages Law Firm for Application to the NASDAQ Market and to Complete the Form 20-F Registration Statement for the US Securities and Exchange Commission,GRB.V
-123,CNW Group,/news/iiroc-trading-halt-gpv-194200279.html,IIROC Trading Halt - GPV,GPV.V
-124,PR Newswire,/news/greenpower-completes-first-ev-star-130000791.html,GreenPower Completes First EV Star CarGo+ Serving the Cargo and Delivery Market,GPV.V
-125,PR Newswire,/news/greenpower-receives-order-additional-100-124500021.html,GreenPower Receives Order for Additional 100 EV Stars from Green Commuter,GPV.V
-126,GlobeNewswire,/news/westport-fuel-systems-secures-7-210000881.html,Westport Fuel Systems Secures €7 Million Loan from Deutsche Bank,WPRT.TO
-127,Motley Fool,/m/a9edcbd0-ae8e-3bb0-8f7a-0bc8e77220e1/why-westport-fuel-systems.html,Why Westport Fuel Systems Stock Just Popped 12%,WPRT.TO
-128,Zacks,/news/westport-wprt-q2-earnings-beat-132301958.html,"Westport (WPRT) Q2 Earnings Beat Estimates, Revenues Down",WPRT.TO
-129,Simply Wall St.,/news/oceanic-wind-energy-cve-nkw-121742571.html,Can Oceanic Wind Energy (CVE:NKW) Afford To Invest In Growth?,NKW.V
-130,CNW Group,/news/iiroc-trading-resumption-nkw-152000089.html,IIROC Trading Resumption - NKW,NKW.V
-131,GlobeNewswire,/news/naikun-wind-provides-additional-details-150606276.html,NaiKun Wind Provides Additional Details Regarding the Sale of NaiKun Offshore Wind Project,NKW.V
-132,GlobeNewswire,/news/nano-one-enters-joint-development-070700762.html,Nano One Enters into a Joint Development Agreement with a Global Cathode Material Producer,NNO.V
-133,GlobeNewswire,/news/nano-one-reports-recent-financial-192329259.html,Nano One Reports on Recent Financial Events,NNO.V
-134,GlobeNewswire,/news/nano-one-unaware-material-change-161510896.html,Nano One Is Unaware of Any Material Change,NNO.V
+51,Thomson Reuters StreetEvents,/news/edited-transcript-cgx-earnings-conference-160836663.html,Edited Transcript of CGX.TO earnings conference call or presentation 30-Jun-20 12:00pm GMT,CGX.TO
+52,CNW Group,/news/cineplex-announces-closing-275-million-123000567.html,Cineplex Announces Closing of $275 Million Offering of Convertible Debentures,CGX.TO
+53,CNW Group,/news/cineplex-announces-pricing-convertible-debenture-005700145.html,Cineplex Announces Pricing of Convertible Debenture Offering,CGX.TO
+54,CNW Group,/news/cineplex-announces-offering-convertible-debentures-153600078.html,Cineplex Announces Offering of Convertible Debentures,CGX.TO
+55,Barrons.com,/m/d4451453-cda3-36ba-ba5c-f4fb57c4cb99/regal-owner-cineworld-will.html,Regal Owner Cineworld Will Counter-Claim Against Cineplex In Legal Battle Over Failed Merger,CGX.TO
+56,Reuters,/news/cineworld-plans-counter-claim-against-091722269.html,Cineworld hits back at Cineplex in tussle over scrapped deal,CGX.TO
+57,Reuters,/news/canadas-cineplex-sue-cineworld-group-220451680.html,"Canada's Cineplex to sue Cineworld Group, seeks damages for scrapped deal",CGX.TO
+58,Zacks,/news/cenovus-energy-cve-stock-stands-123712098.html,How Cenovus Energy (CVE) Stock Stands Out in a Strong Industry,CVE.TO
+59,Zacks,/news/why-cenovus-cve-down-6-153003936.html,Why Is Cenovus (CVE) Down 6% Since Last Earnings Report?,CVE.TO
+60,Reuters,/news/rpt-canada-curbs-methane-emissions-100000891.html,"RPT-As Canada curbs methane emissions, new measurements show problem bigger than thought",CVE.TO
+61,Business Wire,/news/trutrace-technologies-ensures-consumer-safety-120000185.html,"TruTrace Technologies Ensures Consumer Safety for Riviera Beverages & Bottling, West One Logistics and their Hygen-X Sanitizer Products",TTT.CN
+62,GlobeNewswire,/news/medipharm-labs-selected-university-health-110110435.html,"MediPharm Labs Selected by University Health Network and Medical Cannabis by Shoppers Inc. for First Real-World Evidence, Patient-Centred Clinical Trial Using Blockchain Technology",TTT.CN
+63,CNW Group,/news/trutrace-technologies-advancedcare-announce-strategic-110000922.html,TruTrace Technologies and AdvancedCare announce strategic plan to integrate technology platforms,TTT.CN
+64,CNW Group,/news/iiroc-trading-resumption-hrh-124800763.html,IIROC Trading Resumption - HRH,HRH.V
+65,CNW Group,/news/iiroc-trading-halt-hrh-121600180.html,IIROC Trading Halt - HRH,HRH.V
+66,Simply Wall St.,/news/life-hillcrest-petroleum-cve-hrh-121544239.html,Such Is Life: How Hillcrest Petroleum (CVE:HRH) Shareholders Saw Their Shares Drop 58%,HRH.V
+67,Zacks,/news/aurora-cannabis-inc-acb-outpaces-214509307.html,Aurora Cannabis Inc. (ACB) Outpaces Stock Market Gains: What You Should Know,ACB.TO
+68,Motley Fool,/m/a4e965f8-d0a1-36f8-8c5f-ca27d2f6ffdc/how-close-are-aurora-cannabis.html,How Close Are Aurora Cannabis and Canopy Growth to Turning a Profit?,ACB.TO
+69,InvestorPlace,/news/7-marijuana-stocks-buy-industry-150223679.html,7 Marijuana Stocks to Buy As the Industry Continues to Grow,ACB.TO
+70,Benzinga,/news/air-canada-beat-us-airlines-170058647.html,How Air Canada Beat US Airlines Removing Seats For Cargo,AC.TO
+71,PR Newswire,/news/air-china-enhances-uatp-network-123100250.html,Air China Enhances UATP Network As Newest Airline Issuer,AC.TO
+72,PR Newswire,/news/air-canada-unveils-details-transformed-103000483.html,"Air Canada Unveils Details of Transformed Aeroplan Program, Offering More Value and New Benefits",AC.TO
+73,ACCESSWIRE,/news/ydx-innovation-partners-comic-convention-091500638.html,YDX Innovation Partners with Comic Convention Group to Create an International Esports Cup in 17 Countries,YDX.V
+74,ACCESSWIRE,/news/ydx-innovation-partners-liquid-media-143000173.html,YDX Innovation Partners with Liquid Media to Add More Virtual Reality Content to Streaming Platform,YDX.V
+75,ACCESSWIRE,/news/ydx-innovation-appoints-ayan-abdu-091500129.html,YDX Innovation Appoints Ayan Abdu as Advisor to Create more Inclusive and Diverse Initiatives in Esports,YDX.V
+76,GlobeNewswire,/news/victory-square-technologies-portfolio-company-070100910.html,Victory Square Technologies Portfolio Company Gets FDA Permission to Manufacture and Market Safetest Covid-19 Antibody Test,VST.CN
+77,GlobeNewswire,/news/victory-square-portfolio-company-fansunite-070100084.html,"Victory Square Portfolio Company FansUnite Entertainment Inc. Closed Oversubscribed Private Placement of $5,009,846 CAD",VST.CN
+78,GlobeNewswire,/news/victory-square-portfolio-company-fansunite-070510638.html,Victory Square Portfolio Company FansUnite Announces Merger with Askott Entertainment to Create One of Canada’s Leading Gaming Companies,VST.CN
+79,CNW Group,/news/vsblty-groupe-technologies-announces-filing-013900462.html,VSBLTY Groupe Technologies Announces Filing of Final Prospectus,VSBY.CN
+80,CNW Group,/news/vsblty-groupe-technologies-announces-short-184700687.html,VSBLTY Groupe Technologies Announces Short Form Prospectus Offering,VSBY.CN
+81,CNW Group,/news/iiroc-trading-halt-vsby-132000777.html,IIROC Trading Halt - VSBY,VSBY.CN
+82,CNW Group,/news/lightspeed-launches-ecom-restaurants-110000370.html,Lightspeed Launches eCom for Restaurants,LSPD.TO
+83,CNW Group,/news/hls-therapeutics-host-q2-2020-103000771.html,Lightspeed POS Inc. to Participate in Upcoming Virtual Investor Conferences,LSPD.TO
+84,CNW Group,/news/lightspeed-announces-voting-results-election-120000036.html,Lightspeed Announces Voting Results on the Election of Directors Held During its Annual Shareholders' Meeting,LSPD.TO
+85,South China Morning Post,/news/ping-ans-oneconnect-fintech-arm-093000804.html,Ping An's OneConnect fintech arm expects flurry of deals in Southeast Asia as Covid-19 spurs shift to digital banking,OCFT
+86,Business Wire,/news/oneconnect-announces-closing-public-offering-203000340.html,OneConnect Announces Closing of Public Offering of American Depositary Shares and Full Exercise of the Underwriters’ Over-Allotment Option,OCFT
+87,Motley Fool,/m/d2b21c69-6b96-3489-8dfb-d6866fd44fdc/3-chinese-tech-stocks-to-buy.html,3 Chinese Tech Stocks to Buy Right Now,OCFT
+88,GlobeNewswire,/news/digital-transformation-healthcare-ceo-onem-143700178.html,"Digital Transformation of Healthcare: CEO’s of ONEM, HCAT, DOCRF, IRTC, Discuss Telemedicine, Big Data, and Diagnostics",DOC.CN
+89,GlobeNewswire,/news/cloudmd-acquire-profitable-seven-location-113000384.html,CloudMD to Acquire Profitable Seven Location Rehabilitation Clinic Network with $5.8 Million in Annual Revenue,DOC.CN
+90,GlobeNewswire,/news/ceos-servicenow-weyland-tech-cloudmd-152300378.html,"CEOs of ServiceNow, Weyland Tech, CloudMD, and Jumia Discuss Innovation in Cloud, Telemedicine, AI, Ecomm & Fintech:",DOC.CN
+91,GlobeNewswire,/news/threed-capital-commences-trading-otcqb-150900917.html,ThreeD Capital Commences Trading On OTCQB Market Under Ticker Symbol IDKFF; Adds Information To Website Regarding Sector Investments,IDK.CN
+92,GlobeNewswire,/news/threed-capital-inc-provides-investment-120010833.html,ThreeD Capital Inc. Provides Update To Its Investment in Premium Nickel Resources And Announces Normal Course Issuer Bid,IDK.CN
+93,GlobeNewswire,/news/threed-capital-inc-announces-issuance-122010501.html,ThreeD Capital Inc. Announces Issuance of Common Shares,IDK.CN
+94,Thomson Reuters StreetEvents,/news/edited-transcript-efl-earnings-conference-185415191.html,Edited Transcript of EFL.TO earnings conference call or presentation 21-Jul-20 12:00pm GMT,EFL.TO
+95,ACCESSWIRE,/news/electrovaya-announces-us-3-million-110000504.html,Electrovaya Announces US$3 Million Purchase Order and Updates Previously Issued Revenue Guidance,EFL.TO
+96,ACCESSWIRE,/news/electrovaya-reports-q3-fy2020-results-213500638.html,"Electrovaya Reports Q3 FY2020 Results Strong Revenue Growth, Positive EBITDA(1) and Net Profit for the Quarter",EFL.TO
+97,Newsfile,/news/very-good-food-company-inc-110000607.html,The Very Good Food Company Inc. Announces Logistics Partners and Provides Production Capacity Update,VERY.CN
+98,Newsfile,/news/very-good-food-company-announces-162500106.html,The Very Good Food Company Announces Closing of Oversubscribed $8.5 Million Bought Deal Public Offering,VERY.CN
+99,Newsfile,/news/very-good-food-company-announces-182700728.html,The Very Good Food Company Announces Listing On Frankfurt Stock Exchange,VERY.CN
+100,Newsfile,/news/modern-meat-significantly-expand-production-210000837.html,Modern Meat to Significantly Expand Production Capacity with New Manufacturing Facility,MEAT.CN
+101,Newsfile,/news/modern-meat-doubles-retail-presence-070100740.html,Modern Meat Doubles Retail Presence to over 50 Locations and Closes Final Tranche of Non-Brokered Private Placement for $2.5 Million,MEAT.CN
+102,Newsfile,/news/modern-meat-announces-sell-flash-070100252.html,Modern Meat Announces Sell Out from Flash Sale and Online Initiatives,MEAT.CN
+103,GlobeNewswire,/news/earthrenew-announces-preliminary-results-feasibility-120000617.html,EarthRenew Announces Preliminary Results From Its Feasibility Study on Partner and Site Location for Its First U.S. Facility,ERTH.CN
+104,GlobeNewswire,/news/earthrenew-closes-first-tranche-private-000000690.html,EarthRenew Closes First Tranche of Private Placement,ERTH.CN
+105,GlobeNewswire,/news/repeat-earthrenew-announces-feasibility-study-130010566.html,REPEAT - EarthRenew Announces Feasibility Study With One of the Largest Feedlots in the Southwestern United States,ERTH.CN
+106,Newsfile,/news/appia-commences-diamond-drilling-high-114500093.html,Appia Commences Diamond Drilling on High-Grade Critical Rare Earth Elements Alces Lake Property,API.CN
+107,Newsfile,/news/appia-provides-summary-alces-lake-120800151.html,"Appia Provides a Summary of the Alces Lake Project and Presents at the John Tumazos Virtual Conference, August 10, 2020",API.CN
+108,Newsfile,/news/appia-discovers-least-seven-surface-120300727.html,Appia Discovers at Least Seven Surface Rare Earth and Uranium Zones on the Alces Lake Project,API.CN
+109,GlobeNewswire,/news/sharc-energy-announces-acceleration-warrant-120000466.html,SHARC Energy Announces Acceleration of Warrant Expiry Date,SHRC.CN
+110,GlobeNewswire,/news/sharc-energy-proud-help-colorado-120000961.html,SHARC Energy Proud to Help Colorado Achieve its First Net-Zero-Energy Building Offering Commercial Leases and Rents,SHRC.CN
+111,GlobeNewswire,/news/sharc-energy-hires-chief-operating-120010154.html,SHARC Energy Hires Chief Operating Officer,SHRC.CN
+112,GlobeNewswire,/news/legend-power-schedules-q3-2020-110000508.html,Legend Power® Schedules Q3 2020 Financial Results Release  and Conference Call,LPS.V
+113,GlobeNewswire,/news/global-property-manager-deepens-legend-110000745.html,Global Property Manager Deepens Legend Power® Partnership to Drive Results,LPS.V
+114,GlobeNewswire,/news/leading-north-american-property-manager-110000275.html,Leading North American Property Manager Ups Investment in SmartGATE™ Solutions,LPS.V
+115,CNW Group,/news/mcloud-announces-second-quarter-2020-110000983.html,Government of Canada begins consultation to better ensure the continuity of supervised consumption sites and services in Canada,MCLD.V
+116,CNW Group,/news/mcloud-host-virtual-mcloud-connect-110000626.html,mCloud to Host Virtual mCloud Connect 2020 from September 21 to 23,MCLD.V
+117,CNW Group,/news/mcloud-announces-closing-public-offering-142600612.html,mCloud Announces Closing of Public Offering and Exercise of Underwriters' Over-Allotment Option,MCLD.V
+118,PR Newswire,/news/biorem-reports-2020-second-quarter-120000491.html,BIOREM Reports 2020 Second Quarter Results,BRM.V
+119,CNW Group,/news/biorem-reports-first-quarter-financial-213100566.html,Biorem Reports First Quarter Financial Results,BRM.V
+120,CNW Group,/news/biorem-announces-delay-filing-interim-142100513.html,BIOREM Announces Delay in Filing Interim Financial Statements,BRM.V
+121,Simply Wall St.,/news/quick-analysis-ecosynthetixs-tse-eco-133647377.html,A Quick Analysis On EcoSynthetix's (TSE:ECO) CEO Salary,ECO.TO
+122,CNW Group,/news/ecosynthetix-host-2020-second-quarter-173000876.html,EcoSynthetix to Host 2020 Second Quarter Results Conference Call,ECO.TO
+123,Thomson Reuters StreetEvents,/news/edited-transcript-eco-earnings-conference-051009946.html,Edited Transcript of ECO.TO earnings conference call or presentation 7-May-20 12:30pm GMT,ECO.TO
+124,GlobeNewswire,/news/eguana-announces-3rd-quarter-2020-130000513.html,Eguana Announces 3rd Quarter 2020 Financial Results,EGT.V
+125,GlobeNewswire,/news/eguana-highlight-solar-partner-bring-130000697.html,Eguana and Highlight Solar Partner to Bring Intelligent Energy Storage Solutions to San Jose and the San Francisco Bay Area,EGT.V
+126,GlobeNewswire,/news/eguana-announces-debt-settlement-doughty-130000345.html,Eguana Announces Debt Settlement with Doughty Hanson,EGT.V
+127,GlobeNewswire,/news/eestor-enters-letter-intent-acquire-174600825.html,EEStor enters into Letter of Intent to Acquire Green NH3,ESU.V
+128,CNW Group,/news/iiroc-trading-halt-esu-163700235.html,IIROC Trading Halt - ESU,ESU.V
+129,GlobeNewswire,/news/eestor-corporation-completes-filing-2019-012001215.html,EEStor Corporation Completes Filing of 2019 Audit and Q1,ESU.V
+130,Newsfile,/news/greenbriar-comments-recent-controversy-social-045100439.html,Greenbriar Comments on Recent Controversy on Social Media,GRB.V
+131,Newsfile,/news/greenbriar-executes-master-sales-marketing-220600246.html,Greenbriar Executes a Master Sales and Marketing Agreement with Keller Willams - Paul Morris Forward Living Inc,GRB.V
+132,Newsfile,/news/greenbriar-engages-law-firm-application-205700715.html,Greenbriar Engages Law Firm for Application to the NASDAQ Market and to Complete the Form 20-F Registration Statement for the US Securities and Exchange Commission,GRB.V
+133,CNW Group,/news/greenpower-announces-launch-u-initial-134400529.html,GreenPower Announces Launch of its U.S. Initial Public Offering,GPV.V
+134,CNW Group,/news/iiroc-trading-halt-gpv-140200887.html,IIROC Trading Halt - GPV,GPV.V
+135,PR Newswire,/news/greenpower-completes-first-ev-star-130000791.html,GreenPower Completes First EV Star CarGo+ Serving the Cargo and Delivery Market,GPV.V
+136,GlobeNewswire,/news/westport-fuel-systems-secures-7-210000881.html,Westport Fuel Systems Secures €7 Million Loan from Deutsche Bank,WPRT.TO
+137,Motley Fool,/m/a9edcbd0-ae8e-3bb0-8f7a-0bc8e77220e1/why-westport-fuel-systems.html,Why Westport Fuel Systems Stock Just Popped 12%,WPRT.TO
+138,Zacks,/news/westport-wprt-q2-earnings-beat-132301958.html,"Westport (WPRT) Q2 Earnings Beat Estimates, Revenues Down",WPRT.TO
+139,Simply Wall St.,/news/oceanic-wind-energy-cve-nkw-121742571.html,Can Oceanic Wind Energy (CVE:NKW) Afford To Invest In Growth?,NKW.V
+140,CNW Group,/news/iiroc-trading-resumption-nkw-152000089.html,IIROC Trading Resumption - NKW,NKW.V
+141,GlobeNewswire,/news/naikun-wind-provides-additional-details-150606276.html,NaiKun Wind Provides Additional Details Regarding the Sale of NaiKun Offshore Wind Project,NKW.V
+142,GlobeNewswire,/news/nano-one-enters-joint-development-070700762.html,Nano One Enters into a Joint Development Agreement with a Global Cathode Material Producer,NNO.V
+143,GlobeNewswire,/news/nano-one-reports-recent-financial-192329259.html,Nano One Reports on Recent Financial Events,NNO.V
+144,GlobeNewswire,/news/nano-one-unaware-material-change-161510896.html,Nano One Is Unaware of Any Material Change,NNO.V
