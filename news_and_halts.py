@@ -6,6 +6,7 @@ import numpy as np
 import requests
 import os
 import json
+import time
 from typing import Union
 from cad_tickers.news import get_halts_resumption, scrap_news_for_ticker
 
@@ -113,6 +114,7 @@ def format_news_item_for_embed(news_item: Union[np.ndarray,pd.Series]):
     except Exception as e:
       return {}
   else:
+    print(news_item)
     return {
       "description": news_item['link_text'],
       'url': f"{y_base_url}/{news_item['link_href']}",
@@ -147,6 +149,7 @@ def get_news():
     for index, row in updated_news_df.iterrows():
       embeds = make_embed_from_news_item(row)
       post_webhook_embeds(embeds)
+      time.sleep(2)
   
   news_df.to_csv('news.csv')
   updated_news_df.to_html('news.html')

@@ -36,9 +36,9 @@ jobs:
           mv halts.html dist/
           mv news.html dist/
 
-      - name: Run Script for all news
-        run: |
-          python all_stock_news.py
+      # - name: Run Script for all news
+      #   run: |
+      #     python all_stock_news.py
 
       - uses: actions/upload-artifact@v2
         with:
