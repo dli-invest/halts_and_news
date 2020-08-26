@@ -92,7 +92,7 @@ if __name__ == "__main__":
   # grabbing all news for all stocks will be done in another script
   # no need to publish the results to github pages
   download_csvs()
-  tickers = get_tickers()[0:3]
+  tickers = get_tickers()
   # single threaded approach
   # raw_news = []
   # for ticker in tickers:
@@ -117,9 +117,10 @@ if __name__ == "__main__":
       full_news_flat = flatten(full_news_list)
       # remove unnamed columns
       temp_news_df = pd.DataFrame(full_news_flat, columns=df_cols)
-      common = old_news_df.merge(temp_news_df,
-        on=df_cols)
-      unseen_news = old_news_df[(~old_news_df.link_href.isin(common.link_href))&(~old_news_df.link_text.isin(common.link_text))]
+      drop_unnamed_columns(temp_news_df)
+      drop_unnamed_columns(old_news_df)
+      unseen_news = pd.concat([temp_news_df, old_news_df]) \
+        .drop_duplicates(subset=['link_href', 'link_text'], keep=False)
       # if this works, condense it
       if len(unseen_news) > 0:
         embeds_np = np.apply_along_axis(format_news_item_for_embed, axis=1, arr=unseen_news)

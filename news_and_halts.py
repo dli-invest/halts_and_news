@@ -31,7 +31,6 @@ def post_webhook_embeds(embeds):
   data["content"] = ''
   #for all params, see https://discordapp.com/developers/docs/resources/webhook#execute-webhook
   data["embeds"] = embeds
-  print(embeds)
   result = requests.post(url, data=json.dumps(data), headers={"Content-Type": "application/json"})
 
   try:
@@ -42,7 +41,7 @@ def post_webhook_embeds(embeds):
       print("Payload delivered successfully, code {}.".format(result.status_code))
 
 def drop_unnamed_columns(df: pd.DataFrame):
-  df.drop(df.columns[df.columns.str.contains('unnamed', case = False)],axis = 1, inplace = True)
+  df.drop(df.columns[df.columns.str.contains('unnamed', case = False)], axis = 1, inplace = True)
 
 def get_halts():
   # customize file names with argparser
@@ -66,6 +65,7 @@ def get_halts():
       # move later, just return df
       for chunk in [content_str[i:i+2000] for i in range(0, len(content_str), 2000)]:
         post_webhook_content(chunk)
+        time.sleep(2)
   else:
     halts_df = get_halts_resumption()
     drop_unnamed_columns(halts_df)
@@ -111,10 +111,9 @@ def format_news_item_for_embed(news_item: Union[np.ndarray,pd.Series]):
         "title": f"{ticker} - {source}"
       }
       return embed_obj
-    except Exception as e:
+    except Exception:
       return {}
   else:
-    print(news_item)
     return {
       "description": news_item['link_text'],
       'url': f"{y_base_url}/{news_item['link_href']}",
@@ -143,7 +142,7 @@ def get_news():
     news_df = news_df.append(stock_news, ignore_index=True)
 
   updated_news_df = pd.concat([old_news_df, news_df]) \
-    .drop_duplicates(subset=['link_href', 'link_text'], keep='first') \
+    .drop_duplicates(subset=['link_href', 'link_text'], keep=False) \
     .reset_index(drop=True)
   if updated_news_df.empty == False:
     for index, row in updated_news_df.iterrows():
