@@ -26,7 +26,7 @@ def post_webhook_content(content: str):
       print("Payload delivered successfully, code {}.".format(result.status_code))
 
 def post_webhook_embeds(embeds):
-  url = os.getenv('DISCORD_NEWS_WEBHOOK')
+  url = os.getenv('DISCORD_NEWS_WEBHOOK_ALL')
   data = {}
   data["content"] = ''
   #for all params, see https://discordapp.com/developers/docs/resources/webhook#execute-webhook
