@@ -46,22 +46,22 @@ def drop_unnamed_columns(df: pd.DataFrame):
 def get_halts():
   # customize file names with argparser
   halts_file = 'halts.csv'
+  halts_cols = ['Halts', 'Listing']
   if os.path.exists(halts_file):
     old_halts_df = pd.read_csv(halts_file)
+    drop_unnamed_columns(old_halts_df)
     halts_df = get_halts_resumption()
-    new_halts_df = pd.concat([old_halts_df,halts_df]) \
-      .drop_duplicates(subset=['Halts', 'Listing'], keep='first') \
-      .reset_index(drop=True)
+    merged_halts = pd.merge(
+      halts_df,
+      old_halts_df,
+      on=halts_cols, how='left', indicator=True
+    )
+    merged_halts.dropna(inplace=True)
+    # get the entries only in the left column, these are new
+    new_halts_df = merged_halts.loc[merged_halts._merge == 'left_only']
     drop_unnamed_columns(new_halts_df)
-    new_halts_df.to_csv('halts.csv')
-    # Find new rows and send discord message
-    diff_df = new_halts_df \
-      .merge(old_halts_df, how = 'outer' , indicator=True) \
-      .loc[lambda x : x['_merge'] == 'left_only']
-    drop_unnamed_columns(diff_df)
-
-    if diff_df.empty == False:
-      content_str = diff_df.to_string(index=False)
+    if new_halts_df.empty == False:
+      content_str = new_halts_df.to_string(index=False)
       # move later, just return df
       for chunk in [content_str[i:i+2000] for i in range(0, len(content_str), 2000)]:
         post_webhook_content(chunk)
@@ -69,10 +69,10 @@ def get_halts():
   else:
     halts_df = get_halts_resumption()
     drop_unnamed_columns(halts_df)
-  halts_df.to_csv('halts.csv')
+  halts_df.to_csv('halts.csv', index=False)
 
   # make html file, redeploy with github pages
-  halts_df.to_html('halts.html')
+  halts_df.to_html('halts.html', index=False)
 
 def get_tickers():
   url = os.getenv('STOCK_API')
@@ -128,6 +128,7 @@ def get_news():
   news_df = pd.DataFrame()
   # Load csv if exists
   news_file = 'news.csv'
+  df_cols = ['source', 'link_href','link_text', 'ticker']
   if os.path.exists(news_file):
     try:
       old_news_df = pd.read_csv(news_file)
@@ -135,6 +136,8 @@ def get_news():
       old_news_df = pd.DataFrame()
   else:
     old_news_df = pd.DataFrame()
+  
+  # this is for my key tickers from the dash board, some be quick
   for t in tickers:
     stock_news = scrap_news_for_ticker(t)
     # filter list
@@ -143,17 +146,22 @@ def get_news():
       continue
     news_df = news_df.append(stock_news, ignore_index=True)
 
-  updated_news_df = pd.concat([old_news_df, news_df]) \
-    .drop_duplicates(subset=['link_href', 'link_text'], keep=False) \
-    .reset_index(drop=True)
+  merged_news = pd.merge(
+    news_df,
+    old_news_df,
+    on=df_cols, how='left', indicator=True)
+  merged_news.dropna(inplace=True)
+
+  # get the entries only in the left column, these are new
+  updated_news_df = merged_news.loc[merged_news._merge == 'left_only', df_cols]
   if updated_news_df.empty == False:
     for index, row in updated_news_df.iterrows():
       embeds = make_embed_from_news_item(row)
       post_webhook_embeds(embeds)
       time.sleep(2)
   
-  news_df.to_csv('news.csv')
-  updated_news_df.to_html('news.html')
+  news_df.to_csv('news.csv', index=False)
+  updated_news_df.to_html('news.html', index=False)
 
 if __name__ == "__main__":
   # Grab news for my stocks
