@@ -82,7 +82,6 @@ def generate_news_items(tickers: str):
     for ticker in chunked_tickers:
       news_items = scrap_news_for_ticker(ticker)
       raw_news.append(news_items)
-      time.sleep(0.67)
     yield raw_news
 
 
@@ -107,8 +106,10 @@ if __name__ == "__main__":
     old_news_df = pd.read_csv(fnews_file)
   else:
     old_news_df = pd.DataFrame(columns=df_cols)
-  # Using https://stackoverflow.com/questions/28901683/pandas-get-rows-which-are-not-in-other-dataframe
+  
+  old_news_df.dropna(inplace=True)
   for raw_news in generate_news_items(tickers):
+    # main loop
     flat_news = flatten(raw_news)
     full_news_list.append(flat_news)
     # remove empty news articles
@@ -119,21 +120,39 @@ if __name__ == "__main__":
       temp_news_df = pd.DataFrame(full_news_flat, columns=df_cols)
       drop_unnamed_columns(temp_news_df)
       drop_unnamed_columns(old_news_df)
-      unseen_news = pd.concat([temp_news_df, old_news_df]) \
-        .drop_duplicates(subset=['link_href', 'link_text'], keep=False)
+      # find rows in temp_news_df, not in old_news_df
+      # that would be new news
+      merged_news = pd.merge(
+        temp_news_df,
+        old_news_df,
+        on=['source', 'link_href','link_text', 'ticker'], how='left', indicator=True)
+      merged_news.dropna(inplace=True)
+
+      # get the entries only in the left column, these are new
+      unseen_news_df = merged_news.loc[merged_news._merge == 'left_only', df_cols]
+      # merge invalid items
       # if this works, condense it
-      if len(unseen_news) > 0:
-        embeds_np = np.apply_along_axis(format_news_item_for_embed, axis=1, arr=unseen_news)
+      if len(unseen_news_df) > 0:
+        embeds_np = np.apply_along_axis(format_news_item_for_embed, axis=1, arr=unseen_news_df)
         embeds = embeds_np.tolist()
-        post_webhook_embeds(embeds)
+        if len(embeds) == 0:
+          continue
+        else:
+          print(embeds)
+          post_webhook_embeds(embeds)
+          time.sleep(2)
     else:
-      if len(valid_news) > 0:
-        embeds_np = np.apply_along_axis(format_news_item_for_embed, axis=1, arr=valid_news)
+      temp_news_df = pd.DataFrame(valid_news, columns=df_cols)
+      temp_news_df.dropna(inplace=True)
+      if len(temp_news_df) >= 1:
+        embeds_np = np.apply_along_axis(format_news_item_for_embed, axis=1, arr=temp_news_df)
         embeds = embeds_np.tolist()
         post_webhook_embeds(embeds)
+        time.sleep(2)
   condensed_list = flatten(full_news_list)
   save_df = pd.DataFrame(condensed_list, columns=df_cols)
-  save_df.to_csv(fnews_file)
+  save_df.dropna(inplace=True)
+  save_df.to_csv(fnews_file, index=False)
     # news_df = pd.DataFrame(valid_news)
     # get old news df from file
   # fnews_file = 'full_news.csv'

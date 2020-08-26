@@ -69,7 +69,7 @@ def get_halts():
   else:
     halts_df = get_halts_resumption()
     drop_unnamed_columns(halts_df)
-    halts_df.to_csv('halts.csv')
+  halts_df.to_csv('halts.csv')
 
   # make html file, redeploy with github pages
   halts_df.to_html('halts.html')
@@ -102,6 +102,7 @@ def make_embed_from_news_item(news_item: pd.Series):
 
 def format_news_item_for_embed(news_item: Union[np.ndarray,pd.Series]):
   y_base_url = 'https://finance.yahoo.com'
+  print(news_item)
   if isinstance(news_item, np.ndarray):
     try:
       source, link_href, link_text, ticker = news_item
@@ -111,7 +112,8 @@ def format_news_item_for_embed(news_item: Union[np.ndarray,pd.Series]):
         "title": f"{ticker} - {source}"
       }
       return embed_obj
-    except Exception:
+    except Exception as e:
+      print(e)
       return {}
   else:
     return {
