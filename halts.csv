@@ -1,4 +1,7 @@
 Halts,Listing
+"Aug 27, 2020IIROC Trading Halt - SFX",SFX
+"Aug 27, 2020IIROC Trading Halt - NEE.DB",NEE.DB
+"Aug 27, 2020IIROC Trade Resumption - KNR",KNR
 "Aug 27, 2020IIROC Trade Resumption - VST",VST
 "Aug 27, 2020IIROC Trading Halt - VST",VST
 "Aug 27, 2020IIROC Trade Resumption - SONA",SONA
@@ -21,6 +24,3 @@ Halts,Listing
 "Aug 26, 2020IIROC Trading Halt - MNO",MNO
 "Aug 26, 2020IIROC Trading Halt - AZ",AZ
 "Aug 26, 2020IIROC Trading Halt - DXI.H",DXI.H
-"Aug 26, 2020IIROC Trading Halt - CHE.DB.F",CHE.DB.F
-"Aug 25, 2020IIROC Trading Halt - VYGR",VYGR
-"Aug 25, 2020IIROC Trade Resumption - SONA",SONA
