@@ -1,4 +1,9 @@
 Halts,Listing
+"Aug 27, 2020IIROC Trading Resumption - THRM",THRM
+"Aug 27, 2020IIROC Trading Halt - THRM",THRM
+"Aug 27, 2020IIROC Trading Halt - PHT.P",PHT.P
+"Aug 27, 2020IIROC Trading Halt - KNR",KNR
+"Aug 27, 2020IIROC Trading Halt - ORL",ORL
 "Aug 26, 2020IIROC Trading Resumption - DXI.H",DXI.H
 "Aug 26, 2020IIROC Trading Resumption - MNO",MNO
 "Aug 26, 2020IIROC Trading Halt - JZR",JZR
@@ -19,8 +24,3 @@ Halts,Listing
 "Aug 25, 2020IIROC Trade Resumption - SONA",SONA
 "Aug 25, 2020IIROC Trading Resumption - SXL",SXL
 "Aug 25, 2020IIROC Trade Resumption - SKRB",SKRB
-"Aug 25, 2020IIROC Trading Halt - SXL",SXL
-"Aug 25, 2020IIROC Trading Halt - SONA",SONA
-"Aug 25, 2020IIROC Trading Resumption - GPV",GPV
-"Aug 25, 2020IIROC Trading Halt - GPV",GPV
-"Aug 25, 2020IIROC Trading Halt - ORI",ORI
