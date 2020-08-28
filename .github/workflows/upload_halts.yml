@@ -13,7 +13,7 @@ env:
   DISCORD_NEWS_WEBHOOK: ${{ secrets.DISCORD_NEWS_WEBHOOK }}
   DISCORD_NEWS_WEBHOOK_ALL: ${{ secrets.DISCORD_NEWS_WEBHOOK_ALL }}
   STOCK_API: ${{ secrets.STOCK_API }}
-  FAUNA_DB: ${{ secrets.FAUNA_DB }}
+  FAUNA_DB: ${{ secrets.FAUNA_KEY }}
 
 jobs:
   build:
