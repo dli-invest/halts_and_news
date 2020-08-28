@@ -10,11 +10,13 @@ import time
 from typing import Union
 from cad_tickers.news import get_halts_resumption, scrap_news_for_ticker
 
-def post_webhook_content(content: str):
+def post_webhook_content(content: str, embeds: list = None):
   url = os.getenv('DISCORD_NEWS_WEBHOOK')
   data = {}
   #for all params, see https://discordapp.com/developers/docs/resources/webhook#execute-webhook
   data["content"] = f"```{content}```"
+  if embeds is not None:
+    data["embeds"] = embeds
 
   result = requests.post(url, data=json.dumps(data), headers={"Content-Type": "application/json"})
 
@@ -163,7 +165,7 @@ def get_news():
   if updated_news_df.empty == False:
     for index, row in updated_news_df.iterrows():
       embeds = make_embed_from_news_item(row)
-      post_webhook_embeds(embeds)
+      post_webhook_content(' ', embeds)
       time.sleep(2)
   
   news_df.to_csv('news.csv', index=False)
