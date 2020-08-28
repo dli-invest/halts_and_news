@@ -1,4 +1,7 @@
 Halts,Listing
+"Aug 28, 2020IIROC Trading Halt - ZFR",ZFR
+"Aug 28, 2020IIROC Trade Resumption - BU",BU
+"Aug 28, 2020IIROC Trade Resumption - HOM.UN",HOM.UN
 "Aug 27, 2020IIROC Trading Resumption - NLTA",NLTA
 "Aug 27, 2020IIROC Trading Halt - BU",BU
 "Aug 27, 2020IIROC Trading Halt - HOM.UN",HOM.UN
@@ -21,6 +24,3 @@ Halts,Listing
 "Aug 26, 2020IIROC Trading Resumption - REAX",REAX
 "Aug 26, 2020IIROC Trade Resumption - RVV",RVV
 "Aug 26, 2020IIROC Trading Halt - REAX",REAX
-"Aug 26, 2020IIROC Trade Resumption - CHE.DB.F",CHE.DB.F
-"Aug 26, 2020IIROC Trading Resumption - AZ",AZ
-"Aug 26, 2020IIROC Trading Halt - RVV",RVV
