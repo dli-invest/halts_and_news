@@ -4,6 +4,7 @@ import sys
 import pandas as pd
 import numpy as np
 import time
+from db_driver import FaunaWrapper
 from news_and_halts import format_news_item_for_embed, is_valid_news_item, post_webhook_embeds, drop_unnamed_columns
 from cad_tickers.news import scrap_news_for_ticker
 from concurrent.futures import ThreadPoolExecutor
@@ -99,6 +100,7 @@ if __name__ == "__main__":
   #   raw_news.append(news_items)
   # flatten list
   full_news_list = []
+  client = FaunaWrapper()
   flatten = lambda l: [item for sublist in l for item in sublist]
   fnews_file = 'full_news.csv'
   df_cols = ['source','link_href','link_text','ticker']
@@ -129,10 +131,20 @@ if __name__ == "__main__":
       merged_news.dropna(inplace=True)
 
       # get the entries only in the left column, these are new
-      unseen_news_df = merged_news.loc[merged_news._merge == 'left_only', df_cols]
+      merged_df = merged_news.loc[merged_news._merge == 'left_only', df_cols]
       # merge invalid items
       # if this works, condense it
+      valid_items = []
+      merged_df = merged_df.drop(['_merge'], axis=1, errors='ignore')
+      fauna_list = merged_df.to_dict()
+      for news_item in fauna_list:
+        has_succeeded = client.create_document_in_collection('full_news', news_item)
+        if has_succeeded == True:
+          valid_items.append(news_item)
+      
+      unseen_news_df = pd.DataFrame(valid_items, columns=df_cols)
       if len(unseen_news_df) > 0:
+        print(unseen_news_df)
         embeds_np = np.apply_along_axis(format_news_item_for_embed, axis=1, arr=unseen_news_df)
         embeds = embeds_np.tolist()
         if len(embeds) == 0:

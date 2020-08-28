@@ -10,11 +10,13 @@ import time
 from typing import Union
 from cad_tickers.news import get_halts_resumption, scrap_news_for_ticker
 
-def post_webhook_content(content: str):
+def post_webhook_content(content: str, embeds: list = None):
   url = os.getenv('DISCORD_NEWS_WEBHOOK')
   data = {}
   #for all params, see https://discordapp.com/developers/docs/resources/webhook#execute-webhook
   data["content"] = f"```{content}```"
+  if embeds is not None:
+    data["embeds"] = embeds
 
   result = requests.post(url, data=json.dumps(data), headers={"Content-Type": "application/json"})
 
@@ -100,9 +102,8 @@ def make_embed_from_news_item(news_item: pd.Series):
   return embeds
   # description can take 2000 characters
 
-def format_news_item_for_embed(news_item: Union[np.ndarray,pd.Series]):
+def format_news_item_for_embed(news_item: Union[np.ndarray, pd.Series, dict]):
   y_base_url = 'https://finance.yahoo.com'
-  print(news_item)
   if isinstance(news_item, np.ndarray):
     try:
       source, link_href, link_text, ticker = news_item
@@ -115,6 +116,13 @@ def format_news_item_for_embed(news_item: Union[np.ndarray,pd.Series]):
     except Exception as e:
       print(e)
       return {}
+  elif isinstance(news_item, dict):
+    embed_obj = {
+      "description": news_item.get('link_text'),
+      "url": f"{y_base_url}/{link_href}",
+      "title": f"{ticker} - {source}"
+    }
+    return embed_obj
   else:
     return {
       "description": news_item['link_text'],
@@ -157,7 +165,7 @@ def get_news():
   if updated_news_df.empty == False:
     for index, row in updated_news_df.iterrows():
       embeds = make_embed_from_news_item(row)
-      post_webhook_embeds(embeds)
+      post_webhook_content('', embeds)
       time.sleep(2)
   
   news_df.to_csv('news.csv', index=False)
