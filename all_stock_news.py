@@ -136,7 +136,7 @@ if __name__ == "__main__":
       # if this works, condense it
       valid_items = []
       merged_df = merged_df.drop(['_merge'], axis=1, errors='ignore')
-      fauna_list = merged_df.to_records('records')
+      fauna_list = merged_df.to_dict()
       for news_item in fauna_list:
         has_succeeded = client.create_document_in_collection('full_news', news_item)
         if has_succeeded == True:
