@@ -135,7 +135,7 @@ if __name__ == "__main__":
       # merge invalid items
       # if this works, condense it
       valid_items = []
-      merged_df = merged_df.drop(['left_only'], axis=1)
+      merged_df = merged_df.drop(['_merge'], axis=1)
       fauna_list = merged_df.to_records('records')
       for news_item in fauna_list:
         has_succeeded = client.create_document_in_collection('full_news', news_item)

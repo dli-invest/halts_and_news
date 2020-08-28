@@ -165,7 +165,7 @@ def get_news():
   if updated_news_df.empty == False:
     for index, row in updated_news_df.iterrows():
       embeds = make_embed_from_news_item(row)
-      post_webhook_content(' ', embeds)
+      post_webhook_content('', embeds)
       time.sleep(2)
   
   news_df.to_csv('news.csv', index=False)
