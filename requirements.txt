@@ -1,1 +1,2 @@
 cad-tickers==0.2.8
+faunadb==3.0.0

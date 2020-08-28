@@ -100,9 +100,8 @@ def make_embed_from_news_item(news_item: pd.Series):
   return embeds
   # description can take 2000 characters
 
-def format_news_item_for_embed(news_item: Union[np.ndarray,pd.Series]):
+def format_news_item_for_embed(news_item: Union[np.ndarray, pd.Series, dict]):
   y_base_url = 'https://finance.yahoo.com'
-  print(news_item)
   if isinstance(news_item, np.ndarray):
     try:
       source, link_href, link_text, ticker = news_item
@@ -115,6 +114,13 @@ def format_news_item_for_embed(news_item: Union[np.ndarray,pd.Series]):
     except Exception as e:
       print(e)
       return {}
+  elif isinstance(news_item, dict):
+    embed_obj = {
+      "description": news_item.get('link_text'),
+      "url": f"{y_base_url}/{link_href}",
+      "title": f"{ticker} - {source}"
+    }
+    return embed_obj
   else:
     return {
       "description": news_item['link_text'],
