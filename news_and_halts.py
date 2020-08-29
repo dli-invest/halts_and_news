@@ -7,6 +7,7 @@ import requests
 import os
 import json
 import time
+from db_driver import FaunaWrapper
 from typing import Union
 from cad_tickers.news import get_halts_resumption, scrap_news_for_ticker
 
@@ -48,6 +49,7 @@ def drop_unnamed_columns(df: pd.DataFrame):
 def get_halts():
   # customize file names with argparser
   halts_file = 'halts.csv'
+  client = FaunaWrapper()
   halts_cols = ['Halts', 'Listing']
   if os.path.exists(halts_file):
     old_halts_df = pd.read_csv(halts_file)
@@ -59,11 +61,20 @@ def get_halts():
       on=halts_cols, how='left', indicator=True
     )
     merged_halts.dropna(inplace=True)
+    
+    valid_items = []
     # get the entries only in the left column, these are new
-    new_halts_df = merged_halts.loc[merged_halts._merge == 'left_only']
-    drop_unnamed_columns(new_halts_df)
-    if new_halts_df.empty == False:
-      content_str = new_halts_df.to_string(index=False)
+    new_halts_df = merged_halts.loc[merged_halts._merge == 'left_only', halts_cols]
+    fauna_list = new_halts_df.to_dict()
+    for news_item in fauna_list:
+      has_succeeded = client.create_document_in_collection('news', news_item)
+      if has_succeeded == True:
+        valid_items.append(news_item)
+  
+    unseen_halts_df = pd.DataFrame(valid_items, columns=halts_cols)
+    drop_unnamed_columns(unseen_halts_df)
+    if unseen_halts_df.empty == False:
+      content_str = unseen_halts_df.to_string(index=False)
       # move later, just return df
       for chunk in [content_str[i:i+2000] for i in range(0, len(content_str), 2000)]:
         post_webhook_content(chunk)
@@ -135,6 +146,7 @@ def get_news():
   tickers = get_tickers()
   news_df = pd.DataFrame()
   # Load csv if exists
+  client = FaunaWrapper()
   news_file = 'news.csv'
   df_cols = ['source', 'link_href','link_text', 'ticker']
   if os.path.exists(news_file):
@@ -160,10 +172,18 @@ def get_news():
     on=df_cols, how='left', indicator=True)
   merged_news.dropna(inplace=True)
 
+  valid_items = []
   # get the entries only in the left column, these are new
   updated_news_df = merged_news.loc[merged_news._merge == 'left_only', df_cols]
-  if updated_news_df.empty == False:
-    for index, row in updated_news_df.iterrows():
+  fauna_list = updated_news_df.to_dict()
+  for news_item in fauna_list:
+    has_succeeded = client.create_document_in_collection('news', news_item)
+    if has_succeeded == True:
+      valid_items.append(news_item)
+  
+  unseen_news_df = pd.DataFrame(valid_items, columns=df_cols)
+  if unseen_news_df.empty == False:
+    for index, row in unseen_news_df.iterrows():
       embeds = make_embed_from_news_item(row)
       post_webhook_content('', embeds)
       time.sleep(2)
