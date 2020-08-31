@@ -1,4 +1,10 @@
 Halts,Listing
+"Aug 31, 2020IIROC Trade Resumption - VCAN",VCAN
+"Aug 31, 2020IIROC Trade Resumption - RVV",RVV
+"Aug 31, 2020IIROC Trading Halt - RVV",RVV
+"Aug 31, 2020IIROC Trading Halt - VCAN",VCAN
+"Aug 31, 2020IIROC Trading Halt - VDKA.P",VDKA.P
+"Aug 31, 2020IIROC Trade Resumption - ORL",ORL
 "Aug 28, 2020IIROC Trading Resumption - QRO",QRO
 "Aug 28, 2020IIROC Trading Resumption - LOT",LOT
 "Aug 28, 2020IIROC Trading Resumption - ION",ION
@@ -18,9 +24,3 @@ Halts,Listing
 "Aug 27, 2020IIROC Trading Halt - SFX",SFX
 "Aug 27, 2020IIROC Trading Halt - NEE.DB",NEE.DB
 "Aug 27, 2020IIROC Trade Resumption - KNR",KNR
-"Aug 27, 2020IIROC Trade Resumption - VST",VST
-"Aug 27, 2020IIROC Trading Halt - VST",VST
-"Aug 27, 2020IIROC Trade Resumption - SONA",SONA
-"Aug 27, 2020IIROC Trading Halt - SONA",SONA
-"Aug 27, 2020IIROC Trading Resumption - THRM",THRM
-"Aug 27, 2020IIROC Trading Halt - THRM",THRM
