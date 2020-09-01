@@ -1,4 +1,10 @@
 Halts,Listing
+"Sep 1, 2020IIROC Trade Resumption - BETR",BETR
+"Sep 1, 2020IIROC Trading Halt - SKRR",SKRR
+"Sep 1, 2020IIROC Trading Halt - RWB",RWB
+"Sep 1, 2020IIROC Trading Halt - THRM",THRM
+"Sep 1, 2020IIROC Trading Halt - GSS",GSS
+"Sep 1, 2020IIROC Trade Resumption - TLG",TLG
 "Aug 31, 2020IIROC Trade Resumption - LXX",LXX
 "Aug 31, 2020IIROC Trading Resumption - RWR.H",RWR.H
 "Aug 31, 2020IIROC Trading Resumption - CVM",CVM
@@ -18,9 +24,3 @@ Halts,Listing
 "Aug 31, 2020IIROC Trade Resumption - TFC",TFC
 "Aug 31, 2020IIROC Trade Resumption - VCAN",VCAN
 "Aug 31, 2020IIROC Trade Resumption - RVV",RVV
-"Aug 31, 2020IIROC Trading Halt - RVV",RVV
-"Aug 31, 2020IIROC Trading Halt - VCAN",VCAN
-"Aug 31, 2020IIROC Trading Halt - VDKA.P",VDKA.P
-"Aug 31, 2020IIROC Trade Resumption - ORL",ORL
-"Aug 28, 2020IIROC Trading Resumption - QRO",QRO
-"Aug 28, 2020IIROC Trading Resumption - LOT",LOT
