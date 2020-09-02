@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 2, 2020IIROC Trading Halt - VST",VST
+"Sep 2, 2020IIROC Trading Resumption - RVL",RVL
 "Sep 2, 2020IIROC Trading Resumption - DOC",DOC
 "Sep 2, 2020IIROC Trading Resumption - DME",DME
 "Sep 2, 2020IIROC Trade Resumption - RWB",RWB
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 1, 2020IIROC Trading Halt - THRM",THRM
 "Sep 1, 2020IIROC Trading Halt - GSS",GSS
 "Sep 1, 2020IIROC Trade Resumption - TLG",TLG
-"Aug 31, 2020IIROC Trade Resumption - LXX",LXX
-"Aug 31, 2020IIROC Trading Resumption - RWR.H",RWR.H
