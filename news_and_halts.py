@@ -71,11 +71,12 @@ def get_halts():
       if has_succeeded == True:
         valid_items.append(news_item)
         post_webhook_content(str(news_item))
+        print(news_item)
         
   
     unseen_halts_df = pd.DataFrame(valid_items, columns=halts_cols)
-    drop_unnamed_columns(unseen_halts_df)
     if unseen_halts_df.empty == False:
+      print(unseen_halts_df)
       content_str = unseen_halts_df.to_string(index=False)
       # move later, just return df
       for chunk in [content_str[i:i+2000] for i in range(0, len(content_str), 2000)]:
@@ -83,7 +84,6 @@ def get_halts():
         time.sleep(2)
   else:
     halts_df = get_halts_resumption()
-    drop_unnamed_columns(halts_df)
   halts_df.to_csv('halts.csv', index=False)
 
   # make html file, redeploy with github pages
@@ -186,6 +186,7 @@ def get_news():
   
   unseen_news_df = pd.DataFrame(valid_items, columns=df_cols)
   if unseen_news_df.empty == False:
+    print(unseen_news_df)
     for index, row in unseen_news_df.iterrows():
       embeds = make_embed_from_news_item(row)
       post_webhook_content('', embeds)
