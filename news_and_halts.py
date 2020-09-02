@@ -70,6 +70,8 @@ def get_halts():
       has_succeeded = client.create_document_in_collection('news', news_item)
       if has_succeeded == True:
         valid_items.append(news_item)
+        post_webhook_content(str(news_item))
+        
   
     unseen_halts_df = pd.DataFrame(valid_items, columns=halts_cols)
     drop_unnamed_columns(unseen_halts_df)
@@ -180,6 +182,7 @@ def get_news():
     has_succeeded = client.create_document_in_collection('news', news_item)
     if has_succeeded == True:
       valid_items.append(news_item)
+      post_webhook_content(str(news_item))
   
   unseen_news_df = pd.DataFrame(valid_items, columns=df_cols)
   if unseen_news_df.empty == False:
