@@ -15,8 +15,11 @@ from cad_tickers.news import get_halts_resumption, scrap_news_for_ticker
 def post_webhook_content(content: str, embeds: list = None):
     url = os.getenv("DISCORD_NEWS_WEBHOOK")
     data = {}
-    # for all params, see https://discordapp.com/developers/docs/resources/webhook#execute-webhook
-    data["content"] = f"```{content}```"
+    if content == "":
+        data["content"] = ""
+    else:
+        # for all params, see https://discordapp.com/developers/docs/resources/webhook#execute-webhook
+        data["content"] = f"```{content}```"
     if embeds is not None:
         data["embeds"] = embeds
 
