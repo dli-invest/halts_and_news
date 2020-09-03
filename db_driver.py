@@ -31,9 +31,10 @@ class FaunaWrapper:
         Validation not needed, personal project <3
         """
         try:
-            self.client.query(
+            result = self.client.query(
                 q.create(q.collection(collection), {"data": collection_data})
             )
+            print(result)
             return True
         except BadRequest as error:
             # get properties of bad request

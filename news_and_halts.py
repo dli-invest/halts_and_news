@@ -73,17 +73,14 @@ def get_halts():
         valid_items = []
         # get the entries only in the left column, these are new
         new_halts_df = merged_halts.loc[merged_halts._merge == "left_only", halts_cols]
-        fauna_list = new_halts_df.to_dict()
+        fauna_list = new_halts_df.to_dict("records")
         for news_item in fauna_list:
-            has_succeeded = client.create_document_in_collection("news", news_item)
+            has_succeeded = client.create_document_in_collection("halts", news_item)
             if has_succeeded == True:
                 valid_items.append(news_item)
-                post_webhook_content(str(news_item))
-                print(news_item)
 
         unseen_halts_df = pd.DataFrame(valid_items, columns=halts_cols)
         if unseen_halts_df.empty == False:
-            print(unseen_halts_df)
             content_str = unseen_halts_df.to_string(index=False)
             # move later, just return df
             for chunk in [
@@ -190,12 +187,11 @@ def get_news():
     valid_items = []
     # get the entries only in the left column, these are new
     updated_news_df = merged_news.loc[merged_news._merge == "left_only", df_cols]
-    fauna_list = updated_news_df.to_dict()
+    fauna_list = updated_news_df.to_dict("records")
     for news_item in fauna_list:
         has_succeeded = client.create_document_in_collection("news", news_item)
         if has_succeeded == True:
             valid_items.append(news_item)
-            post_webhook_content(str(news_item))
 
     unseen_news_df = pd.DataFrame(valid_items, columns=df_cols)
     if unseen_news_df.empty == False:
@@ -215,4 +211,4 @@ if __name__ == "__main__":
     # grabbing all news for all stocks will be done in another script
     # no need to publish the results to github pages
     get_halts()
-    get_news()
+    # get_news()

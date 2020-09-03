@@ -99,12 +99,6 @@ if __name__ == "__main__":
     # no need to publish the results to github pages
     download_csvs()
     tickers = get_tickers()
-    # single threaded approach
-    # raw_news = []
-    # for ticker in tickers:
-    #   news_items = scrap_news_for_ticker(ticker)
-    #   raw_news.append(news_items)
-    # flatten list
     full_news_list = []
     client = FaunaWrapper()
     flatten = lambda l: [item for sublist in l for item in sublist]
@@ -145,7 +139,7 @@ if __name__ == "__main__":
             # if this works, condense it
             valid_items = []
             merged_df = merged_df.drop(["_merge"], axis=1, errors="ignore")
-            fauna_list = merged_df.to_dict()
+            fauna_list = merged_df.to_dict("records")
             for news_item in fauna_list:
                 has_succeeded = client.create_document_in_collection(
                     "full_news", news_item
