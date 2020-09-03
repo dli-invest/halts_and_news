@@ -211,4 +211,4 @@ if __name__ == "__main__":
     # grabbing all news for all stocks will be done in another script
     # no need to publish the results to github pages
     get_halts()
-    # get_news()
+    get_news()
