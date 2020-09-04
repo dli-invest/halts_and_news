@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 4, 2020IIROC Trade Resumption - ECN.DB",ECN.DB
+"Sep 4, 2020IIROC Trading Halt - ECN.DB",ECN.DB
 "Sep 3, 2020IIROC Trade Resumption - DFLY",DFLY
 "Sep 3, 2020IIROC Trading Resumption - ALAB.P",ALAB.P
 "Sep 3, 2020IIROC Trading Halt - BEV",BEV
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 2, 2020IIROC Trading Resumption - DOC",DOC
 "Sep 2, 2020IIROC Trading Resumption - DME",DME
 "Sep 2, 2020IIROC Trade Resumption - RWB",RWB
-"Sep 2, 2020IIROC Trading Resumption - TM",TM
-"Sep 2, 2020IIROC Trading Halt - EAS",EAS
