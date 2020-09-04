@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 4, 2020IIROC Trading Halt - GHG.RT",GHG.RT
+"Sep 4, 2020IIROC Trading Halt - SOL",SOL
 "Sep 4, 2020IIROC Trade Resumption - DRM",DRM
 "Sep 4, 2020IIROC Trade Resumption - BEV",BEV
 "Sep 4, 2020IIROC Trading Halt - DRM",DRM
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 3, 2020IIROC Trading Halt - HOM.DB.U",HOM.DB.U
 "Sep 2, 2020IIROC Trading Resumption - DOIT.P",DOIT.P
 "Sep 2, 2020IIROC Trading Halt - GMO",GMO
-"Sep 2, 2020IIROC Trade Resumption - VST",VST
-"Sep 2, 2020IIROC Trading Halt - KDK",KDK
