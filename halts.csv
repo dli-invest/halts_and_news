@@ -1,4 +1,7 @@
 Halts,Listing
+"Sep 8, 2020IIROC Trade Resumption - SOL",SOL
+"Sep 8, 2020IIROC Trading Halt - EMH",EMH
+"Sep 8, 2020IIROC Trading Halt - VFF",VFF
 "Sep 8, 2020IIROC Trading Halt - ASIA",ASIA
 "Sep 8, 2020IIROC Trading Halt - PNG",PNG
 "Sep 8, 2020IIROC Trading Halt - PTQ",PTQ
@@ -21,6 +24,3 @@ Halts,Listing
 "Sep 4, 2020IIROC Trade Resumption - BEV",BEV
 "Sep 4, 2020IIROC Trading Halt - DRM",DRM
 "Sep 4, 2020IIROC Trading Resumption - GPV",GPV
-"Sep 4, 2020IIROC Trading Halt - GPV",GPV
-"Sep 4, 2020IIROC Trade Resumption - ECN.DB",ECN.DB
-"Sep 4, 2020IIROC Trading Halt - ECN.DB",ECN.DB
