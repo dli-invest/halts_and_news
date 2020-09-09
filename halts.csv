@@ -1,4 +1,8 @@
 Halts,Listing
+"Sep 9, 2020IIROC Trading Resumption - BES",BES
+"Sep 9, 2020IIROC Trading Resumption - CAPT",CAPT
+"Sep 9, 2020IIROC Trading Resumption - CRTS",CRTS
+"Sep 9, 2020IIROC Trade Resumption - PKB",PKB
 "Sep 9, 2020IIROC Trade Resumption - ET",ET
 "Sep 9, 2020IIROC Trading Halt - ET",ET
 "Sep 9, 2020IIROC Trading Halt - KDZ.X",KDZ.X
@@ -20,7 +24,3 @@ Halts,Listing
 "Sep 8, 2020IIROC Trading Resumption - EMH",EMH
 "Sep 8, 2020IIROC Trading Resumption - OTSO",OTSO
 "Sep 8, 2020IIROC Trade Resumption - VST",VST
-"Sep 8, 2020IIROC Trade Resumption - VFF",VFF
-"Sep 8, 2020IIROC Trade Resumption - ASIA",ASIA
-"Sep 8, 2020IIROC Trading Resumption - PNG",PNG
-"Sep 8, 2020IIROC Trading Halt - VST",VST
