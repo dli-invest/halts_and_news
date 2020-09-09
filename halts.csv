@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 9, 2020IIROC Trading Halt - FONE",FONE
+"Sep 9, 2020IIROC Trading Halt - BES",BES
 "Sep 9, 2020IIROC Trading Resumption - EU",EU
 "Sep 9, 2020IIROC Trade Resumption - TI",TI
 "Sep 9, 2020IIROC Trading Halt - TI",TI
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 8, 2020IIROC Trade Resumption - SOL",SOL
 "Sep 8, 2020IIROC Trading Halt - EMH",EMH
 "Sep 8, 2020IIROC Trading Halt - VFF",VFF
-"Sep 8, 2020IIROC Trading Halt - ASIA",ASIA
-"Sep 8, 2020IIROC Trading Halt - PNG",PNG
