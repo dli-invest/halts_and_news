@@ -1,4 +1,10 @@
 Halts,Listing
+"Sep 9, 2020IIROC Trade Resumption - FIRE.DB",FIRE.DB
+"Sep 9, 2020IIROC Trading Halt - BRTL",BRTL
+"Sep 9, 2020IIROC Trading Halt - SOO.P",SOO.P
+"Sep 9, 2020IIROC Trading Halt - FIRE.DB",FIRE.DB
+"Sep 9, 2020IIROC Trading Halt - XIB.P",XIB.P
+"Sep 9, 2020IIROC Trading Halt - COPS",COPS
 "Sep 8, 2020IIROC Trade Resumption - BFG",BFG
 "Sep 8, 2020IIROC Trading Resumption - PWM",PWM
 "Sep 8, 2020IIROC Trading Resumption - EMH",EMH
@@ -18,9 +24,3 @@ Halts,Listing
 "Sep 8, 2020IIROC Trading Halt - PWM",PWM
 "Sep 8, 2020IIROC Trading Halt - BFG",BFG
 "Sep 8, 2020IIROC Trading Halt - CNX",CNX
-"Sep 8, 2020IIROC Trading Halt - VRT",VRT
-"Sep 8, 2020IIROC Trading Halt - EU",EU
-"Sep 8, 2020IIROC Trade Resumption - AX.UN",AX.UN
-"Sep 8, 2020IIROC Trading Halt - ZAR",ZAR
-"Sep 8, 2020IIROC Trading Halt - RTCC.P",RTCC.P
-"Sep 8, 2020IIROC Trading Halt - PEH",PEH
