@@ -1,4 +1,7 @@
 Halts,Listing
+"Sep 9, 2020IIROC Trading Resumption - EU",EU
+"Sep 9, 2020IIROC Trade Resumption - TI",TI
+"Sep 9, 2020IIROC Trading Halt - TI",TI
 "Sep 9, 2020IIROC Trading Resumption - CNX",CNX
 "Sep 9, 2020IIROC Trade Resumption - FIRE.DB",FIRE.DB
 "Sep 9, 2020IIROC Trading Halt - BRTL",BRTL
@@ -21,6 +24,3 @@ Halts,Listing
 "Sep 8, 2020IIROC Trading Halt - VFF",VFF
 "Sep 8, 2020IIROC Trading Halt - ASIA",ASIA
 "Sep 8, 2020IIROC Trading Halt - PNG",PNG
-"Sep 8, 2020IIROC Trading Halt - PTQ",PTQ
-"Sep 8, 2020IIROC Trading Halt - PWM",PWM
-"Sep 8, 2020IIROC Trading Halt - BFG",BFG
