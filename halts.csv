@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 10, 2020IIROC Trade Resumption - BTB.UN",BTB.UN
+"Sep 10, 2020IIROC Trading Halt - HSC.P",HSC.P
 "Sep 9, 2020IIROC Trading Resumption - BES",BES
 "Sep 9, 2020IIROC Trading Resumption - CAPT",CAPT
 "Sep 9, 2020IIROC Trading Resumption - CRTS",CRTS
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 8, 2020IIROC Trade Resumption - BFG",BFG
 "Sep 8, 2020IIROC Trading Resumption - PWM",PWM
 "Sep 8, 2020IIROC Trading Resumption - EMH",EMH
-"Sep 8, 2020IIROC Trading Resumption - OTSO",OTSO
-"Sep 8, 2020IIROC Trade Resumption - VST",VST
