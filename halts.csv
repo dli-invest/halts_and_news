@@ -1,4 +1,7 @@
 Halts,Listing
+"Sep 11, 2020IIROC Trading Halt - RGLD",RGLD
+"Sep 11, 2020IIROC Trading Resumption - PYR",PYR
+"Sep 11, 2020IIROC Trading Halt - PYR",PYR
 "Sep 11, 2020IIROC Trade Resumption - TZS",TZS
 "Sep 11, 2020IIROC Trading Halt - TZS",TZS
 "Sep 11, 2020IIROC Trading Halt - SIM",SIM
@@ -21,6 +24,3 @@ Halts,Listing
 "Sep 10, 2020IIROC Trading Halt - FR",FR
 "Sep 10, 2020IIROC Trading Halt - KNR",KNR
 "Sep 10, 2020IIROC Trade Resumption - FONE",FONE
-"Sep 10, 2020IIROC Trade Resumption - TCS",TCS
-"Sep 10, 2020IIROC Trading Halt - TCS",TCS
-"Sep 10, 2020IIROC Trading Halt - AUAU",AUAU
