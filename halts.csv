@@ -1,4 +1,10 @@
 Halts,Listing
+"Sep 11, 2020IIROC Trading Halt - GIGA",GIGA
+"Sep 11, 2020IIROC Trading Halt - BHS",BHS
+"Sep 11, 2020IIROC Trading Halt - DME",DME
+"Sep 11, 2020IIROC Trading Halt - PINH.P",PINH.P
+"Sep 11, 2020IIROC Trading Halt - ZRO",ZRO
+"Sep 11, 2020IIROC Trading Halt - OS",OS
 "Sep 10, 2020IIROC Trade Resumption - KNR",KNR
 "Sep 10, 2020IIROC Trading Resumption - NIS.P",NIS.P
 "Sep 10, 2020IIROC Trade Resumption - FR",FR
@@ -18,9 +24,3 @@ Halts,Listing
 "Sep 9, 2020IIROC Trade Resumption - ET",ET
 "Sep 9, 2020IIROC Trading Halt - ET",ET
 "Sep 9, 2020IIROC Trading Halt - KDZ.X",KDZ.X
-"Sep 9, 2020IIROC Trading Halt - BTB.UN",BTB.UN
-"Sep 9, 2020IIROC Trading Halt - FONE",FONE
-"Sep 9, 2020IIROC Trading Halt - BES",BES
-"Sep 9, 2020IIROC Trading Resumption - EU",EU
-"Sep 9, 2020IIROC Trade Resumption - TI",TI
-"Sep 9, 2020IIROC Trading Halt - TI",TI
