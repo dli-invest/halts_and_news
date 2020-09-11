@@ -1,4 +1,10 @@
 Halts,Listing
+"Sep 11, 2020IIROC Trade Resumption - TZS",TZS
+"Sep 11, 2020IIROC Trading Halt - TZS",TZS
+"Sep 11, 2020IIROC Trading Halt - SIM",SIM
+"Sep 11, 2020IIROC Trading Resumption - CBR",CBR
+"Sep 11, 2020IIROC Trade Resumption - NWC",NWC
+"Sep 11, 2020IIROC Trading Resumption - GIGA",GIGA
 "Sep 11, 2020IIROC Trading Halt - NWC",NWC
 "Sep 11, 2020IIROC Trading Resumption - DME",DME
 "Sep 11, 2020IIROC Trading Halt - CBR",CBR
@@ -18,9 +24,3 @@ Halts,Listing
 "Sep 10, 2020IIROC Trade Resumption - TCS",TCS
 "Sep 10, 2020IIROC Trading Halt - TCS",TCS
 "Sep 10, 2020IIROC Trading Halt - AUAU",AUAU
-"Sep 10, 2020IIROC Trade Resumption - BTB.UN",BTB.UN
-"Sep 10, 2020IIROC Trading Halt - HSC.P",HSC.P
-"Sep 9, 2020IIROC Trading Resumption - BES",BES
-"Sep 9, 2020IIROC Trading Resumption - CAPT",CAPT
-"Sep 9, 2020IIROC Trading Resumption - CRTS",CRTS
-"Sep 9, 2020IIROC Trade Resumption - PKB",PKB
