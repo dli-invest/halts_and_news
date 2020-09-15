@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 15, 2020IIROC Trading Halt - MRS",MRS
+"Sep 15, 2020IIROC Trade Resumption - ENS",ENS
 "Sep 14, 2020IIROC Trade Resumption - SOFT",SOFT
 "Sep 14, 2020IIROC Trading Resumption - NZ",NZ
 "Sep 14, 2020IIROC Trading Halt - ENS",ENS
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 14, 2020IIROC Trading Resumption - GIGA",GIGA
 "Sep 14, 2020IIROC Trading Halt - GIGA",GIGA
 "Sep 14, 2020IIROC Trading Resumption - NLC",NLC
-"Sep 14, 2020IIROC Trade Resumption - VEGA",VEGA
-"Sep 14, 2020IIROC Trading Halt - HOC",HOC
