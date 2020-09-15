@@ -1,4 +1,7 @@
 Halts,Listing
+"Sep 15, 2020IIROC Trading Halt - AUAU",AUAU
+"Sep 15, 2020IIROC Trade Resumption - KNR",KNR
+"Sep 15, 2020IIROC Trading Halt - KNR",KNR
 "Sep 15, 2020IIROC Trading Halt - MRS",MRS
 "Sep 15, 2020IIROC Trade Resumption - ENS",ENS
 "Sep 14, 2020IIROC Trade Resumption - SOFT",SOFT
@@ -21,6 +24,3 @@ Halts,Listing
 "Sep 14, 2020IIROC Trading Halt - KNR",KNR
 "Sep 14, 2020IIROC Trading Resumption - GIGA",GIGA
 "Sep 14, 2020IIROC Trading Halt - GIGA",GIGA
-"Sep 14, 2020IIROC Trading Resumption - GIGA",GIGA
-"Sep 14, 2020IIROC Trading Halt - GIGA",GIGA
-"Sep 14, 2020IIROC Trading Resumption - NLC",NLC
