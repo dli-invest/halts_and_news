@@ -1,4 +1,7 @@
 Halts,Listing
+"Sep 16, 2020IIROC Trading Halt - NSX",NSX
+"Sep 16, 2020IIROC Trading Resumption - NGLD",NGLD
+"Sep 16, 2020IIROC Trading Halt - VIDA",VIDA
 "Sep 15, 2020IIROC Trade Resumption - ZRO",ZRO
 "Sep 15, 2020IIROC Trading Halt - BABY",BABY
 "Sep 15, 2020IIROC Trading Halt - AUAU",AUAU
@@ -21,6 +24,3 @@ Halts,Listing
 "Sep 14, 2020IIROC Trading Resumption - GIGA",GIGA
 "Sep 14, 2020IIROC Trading Halt - GIGA",GIGA
 "Sep 14, 2020IIROC Trading Resumption - EU",EU
-"Sep 14, 2020IIROC Trading Resumption - SIM",SIM
-"Sep 14, 2020IIROC Trade Resumption - KNR",KNR
-"Sep 14, 2020IIROC Trading Halt - KNR",KNR
