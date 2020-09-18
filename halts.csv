@@ -1,4 +1,7 @@
 Halts,Listing
+"Sep 18, 2020IIROC Trading Halt - NML",NML
+"Sep 18, 2020IIROC Trading Resumption - KAP",KAP
+"Sep 18, 2020IIROC Trading Resumption - BNCH",BNCH
 "Sep 18, 2020IIROC Trading Halt - ZRO",ZRO
 "Sep 18, 2020IIROC Trading Halt - BNCH",BNCH
 "Sep 18, 2020IIROC Trading Halt - XMG",XMG
@@ -21,6 +24,3 @@ Halts,Listing
 "Sep 17, 2020IIROC Trading Halt - RLV",RLV
 "Sep 17, 2020IIROC Trading Halt - Z",Z
 "Sep 16, 2020IIROC Trading Resumption - BABY",BABY
-"Sep 16, 2020IIROC Trading Resumption - CQR",CQR
-"Sep 16, 2020IIROC Trade Resumption - MJ",MJ
-"Sep 16, 2020IIROC Trading Resumption - EMM",EMM
