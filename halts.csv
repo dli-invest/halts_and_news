@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 18, 2020IIROC Trading Halt - XMG",XMG
+"Sep 18, 2020IIROC Trading Halt - ATW",ATW
 "Sep 18, 2020IIROC Trading Resumption - MRS",MRS
 "Sep 18, 2020IIROC Trading Halt - NAP",NAP
 "Sep 18, 2020IIROC Trading Halt - GYSR",GYSR
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 16, 2020IIROC Trading Resumption - EMM",EMM
 "Sep 16, 2020IIROC Trading Halt - CQR",CQR
 "Sep 16, 2020IIROC Trading Halt - EMM",EMM
-"Sep 16, 2020IIROC Trading Resumption - NSX",NSX
-"Sep 16, 2020IIROC Trading Resumption - AUAU",AUAU
