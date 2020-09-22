@@ -1,4 +1,11 @@
 Halts,Listing
+"Sep 22, 2020IIROC Trade Resumption - IPL",IPL
+"Sep 22, 2020IIROC Trading Resumption - AFE",AFE
+"Sep 22, 2020IIROC Trading Halt - DM",DM
+"Sep 22, 2020IIROC Trading Halt - GLC",GLC
+"Sep 22, 2020IIROC Trading Halt - IPL",IPL
+"Sep 22, 2020IIROC Trading Halt - HP",HP
+"Sep 22, 2020IIROC Trading Halt - MAR.P",MAR.P
 "Sep 21, 2020IIROC Trading Resumption - KWE (formerly 'FMV.P')",'FMV.P')
 "Sep 21, 2020IIROC Trade Resumption - XMG",XMG
 "Sep 21, 2020IIROC Trading Halt - AFE",AFE
@@ -17,10 +24,3 @@ Halts,Listing
 "Sep 18, 2020IIROC Trading Resumption - BNCH",BNCH
 "Sep 18, 2020IIROC Trading Halt - ZRO",ZRO
 "Sep 18, 2020IIROC Trading Halt - BNCH",BNCH
-"Sep 18, 2020IIROC Trading Halt - XMG",XMG
-"Sep 18, 2020IIROC Trading Halt - ATW",ATW
-"Sep 18, 2020IIROC Trading Resumption - MRS",MRS
-"Sep 18, 2020IIROC Trading Halt - NAP",NAP
-"Sep 18, 2020IIROC Trading Halt - GYSR",GYSR
-"Sep 18, 2020IIROC Trading Halt - GRI",GRI
-"Sep 17, 2020IIROC Trading Resumption - HOC",HOC
