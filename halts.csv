@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 23, 2020IIROC Trading Resumption - GPV",GPV
+"Sep 23, 2020IIROC Trading Halt - GPV",GPV
 "Sep 23, 2020IIROC Trade Resumption - KNR",KNR
 "Sep 23, 2020IIROC Trading Halt - GOK",GOK
 "Sep 23, 2020IIROC Trading Halt - SNM",SNM
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 21, 2020IIROC Trade Resumption - XMG",XMG
 "Sep 21, 2020IIROC Trading Halt - AFE",AFE
 "Sep 21, 2020IIROC Trade Resumption - SSL",SSL
-"Sep 21, 2020IIROC Trade Resumption - MMAT",MMAT
-"Sep 21, 2020IIROC Trading Halt - SSL",SSL
