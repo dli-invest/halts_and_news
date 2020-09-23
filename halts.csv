@@ -1,4 +1,8 @@
 Halts,Listing
+"Sep 23, 2020IIROC Trading Resumption - SNM",SNM
+"Sep 23, 2020IIROC Trading Halt - NIS.P",NIS.P
+"Sep 23, 2020IIROC Trading Halt - GTI.X",GTI.X
+"Sep 23, 2020IIROC Trading Resumption - CTS",CTS
 "Sep 23, 2020IIROC Trading Resumption - GPV",GPV
 "Sep 23, 2020IIROC Trading Halt - GPV",GPV
 "Sep 23, 2020IIROC Trade Resumption - KNR",KNR
@@ -20,7 +24,3 @@ Halts,Listing
 "Sep 22, 2020IIROC Trading Halt - IPL",IPL
 "Sep 22, 2020IIROC Trading Halt - HP",HP
 "Sep 22, 2020IIROC Trading Halt - MAR.P",MAR.P
-"Sep 21, 2020IIROC Trading Resumption - KWE (formerly 'FMV.P')",'FMV.P')
-"Sep 21, 2020IIROC Trade Resumption - XMG",XMG
-"Sep 21, 2020IIROC Trading Halt - AFE",AFE
-"Sep 21, 2020IIROC Trade Resumption - SSL",SSL
