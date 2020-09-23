@@ -1,4 +1,7 @@
 Halts,Listing
+"Sep 23, 2020IIROC Trading Halt - KNR",KNR
+"Sep 23, 2020IIROC Trade Resumption - HALO",HALO
+"Sep 23, 2020IIROC Trading Halt - HALO",HALO
 "Sep 22, 2020IIROC Trading Resumption - MAR.P",MAR.P
 "Sep 22, 2020IIROC Trading Resumption - ALTN.P",ALTN.P
 "Sep 22, 2020IIROC Trading Halt - CTS",CTS
@@ -21,6 +24,3 @@ Halts,Listing
 "Sep 21, 2020IIROC Trade Resumption - PILL",PILL
 "Sep 21, 2020IIROC Trading Halt - MMAT",MMAT
 "Sep 21, 2020IIROC Trade Resumption - NML",NML
-"Sep 21, 2020IIROC Trading Halt - ALTN.P",ALTN.P
-"Sep 21, 2020IIROC Trading Halt - AVX",AVX
-"Sep 21, 2020IIROC Trading Halt - BTRU",BTRU
