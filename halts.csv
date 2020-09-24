@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 24, 2020IIROC Trade Resumption - GLM",GLM
+"Sep 24, 2020IIROC Trading Halt - SRA",SRA
 "Sep 24, 2020IIROC Trade Resumption - VEGA",VEGA
 "Sep 24, 2020IIROC Trade Resumption - JE",JE
 "Sep 24, 2020IIROC Trading Halt - JE",JE
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 23, 2020IIROC Trading Resumption - GPV",GPV
 "Sep 23, 2020IIROC Trading Halt - GPV",GPV
 "Sep 23, 2020IIROC Trade Resumption - KNR",KNR
-"Sep 23, 2020IIROC Trading Halt - GOK",GOK
-"Sep 23, 2020IIROC Trading Halt - SNM",SNM
