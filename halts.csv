@@ -1,4 +1,10 @@
 Halts,Listing
+"Sep 24, 2020IIROC Trading Halt - GLM",GLM
+"Sep 24, 2020IIROC Trading Halt - SIM",SIM
+"Sep 24, 2020IIROC Trading Resumption - MRS",MRS
+"Sep 24, 2020IIROC Trading Halt - CYN",CYN
+"Sep 24, 2020IIROC Trading Halt - MRS",MRS
+"Sep 24, 2020IIROC Trading Halt - VEGA",VEGA
 "Sep 23, 2020IIROC Trading Resumption - CYON",CYON
 "Sep 23, 2020IIROC Trading Resumption - KUU",KUU
 "Sep 23, 2020IIROC Trading Resumption - PLUR",PLUR
@@ -18,9 +24,3 @@ Halts,Listing
 "Sep 23, 2020IIROC Trading Halt - HALO",HALO
 "Sep 22, 2020IIROC Trading Resumption - MAR.P",MAR.P
 "Sep 22, 2020IIROC Trading Resumption - ALTN.P",ALTN.P
-"Sep 22, 2020IIROC Trading Halt - CTS",CTS
-"Sep 22, 2020IIROC Trading Resumption - ZEN",ZEN
-"Sep 22, 2020IIROC Trading Halt - ROZ.P",ROZ.P
-"Sep 22, 2020IIROC Trading Halt - ZEN",ZEN
-"Sep 22, 2020IIROC Trade Resumption - IPL",IPL
-"Sep 22, 2020IIROC Trading Resumption - AFE",AFE
