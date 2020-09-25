@@ -1,4 +1,7 @@
 Halts,Listing
+"Sep 25, 2020IIROC Trading Resumption - SIM",SIM
+"Sep 25, 2020IIROC Trade Resumption - GLC",GLC
+"Sep 25, 2020IIROC Trade Resumption - CRDL",CRDL
 "Sep 24, 2020IIROC Trading Resumption - NBL.H",NBL.H
 "Sep 24, 2020IIROC Trading Resumption - ZMA",ZMA
 "Sep 24, 2020IIROC Trading Resumption - VPT",VPT
@@ -21,6 +24,3 @@ Halts,Listing
 "Sep 23, 2020IIROC Trading Halt - KUU",KUU
 "Sep 23, 2020IIROC Trading Halt - ESV.H",ESV.H
 "Sep 23, 2020IIROC Trading Resumption - SNM",SNM
-"Sep 23, 2020IIROC Trading Halt - NIS.P",NIS.P
-"Sep 23, 2020IIROC Trading Halt - GTI.X",GTI.X
-"Sep 23, 2020IIROC Trading Resumption - CTS",CTS
