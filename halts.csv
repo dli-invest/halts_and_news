@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 28, 2020IIROC Trading Halt - NCAU",NCAU
+"Sep 28, 2020IIROC Trading Halt - SBC",SBC
 "Sep 28, 2020IIROC Trade Resumption - GL",GL
 "Sep 28, 2020IIROC Trade Resumption - GTBE",GTBE
 "Sep 28, 2020IIROC Trading Halt - IAN",IAN
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 24, 2020IIROC Trading Resumption - VPT",VPT
 "Sep 24, 2020IIROC Trade Resumption - GLM",GLM
 "Sep 24, 2020IIROC Trading Halt - SRA",SRA
-"Sep 24, 2020IIROC Trade Resumption - VEGA",VEGA
-"Sep 24, 2020IIROC Trade Resumption - JE",JE
