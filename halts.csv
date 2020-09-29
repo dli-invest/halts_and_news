@@ -1,4 +1,12 @@
 Halts,Listing
+"Sep 29, 2020IIROC Trading Halt - TD.PF.F",TD.PF.F
+"Sep 29, 2020IIROC Trading Resumption - VG",VG
+"Sep 29, 2020IIROC Trade Resumption - BTB.DB.H",BTB.DB.H
+"Sep 29, 2020IIROC Trading Halt - BFF",BFF
+"Sep 29, 2020IIROC Trading Halt - PAL",PAL
+"Sep 29, 2020IIROC Trading Halt - BTB.DB.H",BTB.DB.H
+"Sep 29, 2020IIROC Trade Resumption - SBC",SBC
+"Sep 29, 2020IIROC Trading Halt - CHSC.P",CHSC.P
 "Sep 28, 2020IIROC Trading Resumption - NCAU",NCAU
 "Sep 28, 2020IIROC Trading Halt - VG",VG
 "Sep 28, 2020IIROC Trading Halt - NCAU",NCAU
@@ -16,11 +24,3 @@ Halts,Listing
 "Sep 28, 2020IIROC Trading Halt - KNE",KNE
 "Sep 28, 2020IIROC Trading Halt - NCPL.P",NCPL.P
 "Sep 25, 2020IIROC Trading Resumption - MRS",MRS
-"Sep 25, 2020IIROC Trading Halt - MRS",MRS
-"Sep 25, 2020IIROC Trade Resumption - ZRO",ZRO
-"Sep 25, 2020IIROC Trading Resumption - SIM",SIM
-"Sep 25, 2020IIROC Trade Resumption - GLC",GLC
-"Sep 25, 2020IIROC Trade Resumption - CRDL",CRDL
-"Sep 24, 2020IIROC Trading Resumption - NBL.H",NBL.H
-"Sep 24, 2020IIROC Trading Resumption - ZMA",ZMA
-"Sep 24, 2020IIROC Trading Resumption - VPT",VPT
