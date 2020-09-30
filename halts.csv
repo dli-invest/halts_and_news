@@ -1,4 +1,7 @@
 Halts,Listing
+"Sep 30, 2020IIROC Trading Halt - PBS",PBS
+"Sep 30, 2020IIROC Trade Resumption - OGC",OGC
+"Sep 30, 2020IIROC Trading Halt - AHU",AHU
 "Sep 29, 2020IIROC Trading Halt - OGC",OGC
 "Sep 29, 2020IIROC Trade Resumption - IAN",IAN
 "Sep 29, 2020IIROC Trade Resumption - SONA",SONA
@@ -21,6 +24,3 @@ Halts,Listing
 "Sep 28, 2020IIROC Trading Halt - SBC",SBC
 "Sep 28, 2020IIROC Trade Resumption - GL",GL
 "Sep 28, 2020IIROC Trade Resumption - GTBE",GTBE
-"Sep 28, 2020IIROC Trading Halt - IAN",IAN
-"Sep 28, 2020IIROC Trading Halt - GL",GL
-"Sep 28, 2020IIROC Trade Resumption - ZEU",ZEU
