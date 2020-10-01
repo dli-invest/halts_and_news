@@ -1,4 +1,6 @@
 Halts,Listing
+"Oct 1, 2020IIROC Trading Halt - BPF.UN",BPF.UN
+"Oct 1, 2020IIROC Trading Resumption - RBZ.P",RBZ.P
 "Oct 1, 2020IIROC Trading Resumption - GOK",GOK
 "Oct 1, 2020IIROC Trading Resumption - ARU",ARU
 "Oct 1, 2020IIROC Trade Resumption - PREV",PREV
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 29, 2020IIROC Trading Halt - OGC",OGC
 "Sep 29, 2020IIROC Trade Resumption - IAN",IAN
 "Sep 29, 2020IIROC Trade Resumption - SONA",SONA
-"Sep 29, 2020IIROC Trading Halt - SONA",SONA
-"Sep 29, 2020IIROC Trading Resumption - MKR",MKR
