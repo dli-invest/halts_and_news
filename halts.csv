@@ -1,4 +1,7 @@
 Halts,Listing
+"Oct 5, 2020IIROC Trading Resumption - AAX",AAX
+"Oct 5, 2020IIROC Trading Halt - IAN",IAN
+"Oct 5, 2020IIROC Trading Halt - AAX",AAX
 "Oct 5, 2020IIROC Trade Resumption - HP",HP
 "Oct 5, 2020IIROC Trading Resumption - BHS",BHS
 "Oct 5, 2020IIROC Trading Halt - BHS",BHS
@@ -21,6 +24,3 @@ Halts,Listing
 "Oct 1, 2020IIROC Trading Resumption - GOK",GOK
 "Oct 1, 2020IIROC Trading Resumption - ARU",ARU
 "Oct 1, 2020IIROC Trade Resumption - PREV",PREV
-"Oct 1, 2020IIROC Trade Resumption - SCL",SCL
-"Oct 1, 2020IIROC Trade Resumption - VREO",VREO
-"Oct 1, 2020IIROC Trading Halt - PREV",PREV
