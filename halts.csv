@@ -1,4 +1,9 @@
 Halts,Listing
+"Oct 6, 2020IIROC Trading Halt - SVX.U",SVX.U
+"Oct 6, 2020IIROC Trade Resumption - PVS.PR.I",PVS.PR.I
+"Oct 6, 2020IIROC Trading Resumption - FCF",FCF
+"Oct 6, 2020IIROC Trading Halt - PVS.PR.I",PVS.PR.I
+"Oct 6, 2020IIROC Trading Halt - DIA",DIA
 "Oct 5, 2020IIROC Trading Halt - BVC.H",BVC.H
 "Oct 5, 2020IIROC Trading Resumption - JNH",JNH
 "Oct 5, 2020IIROC Trading Resumption - AHU",AHU
@@ -19,8 +24,3 @@ Halts,Listing
 "Oct 2, 2020IIROC Trading Halt - JE",JE
 "Oct 2, 2020IIROC Trading Resumption - PLU",PLU
 "Oct 2, 2020IIROC Trading Halt - FLYY",FLYY
-"Oct 2, 2020IIROC Trade Resumption - IBG.DB.E",IBG.DB.E
-"Oct 2, 2020IIROC Trading Halt - ALAB.P",ALAB.P
-"Oct 2, 2020IIROC Trading Halt - IBG.DB.E",IBG.DB.E
-"Oct 2, 2020IIROC Trade Resumption - BPF.UN",BPF.UN
-"Oct 2, 2020IIROC Trading Halt - BTRY.P",BTRY.P
