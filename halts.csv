@@ -1,4 +1,7 @@
 Halts,Listing
+"Oct 7, 2020IIROC Trading Halt - CNV.P",CNV.P
+"Oct 7, 2020IIROC Trade Resumption - MDD",MDD
+"Oct 7, 2020IIROC Trading Resumption - SXL",SXL
 "Oct 7, 2020IIROC Trading Halt - MWM",MWM
 "Oct 7, 2020IIROC Trade Resumption - MHC.U",MHC.U
 "Oct 7, 2020IIROC Trading Halt - SXL",SXL
@@ -21,6 +24,3 @@ Halts,Listing
 "Oct 6, 2020IIROC Trade Resumption - SVX.U",SVX.U
 "Oct 6, 2020IIROC Trading Halt - SVX.U",SVX.U
 "Oct 6, 2020IIROC Trade Resumption - PVS.PR.I",PVS.PR.I
-"Oct 6, 2020IIROC Trading Resumption - FCF",FCF
-"Oct 6, 2020IIROC Trading Halt - PVS.PR.I",PVS.PR.I
-"Oct 6, 2020IIROC Trading Halt - DIA",DIA
