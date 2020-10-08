@@ -1,4 +1,9 @@
 Halts,Listing
+"Oct 8, 2020IIROC Trading Halt - NBL.H",NBL.H
+"Oct 8, 2020IIROC Trading Halt - MMS",MMS
+"Oct 8, 2020IIROC Trading Halt - TAJ",TAJ
+"Oct 8, 2020IIROC Trading Halt - TTT",TTT
+"Oct 8, 2020IIROC Trading Halt - AMS.X",AMS.X
 "Oct 7, 2020IIROC Trading Resumption - LNE.H",LNE.H
 "Oct 7, 2020IIROC Trade Resumption - MWM",MWM
 "Oct 7, 2020IIROC Trading Resumption - XPLR",XPLR
@@ -19,8 +24,3 @@ Halts,Listing
 "Oct 6, 2020IIROC Trading Resumption - KDK",KDK
 "Oct 6, 2020IIROC Trading Halt - VIVO",VIVO
 "Oct 6, 2020IIROC Trading Halt - KDK",KDK
-"Oct 6, 2020IIROC Trading Resumption - PYR",PYR
-"Oct 6, 2020IIROC Trading Halt - PYR",PYR
-"Oct 6, 2020IIROC Trade Resumption - HHS",HHS
-"Oct 6, 2020IIROC Trade Resumption - IAN",IAN
-"Oct 6, 2020IIROC Trading Halt - KES",KES
