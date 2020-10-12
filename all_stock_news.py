@@ -127,7 +127,7 @@ if __name__ == "__main__":
             merged_news = pd.merge(
                 temp_news_df,
                 old_news_df,
-                on=["link_href", "link_text", "ticker"],
+                on=["source", "link_href", "link_text", "ticker"],
                 how="left",
                 indicator=True,
             )
