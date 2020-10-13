@@ -1,4 +1,9 @@
 Halts,Listing
+"Oct 13, 2020IIROC Trading Halt - EIL",EIL
+"Oct 13, 2020IIROC Trade Resumption - VST",VST
+"Oct 13, 2020IIROC Trading Halt - VST",VST
+"Oct 13, 2020IIROC Trading Halt - DEEP",DEEP
+"Oct 13, 2020IIROC Trading Halt - NBY",NBY
 "Oct 13, 2020IIROC Trading Resumption - APGO",APGO
 "Oct 13, 2020IIROC Trading Resumption - EXRO",EXRO
 "Oct 13, 2020IIROC Trading Halt - EXRO",EXRO
@@ -19,8 +24,3 @@ Halts,Listing
 "Oct 9, 2020IIROC Trading Halt - JE",JE
 "Oct 9, 2020IIROC Trading Resumption - PGP",PGP
 "Oct 9, 2020IIROC Trading Halt - SKRB",SKRB
-"Oct 8, 2020IIROC Trading Halt - MVP",MVP
-"Oct 8, 2020IIROC Trade Resumption - VEXT",VEXT
-"Oct 8, 2020IIROC Trade Resumption - XRX",XRX
-"Oct 8, 2020IIROC Trading Halt - XRX",XRX
-"Oct 8, 2020IIROC Trading Halt - NBL.H",NBL.H
