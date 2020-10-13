@@ -1,4 +1,6 @@
 Halts,Listing
+"Oct 13, 2020IIROC Trading Halt - RMMI",RMMI
+"Oct 13, 2020IIROC Trading Resumption - EIL",EIL
 "Oct 13, 2020IIROC Trading Halt - EIL",EIL
 "Oct 13, 2020IIROC Trade Resumption - VST",VST
 "Oct 13, 2020IIROC Trading Halt - VST",VST
@@ -22,5 +24,3 @@ Halts,Listing
 "Oct 9, 2020IIROC Trading Resumption - MVP",MVP
 "Oct 9, 2020IIROC Trade Resumption - JE",JE
 "Oct 9, 2020IIROC Trading Halt - JE",JE
-"Oct 9, 2020IIROC Trading Resumption - PGP",PGP
-"Oct 9, 2020IIROC Trading Halt - SKRB",SKRB
