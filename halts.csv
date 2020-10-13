@@ -1,4 +1,6 @@
 Halts,Listing
+"Oct 13, 2020IIROC Trading Halt - IMIN",IMIN
+"Oct 13, 2020IIROC Trading Resumption - MMS",MMS
 "Oct 9, 2020IIROC Trading Resumption - OROX",OROX
 "Oct 9, 2020IIROC Trading Resumption - BEN.H",BEN.H
 "Oct 9, 2020IIROC Trading Resumption - STUV",STUV
@@ -22,5 +24,3 @@ Halts,Listing
 "Oct 8, 2020IIROC Trading Halt - TTT",TTT
 "Oct 8, 2020IIROC Trading Halt - AMS.X",AMS.X
 "Oct 7, 2020IIROC Trading Resumption - LNE.H",LNE.H
-"Oct 7, 2020IIROC Trade Resumption - MWM",MWM
-"Oct 7, 2020IIROC Trading Resumption - XPLR",XPLR
