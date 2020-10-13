@@ -1,4 +1,7 @@
 Halts,Listing
+"Oct 13, 2020IIROC Trading Halt - TNY",TNY
+"Oct 13, 2020IIROC Trading Resumption - GKO",GKO
+"Oct 13, 2020IIROC Trading Halt - NCAU",NCAU
 "Oct 13, 2020IIROC Trading Halt - RMMI",RMMI
 "Oct 13, 2020IIROC Trading Resumption - EIL",EIL
 "Oct 13, 2020IIROC Trading Halt - EIL",EIL
@@ -21,6 +24,3 @@ Halts,Listing
 "Oct 9, 2020IIROC Trade Resumption - KNR",KNR
 "Oct 9, 2020IIROC Trading Halt - KNR",KNR
 "Oct 9, 2020IIROC Trading Halt - IL.P",IL.P
-"Oct 9, 2020IIROC Trading Resumption - MVP",MVP
-"Oct 9, 2020IIROC Trade Resumption - JE",JE
-"Oct 9, 2020IIROC Trading Halt - JE",JE
