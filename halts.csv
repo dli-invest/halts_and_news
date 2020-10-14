@@ -1,4 +1,6 @@
 Halts,Listing
+"Oct 14, 2020IIROC Trading Halt - AIMD.P",AIMD.P
+"Oct 14, 2020IIROC Trading Resumption - HBE",HBE
 "Oct 14, 2020IIROC Trading Halt - NNO",NNO
 "Oct 14, 2020IIROC Trading Resumption - TAO",TAO
 "Oct 14, 2020IIROC Trading Halt - TAO",TAO
@@ -22,5 +24,3 @@ Halts,Listing
 "Oct 13, 2020IIROC Trading Halt - APGO",APGO
 "Oct 13, 2020IIROC Trading Halt - LLO.P",LLO.P
 "Oct 13, 2020IIROC Trading Halt - IMIN",IMIN
-"Oct 13, 2020IIROC Trading Resumption - MMS",MMS
-"Oct 9, 2020IIROC Trading Resumption - OROX",OROX
