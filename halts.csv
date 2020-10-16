@@ -1,4 +1,6 @@
 Halts,Listing
+"Oct 16, 2020IIROC Trading Resumption - JST.P",JST.P
+"Oct 16, 2020IIROC Trading Resumption - DIG.H",DIG.H
 "Oct 16, 2020IIROC Trading Resumption - ABI",ABI
 "Oct 16, 2020IIROC Trading Halt - ABI",ABI
 "Oct 16, 2020IIROC Trading Resumption - PYR",PYR
@@ -22,5 +24,3 @@ Halts,Listing
 "Oct 15, 2020IIROC Trading Halt - MTRX",MTRX
 "Oct 15, 2020IIROC Trading Halt - COT",COT
 "Oct 15, 2020IIROC Trading Halt - SA",SA
-"Oct 14, 2020IIROC Trading Halt - AIMD.P",AIMD.P
-"Oct 14, 2020IIROC Trading Resumption - HBE",HBE
