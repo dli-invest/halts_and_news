@@ -1,4 +1,7 @@
 Halts,Listing
+"Oct 16, 2020IIROC Trading Halt - TKR",TKR
+"Oct 16, 2020IIROC Trading Halt - ESK",ESK
+"Oct 16, 2020IIROC Trading Halt - YFI",YFI
 "Oct 15, 2020IIROC Trading Halt - CHC.H",CHC.H
 "Oct 15, 2020IIROC Trade Resumption - SKYL",SKYL
 "Oct 15, 2020IIROC Trading Resumption - GRAT",GRAT
@@ -21,6 +24,3 @@ Halts,Listing
 "Oct 14, 2020IIROC Trading Halt - TAO",TAO
 "Oct 14, 2020IIROC Trading Resumption - NCAU",NCAU
 "Oct 14, 2020IIROC Trading Resumption - NBY",NBY
-"Oct 14, 2020IIROC Trading Halt - GRAT",GRAT
-"Oct 13, 2020IIROC Trading Halt - TNY",TNY
-"Oct 13, 2020IIROC Trading Resumption - GKO",GKO
