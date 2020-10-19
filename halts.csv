@@ -1,4 +1,7 @@
 Halts,Listing
+"Oct 19, 2020IIROC Trading Halt - DOC",DOC
+"Oct 19, 2020IIROC Trading Halt - DMR",DMR
+"Oct 19, 2020IIROC Trading Halt - EMN",EMN
 "Oct 16, 2020IIROC Trading Resumption - JST.P",JST.P
 "Oct 16, 2020IIROC Trading Resumption - DIG.H",DIG.H
 "Oct 16, 2020IIROC Trading Resumption - ABI",ABI
@@ -21,6 +24,3 @@ Halts,Listing
 "Oct 15, 2020IIROC Trading Resumption - MTRX",MTRX
 "Oct 15, 2020IIROC Trading Halt - NEWU",NEWU
 "Oct 15, 2020IIROC Trading Halt - JST.P",JST.P
-"Oct 15, 2020IIROC Trading Halt - MTRX",MTRX
-"Oct 15, 2020IIROC Trading Halt - COT",COT
-"Oct 15, 2020IIROC Trading Halt - SA",SA
