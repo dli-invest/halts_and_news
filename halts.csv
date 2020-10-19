@@ -1,4 +1,8 @@
 Halts,Listing
+"Oct 19, 2020IIROC Trading Halt - NPTH",NPTH
+"Oct 19, 2020IIROC Trading Halt - SZLS",SZLS
+"Oct 19, 2020IIROC Trading Resumption - KO",KO
+"Oct 19, 2020IIROC Trade Resumption - VST",VST
 "Oct 19, 2020IIROC Trading Halt - NSE",NSE
 "Oct 19, 2020IIROC Trading Halt - VST",VST
 "Oct 19, 2020IIROC Trade Resumption - TKR",TKR
@@ -20,7 +24,3 @@ Halts,Listing
 "Oct 15, 2020IIROC Trading Halt - CHC.H",CHC.H
 "Oct 15, 2020IIROC Trade Resumption - SKYL",SKYL
 "Oct 15, 2020IIROC Trading Resumption - GRAT",GRAT
-"Oct 15, 2020IIROC Trading Resumption - NEWU",NEWU
-"Oct 15, 2020IIROC Trading Halt - SKYL",SKYL
-"Oct 15, 2020IIROC Trading Resumption - NNO",NNO
-"Oct 15, 2020IIROC Trade Resumption - TNY",TNY
