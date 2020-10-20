@@ -1,4 +1,10 @@
 Halts,Listing
+"Oct 20, 2020IIROC Trading Resumption - REL",REL
+"Oct 20, 2020IIROC Trading Resumption - JTR",JTR
+"Oct 20, 2020IIROC Trading Halt - VST",VST
+"Oct 20, 2020IIROC Trading Halt - WLLW",WLLW
+"Oct 20, 2020IIROC Trading Halt - NEPT",NEPT
+"Oct 20, 2020IIROC Trading Halt - REL",REL
 "Oct 20, 2020IIROC Trading Halt - FFNT",FFNT
 "Oct 20, 2020IIROC Trade Resumption - FFNT",FFNT
 "Oct 20, 2020IIROC Trading Halt - FFNT",FFNT
@@ -18,9 +24,3 @@ Halts,Listing
 "Oct 19, 2020IIROC Trading Halt - SZLS",SZLS
 "Oct 19, 2020IIROC Trading Resumption - KO",KO
 "Oct 19, 2020IIROC Trade Resumption - VST",VST
-"Oct 19, 2020IIROC Trading Halt - NSE",NSE
-"Oct 19, 2020IIROC Trading Halt - VST",VST
-"Oct 19, 2020IIROC Trade Resumption - TKR",TKR
-"Oct 19, 2020IIROC Trading Halt - GENE.WT",GENE.WT
-"Oct 19, 2020IIROC Trading Halt - DOC",DOC
-"Oct 19, 2020IIROC Trading Halt - DMR",DMR
