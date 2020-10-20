@@ -1,4 +1,7 @@
 Halts,Listing
+"Oct 20, 2020IIROC Trading Halt - FFNT",FFNT
+"Oct 20, 2020IIROC Trade Resumption - FFNT",FFNT
+"Oct 20, 2020IIROC Trading Halt - FFNT",FFNT
 "Oct 20, 2020IIROC Trading Resumption - DOC",DOC
 "Oct 20, 2020IIROC Trade Resumption - PLTH",PLTH
 "Oct 20, 2020IIROC Trading Resumption - NSE",NSE
@@ -21,6 +24,3 @@ Halts,Listing
 "Oct 19, 2020IIROC Trading Halt - GENE.WT",GENE.WT
 "Oct 19, 2020IIROC Trading Halt - DOC",DOC
 "Oct 19, 2020IIROC Trading Halt - DMR",DMR
-"Oct 19, 2020IIROC Trading Halt - EMN",EMN
-"Oct 16, 2020IIROC Trading Resumption - JST.P",JST.P
-"Oct 16, 2020IIROC Trading Resumption - DIG.H",DIG.H
