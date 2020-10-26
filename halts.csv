@@ -1,4 +1,6 @@
 Halts,Listing
+"Oct 26, 2020IIROC Trading Resumption - VXL",VXL
+"Oct 26, 2020IIROC Trading Halt - VXL",VXL
 "Oct 26, 2020IIROC Trading Halt - GSGS.P",GSGS.P
 "Oct 26, 2020IIROC Trading Halt - FUTR",FUTR
 "Oct 26, 2020IIROC Trade Resumption - HBOR",HBOR
@@ -22,5 +24,3 @@ Halts,Listing
 "Oct 21, 2020IIROC Trade Resumption - HHS",HHS
 "Oct 21, 2020IIROC Trading Resumption - JLR",JLR
 "Oct 21, 2020IIROC Trading Halt - HARV",HARV
-"Oct 21, 2020IIROC Trading Halt - MTL",MTL
-"Oct 21, 2020IIROC Trading Halt - HHS",HHS
