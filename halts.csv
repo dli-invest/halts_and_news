@@ -1,4 +1,9 @@
 Halts,Listing
+"Oct 27, 2020IIROC Trading Halt - DM",DM
+"Oct 27, 2020IIROC Trade Resumption - FUTR",FUTR
+"Oct 27, 2020IIROC Trading Halt - BBB",BBB
+"Oct 27, 2020IIROC Trade Resumption - BGRD.X",BGRD.X
+"Oct 27, 2020IIROC Trading Halt -SIXW",-SIXW
 "Oct 26, 2020IIROC Trading Resumption - LMGC",LMGC
 "Oct 26, 2020IIROC Trading Resumption - GBE",GBE
 "Oct 26, 2020IIROC Trade Resumption - ACDC",ACDC
@@ -19,8 +24,3 @@ Halts,Listing
 "Oct 23, 2020IIROC Trading Halt - CHR",CHR
 "Oct 23, 2020IIROC Trade Resumption - CHR",CHR
 "Oct 23, 2020Investment Industry Regulatory Organization of Canada (IIROC) - Halts/Resumptions/",Halts/Resumptions/
-"Oct 23, 2020IIROC Trading Halt - AMI",AMI
-"Oct 23, 2020IIROC Trading Resumption - KANA",KANA
-"Oct 23, 2020IIROC Trade Resumption - TGOD.WA",TGOD.WA
-"Oct 23, 2020IIROC Trading Halt - KANA",KANA
-"Oct 22, 2020IIROC Trading Resumption - CUI",CUI
