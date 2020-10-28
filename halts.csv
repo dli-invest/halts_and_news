@@ -1,4 +1,6 @@
 Halts,Listing
+"Oct 28, 2020IIROC Trading Halt - AVC.P",AVC.P
+"Oct 28, 2020IIROC Trading Halt - VST",VST
 "Oct 28, 2020IIROC Trade Resumption - GATO",GATO
 "Oct 28, 2020IIROC Trading Halt - SOW",SOW
 "Oct 28, 2020IIROC Trade Resumption - BBTV",BBTV
@@ -22,5 +24,3 @@ Halts,Listing
 "Oct 27, 2020IIROC Trade Resumption - BGRD.X",BGRD.X
 "Oct 27, 2020IIROC Trading Halt -SIXW",-SIXW
 "Oct 26, 2020IIROC Trading Resumption - LMGC",LMGC
-"Oct 26, 2020IIROC Trading Resumption - GBE",GBE
-"Oct 26, 2020IIROC Trade Resumption - ACDC",ACDC
