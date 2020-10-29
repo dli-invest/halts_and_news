@@ -1,4 +1,8 @@
 Halts,Listing
+"Oct 29, 2020IIROC Trading Halt - CVM",CVM
+"Oct 29, 2020IIROC Trade Resumption - CBII",CBII
+"Oct 29, 2020IIROC Trading Resumption - MON",MON
+"Oct 29, 2020IIROC Trading Halt - MON",MON
 "Oct 29, 2020IIROC Trade Resumption - SONA",SONA
 "Oct 29, 2020IIROC Trade Resumption - SOW",SOW
 "Oct 29, 2020/C O R R E C T I O N from Source -- Investment Industry Regulatory Organization of Canada (IIROC) - Halts/Resumptions/",Halts/Resumptions/
@@ -20,7 +24,3 @@ Halts,Listing
 "Oct 28, 2020IIROC Trading Halt - VST",VST
 "Oct 28, 2020IIROC Trade Resumption - GATO",GATO
 "Oct 28, 2020IIROC Trading Halt - SOW",SOW
-"Oct 28, 2020IIROC Trade Resumption - BBTV",BBTV
-"Oct 28, 2020IIROC Trading Halt - OIC",OIC
-"Oct 28, 2020IIROC Trade Resumption - AR.DB.U",AR.DB.U
-"Oct 28, 2020IIROC Trading Halt - FURA",FURA
