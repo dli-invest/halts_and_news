@@ -1,4 +1,8 @@
 Halts,Listing
+"Nov 2, 2020IIROC Trading Halt - JOY",JOY
+"Nov 2, 2020IIROC Trade Resumption - GLXY",GLXY
+"Nov 2, 2020IIROC Trading Resumption - DRC.H",DRC.H
+"Nov 2, 2020IIROC Trading Halt - BAQ.P",BAQ.P
 "Oct 30, 2020IIROC Trade Resumption - ACDC",ACDC
 "Oct 30, 2020IIROC Trading Resumption - PHI",PHI
 "Oct 30, 2020IIROC Trading Resumption - KDSX",KDSX
@@ -20,7 +24,3 @@ Halts,Listing
 "Oct 29, 2020IIROC Trade Resumption - SOW",SOW
 "Oct 29, 2020/C O R R E C T I O N from Source -- Investment Industry Regulatory Organization of Canada (IIROC) - Halts/Resumptions/",Halts/Resumptions/
 "Oct 29, 2020IIROC Trade Resumption - SONA",SONA
-"Oct 29, 2020IIROC Trading Halt - SONA",SONA
-"Oct 29, 2020IIROC Trade Resumption - WLLW.WT",WLLW.WT
-"Oct 29, 2020IIROC Trade Resumption - SONA",SONA
-"Oct 29, 2020IIROC Trading Resumption - SUNM",SUNM
