@@ -1,4 +1,9 @@
 Halts,Listing
+"Nov 4, 2020IIROC Trading Halt - CIP.H",CIP.H
+"Nov 4, 2020IIROC Trade Resumption - GTOO",GTOO
+"Nov 4, 2020IIROC Trading Resumption - PEAK",PEAK
+"Nov 4, 2020IIROC Trade Resumption - FOG.X",FOG.X
+"Nov 4, 2020IIROC Trade Resumption - LUC",LUC
 "Nov 4, 2020IIROC Trading Halt - GTOO",GTOO
 "Nov 4, 2020IIROC Trading Resumption - AZ",AZ
 "Nov 4, 2020IIROC Trading Halt - PEAK",PEAK
@@ -19,8 +24,3 @@ Halts,Listing
 "Nov 2, 2020IIROC Trade Resumption - JOY",JOY
 "Nov 2, 2020IIROC Trading Halt - VEXT",VEXT
 "Nov 2, 2020IIROC Trading Halt - BGS",BGS
-"Nov 2, 2020IIROC Trade Resumption - TXP",TXP
-"Nov 2, 2020IIROC Trade Resumption - DEEP",DEEP
-"Nov 2, 2020IIROC Trading Halt - TXP",TXP
-"Nov 2, 2020IIROC Trading Halt - MLR",MLR
-"Nov 2, 2020IIROC Trading Halt - AEL.H",AEL.H
