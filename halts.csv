@@ -1,4 +1,7 @@
 Halts,Listing
+"Nov 5, 2020IIROC Trading Halt - AMH",AMH
+"Nov 5, 2020IIROC Trading Halt - VPN",VPN
+"Nov 5, 2020IIROC Trading Halt - HMCC.P",HMCC.P
 "Nov 4, 2020IIROC Trade Resumption - APHA",APHA
 "Nov 4, 2020IIROC Trading Halt - APHA",APHA
 "Nov 4, 2020IIROC Trading Halt - CIP.H",CIP.H
@@ -21,6 +24,3 @@ Halts,Listing
 "Nov 3, 2020IIROC Trading Resumption - NSP",NSP
 "Nov 3, 2020IIROC Trading Halt - SBTC.P",SBTC.P
 "Nov 2, 2020IIROC Trade Resumption - VEXT",VEXT
-"Nov 2, 2020IIROC Trading Resumption - LHI",LHI
-"Nov 2, 2020IIROC Trading Halt - NSP",NSP
-"Nov 2, 2020IIROC Trade Resumption - JOY",JOY
