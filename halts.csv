@@ -1,4 +1,6 @@
 Halts,Listing
+"Nov 6, 2020IIROC Trading Halt - TCI",TCI
+"Nov 6, 2020IIROC Trading Halt - BUZH.P",BUZH.P
 "Nov 5, 2020IIROC Trading Resumption - WEST",WEST
 "Nov 5, 2020IIROC Trading Halt - VQS",VQS
 "Nov 5, 2020IIROC Trade Resumption - KNR",KNR
@@ -22,5 +24,3 @@ Halts,Listing
 "Nov 4, 2020IIROC Trading Halt - AZ",AZ
 "Nov 4, 2020IIROC Trading Halt - DEV.H",DEV.H
 "Nov 4, 2020IIROC Trade Resumption - GSY",GSY
-"Nov 3, 2020IIROC Trading Resumption - GLDL",GLDL
-"Nov 3, 2020IIROC Trading Resumption - MLY",MLY
