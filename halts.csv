@@ -1,4 +1,7 @@
 Halts,Listing
+"Nov 9, 2020IIROC Trading Halt - VXL",VXL
+"Nov 9, 2020IIROC Trading Halt - CTM",CTM
+"Nov 9, 2020IIROC Trading Halt - BLC.H",BLC.H
 "Nov 6, 2020IIROC Trading Resumption - CVM",CVM
 "Nov 6, 2020IIROC Trading Resumption - HMCC.P",HMCC.P
 "Nov 6, 2020IIROC Trading Resumption - TMC",TMC
@@ -21,6 +24,3 @@ Halts,Listing
 "Nov 5, 2020IIROC Trade Resumption - KNR",KNR
 "Nov 5, 2020IIROC Trading Halt - KNR",KNR
 "Nov 5, 2020IIROC Trading Resumption - GIII",GIII
-"Nov 5, 2020IIROC Trading Halt - GIII",GIII
-"Nov 5, 2020IIROC Trading Halt - AMH",AMH
-"Nov 5, 2020IIROC Trading Halt - VPN",VPN
