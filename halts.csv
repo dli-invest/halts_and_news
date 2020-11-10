@@ -1,4 +1,9 @@
 Halts,Listing
+"Nov 10, 2020IIROC Trading Halt - BIOV",BIOV
+"Nov 10, 2020IIROC Trading Halt - AAX",AAX
+"Nov 10, 2020IIROC Trading Halt - FRO.UN",FRO.UN
+"Nov 10, 2020IIROC Trade Resumption - HEY",HEY
+"Nov 10, 2020IIROC Trading Resumption - WCC",WCC
 "Nov 10, 2020IIROC Trade Resumption - NICO",NICO
 "Nov 10, 2020IIROC Trading Halt - WCC",WCC
 "Nov 10, 2020IIROC Trade Resumption - VERY",VERY
@@ -19,8 +24,3 @@ Halts,Listing
 "Nov 9, 2020IIROC Trading Halt - SONA",SONA
 "Nov 9, 2020IIROC Trading Resumption - POPR",POPR
 "Nov 9, 2020IIROC Trading Resumption - LAB",LAB
-"Nov 9, 2020IIROC Trade Resumption - SONA",SONA
-"Nov 9, 2020IIROC Trading Halt - SONA",SONA
-"Nov 9, 2020IIROC Trading Resumption - MNO",MNO
-"Nov 9, 2020IIROC Trading Resumption - VXL",VXL
-"Nov 9, 2020IIROC Trade Resumption - PKK",PKK
