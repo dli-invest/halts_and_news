@@ -1,4 +1,8 @@
 Halts,Listing
+"Nov 12, 2020IIROC Trading Halt - LCC.P",LCC.P
+"Nov 12, 2020IIROC Trade Resumption - DND",DND
+"Nov 11, 2020IIROC Trading Halt - DND",DND
+"Nov 11, 2020IIROC Trade Resumption - ENBI",ENBI
 "Nov 11, 2020IIROC Trading Resumption - RTM",RTM
 "Nov 11, 2020IIROC Trading Halt - RTM",RTM
 "Nov 11, 2020IIROC Trading Resumption - FRO.UN",FRO.UN
@@ -20,7 +24,3 @@ Halts,Listing
 "Nov 10, 2020IIROC Trading Halt - WCC",WCC
 "Nov 10, 2020IIROC Trade Resumption - VERY",VERY
 "Nov 10, 2020IIROC Trading Halt - VERY",VERY
-"Nov 10, 2020IIROC Trading Halt - NICO",NICO
-"Nov 10, 2020IIROC Trade Resumption - CLR",CLR
-"Nov 10, 2020IIROC Trade Resumption - PBH",PBH
-"Nov 9, 2020IIROC Trading Resumption - TAU",TAU
