@@ -1,4 +1,6 @@
 Halts,Listing
+"Nov 13, 2020IIROC Trading Halt - NED",NED
+"Nov 13, 2020IIROC Trading Resumption - NOVR",NOVR
 "Nov 12, 2020IIROC Trading Halt - AVCN",AVCN
 "Nov 12, 2020IIROC Trading Resumption - BRU.H Formerly BRU",BRU
 "Nov 12, 2020IIROC Trade Resumption - CRVC",CRVC
@@ -22,5 +24,3 @@ Halts,Listing
 "Nov 10, 2020IIROC Trade Resumption - LNF",LNF
 "Nov 10, 2020IIROC Trade Resumption - HOM.UN",HOM.UN
 "Nov 10, 2020IIROC Trading Halt - LNF",LNF
-"Nov 10, 2020IIROC Trading Resumption - AAX",AAX
-"Nov 10, 2020IIROC Trading Halt - HOM.UN",HOM.UN
