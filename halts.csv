@@ -1,4 +1,7 @@
 Halts,Listing
+"Nov 16, 2020IIROC Trading Halt - EMC.WT.A",EMC.WT.A
+"Nov 16, 2020IIROC Trading Halt - BKM",BKM
+"Nov 16, 2020IIROC Trading Resumption - ETMC",ETMC
 "Nov 16, 2020IIROC Trade Resumption - ACB.WT.U",ACB.WT.U
 "Nov 16, 2020IIROC Trade Resumption - XRX",XRX
 "Nov 16, 2020IIROC Trading Halt - GRAT",GRAT
@@ -21,6 +24,3 @@ Halts,Listing
 "Nov 12, 2020IIROC Trade Resumption - CRVC",CRVC
 "Nov 12, 2020IIROC Trade Resumption - BIGG",BIGG
 "Nov 12, 2020IIROC Trading Halt - CRVC",CRVC
-"Nov 12, 2020IIROC Trade Resumption - MIRL",MIRL
-"Nov 12, 2020IIROC Trade Resumption - IN",IN
-"Nov 12, 2020IIROC Trading Halt - IN",IN
