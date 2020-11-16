@@ -1,4 +1,9 @@
 Halts,Listing
+"Nov 16, 2020IIROC Trading Halt - XRX",XRX
+"Nov 16, 2020IIROC Trading Halt - ACB.WT.U",ACB.WT.U
+"Nov 16, 2020IIROC Trading Halt - CLH",CLH
+"Nov 16, 2020IIROC Trading Halt - UUU.P",UUU.P
+"Nov 16, 2020IIROC Trading Halt - SMAR.P",SMAR.P
 "Nov 13, 2020IIROC Trading Resumption - SXL",SXL
 "Nov 13, 2020IIROC Trading Resumption - NED",NED
 "Nov 13, 2020IIROC Trading Halt - Enter Symbol(s) Here",Here
@@ -19,8 +24,3 @@ Halts,Listing
 "Nov 12, 2020IIROC Trading Halt - LCC.P",LCC.P
 "Nov 12, 2020IIROC Trade Resumption - DND",DND
 "Nov 11, 2020IIROC Trading Halt - DND",DND
-"Nov 11, 2020IIROC Trade Resumption - ENBI",ENBI
-"Nov 11, 2020IIROC Trading Resumption - RTM",RTM
-"Nov 11, 2020IIROC Trading Halt - RTM",RTM
-"Nov 11, 2020IIROC Trading Resumption - FRO.UN",FRO.UN
-"Nov 11, 2020IIROC Trade Resumption - BIOV",BIOV
