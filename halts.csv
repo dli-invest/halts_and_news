@@ -1,4 +1,6 @@
 Halts,Listing
+"Nov 17, 2020IIROC Trading Halt - AUSA",AUSA
+"Nov 17, 2020IIROC Trading Halt - GMO",GMO
 "Nov 17, 2020IIROC Trading Resumption - NBY",NBY
 "Nov 17, 2020IIROC Trade Resumption - VERY",VERY
 "Nov 17, 2020IIROC Trading Resumption - SB",SB
@@ -22,5 +24,3 @@ Halts,Listing
 "Nov 16, 2020IIROC Trading Halt - ACB.WT.U",ACB.WT.U
 "Nov 16, 2020IIROC Trading Halt - CLH",CLH
 "Nov 16, 2020IIROC Trading Halt - UUU.P",UUU.P
-"Nov 16, 2020IIROC Trading Halt - SMAR.P",SMAR.P
-"Nov 13, 2020IIROC Trading Resumption - SXL",SXL
