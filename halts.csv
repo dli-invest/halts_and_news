@@ -1,4 +1,7 @@
 Halts,Listing
+"Nov 17, 2020IIROC Trading Halt - SB",SB
+"Nov 17, 2020IIROC Trading Halt - BRU.H",BRU.H
+"Nov 17, 2020IIROC Trading Halt - VMX",VMX
 "Nov 16, 2020IIROC Trading Resumption - BRM",BRM
 "Nov 16, 2020IIROC Trading Halt - BRM",BRM
 "Nov 16, 2020IIROC Trading Resumption - BKM",BKM
@@ -21,6 +24,3 @@ Halts,Listing
 "Nov 13, 2020IIROC Trading Resumption - TLT",TLT
 "Nov 13, 2020IIROC Trade Resumption - AVCN",AVCN
 "Nov 13, 2020IIROC Trading Halt - TLT",TLT
-"Nov 13, 2020IIROC Trading Halt - NED",NED
-"Nov 13, 2020IIROC Trading Resumption - NOVR",NOVR
-"Nov 12, 2020IIROC Trading Halt - AVCN",AVCN
