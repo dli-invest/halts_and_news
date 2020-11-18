@@ -1,4 +1,6 @@
 Halts,Listing
+"Nov 18, 2020IIROC Trading Halt - WRN",WRN
+"Nov 18, 2020IIROC Trading Halt - MNC.PR.A",MNC.PR.A
 "Nov 18, 2020IIROC Trade Resumption - KNR",KNR
 "Nov 18, 2020IIROC Trading Halt - KNR",KNR
 "Nov 18, 2020IIROC Trade Resumption - SOFT",SOFT
@@ -22,5 +24,3 @@ Halts,Listing
 "Nov 17, 2020IIROC Trading Halt - BRU.H",BRU.H
 "Nov 17, 2020IIROC Trading Halt - VMX",VMX
 "Nov 16, 2020IIROC Trading Resumption - BRM",BRM
-"Nov 16, 2020IIROC Trading Halt - BRM",BRM
-"Nov 16, 2020IIROC Trading Resumption - BKM",BKM
