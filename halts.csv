@@ -1,4 +1,7 @@
 Halts,Listing
+"Nov 19, 2020IIROC Trading Halt - SQID",SQID
+"Nov 19, 2020IIROC Trade Resumption - DOSE",DOSE
+"Nov 19, 2020IIROC Trading Halt - JJ.RT",JJ.RT
 "Nov 19, 2020IIROC Trade Resumption - WRN",WRN
 "Nov 19, 2020IIROC Trade Resumption - CBII",CBII
 "Nov 19, 2020IIROC Trading Halt - CBII",CBII
@@ -21,6 +24,3 @@ Halts,Listing
 "Nov 18, 2020IIROC Trade Resumption - AWR",AWR
 "Nov 17, 2020IIROC Trading Resumption - GRN",GRN
 "Nov 17, 2020IIROC Trading Resumption - OMG",OMG
-"Nov 17, 2020IIROC Trading Halt - GRN",GRN
-"Nov 17, 2020IIROC Trading Halt - AWR",AWR
-"Nov 17, 2020IIROC Trading Halt - AUSA",AUSA
