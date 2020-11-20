@@ -1,4 +1,6 @@
 Halts,Listing
+"Nov 20, 2020IIROC Trading Halt - APX",APX
+"Nov 20, 2020IIROC Trading Halt - MILE",MILE
 "Nov 19, 2020IIROC Trading Resumption - HAND",HAND
 "Nov 19, 2020IIROC Trading Resumption - YEG",YEG
 "Nov 19, 2020IIROC Trading Halt - IP",IP
@@ -22,5 +24,3 @@ Halts,Listing
 "Nov 18, 2020IIROC Trading Halt - MNC.PR.A",MNC.PR.A
 "Nov 18, 2020IIROC Trade Resumption - KNR",KNR
 "Nov 18, 2020IIROC Trading Halt - KNR",KNR
-"Nov 18, 2020IIROC Trade Resumption - SOFT",SOFT
-"Nov 18, 2020IIROC Trading Halt - SOFT",SOFT
