@@ -7,6 +7,8 @@ import requests
 import os
 import json
 import time
+from urllib.request import urlopen
+import pickle
 from db_driver import FaunaWrapper
 from typing import Union
 from cad_tickers.news import get_halts_resumption, scrap_news_for_ticker
@@ -100,10 +102,8 @@ def get_halts():
 
 
 def get_tickers():
-    url = os.getenv("STOCK_API")
-    r = requests.get(f"{url}/api/tickers-full")
-    resp = r.json()
-    data = resp.get("data")
+    url = "https://github.com/FriendlyUser/cad_tickers_list/blob/main/static/latest/tickers?raw=true"
+    data = pickle.load(urlopen(url))
     return data
 
 
@@ -213,5 +213,6 @@ if __name__ == "__main__":
     assert sys.version_info >= (3, 6)
     # grabbing all news for all stocks will be done in another script
     # no need to publish the results to github pages
-    get_halts()
-    get_news()
+    # get_halts()
+    data = get_tickers()
+    # get_news()
