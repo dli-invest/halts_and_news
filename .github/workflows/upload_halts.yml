@@ -14,6 +14,7 @@ env:
   DISCORD_NEWS_WEBHOOK_ALL: ${{ secrets.DISCORD_NEWS_WEBHOOK_ALL }}
   STOCK_API: ${{ secrets.STOCK_API }}
   FAUNA_KEY: ${{ secrets.FAUNA_KEY }}
+  JOB_STATUS: ${{ job.status }}
 
 jobs:
   build:
@@ -35,8 +36,8 @@ jobs:
       - name: Run Script for news and halts
         run: |
           python news_and_halts.py
-          mv halts.html dist/
-          mv news.html dist/
+          mv halts.html dist/ || true
+          mv news.html dist/ || true
 
       - name: Run Script for all news
         run: |
@@ -66,3 +67,19 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages # The branch the action should deploy to.
           FOLDER: dist # The folder the action should deploy.
+
+  discord:
+    name: Discord
+    needs: build # set needs only last job except this job
+    runs-on: ubuntu-latest
+    if: always() # set always
+    steps:
+        # run this action to get workflow conclusion
+        # You can get conclusion via env (env.WORKFLOW_CONCLUSION)
+      - uses: technote-space/workflow-conclusion-action@v2
+      - name: update discord
+        run: |
+          git clone https://github.com/DiscordHooks/github-actions-discord-webhook.git webhook
+          bash webhook/send.sh $JOB_STATUS $DISCORD_NEWS_WEBHOOK
+          bash webhook/send.sh @grandfleet check this out
+        if: env.WORKFLOW_CONCLUSION == 'failure' # notify only if failure 
