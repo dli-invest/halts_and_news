@@ -14,7 +14,6 @@ env:
   DISCORD_NEWS_WEBHOOK_ALL: ${{ secrets.DISCORD_NEWS_WEBHOOK_ALL }}
   STOCK_API: ${{ secrets.STOCK_API }}
   FAUNA_KEY: ${{ secrets.FAUNA_KEY }}
-  JOB_STATUS: ${{ job.status }}
 
 jobs:
   build:
@@ -80,6 +79,6 @@ jobs:
       - name: update discord
         run: |
           git clone https://github.com/DiscordHooks/github-actions-discord-webhook.git webhook
-          bash webhook/send.sh $JOB_STATUS $DISCORD_NEWS_WEBHOOK
-          bash webhook/send.sh @grandfleet check this out
+          bash webhook/send.sh "halts and news failure" $DISCORD_NEWS_WEBHOOK
+          bash webhook/send.sh "@grandfleet check this out" $DISCORD_NEWS_WEBHOOK
         if: env.WORKFLOW_CONCLUSION == 'failure' # notify only if failure 
