@@ -34,14 +34,10 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run Script for news and halts
-        run: |
-          python news_and_halts.py
-          mv halts.html dist/ || true
-          mv news.html dist/ || true
-
+        run: python news_and_halts.py
+      
       - name: Run Script for all news
-        run: |
-          python all_stock_news.py
+        run: python all_stock_news.py
 
       - uses: actions/upload-artifact@v2
         with:
