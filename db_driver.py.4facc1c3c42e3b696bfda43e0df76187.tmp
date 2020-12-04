@@ -48,3 +48,4 @@ class FaunaWrapper:
         except Exception as error:
             print(collection_data)
             # raise Exception(error)
+            pass
