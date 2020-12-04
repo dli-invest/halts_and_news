@@ -12,6 +12,7 @@ on:
 env:
   DISCORD_NEWS_WEBHOOK: ${{ secrets.DISCORD_NEWS_WEBHOOK }}
   DISCORD_NEWS_WEBHOOK_ALL: ${{ secrets.DISCORD_NEWS_WEBHOOK_ALL }}
+  DISCORD_CODE_STATUS_WEBHOOK: ${{ secrets.DISCORD_CODE_STATUS_WEBHOOK }}
   STOCK_API: ${{ secrets.STOCK_API }}
   FAUNA_KEY: ${{ secrets.FAUNA_KEY }}
 
@@ -67,20 +68,16 @@ jobs:
           BRANCH: gh-pages # The branch the action should deploy to.
           FOLDER: dist # The folder the action should deploy.
 
-  # discord:
-  #   name: Discord
-  #   needs: fetch # set needs only last job except this job
-  #   runs-on: ubuntu-latest
-  #   if: always() # set always
-  #   env:
-  #       JOB_STATUS: ${{ needs.fetch.outputs.job_status.status }}
-  #   steps:
-  #       # run this action to get workflow conclusion
-  #       # You can get conclusion via env (env.WORKFLOW_CONCLUSION)
-  #     - uses: technote-space/workflow-conclusion-action@v2
-  #     - name: update discord
-  #       if: env.WORKFLOW_CONCLUSION == 'failure' # notify only if failure 
-  #       run: |
-  #         git clone https://github.com/DiscordHooks/github-actions-discord-webhook.git webhook
-  #         bash webhook/send.sh "halts and news failure" $DISCORD_NEWS_WEBHOOK
-  #         bash webhook/send.sh $JOB_STATUS $DISCORD_NEWS_WEBHOOK
+      - uses: sarisia/actions-status-discord@v1
+        if: failure()
+        with:
+          webhook: ${{ secrets.DISCORD_CODE_STATUS_WEBHOOK }}
+          status: ${{ job.status }}
+          title: ${{github.repository}}
+          description: "Build and deploy to GitHub Pages"
+          nofail: false
+          nocontext: false
+          noprefix: false
+          color: 0x0000ff
+          username: GitHub Actions
+
