@@ -16,7 +16,7 @@ env:
   FAUNA_KEY: ${{ secrets.FAUNA_KEY }}
 
 jobs:
-  fetch_news:
+  fetch:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -69,11 +69,9 @@ jobs:
 
   discord:
     name: Discord
-    needs: fetch_news # set needs only last job except this job
+    needs: fetch # set needs only last job except this job
     runs-on: ubuntu-latest
     if: always() # set always
-    env:
-        JOB_STATUS: ${{ fetch_news.status }}
     steps:
         # run this action to get workflow conclusion
         # You can get conclusion via env (env.WORKFLOW_CONCLUSION)
