@@ -13,7 +13,6 @@ from db_driver import FaunaWrapper
 from typing import Union
 from cad_tickers.news import get_halts_resumption, scrap_news_for_ticker
 
-
 def post_webhook_content(content: str, embeds: list = None):
     url = os.getenv("DISCORD_NEWS_WEBHOOK")
     data = {}
@@ -159,7 +158,7 @@ def format_news_item_for_embed(news_item: Union[np.ndarray, pd.Series, dict]):
         }
 
 
-def get_news():
+def get_news(args):
     # fetch all the tickers from dashboard
     tickers = get_tickers()
     news_df = pd.DataFrame()
@@ -176,6 +175,8 @@ def get_news():
         old_news_df = pd.DataFrame()
 
     # this is for my key tickers from the dash board, some be quick
+    if args.test == True:
+        tickers = tickers[0:100]
     for t in tickers:
         stock_news = scrap_news_for_ticker(t)
         # filter list
@@ -191,10 +192,11 @@ def get_news():
     # get the entries only in the left column, these are new
     updated_news_df = merged_news.loc[merged_news._merge == "left_only", df_cols]
     fauna_list = updated_news_df.to_dict("records")
-    for news_item in fauna_list:
-        has_succeeded = client.create_document_in_collection("news", news_item)
-        if has_succeeded == True:
-            valid_items.append(news_item)
+    if args.test == False:
+        for news_item in fauna_list:
+            has_succeeded = client.create_document_in_collection("news", news_item)
+            if has_succeeded == True:
+                valid_items.append(news_item)
 
     unseen_news_df = pd.DataFrame(valid_items, columns=df_cols)
     if unseen_news_df.empty == False:
@@ -208,11 +210,27 @@ def get_news():
     updated_news_df.to_html("news.html", index=False)
 
 
+def str2bool(v):
+    if isinstance(v, bool):
+       return v
+    if v.lower() in ('yes', 'true', 't', 'y', '1'):
+        return True
+    elif v.lower() in ('no', 'false', 'f', 'n', '0'):
+        return False
+    else:
+        raise argparse.ArgumentTypeError('Boolean value expected.')
+
 if __name__ == "__main__":
     # Grab news for my stocks
     assert sys.version_info >= (3, 6)
     # grabbing all news for all stocks will be done in another script
     # no need to publish the results to github pages
     # get_halts()
-    data = get_tickers()
-    # get_news()
+    # add test move
+    parser = argparse.ArgumentParser(description="Simple Parser")
+    parser.add_argument("--test", type=str2bool, nargs='?',
+                        const=True, default=False,
+                        help="Activate test mode.")
+    args = parser.parse_args()
+    # data = get_tickers(testing)
+    get_news(args)
