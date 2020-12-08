@@ -35,6 +35,9 @@ jobs:
       - name: Run Script for news and halts
         run: python news_and_halts.py
       
+      - name: Run Script for news and halts
+        run: python news_and_halts.py --test
+      
       - name: Run Script for all news
         run: python all_stock_news.py
 
@@ -50,26 +53,13 @@ jobs:
           git config --local user.name "GitHub Action"
           git commit -m "Add changes" -a
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
-
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@3.7.1
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: dist # The folder the action should deploy.
-
       - uses: sarisia/actions-status-discord@v1
         if: failure()
         with:
           webhook: ${{ secrets.DISCORD_CODE_STATUS_WEBHOOK }}
           status: ${{ job.status }}
           title: ${{github.repository}}
-          description: "Build and deploy to GitHub Pages"
+          description: "Failure youtube nlp"
           nofail: false
           nocontext: false
           noprefix: false
