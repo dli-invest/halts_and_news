@@ -161,6 +161,7 @@ def format_news_item_for_embed(news_item: Union[np.ndarray, pd.Series, dict]):
 def get_news(args):
     # fetch all the tickers from dashboard
     tickers = get_tickers()
+    print(tickers)
     news_df = pd.DataFrame()
     # Load csv if exists
     client = FaunaWrapper()
@@ -177,6 +178,9 @@ def get_news(args):
     # this is for my key tickers from the dash board, some be quick
     if args.test == True:
         tickers = tickers[0:100]
+        print("Running in test mode")
+    else:
+        print("Not running in test mode")
     for t in tickers:
         stock_news = scrap_news_for_ticker(t)
         # filter list
