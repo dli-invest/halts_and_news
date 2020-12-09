@@ -137,7 +137,7 @@ def get_news(args):
 
     # this is for my key tickers from the dash board, some be quick
     if args.test == True:
-        tickers = random.sample(tickers, 100)
+        tickers = random.sample(tickers, 10)
         print("Running in test mode")
     else:
         print("Not running in test mode")
@@ -156,11 +156,10 @@ def get_news(args):
     # get the entries only in the left column, these are new
     updated_news_df = merged_news.loc[merged_news._merge == "left_only", df_cols]
     fauna_list = updated_news_df.to_dict("records")
-    if args.test == False:
-        for news_item in fauna_list:
-            has_succeeded = client.create_document_in_collection("news", news_item)
-            if has_succeeded == True:
-                valid_items.append(news_item)
+    for news_item in fauna_list:
+        has_succeeded = client.create_document_in_collection("news", news_item)
+        if has_succeeded == True:
+            valid_items.append(news_item)
 
     unseen_news_df = pd.DataFrame(valid_items, columns=df_cols)
     if unseen_news_df.empty == False:
