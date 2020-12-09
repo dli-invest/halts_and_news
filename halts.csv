@@ -1,4 +1,8 @@
 Halts,Listing
+"Dec 9, 2020IIROC Trading Halt - GDC",GDC
+"Dec 9, 2020IIROC Trading Halt - FTRP",FTRP
+"Dec 9, 2020IIROC Trading Halt - MTRX",MTRX
+"Dec 9, 2020IIROC Trading Resumption - RJX.A",RJX.A
 "Dec 9, 2020IIROC Trading Resumption - IB",IB
 "Dec 9, 2020IIROC Trading Halt - IB",IB
 "Dec 9, 2020IIROC Trading Resumption - GBR",GBR
@@ -20,7 +24,3 @@ Halts,Listing
 "Dec 8, 2020IIROC Trading Halt - XBC",XBC
 "Dec 8, 2020IIROC Trade Resumption - HS",HS
 "Dec 8, 2020IIROC Trading Resumption - ODV",ODV
-"Dec 8, 2020IIROC Trading Resumption - CBG",CBG
-"Dec 8, 2020IIROC Trading Resumption - RKR",RKR
-"Dec 8, 2020IIROC Trading Halt - CBG",CBG
-"Dec 8, 2020IIROC Trade Resumption - NOVA",NOVA
