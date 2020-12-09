@@ -1,12 +1,12 @@
-name: Getting Halts weekday
+name: Getting Halts featuyre
 # Don't want to burn my private minutes at this point
 on:
   push:
     branches:
-      - master
+      - feature/*
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '30 10-24/2 * * 1-5'
+    - cron: '30 10-23/2 * * 1-5'
 
 env:
   DISCORD_NEWS_WEBHOOK: ${{ secrets.DISCORD_NEWS_WEBHOOK }}
