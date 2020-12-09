@@ -31,15 +31,12 @@ jobs:
       
       - name: Install
         run: pip install -r requirements.txt
-
-      - name: Run Script for news and halts
-        run: python news_and_halts.py
       
       - name: Run Script for news and halts
         run: python news_and_halts.py --test
       
       - name: Run Script for all news
-        run: python all_stock_news.py
+        run: python all_stock_news.py --test
 
       - uses: actions/upload-artifact@v2
         with:
