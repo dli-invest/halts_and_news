@@ -4,13 +4,16 @@ import sys
 import pandas as pd
 import numpy as np
 import time
+import random
+import argparse
 from db_driver import FaunaWrapper
 from news_and_halts import (
     format_news_item_for_embed,
     is_valid_news_item,
-    post_webhook_embeds,
     drop_unnamed_columns,
 )
+from utils import post_webhook_embeds, str2bool
+
 from cad_tickers.news import scrap_news_for_ticker
 from concurrent.futures import ThreadPoolExecutor
 
@@ -43,7 +46,32 @@ def download_csvs():
     pass
 
 
+# Copied from stock screener
 def get_tickers():
+    def ex_to_yahoo_ex(row: pd.Series) -> str:
+        """
+        Parameters:
+            ticker: ticker from pandas dataframe from cad_tickers
+            exchange: what exchange the ticker is for
+        Returns:
+        """
+        ticker = row["symbol"]
+        exchange = row["exShortName"]
+        if exchange == "CSE":
+            # strip :CNX from symbol
+            ticker = ticker.replace(":CNX", "")
+        # 1min, 5min, 15min, 30min, 60min, daily, weekly, monthly
+        switcher = {"TSXV": "V", "TSX": "TO", "CSE": "CN"}
+        yahoo_ex = switcher.get(exchange, "TSXV")
+        return f"{ticker}.{yahoo_ex}"
+    ticker_df = pd.read_csv(
+        "https://raw.githubusercontent.com/FriendlyUser/cad_tickers_list/main/static/latest/stocks.csv"
+    )
+    ytickers_series = ticker_df.apply(ex_to_yahoo_ex, axis=1)
+    ytickers = ytickers_series.tolist()
+    return ytickers
+
+def get_tickers_legacy():
     # grab tsx data
     tsx_df = pd.read_csv("tsx.csv")
     tsx_df = tsx_df[["Ex.", "Ticker"]]
@@ -92,13 +120,11 @@ def generate_news_items(tickers: str):
         yield raw_news
 
 
-if __name__ == "__main__":
-    # Grab news for my stocks
-    assert sys.version_info >= (3, 6)
-    # grabbing all news for all stocks will be done in another script
-    # no need to publish the results to github pages
-    download_csvs()
+def main(args):
     tickers = get_tickers()
+    if args.test == True:
+        tickers = random.sample(tickers, 50)
+        print("Running in test mode, taking a sample of 50")
     full_news_list = []
     client = FaunaWrapper()
     flatten = lambda l: [item for sublist in l for item in sublist]
@@ -172,3 +198,16 @@ if __name__ == "__main__":
     save_df = pd.DataFrame(condensed_list, columns=df_cols)
     save_df.dropna(inplace=True)
     save_df.to_csv(fnews_file, index=False)
+
+if __name__ == "__main__":
+    # Grab news for my stocks
+    assert sys.version_info >= (3, 6)
+    # grabbing all news for all stocks will be done in another script
+    # no need to publish the results to github pages
+
+    parser = argparse.ArgumentParser(description="Simple Parser")
+    parser.add_argument("--test", type=str2bool, nargs='?',
+                    const=True, default=False,
+                    help="Activate test mode.")
+    args = parser.parse_args()
+    main(args)
