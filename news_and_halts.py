@@ -161,7 +161,6 @@ def format_news_item_for_embed(news_item: Union[np.ndarray, pd.Series, dict]):
 def get_news(args):
     # fetch all the tickers from dashboard
     tickers = get_tickers()
-    print(tickers)
     news_df = pd.DataFrame()
     # Load csv if exists
     client = FaunaWrapper()
