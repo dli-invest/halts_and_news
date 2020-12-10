@@ -1,4 +1,9 @@
 Halts,Listing
+"Dec 10, 2020IIROC Trading Halt - SHG",SHG
+"Dec 10, 2020IIROC Trade Resumption - EATS",EATS
+"Dec 10, 2020IIROC Trading Halt - EATS",EATS
+"Dec 10, 2020IIROC Trade Resumption - PKK",PKK
+"Dec 10, 2020IIROC Trading Halt - PKK",PKK
 "Dec 10, 2020IIROC Trading Resumption - TES",TES
 "Dec 10, 2020IIROC Trading Halt - TES",TES
 "Dec 10, 2020IIROC Trade Resumption - SONA",SONA
@@ -19,8 +24,3 @@ Halts,Listing
 "Dec 10, 2020IIROC Trading Halt - CKG",CKG
 "Dec 10, 2020IIROC Trade Resumption - ET",ET
 "Dec 10, 2020IIROC Trading Halt - QETH.U",QETH.U
-"Dec 10, 2020IIROC Trading Halt - ISOL",ISOL
-"Dec 9, 2020IIROC Trading Resumption - DMR",DMR
-"Dec 9, 2020IIROC Trading Resumption - PKAN",PKAN
-"Dec 9, 2020IIROC Trading Halt - ET",ET
-"Dec 9, 2020IIROC Trade Resumption - GDC",GDC
