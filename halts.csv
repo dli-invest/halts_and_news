@@ -1,4 +1,10 @@
 Halts,Listing
+"Dec 14, 2020IIROC Trading Resumption - NUMI",NUMI
+"Dec 14, 2020IIROC Trade Resumption - MMED",MMED
+"Dec 14, 2020IIROC Trading Halt - NUMI",NUMI
+"Dec 14, 2020IIROC Trading Halt - MMED",MMED
+"Dec 14, 2020IIROC Trading Resumption - VRB",VRB
+"Dec 14, 2020IIROC Trading Halt - AGN",AGN
 "Dec 14, 2020IIROC Trade Resumption - AGRA",AGRA
 "Dec 14, 2020IIROC Trading Halt - HVT.WT",HVT.WT
 "Dec 14, 2020IIROC Trade Resumption - IONC",IONC
@@ -18,9 +24,3 @@ Halts,Listing
 "Dec 14, 2020IIROC Trading Halt - HOCL",HOCL
 "Dec 11, 2020IIROC Trading Resumption - WE",WE
 "Dec 11, 2020IIROC Trading Resumption - JUMP",JUMP
-"Dec 11, 2020IIROC Trading Resumption - WE",WE
-"Dec 11, 2020IIROC Trading Resumption - ECOM",ECOM
-"Dec 11, 2020IIROC Trade Resumption - MJRX",MJRX
-"Dec 11, 2020IIROC Trading Halt - MCR",MCR
-"Dec 11, 2020IIROC Trade Resumption - SHG",SHG
-"Dec 11, 2020IIROC Trading Halt - MMAT",MMAT
