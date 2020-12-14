@@ -1,4 +1,14 @@
 Halts,Listing
+"Dec 14, 2020IIROC Trading Halt - MJRX",MJRX
+"Dec 14, 2020IIROC Trade Resumption - CCO",CCO
+"Dec 14, 2020IIROC Trading Halt - CCO",CCO
+"Dec 14, 2020IIROC Trading Halt - HUD",HUD
+"Dec 14, 2020IIROC Trading Halt - ESS",ESS
+"Dec 14, 2020IIROC Trading Halt - SLS",SLS
+"Dec 14, 2020IIROC Trading Halt - TVE",TVE
+"Dec 14, 2020IIROC Trading Halt - AGRA",AGRA
+"Dec 14, 2020IIROC Trading Halt - JAB.P",JAB.P
+"Dec 14, 2020IIROC Trading Halt - HOCL",HOCL
 "Dec 11, 2020IIROC Trading Resumption - WE",WE
 "Dec 11, 2020IIROC Trading Resumption - JUMP",JUMP
 "Dec 11, 2020IIROC Trading Resumption - WE",WE
@@ -14,13 +24,3 @@ Halts,Listing
 "Dec 11, 2020IIROC Trading Resumption - HTC",HTC
 "Dec 11, 2020IIROC Trading Halt - HTC",HTC
 "Dec 10, 2020IIROC Trading Resumption - CKG",CKG
-"Dec 10, 2020IIROC Trading Resumption - WISH",WISH
-"Dec 10, 2020IIROC Trade Resumption - EATS",EATS
-"Dec 10, 2020IIROC Trading Halt - EATS",EATS
-"Dec 10, 2020IIROC Trading Halt - SHG",SHG
-"Dec 10, 2020IIROC Trade Resumption - EATS",EATS
-"Dec 10, 2020IIROC Trading Halt - EATS",EATS
-"Dec 10, 2020IIROC Trade Resumption - PKK",PKK
-"Dec 10, 2020IIROC Trading Halt - PKK",PKK
-"Dec 10, 2020IIROC Trading Resumption - TES",TES
-"Dec 10, 2020IIROC Trading Halt - TES",TES
