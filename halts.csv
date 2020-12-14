@@ -1,4 +1,9 @@
 Halts,Listing
+"Dec 14, 2020IIROC Trade Resumption - IONC",IONC
+"Dec 14, 2020IIROC Trading Resumption - SLS",SLS
+"Dec 14, 2020IIROC Trading Halt - VRB",VRB
+"Dec 14, 2020IIROC Trade Resumption - MMAT",MMAT
+"Dec 14, 2020IIROC Trading Resumption - HUD",HUD
 "Dec 14, 2020IIROC Trading Halt - MJRX",MJRX
 "Dec 14, 2020IIROC Trade Resumption - CCO",CCO
 "Dec 14, 2020IIROC Trading Halt - CCO",CCO
@@ -19,8 +24,3 @@ Halts,Listing
 "Dec 11, 2020IIROC Trading Halt - MMAT",MMAT
 "Dec 11, 2020IIROC Trading Resumption - LTE",LTE
 "Dec 11, 2020IIROC Trading Halt - CROW.P",CROW.P
-"Dec 11, 2020IIROC Trading Halt - LTE",LTE
-"Dec 11, 2020IIROC Trading Halt - MJRX",MJRX
-"Dec 11, 2020IIROC Trading Resumption - HTC",HTC
-"Dec 11, 2020IIROC Trading Halt - HTC",HTC
-"Dec 10, 2020IIROC Trading Resumption - CKG",CKG
