@@ -1,4 +1,8 @@
 Halts,Listing
+"Dec 15, 2020IIROC Trading Halt - HAVN",HAVN
+"Dec 15, 2020IIROC Trade Resumption - AGN",AGN
+"Dec 15, 2020IIROC Trade Resumption - TVE",TVE
+"Dec 15, 2020IIROC Trading Halt - CIO",CIO
 "Dec 14, 2020IIROC Trading Resumption - TBLL",TBLL
 "Dec 14, 2020IIROC Trade Resumption - TMED",TMED
 "Dec 14, 2020IIROC Trading Halt - TMED",TMED
@@ -20,7 +24,3 @@ Halts,Listing
 "Dec 14, 2020IIROC Trade Resumption - CCO",CCO
 "Dec 14, 2020IIROC Trading Halt - CCO",CCO
 "Dec 14, 2020IIROC Trading Halt - HUD",HUD
-"Dec 14, 2020IIROC Trading Halt - ESS",ESS
-"Dec 14, 2020IIROC Trading Halt - SLS",SLS
-"Dec 14, 2020IIROC Trading Halt - TVE",TVE
-"Dec 14, 2020IIROC Trading Halt - AGRA",AGRA
