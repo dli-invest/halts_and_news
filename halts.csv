@@ -1,4 +1,6 @@
 Halts,Listing
+"Dec 16, 2020IIROC Trading Halt - RWB",RWB
+"Dec 16, 2020IIROC Trading Halt - QCA",QCA
 "Dec 16, 2020IIROC Trade Resumption - VYGR",VYGR
 "Dec 16, 2020IIROC Trading Halt - VYGR",VYGR
 "Dec 16, 2020IIROC Trading Halt - ROMJ.WT",ROMJ.WT
@@ -22,5 +24,3 @@ Halts,Listing
 "Dec 15, 2020IIROC Trading Resumption - RKR",RKR
 "Dec 15, 2020IIROC Trading Resumption - GXU",GXU
 "Dec 15, 2020IIROC Trading Halt - ARCH",ARCH
-"Dec 15, 2020IIROC Trading Halt - GXU",GXU
-"Dec 15, 2020IIROC Trading Halt - RKR",RKR
