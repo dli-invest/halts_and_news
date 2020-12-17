@@ -1,4 +1,8 @@
 Halts,Listing
+"Dec 17, 2020IIROC Trading Halt - AVG",AVG
+"Dec 17, 2020IIROC Trade Resumption - NGW",NGW
+"Dec 17, 2020IIROC Trading Resumption - MTRX",MTRX
+"Dec 17, 2020IIROC Trading Halt - APC",APC
 "Dec 17, 2020IIROC Trade Resumption - RWB",RWB
 "Dec 17, 2020IIROC Trade Resumption - QCA",QCA
 "Dec 17, 2020IIROC Trading Halt - CBDT",CBDT
@@ -20,7 +24,3 @@ Halts,Listing
 "Dec 16, 2020IIROC Trading Halt - CYBN",CYBN
 "Dec 16, 2020IIROC Trading Resumption - CUB",CUB
 "Dec 16, 2020IIROC Trade Resumption - HAI",HAI
-"Dec 16, 2020IIROC Trade Resumption - BTCG.UN",BTCG.UN
-"Dec 16, 2020IIROC Trading Halt - HAI",HAI
-"Dec 16, 2020IIROC Trading Halt - BTCG.UN",BTCG.UN
-"Dec 15, 2020IIROC Trading Resumption - JAB.P",JAB.P
