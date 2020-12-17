@@ -1,4 +1,10 @@
 Halts,Listing
+"Dec 17, 2020IIROC Trading Halt - MANS",MANS
+"Dec 17, 2020IIROC Trading Resumption - PMR",PMR
+"Dec 17, 2020IIROC Trading Resumption - NEXE",NEXE
+"Dec 17, 2020IIROC Trading Resumption - HSI",HSI
+"Dec 17, 2020IIROC Trade Resumption - VYGR",VYGR
+"Dec 17, 2020IIROC Trading Halt - VYGR",VYGR
 "Dec 17, 2020IIROC Trading Resumption - AVG",AVG
 "Dec 17, 2020IIROC Trading Resumption - APC",APC
 "Dec 17, 2020IIROC Trading Halt - AVG",AVG
@@ -18,9 +24,3 @@ Halts,Listing
 "Dec 16, 2020IIROC Trading Halt - VYGR",VYGR
 "Dec 16, 2020IIROC Trading Halt - ROMJ.WT",ROMJ.WT
 "Dec 16, 2020IIROC Trading Resumption - FCC",FCC
-"Dec 16, 2020IIROC Trade Resumption - FANS",FANS
-"Dec 16, 2020IIROC Trading Resumption - STG",STG
-"Dec 16, 2020IIROC Trading Halt - STG",STG
-"Dec 16, 2020IIROC Trading Resumption - MCR",MCR
-"Dec 16, 2020IIROC Trade Resumption - CYBN",CYBN
-"Dec 16, 2020IIROC Trading Halt - CYBN",CYBN
