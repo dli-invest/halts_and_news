@@ -1,4 +1,6 @@
 Halts,Listing
+"Dec 17, 2020IIROC Trading Halt - CBDT",CBDT
+"Dec 17, 2020IIROC Trading Halt - MTRX",MTRX
 "Dec 16, 2020IIROC Trading Resumption - PROS.H",PROS.H
 "Dec 16, 2020IIROC Trading Halt - NGW",NGW
 "Dec 16, 2020IIROC Trading Resumption - TDG",TDG
@@ -22,5 +24,3 @@ Halts,Listing
 "Dec 15, 2020IIROC Trading Resumption - JAB.P",JAB.P
 "Dec 15, 2020IIROC Trading Resumption - LUCK",LUCK
 "Dec 15, 2020IIROC Trading Halt - CUB",CUB
-"Dec 15, 2020IIROC Trading Halt - FANS",FANS
-"Dec 15, 2020IIROC Trading Resumption - ARCH",ARCH
