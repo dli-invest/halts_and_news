@@ -1,4 +1,6 @@
 Halts,Listing
+"Dec 21, 2020IIROC Trading Halt - TRCE",TRCE
+"Dec 21, 2020IIROC Trading Halt - FFOX.WT",FFOX.WT
 "Dec 21, 2020IIROC Trade Resumption - RIV",RIV
 "Dec 21, 2020IIROC Trading Halt - RIV",RIV
 "Dec 21, 2020IIROC Trade Resumption - MANS",MANS
@@ -22,5 +24,3 @@ Halts,Listing
 "Dec 18, 2020IIROC Trading Halt - MBCN",MBCN
 "Dec 17, 2020IIROC Trading Halt - MANS",MANS
 "Dec 17, 2020IIROC Trading Resumption - PMR",PMR
-"Dec 17, 2020IIROC Trading Resumption - NEXE",NEXE
-"Dec 17, 2020IIROC Trading Resumption - HSI",HSI
