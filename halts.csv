@@ -1,4 +1,9 @@
 Halts,Listing
+"Dec 21, 2020IIROC Trade Resumption - RIV",RIV
+"Dec 21, 2020IIROC Trading Halt - RIV",RIV
+"Dec 21, 2020IIROC Trade Resumption - MANS",MANS
+"Dec 21, 2020IIROC Trade Resumption - GC",GC
+"Dec 21, 2020IIROC Trading Halt - GC",GC
 "Dec 18, 2020IIROC Trading Resumption - PSEC",PSEC
 "Dec 18, 2020IIROC Trading Resumption - TOE",TOE
 "Dec 18, 2020IIROC Trading Resumption - CIO",CIO
@@ -19,8 +24,3 @@ Halts,Listing
 "Dec 17, 2020IIROC Trading Resumption - PMR",PMR
 "Dec 17, 2020IIROC Trading Resumption - NEXE",NEXE
 "Dec 17, 2020IIROC Trading Resumption - HSI",HSI
-"Dec 17, 2020IIROC Trade Resumption - VYGR",VYGR
-"Dec 17, 2020IIROC Trading Halt - VYGR",VYGR
-"Dec 17, 2020IIROC Trading Resumption - AVG",AVG
-"Dec 17, 2020IIROC Trading Resumption - APC",APC
-"Dec 17, 2020IIROC Trading Halt - AVG",AVG
