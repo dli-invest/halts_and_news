@@ -1,4 +1,8 @@
 Halts,Listing
+"Dec 22, 2020IIROC Trading Halt - CBLU",CBLU
+"Dec 22, 2020IIROC Trading Halt - ZRO",ZRO
+"Dec 22, 2020IIROC Trading Halt - LBC",LBC
+"Dec 22, 2020IIROC Trading Halt - ZEN",ZEN
 "Dec 22, 2020IIROC Trade Resumption - TMR",TMR
 "Dec 21, 2020IIROC Trading Resumption - CTM",CTM
 "Dec 21, 2020IIROC Trading Halt - TMR",TMR
@@ -20,7 +24,3 @@ Halts,Listing
 "Dec 18, 2020IIROC Trading Halt - VYGR",VYGR
 "Dec 18, 2020IIROC Trade Resumption - TER",TER
 "Dec 18, 2020IIROC Trading Halt - TER",TER
-"Dec 18, 2020IIROC Trading Halt - AVN",AVN
-"Dec 18, 2020IIROC Trade Resumption - CBDT",CBDT
-"Dec 18, 2020IIROC Trade Resumption - MBCN",MBCN
-"Dec 18, 2020IIROC Trading Halt - VGLD",VGLD
