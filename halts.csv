@@ -1,4 +1,7 @@
 Halts,Listing
+"Dec 22, 2020IIROC Trading Halt - CANN",CANN
+"Dec 22, 2020IIROC Trading Resumption - NLH",NLH
+"Dec 22, 2020IIROC Trading Halt - NLH",NLH
 "Dec 22, 2020IIROC Trading Halt - GRAT",GRAT
 "Dec 22, 2020IIROC Trading Halt - SFR.RT",SFR.RT
 "Dec 22, 2020IIROC Trading Resumption - CBLU",CBLU
@@ -21,6 +24,3 @@ Halts,Listing
 "Dec 18, 2020IIROC Trading Resumption - TOE",TOE
 "Dec 18, 2020IIROC Trading Resumption - CIO",CIO
 "Dec 18, 2020IIROC Trading Halt - TOE",TOE
-"Dec 18, 2020IIROC Trading Halt - KKL.P",KKL.P
-"Dec 18, 2020IIROC Trade Resumption - ZRO",ZRO
-"Dec 18, 2020IIROC Trading Halt - ZRO",ZRO
