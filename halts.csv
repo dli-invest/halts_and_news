@@ -1,4 +1,7 @@
 Halts,Listing
+"Dec 29, 2020IIROC Trading Halt - VYGR",VYGR
+"Dec 29, 2020IIROC Trading Halt - ZEN",ZEN
+"Dec 29, 2020IIROC Trading Halt - NUMI",NUMI
 "Dec 24, 2020IIROC Trading Resumption - SLG",SLG
 "Dec 24, 2020IIROC Trading Resumption - SHRP",SHRP
 "Dec 24, 2020IIROC Trading Resumption - RENT.P",RENT.P
@@ -21,6 +24,3 @@ Halts,Listing
 "Dec 23, 2020/C O R R E C T I O N from Source -- Investment Industry Regulatory Organization of Canada (IIROC) - Halts/Resumptions/",Halts/Resumptions/
 "Dec 23, 2020IIROC Trading Halt - KNR",KNR
 "Dec 22, 2020IIROC Trading Resumption - GRAT",GRAT
-"Dec 22, 2020IIROC Trading Resumption - LBC",LBC
-"Dec 22, 2020IIROC Trading Resumption - ZEN",ZEN
-"Dec 22, 2020IIROC Trading Halt - CANN",CANN
