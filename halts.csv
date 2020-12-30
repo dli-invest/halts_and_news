@@ -1,4 +1,6 @@
 Halts,Listing
+"Dec 30, 2020IIROC Trading Halt - DMX",DMX
+"Dec 30, 2020IIROC Trading Resumption - XBC.R",XBC.R
 "Dec 30, 2020IIROC Trading Halt - XBC.R",XBC.R
 "Dec 30, 2020IIROC Trading Resumption - NUMI",NUMI
 "Dec 30, 2020IIROC Trading Halt - TFC",TFC
@@ -22,5 +24,3 @@ Halts,Listing
 "Dec 23, 2020IIROC Trade Resumption - SCL",SCL
 "Dec 23, 2020IIROC Trading Halt - SCL",SCL
 "Dec 23, 2020IIROC Trade Resumption - KNR",KNR
-"Dec 23, 2020IIROC Trading Resumption - GRF",GRF
-"Dec 23, 2020IIROC Trading Resumption - BITF",BITF
