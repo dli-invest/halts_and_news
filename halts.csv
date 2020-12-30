@@ -1,4 +1,6 @@
 Halts,Listing
+"Dec 30, 2020IIROC Trading Resumption - AAU",AAU
+"Dec 30, 2020IIROC Trading Resumption - GMTN",GMTN
 "Dec 30, 2020IIROC Trade Resumption - TFC",TFC
 "Dec 30, 2020IIROC Trade Resumption - IMCC",IMCC
 "Dec 30, 2020IIROC Trading Resumption - DMX",DMX
@@ -22,5 +24,3 @@ Halts,Listing
 "Dec 24, 2020IIROC Trading Halt - XMG.WT.B",XMG.WT.B
 "Dec 24, 2020IIROC Trading Halt - BITF",BITF
 "Dec 24, 2020IIROC Trade Resumption - VFF",VFF
-"Dec 24, 2020IIROC Trading Halt - VFF",VFF
-"Dec 23, 2020IIROC Trading Resumption - AUGC",AUGC
