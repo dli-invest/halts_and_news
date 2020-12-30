@@ -1,4 +1,9 @@
 Halts,Listing
+"Dec 30, 2020IIROC Trading Halt - XBC.R",XBC.R
+"Dec 30, 2020IIROC Trading Resumption - NUMI",NUMI
+"Dec 30, 2020IIROC Trading Halt - TFC",TFC
+"Dec 30, 2020IIROC Trading Halt - IMCC",IMCC
+"Dec 30, 2020IIROC Trading Halt - ETU",ETU
 "Dec 29, 2020IIROC Trading Resumption - THNK",THNK
 "Dec 29, 2020IIROC Trade Resumption - VYGR",VYGR
 "Dec 29, 2020IIROC Trading Resumption - ZEN",ZEN
@@ -19,8 +24,3 @@ Halts,Listing
 "Dec 23, 2020IIROC Trade Resumption - KNR",KNR
 "Dec 23, 2020IIROC Trading Resumption - GRF",GRF
 "Dec 23, 2020IIROC Trading Resumption - BITF",BITF
-"Dec 23, 2020IIROC Trading Halt - BITF",BITF
-"Dec 23, 2020IIROC Trade Resumption - HUIB",HUIB
-"Dec 23, 2020IIROC Trade Resumption - CANN",CANN
-"Dec 23, 2020IIROC Trading Halt - HUIB",HUIB
-"Dec 23, 2020IIROC Trading Halt - GRF",GRF
