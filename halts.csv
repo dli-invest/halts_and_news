@@ -1,4 +1,6 @@
 Halts,Listing
+"Jan 6, 2021IIROC Trading Halt - FTN",FTN
+"Jan 6, 2021IIROC Trading Halt - SHG",SHG
 "Jan 6, 2021IIROC Trading Halt - EAM",EAM
 "Jan 6, 2021IIROC Trade Resumption - SRV.UN",SRV.UN
 "Jan 6, 2021IIROC Trade Resumption - CBD.U",CBD.U
@@ -22,5 +24,3 @@ Halts,Listing
 "Jan 5, 2021IIROC Trading Halt - AUSA",AUSA
 "Jan 5, 2021IIROC Trading Halt - FTRP.WT",FTRP.WT
 "Jan 5, 2021IIROC Trading Halt - QRO",QRO
-"Jan 4, 2021IIROC Trade Resumption - SONA",SONA
-"Jan 4, 2021IIROC Trading Halt - SONA",SONA
