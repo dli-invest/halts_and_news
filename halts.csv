@@ -1,4 +1,7 @@
 Halts,Listing
+"Jan 11, 2021IIROC Trading Halt - RRD.H",RRD.H
+"Jan 11, 2021IIROC Trade Resumption - FNQ",FNQ
+"Jan 11, 2021IIROC Trade Resumption - VST",VST
 "Jan 11, 2021IIROC Trading Halt - FNQ",FNQ
 "Jan 11, 2021IIROC Trading Halt - VST",VST
 "Jan 11, 2021IIROC Trading Resumption - CNC",CNC
@@ -21,6 +24,3 @@ Halts,Listing
 "Jan 8, 2021IIROC Trade Resumption - DRT",DRT
 "Jan 7, 2021IIROC Trading Resumption - EVE.WT",EVE.WT
 "Jan 7, 2021IIROC Trading Halt - DRT",DRT
-"Jan 7, 2021IIROC Trading Halt - BIGG",BIGG
-"Jan 7, 2021IIROC Trade Resumption - AD.UN",AD.UN
-"Jan 7, 2021IIROC Trading Halt - AD.UN",AD.UN
