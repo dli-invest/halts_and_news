@@ -1,4 +1,7 @@
 Halts,Listing
+"Jan 13, 2021IIROC Trading Halt - CYP",CYP
+"Jan 13, 2021IIROC Trade Resumption - DFLY",DFLY
+"Jan 13, 2021IIROC Trading Halt - DFLY",DFLY
 "Jan 13, 2021IIROC Trade Resumption - CJT",CJT
 "Jan 13, 2021IIROC Trading Halt - CNFA",CNFA
 "Jan 12, 2021IIROC Trade Resumption - CNNA",CNNA
@@ -21,6 +24,3 @@ Halts,Listing
 "Jan 11, 2021IIROC Trading Halt - VST",VST
 "Jan 11, 2021IIROC Trading Resumption - CNC",CNC
 "Jan 11, 2021IIROC Trading Halt - CTU.H",CTU.H
-"Jan 8, 2021IIROC Trading Resumption - MAPS",MAPS
-"Jan 8, 2021IIROC Trading Resumption - PANO.P",PANO.P
-"Jan 8, 2021IIROC Trade Resumption - ETHC",ETHC
