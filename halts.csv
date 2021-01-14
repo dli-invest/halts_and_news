@@ -1,4 +1,9 @@
 Halts,Listing
+"Jan 14, 2021IIROC Trade Resumption - MYCO",MYCO
+"Jan 14, 2021IIROC Trading Resumption - TBIX",TBIX
+"Jan 14, 2021IIROC Trading Resumption - FCC",FCC
+"Jan 14, 2021IIROC Trading Resumption - NOVR",NOVR
+"Jan 14, 2021IIROC Trading Halt - TBIX",TBIX
 "Jan 14, 2021IIROC Trading Halt - NOVR",NOVR
 "Jan 14, 2021IIROC Trading Resumption - CYP",CYP
 "Jan 14, 2021IIROC Trading Halt - MYCO",MYCO
@@ -19,8 +24,3 @@ Halts,Listing
 "Jan 12, 2021IIROC Trading Halt - PYR",PYR
 "Jan 12, 2021IIROC Trading Resumption - GRAT",GRAT
 "Jan 12, 2021IIROC Trade Resumption - BUZZ",BUZZ
-"Jan 12, 2021IIROC Trade Resumption - NCU",NCU
-"Jan 11, 2021IIROC Trading Resumption - HAW.P",HAW.P
-"Jan 11, 2021IIROC Trading Halt - NCU",NCU
-"Jan 11, 2021IIROC Trading Halt - BUZZ",BUZZ
-"Jan 11, 2021IIROC Trading Halt - CNNA",CNNA
