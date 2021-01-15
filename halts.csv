@@ -1,4 +1,6 @@
 Halts,Listing
+"Jan 15, 2021IIROC Trading Halt - N",N
+"Jan 15, 2021IIROC Trading Halt - VYGR",VYGR
 "Jan 14, 2021IIROC Trading Resumption - WISH",WISH
 "Jan 14, 2021IIROC Trading Halt - WISH",WISH
 "Jan 14, 2021IIROC Trade Resumption - MYCO",MYCO
@@ -22,5 +24,3 @@ Halts,Listing
 "Jan 12, 2021IIROC Trading Resumption - FAU.H",FAU.H
 "Jan 12, 2021IIROC Trading Resumption - KLD",KLD
 "Jan 12, 2021IIROC Trading Halt - CJT",CJT
-"Jan 12, 2021IIROC Trade Resumption - PYR",PYR
-"Jan 12, 2021IIROC Trading Halt - PYR",PYR
