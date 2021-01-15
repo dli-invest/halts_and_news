@@ -1,4 +1,7 @@
 Halts,Listing
+"Jan 15, 2021IIROC Trading Halt - GHG",GHG
+"Jan 15, 2021IIROC Trading Resumption - SVA",SVA
+"Jan 15, 2021IIROC Trading Halt - SVA",SVA
 "Jan 15, 2021IIROC Trade Resumption - VYGR",VYGR
 "Jan 15, 2021IIROC Trading Resumption - TBIX",TBIX
 "Jan 15, 2021IIROC Trading Resumption - N",N
@@ -21,6 +24,3 @@ Halts,Listing
 "Jan 14, 2021IIROC Trading Halt - MYCO",MYCO
 "Jan 14, 2021IIROC Trading Resumption - WHN",WHN
 "Jan 14, 2021IIROC Trading Halt - FCC",FCC
-"Jan 13, 2021IIROC Trading Halt - WHN",WHN
-"Jan 13, 2021IIROC Trading Resumption - ABZ",ABZ
-"Jan 13, 2021IIROC Trading Halt - CYP",CYP
