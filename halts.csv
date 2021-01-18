@@ -1,4 +1,9 @@
 Halts,Listing
+"Jan 18, 2021IIROC Trading Resumption - RCK",RCK
+"Jan 18, 2021IIROC Trading Halt - RCK",RCK
+"Jan 18, 2021IIROC Trade Resumption - VYGR",VYGR
+"Jan 18, 2021IIROC Trading Halt - VYGR",VYGR
+"Jan 18, 2021IIROC Trading Halt - PSYF.P",PSYF.P
 "Jan 18, 2021IIROC Trading Halt - YSS",YSS
 "Jan 15, 2021IIROC Trading Halt - GHG",GHG
 "Jan 15, 2021IIROC Trading Resumption - SVA",SVA
@@ -19,8 +24,3 @@ Halts,Listing
 "Jan 14, 2021IIROC Trading Resumption - TBIX",TBIX
 "Jan 14, 2021IIROC Trading Resumption - FCC",FCC
 "Jan 14, 2021IIROC Trading Resumption - NOVR",NOVR
-"Jan 14, 2021IIROC Trading Halt - TBIX",TBIX
-"Jan 14, 2021IIROC Trading Halt - NOVR",NOVR
-"Jan 14, 2021IIROC Trading Resumption - CYP",CYP
-"Jan 14, 2021IIROC Trading Halt - MYCO",MYCO
-"Jan 14, 2021IIROC Trading Resumption - WHN",WHN
