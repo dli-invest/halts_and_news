@@ -1,4 +1,7 @@
 Halts,Listing
+"Jan 19, 2021IIROC Trading Halt - LME",LME
+"Jan 19, 2021IIROC Trading Halt - KITS",KITS
+"Jan 19, 2021IIROC Trading Halt - SMG.H",SMG.H
 "Jan 18, 2021IIROC Trade Resumption - CNI",CNI
 "Jan 18, 2021IIROC Trading Resumption - THRM",THRM
 "Jan 18, 2021IIROC Trading Halt - THRM",THRM
@@ -21,6 +24,3 @@ Halts,Listing
 "Jan 15, 2021IIROC Trading Halt - TBIX",TBIX
 "Jan 15, 2021IIROC Trading Resumption - NOVR",NOVR
 "Jan 15, 2021IIROC Trading Halt - NOVR",NOVR
-"Jan 15, 2021IIROC Trade Resumption - CYBN",CYBN
-"Jan 15, 2021IIROC Trading Halt - CYBN",CYBN
-"Jan 15, 2021IIROC Trading Halt - N",N
