@@ -1,4 +1,9 @@
 Halts,Listing
+"Jan 19, 2021IIROC Trading Resumption - LME",LME
+"Jan 19, 2021IIROC Trading Resumption - IVS",IVS
+"Jan 19, 2021IIROC Trading Halt - IVS",IVS
+"Jan 19, 2021IIROC Trade Resumption - KITS",KITS
+"Jan 19, 2021IIROC Trading Halt - SMM",SMM
 "Jan 19, 2021IIROC Trading Halt - LME",LME
 "Jan 19, 2021IIROC Trading Halt - KITS",KITS
 "Jan 19, 2021IIROC Trading Halt - SMG.H",SMG.H
@@ -19,8 +24,3 @@ Halts,Listing
 "Jan 15, 2021IIROC Trading Resumption - SVA",SVA
 "Jan 15, 2021IIROC Trading Halt - SVA",SVA
 "Jan 15, 2021IIROC Trade Resumption - VYGR",VYGR
-"Jan 15, 2021IIROC Trading Resumption - TBIX",TBIX
-"Jan 15, 2021IIROC Trading Resumption - N",N
-"Jan 15, 2021IIROC Trading Halt - TBIX",TBIX
-"Jan 15, 2021IIROC Trading Resumption - NOVR",NOVR
-"Jan 15, 2021IIROC Trading Halt - NOVR",NOVR
