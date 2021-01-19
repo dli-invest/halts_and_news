@@ -1,4 +1,7 @@
 Halts,Listing
+"Jan 19, 2021IIROC Trading Halt - IFA",IFA
+"Jan 19, 2021IIROC Trading Halt - LBS",LBS
+"Jan 19, 2021IIROC Trading Halt - DFLY",DFLY
 "Jan 19, 2021IIROC Trading Halt - GMTN",GMTN
 "Jan 19, 2021IIROC Trading Resumption - LME",LME
 "Jan 19, 2021IIROC Trading Resumption - IVS",IVS
@@ -21,6 +24,3 @@ Halts,Listing
 "Jan 18, 2021IIROC Trading Halt - VYGR",VYGR
 "Jan 18, 2021IIROC Trading Halt - PSYF.P",PSYF.P
 "Jan 18, 2021IIROC Trading Halt - YSS",YSS
-"Jan 15, 2021IIROC Trading Halt - GHG",GHG
-"Jan 15, 2021IIROC Trading Resumption - SVA",SVA
-"Jan 15, 2021IIROC Trading Halt - SVA",SVA
