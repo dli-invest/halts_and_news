@@ -1,4 +1,9 @@
 Halts,Listing
+"Jan 20, 2021IIROC Trading Halt - GASX",GASX
+"Jan 20, 2021IIROC Trading Resumption - GRN",GRN
+"Jan 20, 2021IIROC Trading Halt - IFA",IFA
+"Jan 20, 2021IIROC Trading Resumption - GMTN",GMTN
+"Jan 20, 2021IIROC Trading Resumption - YSS",YSS
 "Jan 20, 2021IIROC Trade Resumption - LAC",LAC
 "Jan 20, 2021IIROC Trade Resumption - IFA",IFA
 "Jan 20, 2021IIROC Trade Resumption - LBS",LBS
@@ -19,8 +24,3 @@ Halts,Listing
 "Jan 19, 2021IIROC Trading Halt - SMG.H",SMG.H
 "Jan 18, 2021IIROC Trade Resumption - CNI",CNI
 "Jan 18, 2021IIROC Trading Resumption - THRM",THRM
-"Jan 18, 2021IIROC Trading Halt - THRM",THRM
-"Jan 18, 2021IIROC Trading Halt - CNI",CNI
-"Jan 18, 2021IIROC Trade Resumption - GHG",GHG
-"Jan 18, 2021IIROC Trade Resumption - SONA",SONA
-"Jan 18, 2021IIROC Trading Halt - SONA",SONA
