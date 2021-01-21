@@ -1,4 +1,7 @@
 Halts,Listing
+"Jan 20, 2021IIROC Trading Halt - DIR.UN",DIR.UN
+"Jan 20, 2021IIROC Trade Resumption - MJRX",MJRX
+"Jan 20, 2021IIROC Trading Halt - NLC",NLC
 "Jan 20, 2021IIROC Trade Resumption - SX",SX
 "Jan 20, 2021IIROC Trading Resumption - BITF",BITF
 "Jan 20, 2021IIROC Trading Halt - BITF",BITF
@@ -21,6 +24,3 @@ Halts,Listing
 "Jan 19, 2021IIROC Trading Halt - DFLY",DFLY
 "Jan 19, 2021IIROC Trading Halt - GMTN",GMTN
 "Jan 19, 2021IIROC Trading Resumption - LME",LME
-"Jan 19, 2021IIROC Trading Resumption - IVS",IVS
-"Jan 19, 2021IIROC Trading Halt - IVS",IVS
-"Jan 19, 2021IIROC Trade Resumption - KITS",KITS
