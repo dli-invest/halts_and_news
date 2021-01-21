@@ -1,4 +1,6 @@
 Halts,Listing
+"Jan 21, 2021IIROC Trade Resumption - RVV",RVV
+"Jan 21, 2021IIROC Trading Halt - HOLL",HOLL
 "Jan 21, 2021IIROC Trade Resumption - IFA",IFA
 "Jan 21, 2021IIROC Trade Resumption - DIR.UN",DIR.UN
 "Jan 21, 2021IIROC Trading Halt - CVI.P",CVI.P
@@ -22,5 +24,3 @@ Halts,Listing
 "Jan 20, 2021IIROC Trade Resumption - IFA",IFA
 "Jan 20, 2021IIROC Trade Resumption - LBS",LBS
 "Jan 20, 2021IIROC Trading Halt - LAC",LAC
-"Jan 19, 2021IIROC Trade Resumption - DFLY",DFLY
-"Jan 19, 2021IIROC Trading Halt - GRN",GRN
