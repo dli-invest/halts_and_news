@@ -1,4 +1,12 @@
 Halts,Listing
+"Jan 22, 2021IIROC Trading Halt - TES",TES
+"Jan 22, 2021IIROC Trade Resumption - ORCD",ORCD
+"Jan 22, 2021IIROC Trading Halt - RLSC",RLSC
+"Jan 22, 2021IIROC Trading Resumption - CRE",CRE
+"Jan 22, 2021IIROC Trade Resumption - MCUR",MCUR
+"Jan 22, 2021IIROC Trade Resumption - RLSC",RLSC
+"Jan 22, 2021IIROC Trading Resumption - FCC",FCC
+"Jan 22, 2021IIROC Trading Halt - BLGV",BLGV
 "Jan 22, 2021IIROC Trading Resumption - ML",ML
 "Jan 22, 2021IIROC Trading Halt - FCC",FCC
 "Jan 22, 2021IIROC Trade Resumption - NI",NI
@@ -16,11 +24,3 @@ Halts,Listing
 "Jan 21, 2021IIROC Trading Resumption - SNF",SNF
 "Jan 21, 2021IIROC Trade Resumption - HOLL",HOLL
 "Jan 21, 2021IIROC Trading Halt - AGN.WT",AGN.WT
-"Jan 21, 2021IIROC Trade Resumption - RCH",RCH
-"Jan 21, 2021IIROC Trading Halt - RCH",RCH
-"Jan 21, 2021IIROC Trading Resumption - NLC",NLC
-"Jan 21, 2021IIROC Trade Resumption - RVV",RVV
-"Jan 21, 2021IIROC Trading Halt - HOLL",HOLL
-"Jan 21, 2021IIROC Trade Resumption - IFA",IFA
-"Jan 21, 2021IIROC Trade Resumption - DIR.UN",DIR.UN
-"Jan 21, 2021IIROC Trading Halt - CVI.P",CVI.P
