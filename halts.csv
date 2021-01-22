@@ -1,4 +1,7 @@
 Halts,Listing
+"Jan 21, 2021IIROC Trading Resumption - IMIN",IMIN
+"Jan 21, 2021IIROC Trading Halt - CRE",CRE
+"Jan 21, 2021IIROC Trading Resumption - ILA",ILA
 "Jan 21, 2021IIROC Trading Halt - ML",ML
 "Jan 21, 2021IIROC Trading Halt - ORE",ORE
 "Jan 21, 2021IIROC Trading Halt - MCUR",MCUR
@@ -21,6 +24,3 @@ Halts,Listing
 "Jan 20, 2021IIROC Trade Resumption - SX",SX
 "Jan 20, 2021IIROC Trading Resumption - BITF",BITF
 "Jan 20, 2021IIROC Trading Halt - BITF",BITF
-"Jan 20, 2021IIROC Trading Halt - SX",SX
-"Jan 20, 2021IIROC Trading Resumption - GASX",GASX
-"Jan 20, 2021IIROC Trading Halt - SNF",SNF
