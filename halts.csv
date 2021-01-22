@@ -1,4 +1,6 @@
 Halts,Listing
+"Jan 22, 2021IIROC Trading Halt - ELEF",ELEF
+"Jan 22, 2021IIROC Trading Halt - COIN",COIN
 "Jan 21, 2021IIROC Trading Resumption - IMIN",IMIN
 "Jan 21, 2021IIROC Trading Halt - CRE",CRE
 "Jan 21, 2021IIROC Trading Resumption - ILA",ILA
@@ -22,5 +24,3 @@ Halts,Listing
 "Jan 20, 2021IIROC Trade Resumption - MJRX",MJRX
 "Jan 20, 2021IIROC Trading Halt - NLC",NLC
 "Jan 20, 2021IIROC Trade Resumption - SX",SX
-"Jan 20, 2021IIROC Trading Resumption - BITF",BITF
-"Jan 20, 2021IIROC Trading Halt - BITF",BITF
