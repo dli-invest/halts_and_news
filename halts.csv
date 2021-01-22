@@ -1,4 +1,6 @@
 Halts,Listing
+"Jan 22, 2021IIROC Trading Resumption - TES",TES
+"Jan 22, 2021IIROC Trading Halt - LSD.H",LSD.H
 "Jan 22, 2021IIROC Trading Halt - TES",TES
 "Jan 22, 2021IIROC Trade Resumption - ORCD",ORCD
 "Jan 22, 2021IIROC Trading Halt - RLSC",RLSC
@@ -22,5 +24,3 @@ Halts,Listing
 "Jan 21, 2021IIROC Trading Halt - ORE",ORE
 "Jan 21, 2021IIROC Trading Halt - MCUR",MCUR
 "Jan 21, 2021IIROC Trading Resumption - SNF",SNF
-"Jan 21, 2021IIROC Trade Resumption - HOLL",HOLL
-"Jan 21, 2021IIROC Trading Halt - AGN.WT",AGN.WT
