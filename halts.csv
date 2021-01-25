@@ -1,4 +1,8 @@
 Halts,Listing
+"Jan 25, 2021IIROC Trading Halt - UGE",UGE
+"Jan 25, 2021IIROC Trading Halt - BEN.H",BEN.H
+"Jan 25, 2021IIROC Trade Resumption - DRT.DB",DRT.DB
+"Jan 25, 2021IIROC Trade Resumption - TFII",TFII
 "Jan 25, 2021IIROC Trading Halt - TFII",TFII
 "Jan 25, 2021IIROC Trading Halt - DRT.DB",DRT.DB
 "Jan 25, 2021IIROC Trading Halt - SAH",SAH
@@ -20,7 +24,3 @@ Halts,Listing
 "Jan 22, 2021IIROC Trading Halt - NI",NI
 "Jan 22, 2021IIROC Trade Resumption - ELEF",ELEF
 "Jan 22, 2021IIROC Trading Resumption - ORE",ORE
-"Jan 22, 2021IIROC Trading Halt - ELEF",ELEF
-"Jan 22, 2021IIROC Trading Halt - COIN",COIN
-"Jan 21, 2021IIROC Trading Resumption - IMIN",IMIN
-"Jan 21, 2021IIROC Trading Halt - CRE",CRE
