@@ -1,4 +1,7 @@
 Halts,Listing
+"Jan 25, 2021IIROC Trading Halt - HALO",HALO
+"Jan 25, 2021IIROC Trading Halt - NEO",NEO
+"Jan 25, 2021IIROC Trading Halt - GBLC",GBLC
 "Jan 25, 2021IIROC Trading Resumption - UGE",UGE
 "Jan 25, 2021IIROC Trade Resumption - BB",BB
 "Jan 25, 2021IIROC Trading Halt - BB",BB
@@ -21,6 +24,3 @@ Halts,Listing
 "Jan 22, 2021IIROC Trade Resumption - ORCD",ORCD
 "Jan 22, 2021IIROC Trading Halt - RLSC",RLSC
 "Jan 22, 2021IIROC Trading Resumption - CRE",CRE
-"Jan 22, 2021IIROC Trade Resumption - MCUR",MCUR
-"Jan 22, 2021IIROC Trade Resumption - RLSC",RLSC
-"Jan 22, 2021IIROC Trading Resumption - FCC",FCC
