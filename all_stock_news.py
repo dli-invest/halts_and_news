@@ -16,7 +16,7 @@ from utils import post_webhook_embeds, str2bool
 
 from cad_tickers.news import scrap_news_for_ticker
 from concurrent.futures import ThreadPoolExecutor
-
+from icecream import ic
 # the setrecursionlimit function is
 # used to modify the default recursion
 # limit set by python. Using this,
@@ -67,6 +67,8 @@ def get_tickers():
     ticker_df = pd.read_csv(
         "https://raw.githubusercontent.com/FriendlyUser/cad_tickers_list/main/static/latest/stocks.csv"
     )
+    ic()
+    ic("Parsing csv from cad_tickers_list")
     ytickers_series = ticker_df.apply(ex_to_yahoo_ex, axis=1)
     ytickers = ytickers_series.tolist()
     return ytickers
@@ -124,6 +126,7 @@ def main(args):
     tickers = get_tickers()
     if args.test == True:
         tickers = random.sample(tickers, 50)
+        ic()
         print("Running in test mode, taking a sample of 50")
     full_news_list = []
     client = FaunaWrapper()
@@ -136,11 +139,13 @@ def main(args):
         old_news_df = pd.DataFrame(columns=df_cols)
 
     old_news_df.dropna(inplace=True)
+    ic()
     for raw_news in generate_news_items(tickers):
         # main loop
         flat_news = flatten(raw_news)
         full_news_list.append(flat_news)
         # remove empty news articles
+        ic("Removing empty new articles")
         valid_news = [i for i in flat_news if is_valid_news_item(i)]
         if old_news_df.empty == False:
             full_news_flat = flatten(full_news_list)
@@ -171,6 +176,8 @@ def main(args):
                     "full_news", news_item
                 )
                 if has_succeeded == True:
+                    ic("Succesfully sent article to fauna")
+                    ic(news_item)
                     valid_items.append(news_item)
 
             unseen_news_df = pd.DataFrame(valid_items, columns=df_cols)
