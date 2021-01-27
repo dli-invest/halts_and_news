@@ -1,4 +1,7 @@
 Halts,Listing
+"Jan 27, 2021IIROC Trade Resumption - BB",BB
+"Jan 27, 2021IIROC Trading Resumption - YES",YES
+"Jan 27, 2021IIROC Trading Halt - BB",BB
 "Jan 27, 2021IIROC Trading Halt - YES",YES
 "Jan 27, 2021IIROC Trading Resumption - VIV",VIV
 "Jan 27, 2021IIROC Trading Resumption - SOLR",SOLR
@@ -21,6 +24,3 @@ Halts,Listing
 "Jan 26, 2021IIROC Trading Halt - NAB.WT",NAB.WT
 "Jan 26, 2021IIROC Trading Halt - NAB.DB",NAB.DB
 "Jan 26, 2021IIROC Trading Halt - PKT",PKT
-"Jan 26, 2021IIROC Trading Halt - NAB",NAB
-"Jan 26, 2021IIROC Trading Halt - MVMD",MVMD
-"Jan 26, 2021IIROC Trading Halt - TASK.X",TASK.X
