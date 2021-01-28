@@ -1,4 +1,10 @@
 Halts,Listing
+"Jan 28, 2021IIROC Trading Halt - TRIP",TRIP
+"Jan 28, 2021IIROC Trading Resumption - DEF",DEF
+"Jan 28, 2021IIROC Trade Resumption - HSM",HSM
+"Jan 28, 2021IIROC Trading Halt - HSM",HSM
+"Jan 28, 2021IIROC Trade Resumption - SIS",SIS
+"Jan 28, 2021IIROC Trading Halt - RLT.P",RLT.P
 "Jan 28, 2021IIROC Trading Halt - CRY",CRY
 "Jan 27, 2021IIROC Trading Halt - SIS",SIS
 "Jan 27, 2021IIROC Trading Resumption - HULK",HULK
@@ -18,9 +24,3 @@ Halts,Listing
 "Jan 27, 2021IIROC Trading Halt - SOLR",SOLR
 "Jan 27, 2021IIROC Trading Halt - TMAS",TMAS
 "Jan 27, 2021IIROC Trading Halt - BITC.UN",BITC.UN
-"Jan 27, 2021IIROC Trade Resumption - INV",INV
-"Jan 26, 2021IIROC Trade Resumption - NAB",NAB
-"Jan 26, 2021IIROC Trading Halt - INV",INV
-"Jan 26, 2021IIROC Trading Resumption - ZKL.H",ZKL.H
-"Jan 26, 2021IIROC Trading Resumption - KUR.H",KUR.H
-"Jan 26, 2021IIROC Trading Halt - VIV",VIV
