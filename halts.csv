@@ -1,4 +1,6 @@
 Halts,Listing
+"Jan 28, 2021IIROC Trading Resumption - PAD",PAD
+"Jan 28, 2021IIROC Trading Halt - EAT",EAT
 "Jan 28, 2021IIROC Trade Resumption - NAB",NAB
 "Jan 28, 2021IIROC Trading Halt - PLTH.WT",PLTH.WT
 "Jan 28, 2021IIROC Trade Resumption - MOVE",MOVE
@@ -22,5 +24,3 @@ Halts,Listing
 "Jan 28, 2021IIROC Trading Halt - CRY",CRY
 "Jan 27, 2021IIROC Trading Halt - SIS",SIS
 "Jan 27, 2021IIROC Trading Resumption - HULK",HULK
-"Jan 27, 2021IIROC Trade Resumption - BB",BB
-"Jan 27, 2021IIROC Trading Resumption - YES",YES
