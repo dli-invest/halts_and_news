@@ -1,4 +1,9 @@
 Halts,Listing
+"Feb 1, 2021IIROC Trading Halt - PPK",PPK
+"Feb 1, 2021IIROC Trading Halt - HITI",HITI
+"Feb 1, 2021IIROC Trading Resumption - VAR",VAR
+"Feb 1, 2021IIROC Trade Resumption - IAN",IAN
+"Feb 1, 2021IIROC Trading Resumption - PHA",PHA
 "Feb 1, 2021IIROC Trade Resumption - VREO",VREO
 "Feb 1, 2021IIROC Trading Halt - PHA",PHA
 "Feb 1, 2021IIROC Trading Halt - VREO",VREO
@@ -19,8 +24,3 @@ Halts,Listing
 "Jan 29, 2021IIROC Trade Resumption - SONA",SONA
 "Jan 29, 2021IIROC Trading Halt - SONA",SONA
 "Jan 29, 2021IIROC Trading Resumption - DB",DB
-"Jan 29, 2021IIROC Trading Halt - GRSL",GRSL
-"Jan 29, 2021IIROC Trading Halt - IAN",IAN
-"Jan 29, 2021IIROC Trading Halt - DB",DB
-"Jan 29, 2021IIROC Trade Resumption - NCU.WT.A",NCU.WT.A
-"Jan 29, 2021IIROC Trading Resumption - SIC",SIC
