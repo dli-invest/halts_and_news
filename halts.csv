@@ -1,4 +1,9 @@
 Halts,Listing
+"Feb 2, 2021IIROC Trading Halt - BPLI",BPLI
+"Feb 2, 2021IIROC Trading Resumption - MDP",MDP
+"Feb 2, 2021IIROC Trading Halt - MDP",MDP
+"Feb 2, 2021IIROC Trade Resumption - CANN",CANN
+"Feb 2, 2021IIROC Trading Halt - MDP",MDP
 "Feb 2, 2021IIROC Trade Resumption - EML.PR.A",EML.PR.A
 "Feb 2, 2021IIROC Trading Halt - BARU",BARU
 "Feb 2, 2021IIROC Trading Halt - EML.PR.A",EML.PR.A
@@ -19,8 +24,3 @@ Halts,Listing
 "Feb 1, 2021IIROC Trading Halt - PPK",PPK
 "Feb 1, 2021IIROC Trading Halt - HITI",HITI
 "Feb 1, 2021IIROC Trading Resumption - VAR",VAR
-"Feb 1, 2021IIROC Trade Resumption - IAN",IAN
-"Feb 1, 2021IIROC Trading Resumption - PHA",PHA
-"Feb 1, 2021IIROC Trade Resumption - VREO",VREO
-"Feb 1, 2021IIROC Trading Halt - PHA",PHA
-"Feb 1, 2021IIROC Trading Halt - VREO",VREO
