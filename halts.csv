@@ -1,4 +1,10 @@
 Halts,Listing
+"Feb 2, 2021IIROC Trading Halt - TM",TM
+"Feb 2, 2021IIROC Trading Halt - IMIN",IMIN
+"Feb 2, 2021IIROC Trading Halt - CANN",CANN
+"Feb 2, 2021IIROC Trading Halt - EDG",EDG
+"Feb 2, 2021IIROC Trading Halt - ESK",ESK
+"Feb 2, 2021IIROC Trading Resumption - TOI",TOI
 "Feb 2, 2021IIROC Trading Halt - KUB",KUB
 "Feb 2, 2021IIROC Trading Halt - FOG.X",FOG.X
 "Feb 1, 2021IIROC Trading Halt - PPK",PPK
@@ -18,9 +24,3 @@ Halts,Listing
 "Feb 1, 2021IIROC Trading Halt - BLO",BLO
 "Feb 1, 2021IIROC Trading Resumption - GRSL",GRSL
 "Feb 1, 2021IIROC Trade Resumption - PILL",PILL
-"Feb 1, 2021IIROC Trading Halt - EVER",EVER
-"Feb 1, 2021IIROC Trading Halt - TOI",TOI
-"Feb 1, 2021IIROC Trading Resumption - PTQ",PTQ
-"Feb 1, 2021IIROC Trading Halt - CAY",CAY
-"Jan 29, 2021IIROC Trading Resumption - RLT.P",RLT.P
-"Jan 29, 2021IIROC Trade Resumption - SONA",SONA
