@@ -1,4 +1,8 @@
 Halts,Listing
+"Feb 4, 2021IIROC Trading Halt - MMS",MMS
+"Feb 4, 2021IIROC Trading Halt - PPX",PPX
+"Feb 4, 2021IIROC Trading Halt - SIRE",SIRE
+"Feb 4, 2021IIROC Trading Halt - SUN",SUN
 "Feb 3, 2021IIROC Trading Halt - EQ",EQ
 "Feb 3, 2021IIROC Trading Resumption - CAY",CAY
 "Feb 3, 2021IIROC Trading Halt - NFI",NFI
@@ -20,7 +24,3 @@ Halts,Listing
 "Feb 3, 2021IIROC Trading Halt - DDI",DDI
 "Feb 3, 2021IIROC Trade Resumption - HOM.UN",HOM.UN
 "Feb 3, 2021IIROC Trading Halt - NAB",NAB
-"Feb 2, 2021IIROC Trading Halt - HOM.UN",HOM.UN
-"Feb 2, 2021IIROC Trading Resumption - BPLI",BPLI
-"Feb 2, 2021IIROC Trading Halt - BPLI",BPLI
-"Feb 2, 2021IIROC Trading Resumption - MDP",MDP
