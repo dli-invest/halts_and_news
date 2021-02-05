@@ -1,4 +1,10 @@
 Halts,Listing
+"Feb 5, 2021IIROC Trading Halt - NUR",NUR
+"Feb 5, 2021IIROC Trading Resumption - FD",FD
+"Feb 5, 2021IIROC Trading Halt - FD",FD
+"Feb 5, 2021IIROC Trading Resumption - FD",FD
+"Feb 5, 2021IIROC Trading Halt - FD",FD
+"Feb 5, 2021IIROC Trade Resumption - IN",IN
 "Feb 5, 2021IIROC Trading Halt - IN",IN
 "Feb 5, 2021IIROC Trading Halt - TRG",TRG
 "Feb 5, 2021IIROC Trading Halt - OROX",OROX
@@ -18,9 +24,3 @@ Halts,Listing
 "Feb 4, 2021IIROC Trading Halt - AGC",AGC
 "Feb 4, 2021IIROC Trading Halt - KNR",KNR
 "Feb 4, 2021IIROC Trading Halt - SVA",SVA
-"Feb 4, 2021IIROC Trading Resumption - AN",AN
-"Feb 4, 2021IIROC Trading Halt - BGP.UN",BGP.UN
-"Feb 4, 2021IIROC Trade Resumption - NFI",NFI
-"Feb 4, 2021IIROC Trading Halt - MMS",MMS
-"Feb 4, 2021IIROC Trading Halt - PPX",PPX
-"Feb 4, 2021IIROC Trading Halt - SIRE",SIRE
