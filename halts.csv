@@ -1,4 +1,7 @@
 Halts,Listing
+"Feb 8, 2021IIROC Trading Halt - CYF",CYF
+"Feb 8, 2021IIROC Trade Resumption - GXX",GXX
+"Feb 8, 2021IIROC Trading Resumption - GRID",GRID
 "Feb 8, 2021IIROC Trading Halt - CYP",CYP
 "Feb 8, 2021IIROC Trading Halt - LI",LI
 "Feb 8, 2021IIROC Trading Halt - PLU",PLU
@@ -21,6 +24,3 @@ Halts,Listing
 "Feb 5, 2021IIROC Trading Halt - SJL",SJL
 "Feb 5, 2021IIROC Trading Resumption - Z",Z
 "Feb 5, 2021IIROC Trading Resumption - STC",STC
-"Feb 5, 2021IIROC Trading Halt - AZ",AZ
-"Feb 5, 2021IIROC Trading Halt - AMI",AMI
-"Feb 5, 2021IIROC Trading Halt - ZEU",ZEU
