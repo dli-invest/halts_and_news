@@ -1,4 +1,7 @@
 Halts,Listing
+"Feb 8, 2021IIROC Trading Halt - AFCC",AFCC
+"Feb 8, 2021IIROC Trading Halt - GRIN",GRIN
+"Feb 8, 2021IIROC Trading Halt - ENTH.H",ENTH.H
 "Feb 5, 2021IIROC Trading Halt - SJL",SJL
 "Feb 5, 2021IIROC Trading Resumption - Z",Z
 "Feb 5, 2021IIROC Trading Resumption - STC",STC
@@ -21,6 +24,3 @@ Halts,Listing
 "Feb 4, 2021IIROC Trading Halt - SAP",SAP
 "Feb 4, 2021IIROC Trade Resumption - KNR",KNR
 "Feb 4, 2021IIROC Trade Resumption - LNF.DB",LNF.DB
-"Feb 4, 2021IIROC Trading Resumption - EQ",EQ
-"Feb 4, 2021IIROC Trading Halt - LNF.DB",LNF.DB
-"Feb 4, 2021IIROC Trade Resumption - ZAIR",ZAIR
