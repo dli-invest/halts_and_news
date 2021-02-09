@@ -1,4 +1,9 @@
 Halts,Listing
+"Feb 9, 2021IIROC Trading Halt - ENDR",ENDR
+"Feb 9, 2021IIROC Trading Halt - GSQ",GSQ
+"Feb 9, 2021IIROC Trade Resumption - TNX",TNX
+"Feb 9, 2021IIROC Trading Halt - TNX",TNX
+"Feb 9, 2021IIROC Trading Halt - CBDT",CBDT
 "Feb 8, 2021IIROC Trading Halt - CYF",CYF
 "Feb 8, 2021IIROC Trade Resumption - GXX",GXX
 "Feb 8, 2021IIROC Trading Resumption - GRID",GRID
@@ -19,8 +24,3 @@ Halts,Listing
 "Feb 8, 2021IIROC Trade Resumption - NEXT",NEXT
 "Feb 8, 2021IIROC Trading Halt - NEXT",NEXT
 "Feb 8, 2021IIROC Trading Halt - AFCC",AFCC
-"Feb 8, 2021IIROC Trading Halt - GRIN",GRIN
-"Feb 8, 2021IIROC Trading Halt - ENTH.H",ENTH.H
-"Feb 5, 2021IIROC Trading Halt - SJL",SJL
-"Feb 5, 2021IIROC Trading Resumption - Z",Z
-"Feb 5, 2021IIROC Trading Resumption - STC",STC
