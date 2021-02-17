@@ -1,4 +1,9 @@
 Halts,Listing
+"Feb 17, 2021IIROC Trading Halt - XTT",XTT
+"Feb 17, 2021IIROC Trading Halt - MDL",MDL
+"Feb 17, 2021IIROC Trading Resumption - VXL",VXL
+"Feb 17, 2021IIROC Trading Resumption - INEO",INEO
+"Feb 17, 2021IIROC Trade Resumption - GBLC",GBLC
 "Feb 17, 2021IIROC Trade Resumption - BLR",BLR
 "Feb 17, 2021IIROC Trading Resumption - DOC",DOC
 "Feb 17, 2021IIROC Trading Resumption - SDE",SDE
@@ -19,8 +24,3 @@ Halts,Listing
 "Feb 17, 2021IIROC Trading Halt - BLR",BLR
 "Feb 16, 2021IIROC Trading Halt - BHR",BHR
 "Feb 16, 2021IIROC Trading Halt - ANCV.P",ANCV.P
-"Feb 16, 2021IIROC Trading Halt - FIRE",FIRE
-"Feb 16, 2021IIROC Trading Halt - DOC",DOC
-"Feb 16, 2021IIROC Trade Resumption - CNFA",CNFA
-"Feb 16, 2021IIROC Trade Resumption - ZENA",ZENA
-"Feb 16, 2021IIROC Trade Resumption - HEXO",HEXO
