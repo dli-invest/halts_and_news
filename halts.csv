@@ -1,4 +1,10 @@
 Halts,Listing
+"Feb 17, 2021IIROC Trading Halt - UPI",UPI
+"Feb 17, 2021IIROC Trading Halt - ATE",ATE
+"Feb 17, 2021IIROC Trading Halt - MRT.UN",MRT.UN
+"Feb 17, 2021IIROC Trading Halt - TML",TML
+"Feb 17, 2021IIROC Trading Resumption - VGLD",VGLD
+"Feb 17, 2021IIROC Trading Halt - ISH",ISH
 "Feb 17, 2021IIROC Trading Halt - XTT",XTT
 "Feb 17, 2021IIROC Trading Halt - MDL",MDL
 "Feb 17, 2021IIROC Trading Resumption - VXL",VXL
@@ -18,9 +24,3 @@ Halts,Listing
 "Feb 17, 2021IIROC Trading Resumption - SDE",SDE
 "Feb 17, 2021IIROC Trade Resumption - AVL",AVL
 "Feb 17, 2021IIROC Trading Halt - AVL",AVL
-"Feb 17, 2021IIROC Trade Resumption - CGGZ.UN",CGGZ.UN
-"Feb 17, 2021IIROC Trading Halt - CGGZ.UN",CGGZ.UN
-"Feb 17, 2021IIROC Trade Resumption - FIRE",FIRE
-"Feb 17, 2021IIROC Trading Halt - BLR",BLR
-"Feb 16, 2021IIROC Trading Halt - BHR",BHR
-"Feb 16, 2021IIROC Trading Halt - ANCV.P",ANCV.P
