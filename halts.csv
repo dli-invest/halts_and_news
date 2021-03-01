@@ -1,4 +1,7 @@
 Halts,Listing
+"Mar 1, 2021IIROC Trading Halt - LABS",LABS
+"Mar 1, 2021IIROC Trading Resumption - BES",BES
+"Mar 1, 2021IIROC Trading Halt - ENS",ENS
 "Mar 1, 2021IIROC Trade Resumption - OPT",OPT
 "Mar 1, 2021IIROC Trading Halt - OPT",OPT
 "Mar 1, 2021IIROC Trading Resumption - VIPR",VIPR
@@ -21,6 +24,3 @@ Halts,Listing
 "Mar 1, 2021IIROC Trading Halt - ACC.P",ACC.P
 "Mar 1, 2021IIROC Trading Halt - VMH.V",VMH.V
 "Feb 26, 2021IIROC Trading Resumption - BGS",BGS
-"Feb 26, 2021IIROC Trading Resumption - KALO Formerly 'ETSC.P'",'ETSC.P'
-"Feb 26, 2021IIROC Trade Resumption - SGD",SGD
-"Feb 26, 2021IIROC Trading Resumption - IL.P",IL.P
