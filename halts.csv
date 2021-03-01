@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 1, 2021IIROC Trade Resumption - OPT",OPT
+"Mar 1, 2021IIROC Trading Halt - OPT",OPT
 "Mar 1, 2021IIROC Trading Resumption - VIPR",VIPR
 "Mar 1, 2021IIROC Trading Resumption - PXA",PXA
 "Mar 1, 2021IIROC Trading Resumption - NOCR",NOCR
@@ -22,5 +24,3 @@ Halts,Listing
 "Feb 26, 2021IIROC Trading Resumption - KALO Formerly 'ETSC.P'",'ETSC.P'
 "Feb 26, 2021IIROC Trade Resumption - SGD",SGD
 "Feb 26, 2021IIROC Trading Resumption - IL.P",IL.P
-"Feb 26, 2021IIROC Trading Resumption - AROW.P",AROW.P
-"Feb 26, 2021IIROC Trading Resumption - KLY.WT.A",KLY.WT.A
