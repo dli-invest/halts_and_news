@@ -1,4 +1,10 @@
 Halts,Listing
+"Mar 2, 2021IIROC Trading Resumption - EXRO",EXRO
+"Mar 2, 2021IIROC Trading Halt - EXRO",EXRO
+"Mar 2, 2021IIROC Trade Resumption - DFLY",DFLY
+"Mar 2, 2021IIROC Trading Resumption - RHT",RHT
+"Mar 2, 2021IIROC Trading Halt - RHT",RHT
+"Mar 2, 2021IIROC Trading Halt - PJT",PJT
 "Mar 2, 2021IIROC Trade Resumption - TBP.WT.C",TBP.WT.C
 "Mar 2, 2021IIROC Trading Halt - DFLY",DFLY
 "Mar 2, 2021IIROC Trade Resumption - ENS",ENS
@@ -18,9 +24,3 @@ Halts,Listing
 "Mar 1, 2021IIROC Trading Halt - BES",BES
 "Mar 1, 2021IIROC Trading Resumption - FMS",FMS
 "Mar 1, 2021IIROC Trading Halt - SBI",SBI
-"Mar 1, 2021IIROC Trading Halt - FMS",FMS
-"Mar 1, 2021IIROC Trade Resumption - VMH.V",VMH.V
-"Mar 1, 2021IIROC Trading Resumption - AZ",AZ
-"Mar 1, 2021IIROC Trading Resumption - PGLD",PGLD
-"Mar 1, 2021IIROC Trading Resumption - PINK",PINK
-"Mar 1, 2021IIROC Trading Resumption - WMD",WMD
