@@ -1,4 +1,9 @@
 Halts,Listing
+"Mar 3, 2021IIROC Trading Halt - PCLO",PCLO
+"Mar 3, 2021IIROC Trading Resumption - ASTN.P",ASTN.P
+"Mar 3, 2021IIROC Trade Resumption - DSAI",DSAI
+"Mar 3, 2021IIROC Trading Resumption - BOAT",BOAT
+"Mar 3, 2021IIROC Trading Halt - CHE.UN",CHE.UN
 "Mar 3, 2021IIROC Trading Resumption - EGA",EGA
 "Mar 3, 2021IIROC Trade Resumption - GENM",GENM
 "Mar 3, 2021IIROC Trading Halt - EGA",EGA
@@ -19,8 +24,3 @@ Halts,Listing
 "Mar 3, 2021IIROC Trading Halt - BRMI",BRMI
 "Mar 3, 2021IIROC Trading Halt - FDGE",FDGE
 "Mar 3, 2021IIROC Trading Halt - SIRE",SIRE
-"Mar 2, 2021IIROC Trading Halt - ELO",ELO
-"Mar 2, 2021IIROC Trading Halt - CASA",CASA
-"Mar 2, 2021IIROC Trading Halt - EXRO",EXRO
-"Mar 2, 2021IIROC Trading Resumption - EXRO",EXRO
-"Mar 2, 2021IIROC Trading Halt - EXRO",EXRO
