@@ -43,7 +43,6 @@ def download_csvs():
     if os.path.exists(tsx_file) == False:
         with open(tsx_file, "wb") as file_:
             file_.write(r.content)
-    pass
 
 
 # Copied from stock screener
@@ -87,8 +86,7 @@ def get_tickers_legacy():
     ytickers_series = ytickers_series.drop_duplicates(keep="last")
     cse_tickers = ytickers_series.tolist()
 
-    ytickers = [*tsx_tickers, *cse_tickers]
-    return ytickers
+    return [*tsx_tickers, *cse_tickers]
 
 
 def cse_ticker_to_yahoo(row: pd.Series) -> str:
@@ -188,9 +186,8 @@ def main(args):
                 embeds = embeds_np.tolist()
                 if len(embeds) == 0:
                     continue
-                else:
-                    post_webhook_embeds(embeds)
-                    time.sleep(2)
+                post_webhook_embeds(embeds)
+                time.sleep(2)
         else:
             temp_news_df = pd.DataFrame(valid_news, columns=df_cols)
             temp_news_df.dropna(inplace=True)
