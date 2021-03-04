@@ -19,8 +19,7 @@ class FaunaWrapper:
 
         unique_halts, unique_news, unique_short_news
         """
-        documents = self.client.query(q.paginate(q.match(q.index(index)), size=100000))
-        return documents
+        return self.client.query(q.paginate(q.match(q.index(index)), size=100000))
 
     # Have a faunadb class with a refer to the client
     def create_document_in_collection(self, collection, collection_data):
