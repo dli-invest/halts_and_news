@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 9, 2021IIROC Trading Halt - KHA.H",KHA.H
+"Mar 9, 2021IIROC Trading Halt - VRB",VRB
 "Mar 8, 2021IIROC Trading Halt - CGY",CGY
 "Mar 8, 2021IIROC Trading Halt - TUD",TUD
 "Mar 8, 2021IIROC Trading Halt - MWX.RT",MWX.RT
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 5, 2021IIROC Trade Resumption - PKK",PKK
 "Mar 5, 2021IIROC Trading Halt - PKK",PKK
 "Mar 5, 2021IIROC Trading Resumption - DGHI",DGHI
-"Mar 5, 2021IIROC Trading Halt - DGHI",DGHI
-"Mar 5, 2021IIROC Trade Resumption - DFLY",DFLY
