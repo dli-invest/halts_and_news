@@ -1,4 +1,9 @@
 Halts,Listing
+"Mar 10, 2021IIROC Trading Halt - ERL.H",ERL.H
+"Mar 10, 2021IIROC Trading Resumption - SFX",SFX
+"Mar 10, 2021IIROC Trading Resumption - MCG",MCG
+"Mar 10, 2021IIROC Trading Resumption - DHR",DHR
+"Mar 10, 2021IIROC Trade Resumption - FFN",FFN
 "Mar 9, 2021IIROC Trading Halt - ETHC",ETHC
 "Mar 9, 2021IIROC Trading Halt - SUGR",SUGR
 "Mar 9, 2021IIROC Trading Halt - FFN",FFN
@@ -19,8 +24,3 @@ Halts,Listing
 "Mar 9, 2021IIROC Trading Halt - UPI",UPI
 "Mar 9, 2021IIROC Trading Halt - AZ",AZ
 "Mar 9, 2021IIROC Trading Halt - SFX",SFX
-"Mar 9, 2021IIROC Trading Halt - AH.WT.B",AH.WT.B
-"Mar 9, 2021IIROC Trade Resumption - CGY",CGY
-"Mar 9, 2021IIROC Trading Halt - JE",JE
-"Mar 9, 2021IIROC Trading Halt - EPRX",EPRX
-"Mar 9, 2021IIROC Trading Halt - KHA.H",KHA.H
