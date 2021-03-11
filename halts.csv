@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 11, 2021IIROC Trading Resumption - EFH",EFH
+"Mar 11, 2021IIROC Trading Halt - EFH",EFH
 "Mar 11, 2021IIROC Trading Resumption - ELEC",ELEC
 "Mar 11, 2021IIROC Trading Resumption - SFI",SFI
 "Mar 11, 2021IIROC Trading Halt - SFI",SFI
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 10, 2021IIROC Trading Resumption - IMIN",IMIN
 "Mar 10, 2021IIROC Trading Resumption - PNTR",PNTR
 "Mar 10, 2021IIROC Trading Halt - TTR",TTR
-"Mar 10, 2021IIROC Trading Halt - GDV",GDV
-"Mar 10, 2021IIROC Trade Resumption - COVE",COVE
