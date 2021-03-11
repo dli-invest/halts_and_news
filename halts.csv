@@ -1,4 +1,7 @@
 Halts,Listing
+"Mar 11, 2021IIROC Trading Halt - XTRX",XTRX
+"Mar 11, 2021IIROC Trade Resumption - GDV",GDV
+"Mar 11, 2021IIROC Trade Resumption - GMX",GMX
 "Mar 10, 2021IIROC Trading Halt - GMX",GMX
 "Mar 10, 2021IIROC Trading Halt - ELEC",ELEC
 "Mar 10, 2021IIROC Trading Halt - GTEC",GTEC
@@ -21,6 +24,3 @@ Halts,Listing
 "Mar 10, 2021IIROC Trading Resumption - DHR",DHR
 "Mar 10, 2021IIROC Trade Resumption - FFN",FFN
 "Mar 9, 2021IIROC Trading Halt - ETHC",ETHC
-"Mar 9, 2021IIROC Trading Halt - SUGR",SUGR
-"Mar 9, 2021IIROC Trading Halt - FFN",FFN
-"Mar 9, 2021IIROC Trading Resumption - AMK",AMK
