@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 12, 2021IIROC Trading Resumption - NRTH",NRTH
+"Mar 12, 2021IIROC Trading Halt - QYOU",QYOU
 "Mar 12, 2021IIROC Trading Halt - GCM",GCM
 "Mar 12, 2021IIROC Trade Resumption - FE",FE
 "Mar 12, 2021IIROC Trading Halt - GLDX",GLDX
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 11, 2021IIROC Trading Halt - NUR",NUR
 "Mar 11, 2021IIROC Trading Resumption - GTEC",GTEC
 "Mar 11, 2021IIROC Trading Resumption - KO",KO
-"Mar 11, 2021IIROC Trading Resumption - TTR",TTR
-"Mar 11, 2021IIROC Trading Halt - KO",KO
