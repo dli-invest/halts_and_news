@@ -1,4 +1,10 @@
 Halts,Listing
+"Mar 12, 2021IIROC Trading Halt - GCM",GCM
+"Mar 12, 2021IIROC Trade Resumption - FE",FE
+"Mar 12, 2021IIROC Trading Halt - GLDX",GLDX
+"Mar 12, 2021IIROC Trading Resumption - AFM",AFM
+"Mar 12, 2021IIROC Trading Resumption - CWRK",CWRK
+"Mar 12, 2021IIROC Trading Halt - CWRK",CWRK
 "Mar 12, 2021IIROC Trading Halt - AFM",AFM
 "Mar 12, 2021IIROC Trading Halt - FE",FE
 "Mar 12, 2021IIROC Trade Resumption - CSS",CSS
@@ -18,9 +24,3 @@ Halts,Listing
 "Mar 11, 2021IIROC Trading Resumption - KO",KO
 "Mar 11, 2021IIROC Trading Resumption - TTR",TTR
 "Mar 11, 2021IIROC Trading Halt - KO",KO
-"Mar 11, 2021IIROC Trading Halt - XTRX",XTRX
-"Mar 11, 2021IIROC Trade Resumption - GDV",GDV
-"Mar 11, 2021IIROC Trade Resumption - GMX",GMX
-"Mar 10, 2021IIROC Trading Halt - GMX",GMX
-"Mar 10, 2021IIROC Trading Halt - ELEC",ELEC
-"Mar 10, 2021IIROC Trading Halt - GTEC",GTEC
