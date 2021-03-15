@@ -1,4 +1,10 @@
 Halts,Listing
+"Mar 15, 2021IIROC Trading Resumption - WLF",WLF
+"Mar 15, 2021IIROC Trading Halt - SRHI",SRHI
+"Mar 15, 2021IIROC Trading Halt - MAXR",MAXR
+"Mar 15, 2021IIROC Trading Halt - WLF",WLF
+"Mar 15, 2021IIROC Trading Halt - LXE",LXE
+"Mar 15, 2021IIROC Trading Resumption - TEST",TEST
 "Mar 15, 2021IIROC Trading Halt - MVMD",MVMD
 "Mar 15, 2021IIROC Trade Resumption - CMC",CMC
 "Mar 15, 2021IIROC Trading Halt - ROS",ROS
@@ -18,9 +24,3 @@ Halts,Listing
 "Mar 15, 2021IIROC Trading Halt - TEST",TEST
 "Mar 15, 2021IIROC Trading Halt - AF.P",AF.P
 "Mar 12, 2021IIROC Trading Resumption - CHIP.H",CHIP.H
-"Mar 12, 2021IIROC Trading Resumption - PINH.P",PINH.P
-"Mar 12, 2021IIROC Trade Resumption - AUGF",AUGF
-"Mar 12, 2021IIROC Trading Resumption - QYOU",QYOU
-"Mar 12, 2021IIROC Trading Resumption - NRTH",NRTH
-"Mar 12, 2021IIROC Trading Halt - QYOU",QYOU
-"Mar 12, 2021IIROC Trading Halt - GCM",GCM
