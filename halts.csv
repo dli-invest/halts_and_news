@@ -1,4 +1,8 @@
 Halts,Listing
+"Mar 15, 2021IIROC Trading Halt - ABRA",ABRA
+"Mar 15, 2021IIROC Trade Resumption - GCM",GCM
+"Mar 15, 2021IIROC Trading Halt - TEST",TEST
+"Mar 15, 2021IIROC Trading Halt - AF.P",AF.P
 "Mar 12, 2021IIROC Trading Resumption - CHIP.H",CHIP.H
 "Mar 12, 2021IIROC Trading Resumption - PINH.P",PINH.P
 "Mar 12, 2021IIROC Trade Resumption - AUGF",AUGF
@@ -20,7 +24,3 @@ Halts,Listing
 "Mar 11, 2021IIROC Trading Resumption - EFH",EFH
 "Mar 11, 2021IIROC Trading Halt - EFH",EFH
 "Mar 11, 2021IIROC Trading Resumption - ELEC",ELEC
-"Mar 11, 2021IIROC Trading Resumption - SFI",SFI
-"Mar 11, 2021IIROC Trading Halt - SFI",SFI
-"Mar 11, 2021IIROC Trading Resumption - BNXA",BNXA
-"Mar 11, 2021IIROC Trade Resumption - NUR",NUR
