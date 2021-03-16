@@ -1,4 +1,7 @@
 Halts,Listing
+"Mar 16, 2021IIROC Trading Halt - GG",GG
+"Mar 16, 2021IIROC Trade Resumption - MAXR",MAXR
+"Mar 16, 2021IIROC Trade Resumption - SRHI",SRHI
 "Mar 15, 2021IIROC Trading Resumption - WLF",WLF
 "Mar 15, 2021IIROC Trading Halt - SRHI",SRHI
 "Mar 15, 2021IIROC Trading Halt - MAXR",MAXR
@@ -21,6 +24,3 @@ Halts,Listing
 "Mar 15, 2021IIROC Trading Halt - SHP",SHP
 "Mar 15, 2021IIROC Trading Halt - ABRA",ABRA
 "Mar 15, 2021IIROC Trade Resumption - GCM",GCM
-"Mar 15, 2021IIROC Trading Halt - TEST",TEST
-"Mar 15, 2021IIROC Trading Halt - AF.P",AF.P
-"Mar 12, 2021IIROC Trading Resumption - CHIP.H",CHIP.H
