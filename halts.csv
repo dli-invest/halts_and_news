@@ -1,4 +1,11 @@
 Halts,Listing
+"Mar 16, 2021IIROC Trade Resumption - NAB",NAB
+"Mar 16, 2021IIROC Trading Resumption - GG",GG
+"Mar 16, 2021IIROC Trade Resumption - NAB.NT",NAB.NT
+"Mar 16, 2021IIROC Trading Resumption - AF.P",AF.P
+"Mar 16, 2021IIROC Trading Halt - ION",ION
+"Mar 16, 2021IIROC Trading Halt - NM",NM
+"Mar 16, 2021IIROC Trade Resumption - IM",IM
 "Mar 16, 2021IIROC Trading Halt - IM",IM
 "Mar 16, 2021IIROC Trading Resumption - LXE",LXE
 "Mar 16, 2021IIROC Trading Halt - LXE",LXE
@@ -17,10 +24,3 @@ Halts,Listing
 "Mar 16, 2021IIROC Trade Resumption - MAXR",MAXR
 "Mar 16, 2021IIROC Trade Resumption - SRHI",SRHI
 "Mar 15, 2021IIROC Trading Resumption - WLF",WLF
-"Mar 15, 2021IIROC Trading Halt - SRHI",SRHI
-"Mar 15, 2021IIROC Trading Halt - MAXR",MAXR
-"Mar 15, 2021IIROC Trading Halt - WLF",WLF
-"Mar 15, 2021IIROC Trading Halt - LXE",LXE
-"Mar 15, 2021IIROC Trading Resumption - TEST",TEST
-"Mar 15, 2021IIROC Trading Halt - MVMD",MVMD
-"Mar 15, 2021IIROC Trade Resumption - CMC",CMC
