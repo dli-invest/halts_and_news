@@ -1,4 +1,7 @@
 Halts,Listing
+"Mar 16, 2021IIROC Trading Halt - IM",IM
+"Mar 16, 2021IIROC Trading Resumption - LXE",LXE
+"Mar 16, 2021IIROC Trading Halt - LXE",LXE
 "Mar 16, 2021IIROC Trade Resumption - WPN",WPN
 "Mar 16, 2021IIROC Trading Resumption - AAN",AAN
 "Mar 16, 2021IIROC Trading Halt - AAN",AAN
@@ -21,6 +24,3 @@ Halts,Listing
 "Mar 15, 2021IIROC Trading Resumption - TEST",TEST
 "Mar 15, 2021IIROC Trading Halt - MVMD",MVMD
 "Mar 15, 2021IIROC Trade Resumption - CMC",CMC
-"Mar 15, 2021IIROC Trading Halt - ROS",ROS
-"Mar 15, 2021IIROC Trading Halt - CMC",CMC
-"Mar 15, 2021IIROC Trading Resumption - ABRA",ABRA
