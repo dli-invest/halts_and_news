@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 16, 2021IIROC Trading Halt - CHR",CHR
+"Mar 16, 2021IIROC Trading Halt - NNO",NNO
 "Mar 16, 2021IIROC Trade Resumption - NAB",NAB
 "Mar 16, 2021IIROC Trading Resumption - GG",GG
 "Mar 16, 2021IIROC Trade Resumption - NAB.NT",NAB.NT
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 16, 2021IIROC Trading Resumption - LXE",LXE
 "Mar 16, 2021IIROC Trading Halt - GG",GG
 "Mar 16, 2021IIROC Trade Resumption - MAXR",MAXR
-"Mar 16, 2021IIROC Trade Resumption - SRHI",SRHI
-"Mar 15, 2021IIROC Trading Resumption - WLF",WLF
