@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 17, 2021IIROC Trading Halt - EMN",EMN
+"Mar 17, 2021IIROC Trading Resumption - KFR (formerly SSH.P)",SSH.P)
 "Mar 17, 2021IIROC Trading Halt - FPX",FPX
 "Mar 17, 2021IIROC Trade Resumption - GSQ",GSQ
 "Mar 17, 2021IIROC Trading Halt - GSQ",GSQ
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 16, 2021IIROC Trading Halt - NNO",NNO
 "Mar 16, 2021IIROC Trade Resumption - NAB",NAB
 "Mar 16, 2021IIROC Trading Resumption - GG",GG
-"Mar 16, 2021IIROC Trade Resumption - NAB.NT",NAB.NT
-"Mar 16, 2021IIROC Trading Resumption - AF.P",AF.P
