@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 17, 2021IIROC Trading Halt - FPX",FPX
+"Mar 17, 2021IIROC Trade Resumption - GSQ",GSQ
 "Mar 17, 2021IIROC Trading Halt - GSQ",GSQ
 "Mar 17, 2021IIROC Trading Halt - LHI",LHI
 "Mar 17, 2021IIROC Trade Resumption - CANN.WT.A",CANN.WT.A
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 16, 2021IIROC Trading Resumption - GG",GG
 "Mar 16, 2021IIROC Trade Resumption - NAB.NT",NAB.NT
 "Mar 16, 2021IIROC Trading Resumption - AF.P",AF.P
-"Mar 16, 2021IIROC Trading Halt - ION",ION
-"Mar 16, 2021IIROC Trading Halt - NM",NM
