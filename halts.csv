@@ -1,4 +1,7 @@
 Halts,Listing
+"Mar 18, 2021IIROC Trading Halt - GASX",GASX
+"Mar 18, 2021IIROC Trading Halt - NICO",NICO
+"Mar 18, 2021IIROC Trading Resumption - DAN",DAN
 "Mar 18, 2021IIROC Trading Halt - RECO.WT",RECO.WT
 "Mar 18, 2021IIROC Trade Resumption - EAT",EAT
 "Mar 18, 2021IIROC Trading Halt - SDE.R",SDE.R
@@ -21,6 +24,3 @@ Halts,Listing
 "Mar 17, 2021IIROC Trade Resumption - GSQ",GSQ
 "Mar 17, 2021IIROC Trading Halt - GSQ",GSQ
 "Mar 17, 2021IIROC Trading Halt - LHI",LHI
-"Mar 17, 2021IIROC Trade Resumption - CANN.WT.A",CANN.WT.A
-"Mar 17, 2021IIROC Trading Resumption - BHT",BHT
-"Mar 17, 2021IIROC Trading Halt - BHT",BHT
