@@ -1,4 +1,9 @@
 Halts,Listing
+"Mar 18, 2021IIROC Trading Halt - RECO.WT",RECO.WT
+"Mar 18, 2021IIROC Trade Resumption - EAT",EAT
+"Mar 18, 2021IIROC Trading Halt - SDE.R",SDE.R
+"Mar 18, 2021IIROC Trading Resumption - ARU",ARU
+"Mar 18, 2021IIROC Trading Halt - EAT",EAT
 "Mar 18, 2021IIROC Trading Halt - TFC",TFC
 "Mar 18, 2021IIROC Trading Resumption - FPX",FPX
 "Mar 18, 2021IIROC Trading Halt - DBG",DBG
@@ -19,8 +24,3 @@ Halts,Listing
 "Mar 17, 2021IIROC Trade Resumption - CANN.WT.A",CANN.WT.A
 "Mar 17, 2021IIROC Trading Resumption - BHT",BHT
 "Mar 17, 2021IIROC Trading Halt - BHT",BHT
-"Mar 17, 2021IIROC Trading Resumption - PTU",PTU
-"Mar 17, 2021IIROC Trading Resumption - ION",ION
-"Mar 17, 2021IIROC Trading Resumption - ZEN",ZEN
-"Mar 17, 2021IIROC Trading Halt - DAN",DAN
-"Mar 17, 2021IIROC Trading Resumption - NNO",NNO
