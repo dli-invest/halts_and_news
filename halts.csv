@@ -1,4 +1,7 @@
 Halts,Listing
+"Mar 19, 2021IIROC Trading Halt - IP",IP
+"Mar 19, 2021IIROC Trading Halt - TRIP",TRIP
+"Mar 19, 2021IIROC Trading Halt - PAY",PAY
 "Mar 18, 2021IIROC Trading Resumption - GX",GX
 "Mar 18, 2021IIROC Trading Halt - VOX",VOX
 "Mar 18, 2021IIROC Trade Resumption - VYGR",VYGR
@@ -21,6 +24,3 @@ Halts,Listing
 "Mar 18, 2021IIROC Trade Resumption - NM",NM
 "Mar 18, 2021IIROC Trading Resumption - LHI",LHI
 "Mar 18, 2021IIROC Trading Resumption - SYZ",SYZ
-"Mar 18, 2021IIROC Trading Halt - ARU",ARU
-"Mar 18, 2021IIROC Trading Halt - SYZ",SYZ
-"Mar 18, 2021IIROC Trading Halt - BTEC.H",BTEC.H
