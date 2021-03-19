@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 19, 2021IIROC Trading Resumption - BMR",BMR
+"Mar 19, 2021IIROC Trading Resumption - INLA",INLA
 "Mar 19, 2021IIROC Trading Resumption - SCAN",SCAN
 "Mar 19, 2021IIROC Trade Resumption - TD.PF.G",TD.PF.G
 "Mar 19, 2021IIROC Trading Halt - TD.PF.G",TD.PF.G
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 18, 2021IIROC Trading Halt - RECO.WT",RECO.WT
 "Mar 18, 2021IIROC Trade Resumption - EAT",EAT
 "Mar 18, 2021IIROC Trading Halt - SDE.R",SDE.R
-"Mar 18, 2021IIROC Trading Resumption - ARU",ARU
-"Mar 18, 2021IIROC Trading Halt - EAT",EAT
