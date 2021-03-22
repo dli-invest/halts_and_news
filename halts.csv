@@ -1,4 +1,9 @@
 Halts,Listing
+"Mar 22, 2021IIROC Trading Halt - ECR",ECR
+"Mar 22, 2021IIROC Trading Halt - TIUM.WT.U",TIUM.WT.U
+"Mar 22, 2021IIROC Trade Resumption - MSET",MSET
+"Mar 22, 2021IIROC Trade Resumption - PMN",PMN
+"Mar 22, 2021IIROC Trading Halt - PMN",PMN
 "Mar 22, 2021IIROC Trading Resumption - EWS",EWS
 "Mar 22, 2021IIROC Trade Resumption - YOOM",YOOM
 "Mar 22, 2021IIROC Trading Halt - YOOM",YOOM
@@ -19,8 +24,3 @@ Halts,Listing
 "Mar 19, 2021IIROC Trading Resumption - VOX",VOX
 "Mar 19, 2021IIROC Trade Resumption - PAY",PAY
 "Mar 19, 2021IIROC Trading Halt - IP",IP
-"Mar 19, 2021IIROC Trading Halt - TRIP",TRIP
-"Mar 19, 2021IIROC Trading Halt - PAY",PAY
-"Mar 18, 2021IIROC Trading Resumption - GX",GX
-"Mar 18, 2021IIROC Trading Halt - VOX",VOX
-"Mar 18, 2021IIROC Trade Resumption - VYGR",VYGR
