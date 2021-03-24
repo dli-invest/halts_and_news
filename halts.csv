@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 24, 2021IIROC Trading Halt - MJRX",MJRX
+"Mar 24, 2021IIROC Trade Resumption - BRMI",BRMI
 "Mar 24, 2021IIROC Trade Resumption - XTD",XTD
 "Mar 24, 2021IIROC Trading Halt - LIM.H",LIM.H
 "Mar 23, 2021IIROC Trading Resumption - NOVC",NOVC
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 22, 2021IIROC Trading Halt - TIUM.WT.U",TIUM.WT.U
 "Mar 22, 2021IIROC Trade Resumption - MSET",MSET
 "Mar 22, 2021IIROC Trade Resumption - PMN",PMN
-"Mar 22, 2021IIROC Trading Halt - PMN",PMN
-"Mar 22, 2021IIROC Trading Resumption - EWS",EWS
