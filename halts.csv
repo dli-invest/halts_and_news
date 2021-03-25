@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 25, 2021IIROC Trade Resumption - BBTV",BBTV
+"Mar 25, 2021IIROC Trading Halt - BBTV",BBTV
 "Mar 25, 2021IIROC Trading Halt - FLT.WT",FLT.WT
 "Mar 25, 2021IIROC Trade Resumption - ISH",ISH
 "Mar 25, 2021IIROC Trade Resumption - EATS",EATS
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 24, 2021IIROC Trade Resumption - XTD",XTD
 "Mar 24, 2021IIROC Trading Halt - LIM.H",LIM.H
 "Mar 23, 2021IIROC Trading Resumption - NOVC",NOVC
-"Mar 23, 2021IIROC Trading Resumption - BIG",BIG
-"Mar 23, 2021IIROC Trading Resumption - EAIME.P",EAIME.P
