@@ -1,4 +1,8 @@
 Halts,Listing
+"Mar 25, 2021IIROC Trading Halt - FLT.WT",FLT.WT
+"Mar 25, 2021IIROC Trade Resumption - ISH",ISH
+"Mar 25, 2021IIROC Trade Resumption - EATS",EATS
+"Mar 25, 2021IIROC Trading Halt - EATS",EATS
 "Mar 25, 2021IIROC Trading Resumption - IDH.H",IDH.H
 "Mar 25, 2021IIROC Trading Halt - ISH",ISH
 "Mar 25, 2021IIROC Trade Resumption - AQA",AQA
@@ -20,7 +24,3 @@ Halts,Listing
 "Mar 23, 2021IIROC Trading Resumption - NOVC",NOVC
 "Mar 23, 2021IIROC Trading Resumption - BIG",BIG
 "Mar 23, 2021IIROC Trading Resumption - EAIME.P",EAIME.P
-"Mar 23, 2021IIROC Trading Halt - XTD",XTD
-"Mar 23, 2021IIROC Trade Resumption - TGO",TGO
-"Mar 23, 2021IIROC Trade Resumption - PMED",PMED
-"Mar 23, 2021IIROC Trading Resumption - GGM",GGM
