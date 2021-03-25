@@ -1,4 +1,10 @@
 Halts,Listing
+"Mar 25, 2021IIROC Trading Resumption - IDH.H",IDH.H
+"Mar 25, 2021IIROC Trading Halt - ISH",ISH
+"Mar 25, 2021IIROC Trade Resumption - AQA",AQA
+"Mar 25, 2021IIROC Trading Halt - IDH.H",IDH.H
+"Mar 25, 2021IIROC Trading Halt - LOG.P",LOG.P
+"Mar 25, 2021IIROC Trading Resumption - TNO.H",TNO.H
 "Mar 25, 2021IIROC Trading Halt - TNO.H",TNO.H
 "Mar 25, 2021IIROC Trading Halt - AN",AN
 "Mar 24, 2021IIROC Trading Resumption - TRBE",TRBE
@@ -18,9 +24,3 @@ Halts,Listing
 "Mar 23, 2021IIROC Trade Resumption - TGO",TGO
 "Mar 23, 2021IIROC Trade Resumption - PMED",PMED
 "Mar 23, 2021IIROC Trading Resumption - GGM",GGM
-"Mar 23, 2021IIROC Trading Resumption - ECR",ECR
-"Mar 23, 2021IIROC Trading Halt - PMED",PMED
-"Mar 23, 2021IIROC Trade Resumption - FSY",FSY
-"Mar 23, 2021IIROC Trading Halt - RTM",RTM
-"Mar 22, 2021IIROC Trading Halt - TGO",TGO
-"Mar 22, 2021IIROC Trade Resumption - NICO",NICO
