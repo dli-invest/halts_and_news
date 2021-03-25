@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 25, 2021IIROC Trading Halt - TNO.H",TNO.H
+"Mar 25, 2021IIROC Trading Halt - AN",AN
 "Mar 24, 2021IIROC Trading Resumption - TRBE",TRBE
 "Mar 24, 2021IIROC Trading Halt - AQA",AQA
 "Mar 24, 2021IIROC Trade Resumption - OVV",OVV
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 23, 2021IIROC Trading Halt - RTM",RTM
 "Mar 22, 2021IIROC Trading Halt - TGO",TGO
 "Mar 22, 2021IIROC Trade Resumption - NICO",NICO
-"Mar 22, 2021IIROC Trading Halt - FSY",FSY
-"Mar 22, 2021IIROC Trading Resumption - SMAR.P",SMAR.P
