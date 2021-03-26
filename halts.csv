@@ -1,4 +1,7 @@
 Halts,Listing
+"Mar 26, 2021IIROC Trading Resumption - APM",APM
+"Mar 26, 2021IIROC Trading Halt - VPH",VPH
+"Mar 26, 2021IIROC Trading Halt - PLUR",PLUR
 "Mar 26, 2021IIROC Trading Halt - ZONE",ZONE
 "Mar 26, 2021IIROC Trading Resumption - NAM",NAM
 "Mar 26, 2021IIROC Trade Resumption - BBM",BBM
@@ -21,6 +24,3 @@ Halts,Listing
 "Mar 25, 2021IIROC Trading Halt - LOG.P",LOG.P
 "Mar 25, 2021IIROC Trading Resumption - TNO.H",TNO.H
 "Mar 25, 2021IIROC Trading Halt - TNO.H",TNO.H
-"Mar 25, 2021IIROC Trading Halt - AN",AN
-"Mar 24, 2021IIROC Trading Resumption - TRBE",TRBE
-"Mar 24, 2021IIROC Trading Halt - AQA",AQA
