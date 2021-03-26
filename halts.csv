@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 26, 2021IIROC Trading Halt - ALY",ALY
+"Mar 26, 2021IIROC Trade Resumption - SGR.UN",SGR.UN
 "Mar 25, 2021IIROC Trading Resumption - PCLO.WT",PCLO.WT
 "Mar 25, 2021IIROC Trading Halt - SGR.UN",SGR.UN
 "Mar 25, 2021IIROC Trading Halt - NAM",NAM
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 24, 2021IIROC Trading Halt - OVV",OVV
 "Mar 24, 2021IIROC Trading Resumption - IVI",IVI
 "Mar 24, 2021IIROC Trading Halt - IVI",IVI
-"Mar 24, 2021IIROC Trading Halt - MJRX",MJRX
-"Mar 24, 2021IIROC Trade Resumption - BRMI",BRMI
