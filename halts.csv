@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 29, 2021IIROC Trading Halt - QUIS",QUIS
+"Mar 29, 2021IIROC Trading Halt - LTV",LTV
 "Mar 29, 2021IIROC Trade Resumption - XTRX",XTRX
 "Mar 29, 2021IIROC Trading Halt - GTOO",GTOO
 "Mar 29, 2021IIROC Trade Resumption - VPH",VPH
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 26, 2021IIROC Trading Resumption - NAM",NAM
 "Mar 26, 2021IIROC Trade Resumption - BBM",BBM
 "Mar 26, 2021IIROC Trading Halt - BBM",BBM
-"Mar 26, 2021IIROC Trading Halt - ALY",ALY
-"Mar 26, 2021IIROC Trade Resumption - SGR.UN",SGR.UN
