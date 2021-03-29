@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 29, 2021IIROC Trading Halt - NHHH",NHHH
+"Mar 29, 2021IIROC Trading Halt - RGO.X",RGO.X
 "Mar 26, 2021IIROC Trading Resumption - CFI",CFI
 "Mar 26, 2021IIROC Trading Resumption - APM",APM
 "Mar 26, 2021IIROC Trading Halt - VPH",VPH
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 25, 2021IIROC Trading Halt - ISH",ISH
 "Mar 25, 2021IIROC Trade Resumption - AQA",AQA
 "Mar 25, 2021IIROC Trading Halt - IDH.H",IDH.H
-"Mar 25, 2021IIROC Trading Halt - LOG.P",LOG.P
-"Mar 25, 2021IIROC Trading Resumption - TNO.H",TNO.H
