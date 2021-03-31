@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 31, 2021IIROC Trading Halt - SGR.R",SGR.R
+"Mar 31, 2021IIROC Trading Halt - SCPT.A; SCPT.U",SCPT.U
 "Mar 30, 2021IIROC Trading Resumption - ACOG",ACOG
 "Mar 30, 2021IIROC Trading Resumption - KLM",KLM
 "Mar 30, 2021IIROC Trading Halt - GIGA",GIGA
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 29, 2021IIROC Trading Resumption - GIII",GIII
 "Mar 29, 2021IIROC Trading Resumption - VOX",VOX
 "Mar 29, 2021IIROC Trading Resumption - AN",AN
-"Mar 29, 2021IIROC Trading Halt - VOX",VOX
-"Mar 29, 2021IIROC Trading Resumption - ALY",ALY
