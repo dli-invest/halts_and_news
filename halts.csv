@@ -1,4 +1,6 @@
 Halts,Listing
+"Apr 1, 2021IIROC Trading Resumption - RTM",RTM
+"Apr 1, 2021IIROC Trading Halt - CLIQ.DB",CLIQ.DB
 "Apr 1, 2021IIROC Trading Resumption - ROK",ROK
 "Apr 1, 2021IIROC Trade Resumption - SBI",SBI
 "Apr 1, 2021IIROC Trading Halt - SBI",SBI
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 31, 2021IIROC Trading Resumption - RML",RML
 "Mar 31, 2021IIROC Trading Resumption - RKV",RKV
 "Mar 31, 2021IIROC Trading Resumption - AMMO",AMMO
-"Mar 31, 2021IIROC Trading Halt - AOT",AOT
-"Mar 31, 2021IIROC Trading Halt - OPI",OPI
