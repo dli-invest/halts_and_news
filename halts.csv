@@ -1,4 +1,6 @@
 Halts,Listing
+"Apr 5, 2021IIROC Trading Halt - FAU.H",FAU.H
+"Apr 5, 2021IIROC Trade Resumption - CLIQ.DB",CLIQ.DB
 "Apr 1, 2021IIROC Trading Resumption - RTM",RTM
 "Apr 1, 2021IIROC Trading Halt - CLIQ.DB",CLIQ.DB
 "Apr 1, 2021IIROC Trading Resumption - ROK",ROK
@@ -22,5 +24,3 @@ Halts,Listing
 "Apr 1, 2021IIROC Trade Resumption - AOT",AOT
 "Apr 1, 2021IIROC Trading Halt - CAY",CAY
 "Mar 31, 2021IIROC Trading Resumption - RML",RML
-"Mar 31, 2021IIROC Trading Resumption - RKV",RKV
-"Mar 31, 2021IIROC Trading Resumption - AMMO",AMMO
