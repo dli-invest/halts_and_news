@@ -1,4 +1,6 @@
 Halts,Listing
+"Apr 5, 2021IIROC Trading Resumption - DIA",DIA
+"Apr 5, 2021IIROC Trading Resumption - SRA",SRA
 "Apr 5, 2021IIROC Trade Resumption - PNP.RT",PNP.RT
 "Apr 5, 2021IIROC Trade Resumption - OPI",OPI
 "Apr 5, 2021IIROC Trading Halt - PNP.RT",PNP.RT
@@ -22,5 +24,3 @@ Halts,Listing
 "Apr 1, 2021IIROC Trading Halt - IMCC",IMCC
 "Apr 1, 2021IIROC Trading Halt - TZR.DB",TZR.DB
 "Apr 1, 2021IIROC Trading Halt - MDA",MDA
-"Apr 1, 2021IIROC Trading Resumption - SCPT.U",SCPT.U
-"Apr 1, 2021IIROC Trading Resumption - DBG",DBG
