@@ -1,4 +1,6 @@
 Halts,Listing
+"Apr 6, 2021IIROC Trading Halt - KGC",KGC
+"Apr 6, 2021IIROC Trading Resumption - PRS",PRS
 "Apr 6, 2021IIROC Trade Resumption - CHR.DB.B",CHR.DB.B
 "Apr 6, 2021IIROC Trade Resumption - CHR.WT",CHR.WT
 "Apr 6, 2021IIROC Trading Halt - PRS",PRS
@@ -22,5 +24,3 @@ Halts,Listing
 "Apr 1, 2021IIROC Trading Halt - CLIQ.DB",CLIQ.DB
 "Apr 1, 2021IIROC Trading Resumption - ROK",ROK
 "Apr 1, 2021IIROC Trade Resumption - SBI",SBI
-"Apr 1, 2021IIROC Trading Halt - SBI",SBI
-"Apr 1, 2021IIROC Trading Halt - ROK",ROK
