@@ -1,4 +1,9 @@
 Halts,Listing
+"Apr 6, 2021IIROC Trading Halt - EMA.PR.J",EMA.PR.J
+"Apr 6, 2021IIROC Trading Halt - CHR.WT",CHR.WT
+"Apr 6, 2021IIROC Trading Halt - CHR.DB.B",CHR.DB.B
+"Apr 6, 2021IIROC Trading Halt - BLR",BLR
+"Apr 6, 2021IIROC Trading Halt - BRAU",BRAU
 "Apr 5, 2021IIROC Trading Resumption - DIA",DIA
 "Apr 5, 2021IIROC Trading Resumption - SRA",SRA
 "Apr 5, 2021IIROC Trade Resumption - PNP.RT",PNP.RT
@@ -19,8 +24,3 @@ Halts,Listing
 "Apr 1, 2021IIROC Trading Resumption - GIGA",GIGA
 "Apr 1, 2021IIROC Trading Halt - MYM",MYM
 "Apr 1, 2021IIROC Trade Resumption - IMCC",IMCC
-"Apr 1, 2021IIROC Trade Resumption - EAT",EAT
-"Apr 1, 2021IIROC Trading Halt - EAT",EAT
-"Apr 1, 2021IIROC Trading Halt - IMCC",IMCC
-"Apr 1, 2021IIROC Trading Halt - TZR.DB",TZR.DB
-"Apr 1, 2021IIROC Trading Halt - MDA",MDA
