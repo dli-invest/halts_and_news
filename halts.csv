@@ -1,4 +1,8 @@
 Halts,Listing
+"Apr 6, 2021IIROC Trading Halt - PRYM",PRYM
+"Apr 6, 2021IIROC Trading Resumption - MZN",MZN
+"Apr 6, 2021IIROC Trading Halt - KWE",KWE
+"Apr 6, 2021IIROC Trading Halt - NEO",NEO
 "Apr 6, 2021IIROC Trading Halt - KGC",KGC
 "Apr 6, 2021IIROC Trading Resumption - PRS",PRS
 "Apr 6, 2021IIROC Trade Resumption - CHR.DB.B",CHR.DB.B
@@ -20,7 +24,3 @@ Halts,Listing
 "Apr 5, 2021IIROC Trading Halt - LORD",LORD
 "Apr 5, 2021IIROC Trading Halt - FAU.H",FAU.H
 "Apr 5, 2021IIROC Trade Resumption - CLIQ.DB",CLIQ.DB
-"Apr 1, 2021IIROC Trading Resumption - RTM",RTM
-"Apr 1, 2021IIROC Trading Halt - CLIQ.DB",CLIQ.DB
-"Apr 1, 2021IIROC Trading Resumption - ROK",ROK
-"Apr 1, 2021IIROC Trade Resumption - SBI",SBI
