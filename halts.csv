@@ -1,4 +1,6 @@
 Halts,Listing
+"Apr 8, 2021IIROC Trading Halt - PGM",PGM
+"Apr 8, 2021IIROC Trade Resumption - FIRE",FIRE
 "Apr 8, 2021IIROC Trading Halt - FIRE",FIRE
 "Apr 8, 2021IIROC Trading Halt - SOP.H",SOP.H
 "Apr 7, 2021IIROC Trading Resumption - AEL.H",AEL.H
@@ -22,5 +24,3 @@ Halts,Listing
 "Apr 6, 2021IIROC Trading Resumption - MZN",MZN
 "Apr 6, 2021IIROC Trading Halt - KWE",KWE
 "Apr 6, 2021IIROC Trading Halt - NEO",NEO
-"Apr 6, 2021IIROC Trading Halt - KGC",KGC
-"Apr 6, 2021IIROC Trading Resumption - PRS",PRS
