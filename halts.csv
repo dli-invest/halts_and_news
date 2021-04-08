@@ -1,4 +1,6 @@
 Halts,Listing
+"Apr 8, 2021IIROC Trading Halt - FIRE",FIRE
+"Apr 8, 2021IIROC Trading Halt - SOP.H",SOP.H
 "Apr 7, 2021IIROC Trading Resumption - AEL.H",AEL.H
 "Apr 7, 2021IIROC Trading Resumption - BRAU",BRAU
 "Apr 7, 2021IIROC Trading Resumption - ETK.H",ETK.H
@@ -22,5 +24,3 @@ Halts,Listing
 "Apr 6, 2021IIROC Trading Halt - NEO",NEO
 "Apr 6, 2021IIROC Trading Halt - KGC",KGC
 "Apr 6, 2021IIROC Trading Resumption - PRS",PRS
-"Apr 6, 2021IIROC Trade Resumption - CHR.DB.B",CHR.DB.B
-"Apr 6, 2021IIROC Trade Resumption - CHR.WT",CHR.WT
