@@ -1,4 +1,10 @@
 Halts,Listing
+"Apr 9, 2021IIROC Trading Resumption - QYOU",QYOU
+"Apr 9, 2021IIROC Trading Halt - INCR",INCR
+"Apr 9, 2021IIROC Trade Resumption - BTB.UN",BTB.UN
+"Apr 9, 2021IIROC Trading Halt - KGF",KGF
+"Apr 9, 2021IIROC Trading Halt - IL.P",IL.P
+"Apr 9, 2021IIROC Trading Halt - GIG.P",GIG.P
 "Apr 8, 2021IIROC Trading Halt - BTB.UN",BTB.UN
 "Apr 8, 2021IIROC Trading Resumption - SJL",SJL
 "Apr 8, 2021IIROC Trading Halt - QYOU",QYOU
@@ -18,9 +24,3 @@ Halts,Listing
 "Apr 7, 2021IIROC Trading Halt - PSH.RT",PSH.RT
 "Apr 7, 2021IIROC Trading Resumption - NEXE",NEXE
 "Apr 7, 2021IIROC Trading Resumption - PRYM",PRYM
-"Apr 7, 2021IIROC Trading Halt - GRSL",GRSL
-"Apr 7, 2021IIROC Trading Resumption - KGC",KGC
-"Apr 7, 2021IIROC Trading Resumption - KWE",KWE
-"Apr 7, 2021IIROC Trade Resumption - MDA",MDA
-"Apr 7, 2021IIROC Trade Resumption - NEO",NEO
-"Apr 7, 2021IIROC Trading Halt - QMX",QMX
