@@ -1,4 +1,7 @@
 Halts,Listing
+"Apr 13, 2021IIROC Trading Halt - DME",DME
+"Apr 13, 2021IIROC Trade Resumption - VALU",VALU
+"Apr 13, 2021IIROC Trade Resumption - VEGA",VEGA
 "Apr 13, 2021IIROC Trading Halt - VALU",VALU
 "Apr 13, 2021IIROC Trade Resumption - GRAY",GRAY
 "Apr 13, 2021IIROC Trading Halt - GRAY",GRAY
@@ -21,6 +24,3 @@ Halts,Listing
 "Apr 12, 2021IIROC Trading Halt - OSI",OSI
 "Apr 9, 2021IIROC Trading Halt - BETS",BETS
 "Apr 9, 2021IIROC Trade Resumption - ONC",ONC
-"Apr 9, 2021IIROC Trading Halt - ONC",ONC
-"Apr 9, 2021IIROC Trading Resumption - QYOU",QYOU
-"Apr 9, 2021IIROC Trading Halt - INCR",INCR
