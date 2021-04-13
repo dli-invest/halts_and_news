@@ -1,4 +1,7 @@
 Halts,Listing
+"Apr 13, 2021IIROC Trading Halt - AAC.P",AAC.P
+"Apr 13, 2021IIROC Trade Resumption - GSY",GSY
+"Apr 13, 2021IIROC Trading Halt - VEGA",VEGA
 "Apr 12, 2021IIROC Trading Halt - GSY",GSY
 "Apr 12, 2021IIROC Trade Resumption - GRAY",GRAY
 "Apr 12, 2021IIROC Trading Halt - GRAY",GRAY
@@ -21,6 +24,3 @@ Halts,Listing
 "Apr 9, 2021IIROC Trading Halt - IL.P",IL.P
 "Apr 9, 2021IIROC Trading Halt - GIG.P",GIG.P
 "Apr 8, 2021IIROC Trading Halt - BTB.UN",BTB.UN
-"Apr 8, 2021IIROC Trading Resumption - SJL",SJL
-"Apr 8, 2021IIROC Trading Halt - QYOU",QYOU
-"Apr 8, 2021IIROC Trading Resumption - PGM",PGM
