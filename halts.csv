@@ -1,4 +1,9 @@
 Halts,Listing
+"Apr 14, 2021IIROC Trading Halt - WCU",WCU
+"Apr 14, 2021IIROC Trading Halt - ITM",ITM
+"Apr 14, 2021IIROC Trading Halt - RIDR.P",RIDR.P
+"Apr 14, 2021IIROC Trading Halt - CDU",CDU
+"Apr 14, 2021IIROC Trading Halt - PXA",PXA
 "Apr 13, 2021IIROC Trading Resumption - DME",DME
 "Apr 13, 2021IIROC Trading Halt - DME",DME
 "Apr 13, 2021IIROC Trade Resumption - VALU",VALU
@@ -19,8 +24,3 @@ Halts,Listing
 "Apr 12, 2021IIROC Trading Resumption - OSI",OSI
 "Apr 12, 2021IIROC Trade Resumption - PVS.PR.J",PVS.PR.J
 "Apr 12, 2021IIROC Trade Resumption - NEXT",NEXT
-"Apr 12, 2021IIROC Trading Halt - NEXT",NEXT
-"Apr 12, 2021IIROC Trading Halt - PVS.PR.J",PVS.PR.J
-"Apr 12, 2021IIROC Trading Halt - GFP",GFP
-"Apr 12, 2021IIROC Trading Halt - OSI",OSI
-"Apr 9, 2021IIROC Trading Halt - BETS",BETS
