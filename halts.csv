@@ -1,4 +1,6 @@
 Halts,Listing
+"Apr 14, 2021IIROC Trading Halt - BXV",BXV
+"Apr 14, 2021IIROC Trading Resumption - FD",FD
 "Apr 14, 2021IIROC Trading Halt - FD",FD
 "Apr 14, 2021IIROC Trade Resumption - BIGG",BIGG
 "Apr 14, 2021IIROC Trading Halt - BIGG",BIGG
@@ -21,6 +23,4 @@ Halts,Listing
 "Apr 13, 2021IIROC Trade Resumption - GSY",GSY
 "Apr 13, 2021IIROC Trading Halt - VEGA",VEGA
 "Apr 12, 2021IIROC Trading Halt - GSY",GSY
-"Apr 12, 2021IIROC Trade Resumption - GRAY",GRAY
-"Apr 12, 2021IIROC Trading Halt - GRAY",GRAY
 "Apr 12, 2021IIROC Trade Resumption - GRAY",GRAY
