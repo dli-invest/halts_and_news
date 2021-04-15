@@ -1,4 +1,6 @@
 Halts,Listing
+"Apr 15, 2021IIROC Trading Halt - AUS.H",AUS.H
+"Apr 15, 2021IIROC Trade Resumption - HGI.UN",HGI.UN
 "Apr 15, 2021IIROC Trading Resumption - PXA",PXA
 "Apr 15, 2021IIROC Trading Halt - HGI.UN",HGI.UN
 "Apr 15, 2021IIROC Trading Resumption - RECO",RECO
@@ -22,5 +24,3 @@ Halts,Listing
 "Apr 14, 2021IIROC Trade Resumption - BIGG",BIGG
 "Apr 14, 2021IIROC Trading Halt - BIGG",BIGG
 "Apr 14, 2021IIROC Trading Resumption - ITM",ITM
-"Apr 14, 2021IIROC Trading Halt - WCU",WCU
-"Apr 14, 2021IIROC Trading Halt - ITM",ITM
