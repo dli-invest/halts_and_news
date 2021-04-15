@@ -1,4 +1,7 @@
 Halts,Listing
+"Apr 15, 2021IIROC Trading Halt - VOTI",VOTI
+"Apr 15, 2021IIROC Trading Resumption - AAC.P",AAC.P
+"Apr 15, 2021IIROC Trading Resumption - GBLY",GBLY
 "Apr 15, 2021IIROC Trading Halt - AUS.H",AUS.H
 "Apr 15, 2021IIROC Trade Resumption - HGI.UN",HGI.UN
 "Apr 15, 2021IIROC Trading Resumption - PXA",PXA
@@ -21,6 +24,3 @@ Halts,Listing
 "Apr 14, 2021IIROC Trading Halt - BXV",BXV
 "Apr 14, 2021IIROC Trading Resumption - FD",FD
 "Apr 14, 2021IIROC Trading Halt - FD",FD
-"Apr 14, 2021IIROC Trade Resumption - BIGG",BIGG
-"Apr 14, 2021IIROC Trading Halt - BIGG",BIGG
-"Apr 14, 2021IIROC Trading Resumption - ITM",ITM
