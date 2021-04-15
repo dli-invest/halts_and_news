@@ -1,4 +1,13 @@
 Halts,Listing
+"Apr 15, 2021IIROC Trading Resumption - PXA",PXA
+"Apr 15, 2021IIROC Trading Halt - HGI.UN",HGI.UN
+"Apr 15, 2021IIROC Trading Resumption - RECO",RECO
+"Apr 15, 2021IIROC Trading Halt - RECO",RECO
+"Apr 15, 2021IIROC Trading Resumption - FVAN",FVAN
+"Apr 15, 2021IIROC Trading Halt - FVAN",FVAN
+"Apr 15, 2021IIROC Trading Resumption - PINK",PINK
+"Apr 15, 2021IIROC Trade Resumption - NPI",NPI
+"Apr 15, 2021IIROC Trading Halt - NEW",NEW
 "Apr 14, 2021IIROC Trading Resumption - CDX",CDX
 "Apr 14, 2021IIROC Trading Resumption - GMG",GMG
 "Apr 14, 2021IIROC Trading Halt - NPI",NPI
@@ -15,12 +24,3 @@ Halts,Listing
 "Apr 14, 2021IIROC Trading Resumption - ITM",ITM
 "Apr 14, 2021IIROC Trading Halt - WCU",WCU
 "Apr 14, 2021IIROC Trading Halt - ITM",ITM
-"Apr 14, 2021IIROC Trading Halt - RIDR.P",RIDR.P
-"Apr 14, 2021IIROC Trading Halt - CDU",CDU
-"Apr 14, 2021IIROC Trading Halt - PXA",PXA
-"Apr 13, 2021IIROC Trading Resumption - DME",DME
-"Apr 13, 2021IIROC Trading Halt - DME",DME
-"Apr 13, 2021IIROC Trade Resumption - VALU",VALU
-"Apr 13, 2021IIROC Trade Resumption - VEGA",VEGA
-"Apr 13, 2021IIROC Trading Halt - VALU",VALU
-"Apr 13, 2021IIROC Trade Resumption - GRAY",GRAY
