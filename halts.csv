@@ -1,4 +1,6 @@
 Halts,Listing
+"Apr 19, 2021IIROC Trading Halt - WHM",WHM
+"Apr 19, 2021IIROC Trading Halt - GBLK",GBLK
 "Apr 16, 2021IIROC Trading Resumption - MAS",MAS
 "Apr 16, 2021IIROC Trading Resumption - RIDR.P",RIDR.P
 "Apr 16, 2021IIROC Trade Resumption - NXR.UN",NXR.UN
@@ -22,5 +24,3 @@ Halts,Listing
 "Apr 15, 2021IIROC Trading Resumption - PXA",PXA
 "Apr 15, 2021IIROC Trading Halt - HGI.UN",HGI.UN
 "Apr 15, 2021IIROC Trading Resumption - RECO",RECO
-"Apr 15, 2021IIROC Trading Halt - RECO",RECO
-"Apr 15, 2021IIROC Trading Resumption - FVAN",FVAN
