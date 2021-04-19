@@ -1,4 +1,6 @@
 Halts,Listing
+"Apr 19, 2021IIROC Trading Resumption - GAL",GAL
+"Apr 19, 2021IIROC Trading Halt - GAL",GAL
 "Apr 19, 2021IIROC Trading Halt - VHI",VHI
 "Apr 19, 2021IIROC Trading Halt - CEN",CEN
 "Apr 19, 2021IIROC Trading Halt - VLNS.WT",VLNS.WT
@@ -22,5 +24,3 @@ Halts,Listing
 "Apr 15, 2021IIROC Trading Resumption - VOTI",VOTI
 "Apr 15, 2021IIROC Trading Halt - VOTI",VOTI
 "Apr 15, 2021IIROC Trading Resumption - AAC.P",AAC.P
-"Apr 15, 2021IIROC Trading Resumption - GBLY",GBLY
-"Apr 15, 2021IIROC Trading Halt - AUS.H",AUS.H
