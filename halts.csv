@@ -1,4 +1,10 @@
 Halts,Listing
+"Apr 20, 2021IIROC Trading Resumption - MCI",MCI
+"Apr 20, 2021IIROC Trading Resumption - WCU",WCU
+"Apr 20, 2021IIROC Trading Halt - MCI",MCI
+"Apr 20, 2021IIROC Trading Resumption - CDU",CDU
+"Apr 20, 2021IIROC Trading Resumption - WHM",WHM
+"Apr 20, 2021IIROC Trading Halt - ANTV.P",ANTV.P
 "Apr 20, 2021IIROC Trading Halt - SRL",SRL
 "Apr 20, 2021IIROC Trading Halt - ADZN",ADZN
 "Apr 20, 2021IIROC Trade Resumption - ENS",ENS
@@ -18,9 +24,3 @@ Halts,Listing
 "Apr 19, 2021IIROC Trading Halt - GBLK",GBLK
 "Apr 16, 2021IIROC Trading Resumption - MAS",MAS
 "Apr 16, 2021IIROC Trading Resumption - RIDR.P",RIDR.P
-"Apr 16, 2021IIROC Trade Resumption - NXR.UN",NXR.UN
-"Apr 16, 2021IIROC Trading Halt - NXR.UN",NXR.UN
-"Apr 16, 2021IIROC Trading Resumption - JUMP",JUMP
-"Apr 16, 2021IIROC Trading Halt - MAS",MAS
-"Apr 16, 2021IIROC Trading Resumption - QYOU",QYOU
-"Apr 16, 2021IIROC Trade Resumption - AW.UN",AW.UN
