@@ -1,4 +1,9 @@
 Halts,Listing
+"Apr 21, 2021IIROC Trading Halt - BAC",BAC
+"Apr 21, 2021IIROC Trading Halt - TRAD",TRAD
+"Apr 21, 2021IIROC Trading Halt - JHC.H",JHC.H
+"Apr 21, 2021IIROC Trading Halt - PUSH",PUSH
+"Apr 21, 2021IIROC Trading Halt - TMRR",TMRR
 "Apr 20, 2021IIROC Trading Halt - BRCK.U",BRCK.U
 "Apr 20, 2021IIROC Trading Resumption - SZM",SZM
 "Apr 20, 2021IIROC Trading Resumption - SRL",SRL
@@ -19,8 +24,3 @@ Halts,Listing
 "Apr 19, 2021IIROC Trading Resumption - NEW",NEW
 "Apr 19, 2021IIROC Trading Halt - ENS",ENS
 "Apr 19, 2021IIROC Trading Resumption - VHI",VHI
-"Apr 19, 2021IIROC Trading Halt - SZM",SZM
-"Apr 19, 2021IIROC Trading Resumption - GAL",GAL
-"Apr 19, 2021IIROC Trading Halt - GAL",GAL
-"Apr 19, 2021IIROC Trading Halt - VHI",VHI
-"Apr 19, 2021IIROC Trading Halt - CEN",CEN
