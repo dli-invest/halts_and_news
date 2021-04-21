@@ -1,4 +1,6 @@
 Halts,Listing
+"Apr 21, 2021IIROC Trade Resumption - BAC",BAC
+"Apr 21, 2021IIROC Trading Halt - PBX",PBX
 "Apr 21, 2021IIROC Trading Halt - BAC",BAC
 "Apr 21, 2021IIROC Trading Halt - TRAD",TRAD
 "Apr 21, 2021IIROC Trading Halt - JHC.H",JHC.H
@@ -22,5 +24,3 @@ Halts,Listing
 "Apr 20, 2021IIROC Trading Halt - GCAP.P",GCAP.P
 "Apr 19, 2021IIROC Trading Resumption - BEN.H",BEN.H
 "Apr 19, 2021IIROC Trading Resumption - NEW",NEW
-"Apr 19, 2021IIROC Trading Halt - ENS",ENS
-"Apr 19, 2021IIROC Trading Resumption - VHI",VHI
