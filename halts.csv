@@ -1,4 +1,10 @@
 Halts,Listing
+"Apr 22, 2021IIROC Trading Halt - SIZE",SIZE
+"Apr 22, 2021IIROC Trading Resumption - CTO",CTO
+"Apr 22, 2021IIROC Trading Resumption - STUV",STUV
+"Apr 22, 2021IIROC Trade Resumption - FIH.U",FIH.U
+"Apr 22, 2021IIROC Trading Halt - FIH.U",FIH.U
+"Apr 22, 2021IIROC Trading Halt - STUV",STUV
 "Apr 22, 2021IIROC Trading Resumption - ACU",ACU
 "Apr 22, 2021IIROC Trading Resumption - PBX",PBX
 "Apr 22, 2021IIROC Trading Halt - XAM",XAM
@@ -18,9 +24,3 @@ Halts,Listing
 "Apr 21, 2021IIROC Trading Halt - JHC.H",JHC.H
 "Apr 21, 2021IIROC Trading Halt - PUSH",PUSH
 "Apr 21, 2021IIROC Trading Halt - TMRR",TMRR
-"Apr 20, 2021IIROC Trading Halt - BRCK.U",BRCK.U
-"Apr 20, 2021IIROC Trading Resumption - SZM",SZM
-"Apr 20, 2021IIROC Trading Resumption - SRL",SRL
-"Apr 20, 2021IIROC Trade Resumption - CYBN",CYBN
-"Apr 20, 2021IIROC Trading Resumption - ADZN",ADZN
-"Apr 20, 2021IIROC Trading Halt - CYBN",CYBN
