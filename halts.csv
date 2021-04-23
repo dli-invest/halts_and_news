@@ -1,4 +1,7 @@
 Halts,Listing
+"Apr 23, 2021IIROC Trading Halt - CGGZ.UN",CGGZ.UN
+"Apr 23, 2021IIROC Trading Halt - AWR",AWR
+"Apr 23, 2021IIROC Trade Resumption - XAM",XAM
 "Apr 22, 2021IIROC Trade Resumption - GABY",GABY
 "Apr 22, 2021IIROC Trading Halt - SIZE",SIZE
 "Apr 22, 2021IIROC Trading Resumption - CTO",CTO
@@ -21,6 +24,3 @@ Halts,Listing
 "Apr 21, 2021IIROC Trade Resumption - BAC",BAC
 "Apr 21, 2021IIROC Trading Halt - PBX",PBX
 "Apr 21, 2021IIROC Trading Halt - BAC",BAC
-"Apr 21, 2021IIROC Trading Halt - TRAD",TRAD
-"Apr 21, 2021IIROC Trading Halt - JHC.H",JHC.H
-"Apr 21, 2021IIROC Trading Halt - PUSH",PUSH
