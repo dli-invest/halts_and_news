@@ -1,4 +1,10 @@
 Halts,Listing
+"Apr 26, 2021IIROC Trade Resumption - MMED",MMED
+"Apr 26, 2021IIROC Trading Halt - MMED",MMED
+"Apr 26, 2021IIROC Trading Resumption - NVX",NVX
+"Apr 26, 2021IIROC Trade Resumption - INCR.U",INCR.U
+"Apr 26, 2021IIROC Trading Halt - SVX.U",SVX.U
+"Apr 26, 2021IIROC Trading Halt - KEN",KEN
 "Apr 23, 2021IIROC Trade Resumption - CNTR",CNTR
 "Apr 23, 2021IIROC Trading Halt - SPEY",SPEY
 "Apr 23, 2021IIROC Trade Resumption - AWR",AWR
@@ -18,9 +24,3 @@ Halts,Listing
 "Apr 22, 2021IIROC Trade Resumption - GABY",GABY
 "Apr 22, 2021IIROC Trading Halt - SIZE",SIZE
 "Apr 22, 2021IIROC Trading Resumption - CTO",CTO
-"Apr 22, 2021IIROC Trading Resumption - STUV",STUV
-"Apr 22, 2021IIROC Trade Resumption - FIH.U",FIH.U
-"Apr 22, 2021IIROC Trading Halt - FIH.U",FIH.U
-"Apr 22, 2021IIROC Trading Halt - STUV",STUV
-"Apr 22, 2021IIROC Trading Resumption - ACU",ACU
-"Apr 22, 2021IIROC Trading Resumption - PBX",PBX
