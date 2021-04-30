@@ -1,4 +1,7 @@
 Halts,Listing
+"Apr 30, 2021IIROC Trading Halt - NWX",NWX
+"Apr 30, 2021IIROC Trading Halt - SJL",SJL
+"Apr 30, 2021IIROC Trading Halt - MGLD",MGLD
 "Apr 29, 2021IIROC Trading Resumption - FMM",FMM
 "Apr 29, 2021IIROC Trading Resumption - DIA",DIA
 "Apr 29, 2021IIROC Trading Halt - DIA",DIA
@@ -21,6 +24,3 @@ Halts,Listing
 "Apr 27, 2021IIROC Trading Resumption - CAP",CAP
 "Apr 27, 2021IIROC Trading Halt - VOTI",VOTI
 "Apr 27, 2021IIROC Trading Halt - CAP",CAP
-"Apr 27, 2021IIROC Trading Halt - KBL",KBL
-"Apr 27, 2021IIROC Trading Halt - SOLG",SOLG
-"Apr 27, 2021IIROC Trade Resumption - BYRN",BYRN
