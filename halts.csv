@@ -1,4 +1,5 @@
 Halts,Listing
+"Apr 30, 2021IIROC Trading Halt - MHI",MHI
 "Apr 30, 2021IIROC Trade Resumption - CVGR",CVGR
 "Apr 30, 2021IIROC Trading Halt - PUL.RT",PUL.RT
 "Apr 30, 2021IIROC Trading Resumption - NWX",NWX
@@ -23,4 +24,3 @@ Halts,Listing
 "Apr 28, 2021IIROC Trading Resumption - THRM",THRM
 "Apr 28, 2021IIROC Trading Resumption - DEF",DEF
 "Apr 28, 2021IIROC Trading Halt - THRM",THRM
-"Apr 28, 2021IIROC Trade Resumption - MAGT",MAGT
