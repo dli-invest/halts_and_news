@@ -1,4 +1,12 @@
 Halts,Listing
+"May 3, 2021IIROC Trading Halt - ITM",ITM
+"May 3, 2021IIROC Trading Halt - GIII",GIII
+"May 3, 2021IIROC Trading Halt - MCC.P",MCC.P
+"May 3, 2021IIROC Trading Halt - TNY",TNY
+"May 3, 2021IIROC Trading Halt - VIPR",VIPR
+"May 3, 2021IIROC Trading Halt - UGE",UGE
+"May 3, 2021IIROC Trading Halt - VALU",VALU
+"May 3, 2021IIROC Trading Halt - RVV",RVV
 "Apr 30, 2021IIROC Trading Halt - MHI",MHI
 "Apr 30, 2021IIROC Trade Resumption - CVGR",CVGR
 "Apr 30, 2021IIROC Trading Halt - PUL.RT",PUL.RT
@@ -16,11 +24,3 @@ Halts,Listing
 "Apr 29, 2021IIROC Trading Resumption - DIA",DIA
 "Apr 29, 2021IIROC Trading Halt - DIA",DIA
 "Apr 29, 2021IIROC Trade Resumption - SXI",SXI
-"Apr 29, 2021IIROC Trading Halt - SXI",SXI
-"Apr 29, 2021IIROC Trading Resumption - MTRX",MTRX
-"Apr 29, 2021IIROC Trade Resumption - MBX",MBX
-"Apr 28, 2021IIROC Trade Resumption - ACT",ACT
-"Apr 28, 2021IIROC Trading Halt - MBX",MBX
-"Apr 28, 2021IIROC Trading Resumption - THRM",THRM
-"Apr 28, 2021IIROC Trading Resumption - DEF",DEF
-"Apr 28, 2021IIROC Trading Halt - THRM",THRM
