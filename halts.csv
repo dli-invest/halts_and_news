@@ -1,4 +1,7 @@
 Halts,Listing
+"May 10, 2021IIROC Trading Halt - RMI",RMI
+"May 10, 2021IIROC Trading Halt - BME",BME
+"May 10, 2021IIROC Trading Halt - EVE.WT",EVE.WT
 "May 10, 2021IIROC Trade Resumption - RYAH",RYAH
 "May 10, 2021IIROC Trading Halt - LAB",LAB
 "May 10, 2021IIROC Trade Resumption - PHO",PHO
@@ -21,6 +24,3 @@ Halts,Listing
 "May 7, 2021IIROC Trading Halt - LOG.P",LOG.P
 "May 7, 2021IIROC Trading Halt - RDKO",RDKO
 "May 7, 2021IIROC Trading Halt - PRE",PRE
-"May 7, 2021IIROC Trading Halt - WTR",WTR
-"May 7, 2021IIROC Trading Halt - IDL",IDL
-"May 7, 2021IIROC Trading Halt - CVR",CVR
