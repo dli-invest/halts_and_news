@@ -1,4 +1,8 @@
 Halts,Listing
+"May 12, 2021IIROC Trading Halt - CUR",CUR
+"May 12, 2021IIROC Trade Resumption - SX",SX
+"May 12, 2021IIROC Trading Halt - SX",SX
+"May 12, 2021IIROC Trade Resumption - RAMM",RAMM
 "May 12, 2021IIROC Trading Resumption - BRO",BRO
 "May 12, 2021IIROC Trading Resumption - GPG",GPG
 "May 12, 2021IIROC Trade Resumption - BIGG",BIGG
@@ -20,7 +24,3 @@ Halts,Listing
 "May 11, 2021IIROC Trading Resumption - GSS",GSS
 "May 11, 2021IIROC Trading Halt - MERC.P",MERC.P
 "May 11, 2021IIROC Trading Halt - GSS",GSS
-"May 11, 2021IIROC Trade Resumption - UFS",UFS
-"May 11, 2021IIROC Trading Halt - LI",LI
-"May 11, 2021IIROC Trading Halt - CBDT",CBDT
-"May 11, 2021IIROC Trading Halt - PLU",PLU
