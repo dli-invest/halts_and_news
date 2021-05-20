@@ -1,4 +1,7 @@
 Halts,Listing
+"May 20, 2021IIROC Trade Resumption - TFPM",TFPM
+"May 20, 2021IIROC Trading Halt - NMI",NMI
+"May 20, 2021IIROC Trading Halt - TFPM",TFPM
 "May 19, 2021IIROC Trading Resumption - APGO",APGO
 "May 19, 2021IIROC Trading Resumption - CANS (PPCC.P)",(PPCC.P)
 "May 19, 2021IIROC Trading Halt - COVE",COVE
@@ -21,6 +24,3 @@ Halts,Listing
 "May 19, 2021IIROC Trade Resumption - TPZ",TPZ
 "May 19, 2021IIROC Trading Halt - AMC",AMC
 "May 18, 2021IIROC Trading Resumption - DCX.P",DCX.P
-"May 18, 2021IIROC Trading Halt - TPZ",TPZ
-"May 18, 2021IIROC Trading Halt - LIDO",LIDO
-"May 18, 2021IIROC Trading Halt - SHG",SHG
