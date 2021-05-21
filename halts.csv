@@ -1,4 +1,9 @@
 Halts,Listing
+"May 21, 2021IIROC Trading Halt - BKM",BKM
+"May 21, 2021IIROC Trading Halt - TAAL",TAAL
+"May 21, 2021IIROC Trading Resumption - PGZ",PGZ
+"May 21, 2021IIROC Trade Resumption - PWI",PWI
+"May 21, 2021IIROC Trade Resumption - DNTL",DNTL
 "May 21, 2021IIROC Trade Resumption - DIR.UN",DIR.UN
 "May 21, 2021IIROC Trading Halt - DNTL",DNTL
 "May 21, 2021IIROC Trading Halt - PWI",PWI
@@ -19,8 +24,3 @@ Halts,Listing
 "May 19, 2021IIROC Trading Halt - IVI",IVI
 "May 19, 2021IIROC Trade Resumption - GLH",GLH
 "May 19, 2021IIROC Trading Resumption - PTF",PTF
-"May 19, 2021IIROC Trade Resumption - FAR",FAR
-"May 19, 2021IIROC Trading Halt - GLH",GLH
-"May 19, 2021IIROC Trading Resumption - AMC",AMC
-"May 19, 2021IIROC Trading Halt - FAR",FAR
-"May 19, 2021IIROC Trading Resumption - SHG",SHG
