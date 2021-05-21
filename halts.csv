@@ -1,4 +1,7 @@
 Halts,Listing
+"May 21, 2021IIROC Trade Resumption - DIR.UN",DIR.UN
+"May 21, 2021IIROC Trading Halt - DNTL",DNTL
+"May 21, 2021IIROC Trading Halt - PWI",PWI
 "May 20, 2021IIROC Trading Halt - DIR.UN",DIR.UN
 "May 20, 2021IIROC Trading Halt - PGZ",PGZ
 "May 20, 2021IIROC Trading Resumption - TRU",TRU
@@ -21,6 +24,3 @@ Halts,Listing
 "May 19, 2021IIROC Trading Resumption - AMC",AMC
 "May 19, 2021IIROC Trading Halt - FAR",FAR
 "May 19, 2021IIROC Trading Resumption - SHG",SHG
-"May 19, 2021IIROC Trade Resumption - QETH.U",QETH.U
-"May 19, 2021IIROC Trading Halt - QETH.U",QETH.U
-"May 19, 2021IIROC Trade Resumption - ETHX.U",ETHX.U
