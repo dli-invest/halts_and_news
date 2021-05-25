@@ -1,4 +1,10 @@
 Halts,Listing
+"May 25, 2021IIROC Trading Resumption - DEAL",DEAL
+"May 25, 2021IIROC Trading Halt - KNR",KNR
+"May 25, 2021IIROC Trade Resumption - NBLY",NBLY
+"May 25, 2021IIROC Trading Halt - AUAU",AUAU
+"May 25, 2021IIROC Trading Resumption - EGM",EGM
+"May 25, 2021IIROC Trade Resumption - NEXT",NEXT
 "May 25, 2021IIROC Trading Halt - DEAL",DEAL
 "May 25, 2021IIROC Trading Halt - NBLY",NBLY
 "May 25, 2021IIROC Trading Halt - NEXT",NEXT
@@ -18,9 +24,3 @@ Halts,Listing
 "May 21, 2021IIROC Trading Halt - DNTL",DNTL
 "May 21, 2021IIROC Trading Halt - PWI",PWI
 "May 20, 2021IIROC Trading Halt - DIR.UN",DIR.UN
-"May 20, 2021IIROC Trading Halt - PGZ",PGZ
-"May 20, 2021IIROC Trading Resumption - TRU",TRU
-"May 20, 2021IIROC Trading Halt - TRU",TRU
-"May 20, 2021IIROC Trading Resumption - TEST",TEST
-"May 20, 2021IIROC Trading Resumption - NMI",NMI
-"May 20, 2021IIROC Trading Halt - TEST",TEST
