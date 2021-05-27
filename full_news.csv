@@ -49,8 +49,8 @@ ACCESSWIRE,/news/agjunction-inc-host-earnings-call-131500556.html,"AgJunction, I
 GlobeNewswire,/news/agjunction-reports-first-quarter-2021-113000604.html,AgJunction Reports First Quarter 2021 Earnings Results,AJX.TO
 Simply Wall St.,/news/companies-agjunction-tse-ajx-could-053427644.html,Companies Like AgJunction (TSE:AJX) Could Be Quite Risky,AJX.TO
 CNW Group,/news/aimia-announces-election-directors-183000591.html,Aimia Announces Election of Directors,AIM.TO
-CNW Group,/news/aimia-reports-first-quarter-2021-110000119.html,AIMIA Reports First Quarter 2021 Results,AIM.TO
 CNW Group,/news/aimia-declares-preferred-share-dividends-110000982.html,Aimia Declares Preferred Share Dividends,AIM.TO
+CNW Group,/news/aimia-reports-first-quarter-2021-110000119.html,AIMIA Reports First Quarter 2021 Results,AIM.TO
 GlobeNewswire,/news/airboss-completes-acquisition-blackbox-biometrics-161900361.html,"AirBoss Completes Acquisition of BlackBox Biometrics®, Developer of Blast Gauge® System",BOS.TO
 GlobeNewswire,/news/airboss-announces-results-annual-general-144800030.html,AirBoss Announces Results of Annual General and Special Meeting,BOS.TO
 ACCESSWIRE,/news/airboss-america-corp-host-earnings-111500016.html,AirBoss of America Corp. to Host Earnings Call,BOS.TO
@@ -190,7 +190,7 @@ Bloomberg,/news/bmo-beats-estimates-decline-provisions-102504385.html,"BMO Tops 
 Zacks,/news/bank-nova-scotia-bns-earnings-190007647.html,Bank of Nova Scotia (BNS) Earnings Expected to Grow: Should You Buy?,BNS.TO
 CNW Group,/news/scotiabank-announce-second-quarter-2021-130000441.html,Scotiabank to Announce Second Quarter 2021 Results,BNS.TO
 CNW Group,/news/scotia-global-asset-management-announces-130000234.html,Scotia Global Asset Management announces May 2021 cash distribution for Scotia Index Tracker ETF,BNS.TO
-PR Newswire,/news/bausch-health-reduce-debt-100-110000646.html,Bausch Health To Reduce Debt By $100 Million Using Cash Generated From Operations,BHC.TO
+CNW Group,/news/bausch-health-reduce-debt-100-110000048.html,Bausch Health To Reduce Debt By $100 Million Using Cash Generated From Operations,BHC.TO
 Insider Monkey,/news/too-buy-bausch-health-companies-160746790.html,Is It Too Late to Buy Bausch Health Companies (BHC) Stock?,BHC.TO
 SmarterAnalyst,/news/bausch-health-prices-1-6-152217469.html,Bausch Health Prices $1.6 Billion New Notes to Refinance Debt,BHC.TO
 CNW Group,/news/baylin-announces-conversion-price-convertible-084800952.html,Baylin Announces New Conversion Price for its Convertible Debentures,BYL.TO
@@ -199,9 +199,9 @@ CNW Group,/news/baylin-announces-financial-results-first-225300828.html,Baylin A
 GlobeNewswire,/news/baytex-reports-shareholder-meeting-results-225300441.html,Baytex Reports Shareholder Meeting Results,BTE.TO
 GlobeNewswire,/news/baytex-announces-first-quarter-2021-203000232.html,Baytex Announces First Quarter 2021 Financial and Operating Results and Provides Five Year Outlook With Cumulative Free Cash Flow of $1 Billion,BTE.TO
 Simply Wall St.,/news/heres-why-shareholders-examine-baytex-072308571.html,Here's Why Shareholders Should Examine Baytex Energy Corp.'s (TSE:BTE) CEO Compensation Package More Closely,BTE.TO
+CNW Group,/news/iiroc-trade-resumption-bbtv-132200154.html,IIROC Trade Resumption - BBTV,BBTV.TO
 GlobeNewswire,/news/bbtv-holdings-announces-65m-convertible-193400215.html,"BBTV Holdings Announces $65M Convertible Debenture and Refinancing Commitment Providing Capital for Growth Initiatives Including M&A, Debt Reduction, and Debt Deferment",BBTV.TO
 CNW Group,/news/iiroc-trading-halt-bbtv-192800494.html,IIROC Trading Halt - BBTV,BBTV.TO
-PR Newswire,/news/bbtv-announces-record-q1-fiscal-203000062.html,BBTV Announces Record Q1 Fiscal Year 2021 Results,BBTV.TO
 Simply Wall St.,/news/reasons-feel-uneasy-bces-tse-070800681.html,There Are Reasons To Feel Uneasy About BCE's (TSE:BCE) Returns On Capital,BCE.TO
 CNW Group,/news/bell-expands-canadas-fastest-ranked-120000520.html,Bell expands Canada's fastest-ranked and most-awarded 5G wireless network in Manitoba,BCE.TO
 CNW Group,/news/bell-expands-canadas-fastest-ranked-120000397.html,Bell expands Canada's fastest-ranked and most-awarded 5G network to 9 additional cities and municipalities in Québec,BCE.TO
@@ -341,7 +341,7 @@ GlobeNewswire,/news/canadian-banc-corp-financial-results-204100647.html,"Canadia
 GlobeNewswire,/news/canadian-general-investments-limited-enters-213800367.html,"Canadian General Investments, Limited Enters Into Prime Brokerage Services Agreement",CGI.TO
 GlobeNewswire,/news/canadian-general-investments-investment-unaudited-145600763.html,Canadian General Investments: Investment Update - Unaudited,CGI.TO
 GlobeNewswire,/news/canadian-general-investments-report-voting-203900451.html,Canadian General Investments: Report of Voting Results,CGI.TO
-Bloomberg,/news/canadian-banks-signal-covid-19-124632488.html,Canadian Banks Signal a Covid-19 All-Clear Earlier Than Expected,CM.TO
+Bloomberg,/news/canadian-banks-signal-covid-19-124632488.html,Canadian Banks Signal Covid All-Clear Earlier Than Expected,CM.TO
 Zacks,/news/canadian-imperial-bank-cm-q2-110511087.html,Canadian Imperial Bank (CM) Q2 Earnings and Revenues Beat Estimates,CM.TO
 CNW Group,/news/cibc-declares-dividends-quarter-ending-092700864.html,"CIBC Declares Dividends for the Quarter Ending July 31, 2021",CM.TO
 GlobeNewswire,/news/canadian-life-companies-split-corp-113000711.html,Canadian Life Companies Split Corp. Announces TSX Acceptance of Normal Course Issuer Bid,LFE.TO
@@ -404,9 +404,6 @@ Simply Wall St.,/news/alexander-pourbaix-ceo-president-director-051821390.html,"
 ACCESSWIRE,/news/centamin-plc-announces-west-african-060000099.html,Centamin PLC Announces West African Portfolio Confirms Growth Potential,CEE.TO
 ACCESSWIRE,/news/correction-centamin-plc-announces-2020-083000575.html,CORRECTION - Centamin PLC Announces 2020 Sustainability Report,CEE.TO
 ACCESSWIRE,/news/centamin-plc-announces-2020-sustainability-060000983.html,Centamin PLC Announces 2020 Sustainability Report,CEE.TO
-Investopedia,/m/0d2740b5-443a-3a4a-a83b-fc116ec083cd/top-gold-stocks-for-june-2021.html,Top Gold Stocks for June 2021,CG.TO
-Simply Wall St.,/news/centerra-gold-inc-tse-cg-060946744.html,Centerra Gold Inc. (TSE:CG) Analysts Are Reducing Their Forecasts For This Year,CG.TO
-GlobeNewswire,/news/centerra-gold-announces-proceedings-against-203000509.html,Centerra Gold Announces Proceedings Against Former Board Director Tengiz Bolturuk,CG.TO
 Reuters,/news/ceres-global-build-canola-processing-110002386.html,Ceres Global to build canola processing facility in Saskatchewan,CRP.TO
 CNW Group,/news/ceres-global-ag-corp-build-110000886.html,"Ceres Global Ag Corp. to Build $350 Million Canola Crush Facility in Northgate, Saskatchewan",CRP.TO
 Simply Wall St.,/news/ceres-global-ag-tse-crp-093626220.html,Ceres Global Ag (TSE:CRP) Is Experiencing Growth In Returns On Capital,CRP.TO
@@ -571,9 +568,9 @@ Benzinga,/news/cultivation-system-enhances-opportunities-cannabis-140551112.html
 Motley Fool,/m/3f285909-32f0-3d62-a01f-79fb45c5e566/is-denison-mines-stock-a-buy-.html,Is Denison Mines Stock a Buy?,DML.TO
 CNW Group,/news/denison-announces-appointment-ron-hochstein-103000524.html,Denison Announces Appointment of Ron Hochstein as Board Chair and Welcomes New Directors,DML.TO
 PR Newswire,/news/denison-announces-results-shareholder-meeting-202100585.html,Denison Announces Results of Shareholder Meeting,DML.TO
+CNW Group,/news/dentalcorp-closes-initial-public-offering-133100593.html,dentalcorp Closes Initial Public Offering and Concurrent Private Placement for Gross Proceeds of Approximately $950 Million,DNTL.TO
 CNW Group,/news/dentalcorp-virtually-opens-market-040900993.html,dentalcorp Virtually Opens The Market,DNTL.TO
 CNW Group,/news/iiroc-trade-resumption-dntl-130700895.html,IIROC Trade Resumption - DNTL,DNTL.TO
-CNW Group,/news/iiroc-trading-halt-dntl-124800654.html,IIROC Trading Halt - DNTL,DNTL.TO
 GlobeNewswire,/news/online-lifestyle-brand-jaxxon-scales-104500840.html,Online Lifestyle Brand JAXXON Scales Fulfillment with Descartes Ecommerce Warehouse Management Solution,DSG.TO
 GlobeNewswire,/news/ocean-network-express-one-launches-104500307.html,Ocean Network Express (ONE) Launches Digital Freight Booking Platform Powered by Descartes Kontainers,DSG.TO
 GlobeNewswire,/news/descartes-acquires-portrix-logistics-software-100000412.html,Descartes Acquires Portrix Logistics Software,DSG.TO
@@ -668,7 +665,7 @@ Simply Wall St.,/news/imagine-holding-enthusiast-gaming-holdings-070856357.html,
 GlobeNewswire,/news/enthusiast-gaming-partners-coldplay-higher-110000860.html,Enthusiast Gaming Partners with Coldplay on New ‘Higher Power’ Remix Launch,EGLX.TO
 GlobeNewswire,/news/e-sports-video-games-win-132700733.html,"E-Sports & Video Games For The Win: CEO’s of Activision Blizzard, ESE Entertainment, NetEase, and Enthusiast Gaming - Driving Revenue Growth and Market Share",EGLX.TO
 CNW Group,/news/entr-e-resources-announces-first-203000596.html,Entrée Resources Announces First Quarter 2021 Results,ETG.TO
-PR Newswire,/news/entr-e-resources-welcomes-announcement-193000325.html,Entrée Resources Welcomes Announcement of Updated Funding Plan to Complete Oyu Tolgoi Underground Construction,ETG.TO
+CNW Group,/news/entr-e-resources-welcomes-announcement-193000823.html,Entrée Resources Welcomes Announcement of Updated Funding Plan to Complete Oyu Tolgoi Underground Construction,ETG.TO
 CNW Group,/news/entr-e-resources-announces-fiscal-002000947.html,Entrée Resources Announces Fiscal Year 2020 Results and Reviews Corporate Highlights,ETG.TO
 Investopedia,/m/0d2740b5-443a-3a4a-a83b-fc116ec083cd/top-gold-stocks-for-june-2021.html,Top Gold Stocks for June 2021,EQX.TO
 PR Newswire,/news/equinox-gold-announces-results-annual-001900051.html,Equinox Gold Announces Results From Annual General Meeting,EQX.TO
@@ -730,7 +727,7 @@ GlobeNewswire,/news/excelsior-mining-announces-upsize-previously-142800020.html,
 CNW Group,/news/exchange-income-corporation-announces-closing-121800419.html,Exchange Income Corporation Announces Closing of Over-Allotment Option,EIF.TO
 CNW Group,/news/exchange-income-corporation-announces-voting-110100754.html,Exchange Income Corporation Announces Voting Results for its 2021 Annual and Special Meeting of Shareholders,EIF.TO
 CNW Group,/news/exchange-income-corporation-announces-may-110000457.html,Exchange Income Corporation Announces May 2021 Dividend,EIF.TO
-CNW Group,/news/exfo-delivers-industrys-first-modular-130000729.html,"EXFO delivers industry's first modular, portable 5G RF spectrum analyzer",EXF.TO
+PR Newswire,/news/exfo-delivers-industrys-first-modular-130000354.html,"EXFO delivers industry's first modular, portable 5G RF spectrum analyzer",EXF.TO
 CNW Group,/news/exfo-partners-algonquin-college-110000743.html,EXFO partners with Algonquin College,EXF.TO
 Simply Wall St.,/news/exfo-tse-exf-seems-debt-063915294.html,EXFO (TSE:EXF) Seems To Use Debt Quite Sensibly,EXF.TO
 ACCESSWIRE,/news/extendicare-inc-host-earnings-call-133000626.html,"Extendicare, Inc. to Host Earnings Call",EXE.TO
@@ -849,9 +846,9 @@ ACCESSWIRE,/news/fortuna-silver-mines-inc-host-141500101.html,"Fortuna Silver Mi
 Newsfile,/news/forza-petroleum-q1-2021-financial-220000793.html,Forza Petroleum Q1 2021 Financial and Operational Results,FORZ.TO
 Newsfile,/news/forza-petroleum-2020-financial-operational-014600946.html,Forza Petroleum 2020 Financial and Operational Results,FORZ.TO
 Newsfile,/news/forza-petroleum-announces-end-2020-133600422.html,Forza Petroleum Announces Its Year End 2020 Reserves and Resources and Operations Update,FORZ.TO
+Insider Monkey,/news/15-largest-mining-companies-market-142123756.html,15 Largest Mining Companies by Market Cap,FNV.TO
 Oilprice.com,/news/most-exciting-gold-play-230000191.html,Is This The Most Exciting Gold Play Of The Year?,FNV.TO
 Insider Monkey,/news/top-mining-companies-world-122549909.html,Top Mining Companies in the World,FNV.TO
-Zacks,/news/franco-nevada-fnv-gains-acquisitions-150003646.html,Franco-Nevada (FNV) Gains From Acquisitions & Cost Cuts,FNV.TO
 CNW Group,/news/franklin-templeton-canada-announces-etf-200000395.html,Franklin Templeton Canada Announces ETF Cash Distributions,FLUI.TO
 CNW Group,/news/clean-air-metals-retains-nordmin-110000250.html,The Montreal Children's Hospital doubles services for children and teens living with complex pain,FLUI.TO
 CNW Group,/news/iiroc-trade-resumption-sona-183600966.html,"Franklin Templeton Canada Announces Enhanced Accessibility for Private Wealth Pools, Completion of NEO Exchange Listing Migration for Certain ETFs and March ETF Cash Distributions",FLUI.TO
@@ -868,7 +865,7 @@ CNW Group,/news/tmx-group-equity-financing-statistics-130000317.html,TMX Group E
 CNW Group,/news/galaxy-digital-present-piper-sandlers-210000667.html,Galaxy Digital to Present at Piper Sandler's Global Exchange & FinTech Conference,GLXY.TO
 CNW Group,/news/galaxy-digital-expands-galaxy-fund-120000605.html,Galaxy Digital Expands Galaxy Fund Management with Acquisition of Vision Hill Group,GLXY.TO
 CNW Group,/news/galaxy-digital-present-bernsteins-37th-210000543.html,Galaxy Digital to Present at Bernstein's 37th Annual Strategic Decisions Conference,GLXY.TO
-CNW Group,/news/galiano-gold-provides-miradani-north-114500866.html,Galiano Gold Provides Miradani North Phase 3 Drilling Update,GAU.TO
+PR Newswire,/news/galiano-gold-provides-miradani-north-114500705.html,Galiano Gold Provides Miradani North Phase 3 Drilling Update,GAU.TO
 PR Newswire,/news/galiano-gold-reports-q1-2021-210200846.html,Galiano Gold Reports Q1 2021 Results,GAU.TO
 CNW Group,/news/galiano-gold-2021-annual-general-204500406.html,Galiano Gold 2021 Annual General Meeting Information,GAU.TO
 Simply Wall St.,/news/gamehost-inc-tse-gh-stock-082002080.html,Gamehost Inc.'s (TSE:GH) Stock Going Strong But Fundamentals Look Weak: What Implications Could This Have On The Stock?,GH.TO
@@ -949,9 +946,9 @@ GlobeNewswire,/news/gran-tierra-energy-inc-announces-210000038.html,"Gran Tierra
 CNW Group,/news/great-canadian-gaming-announces-first-230000150.html,Great Canadian Gaming Announces First Quarter 2021 Results,GC.TO
 CNW Group,/news/great-canadian-gaming-announces-temporary-004000647.html,Great Canadian Gaming Announces the Temporary Suspension of Operations at Casino Nova Scotia - Sydney,GC.TO
 CNW Group,/news/great-canadian-gaming-announces-temporary-233200231.html,Great Canadian Gaming Announces the Temporary Suspension of Operations at Casino Nova Scotia - Halifax,GC.TO
-PR Newswire,/news/great-west-lifeco-cautions-investors-113000759.html,Great-West Lifeco Cautions Investors regarding Obatan LLC's UK Mini-Tender Offer,GWO.TO
+Simply Wall St.,/news/great-west-lifeco-tse-gwo-083144825.html,Great-West Lifeco (TSE:GWO) Shareholders Booked A 64% Gain In The Last Year,GWO.TO
+CNW Group,/news/great-west-lifeco-cautions-investors-113000798.html,Great-West Lifeco Cautions Investors regarding Obatan LLC's UK Mini-Tender Offer,GWO.TO
 SmarterAnalyst,/news/great-west-lifeco-host-empower-173153894.html,Great-West Lifeco Will Host Empower Retirement Investor Day on June 8,GWO.TO
-CNW Group,/news/great-west-lifeco-host-empower-113000240.html,Great-West Lifeco to host Empower Retirement Investor Day,GWO.TO
 ACCESSWIRE,/news/green-organic-dutchman-holdings-ltd-121500217.html,The Green Organic Dutchman Holdings Ltd. to Host Earnings Call,TGOD.TO
 PR Newswire,/news/green-organic-dutchman-reports-first-213000971.html,"The Green Organic Dutchman Reports First Quarter 2021 Results, Turnaround Plan Well Under Way",TGOD.TO
 PR Newswire,/news/green-organic-dutchman-holdings-release-113000753.html,The Green Organic Dutchman Holdings to Release First Quarter 2021 Financial Results,TGOD.TO
@@ -1045,7 +1042,7 @@ CNW Group,/news/horizons-etfs-announces-april-2021-232600217.html,Horizons ETFS 
 CNW Group,/news/media-advisory-ministers-lametti-chagger-033800184.html,Horizons ETFs Announces March 2021 Distributions for its Covered Call ETFs,HEA.TO
 CNW Group,/news/tmx-group-equity-financing-statistics-130000317.html,TMX Group Equity Financing Statistics - April 2021,BBIG.TO
 GlobeNewswire,/news/weedmd-added-horizons-marijuana-life-120000449.html,WeedMD Added to Horizons Marijuana Life Sciences Index ETF,HMMJ.TO
-CNW Group,/news/designer-brands-inc-reports-second-104500251.html,Horizons ETFs Rebalances Marijuana-Focused Index ETFs,HMMJ.TO
+CNW Group,/news/horizons-etfs-rebalances-marijuana-focused-210000066.html,Horizons ETFs Rebalances Marijuana-Focused Index ETFs,HMMJ.TO
 CNW Group,/news/medtronic-receives-breakthrough-device-designation-133000615.html,Horizons ETFs Announces March 2021 Distributions for Certain ETFs,HMMJ.TO
 FX Empire,/news/natural-gas-price-prediction-prices-193910368.html,Natural Gas Price Prediction – Prices Slip as Demand Slides,HXT.TO
 FX Empire,/news/natural-gas-price-forecast-continue-160720641.html,Natural Gas Price Forecast – Continue to Hang at 50 Day EMA,HXT.TO
@@ -1220,7 +1217,7 @@ CNW Group,/news/loblaw-companies-limited-announces-election-162800081.html,Lobla
 GlobeNewswire,/news/latest-hole-drilled-loncor-adumbi-184500421.html,Latest Hole Drilled at Loncor’s Adumbi Deposit Intersects Significant Widths and Grades in Multiple Gold Zones,LN.TO
 GlobeNewswire,/news/loncor-increases-open-pit-mineral-113000858.html,Loncor Increases Open Pit Mineral Resources by 44% to 3.15 Million Ounces of Gold at Its Adumbi Deposit,LN.TO
 GlobeNewswire,/news/deepest-hole-drilled-loncor-adumbi-125900466.html,Deepest Hole Drilled at Loncor’s Adumbi Deposit Intersects Significant Widths and Grades in Multiple Gold Zones,LN.TO
-CNW Group,/news/loop-energy-q1-2021-earnings-200000030.html,Loop Energy Q1 2021 Earnings Results and Conference Call,LPEN.TO
+PR Newswire,/news/loop-energy-q1-2021-earnings-200000873.html,Loop Energy Q1 2021 Earnings Results and Conference Call,LPEN.TO
 CNW Group,/news/toronto-stock-exchange-loop-energy-140000804.html,"Toronto Stock Exchange, Loop Energy Inc., C-Suite at The Open",LPEN.TO
 PR Newswire,/news/loop-energy-aliant-battery-announce-120000964.html,Loop Energy and Aliant Battery Announce Channel Partnership for Development of Hydrogen Electric Solutions for Commercial Vehicle and Stationary Power Applications,LPEN.TO
 CNW Group,/news/lucara-reports-voting-results-annual-210000347.html,Lucara Reports Voting Results From Annual Meeting,LUC.TO
@@ -1253,12 +1250,12 @@ Business Wire,/news/magnet-forensics-host-2021-first-131500048.html,Magnet Foren
 Simply Wall St.,/news/based-roe-mainstreet-equity-corp-081706023.html,"Based On Its ROE, Is Mainstreet Equity Corp. (TSE:MEQ) A High Quality Stock?",MEQ.TO
 CNW Group,/news/mainstreet-equity-corp-releases-q2-110000887.html,Mainstreet Equity Corp. Releases Q2 2021 Results,MEQ.TO
 Simply Wall St.,/news/mainstreet-equity-tse-meq-share-083216600.html,The Mainstreet Equity (TSE:MEQ) Share Price Is Up 119% And Shareholders Are Boasting About It,MEQ.TO
+Zacks,/news/reinsurance-group-rga-banks-premiums-141002071.html,Reinsurance Group (RGA) Banks on Premiums Amid Cost Woes,MFC.TO
 PR Newswire,/news/manulife-financial-corporation-announces-dividend-202500321.html,Manulife Financial Corporation announces Dividend Rates on Non-cumulative Rate Reset Class 1 Shares Series 3 and Non-cumulative Floating Rate Class 1 Shares Series 4,MFC.TO
 Zacks,/news/zacks-analyst-blog-highlights-novo-130601190.html,"The Zacks Analyst Blog Highlights: Novo Nordisk, International Business Machines, Deere, BHP Group and Manulife Financial",MFC.TO
-CNW Group,/news/manulife-investment-management-announces-cash-113000970.html,Manulife Investment Management Announces Cash Distributions for Manulife Exchange Traded Funds,MFC.TO
+Zacks,/news/reinsurance-group-rga-banks-premiums-141002071.html,Reinsurance Group (RGA) Banks on Premiums Amid Cost Woes,MFC.TO
 PR Newswire,/news/manulife-financial-corporation-announces-dividend-202500321.html,Manulife Financial Corporation announces Dividend Rates on Non-cumulative Rate Reset Class 1 Shares Series 3 and Non-cumulative Floating Rate Class 1 Shares Series 4,MFC.TO
 Zacks,/news/zacks-analyst-blog-highlights-novo-130601190.html,"The Zacks Analyst Blog Highlights: Novo Nordisk, International Business Machines, Deere, BHP Group and Manulife Financial",MFC.TO
-CNW Group,/news/manulife-investment-management-announces-cash-113000970.html,Manulife Investment Management Announces Cash Distributions for Manulife Exchange Traded Funds,MFC.TO
 CNW Group,/news/manulife-investment-management-announces-cash-113000315.html,Manulife Investment Management Announces Cash Distributions for Manulife Exchange Traded Funds,MINT.TO
 CNW Group,/news/manulife-investment-management-announces-cash-113000315.html,Manulife Investment Management Announces Cash Distributions for Manulife Exchange Traded Funds,MULC.TO
 CNW Group,/news/manulife-investment-management-announces-cash-113000315.html,Manulife Investment Management Announces Cash Distributions for Manulife Exchange Traded Funds,MUMC.TO
@@ -1393,7 +1390,7 @@ CNW Group,/news/nickel-creek-platinum-announces-2021-203000812.html,Nickel Creek
 CNW Group,/news/metals-mining-investor-conference-presentations-165800675.html,Metals & Mining Investor Conference Presentations Now Available for On-Demand Viewing,NHK.TO
 CNW Group,/news/nighthawk-receives-permits-commence-drilling-110100062.html,"Nighthawk Receives Permits to Commence Drilling at the Cass Zone, Part of the Recently Optioned Kim & Cass Property",NHK.TO
 PR Newswire,/news/global-metals-mining-live-virtual-123500733.html,"Global Metals & Mining Live Virtual Investor Conference May 4th, 5th, and 6th",NHK.TO
-PR Newswire,/news/niocorp-announces-closing-sized-private-152100021.html,NioCorp Announces Closing of Up-Sized Private Placement for Gross Proceeds of C$6.2 Million,NB.TO
+CNW Group,/news/niocorp-announces-closing-sized-private-152100211.html,NioCorp Announces Closing of Up-Sized Private Placement for Gross Proceeds of C$6.2 Million,NB.TO
 PR Newswire,/news/niocorp-closes-purchase-key-nebraska-180300107.html,NioCorp Closes on Purchase of Key Nebraska Land Parcel for the Elk Creek Superalloy Materials Project,NB.TO
 CNW Group,/news/niocorp-announces-c-6-million-121400062.html,NioCorp Announces C$6 Million Non-Brokered Private Placement,NB.TO
 CNW Group,/news/nomad-royalty-company-acquires-cash-211600002.html,Nomad Royalty Company Acquires Cash Flowing Royalty on the Caserones Mine in Chile,NSR.TO
@@ -1426,9 +1423,9 @@ GlobeNewswire,/news/save-date-novagold-2021-virtual-204500807.html,SAVE THE DATE
 GlobeNewswire,/news/receipt-issued-novo-final-short-202600810.html,Receipt Issued for Novo’s Final Short Form Prospectus Qualifying Distribution of Common Shares and Warrants Underlying Special Warrants,NVO.TO
 GlobeNewswire,/news/novo-secures-access-photonassay-services-124100318.html,Novo Secures Access to PhotonAssay Services by Executing Agreement With Intertek,NVO.TO
 GlobeNewswire,/news/novo-completes-malmsbury-option-exercise-123000342.html,Novo Completes Malmsbury Option Exercise with GBM Resources Limited,NVO.TO
+Insider Monkey,/news/15-largest-mining-companies-market-142123756.html,15 Largest Mining Companies by Market Cap,NTR.TO
 Bloomberg,/news/bhp-talks-nutrien-giant-potash-214304735.html,BHP Is in Talks With Nutrien on Giant Potash Mine,NTR.TO
 Reuters,/news/1-bhp-taps-nutrien-canada-214228780.html,UPDATE 1-BHP taps Nutrien for Canada potash mine partnership - Bloomberg News,NTR.TO
-Simply Wall St.,/news/insiders-buying-nutrien-ltd-tse-093824610.html,Have Insiders Been Buying Nutrien Ltd. (TSE:NTR) Shares This Year?,NTR.TO
 GlobeNewswire,/news/nuvei-added-msci-canada-index-210100023.html,Nuvei to be Added to MSCI Canada Index,NVEI.TO
 GlobeNewswire,/news/nuvei-granted-approval-process-sports-130000796.html,Nuvei Granted Approval to Process Sports Betting and iGaming Payments in Michigan,NVEI.TO
 GlobeNewswire,/news/nuvei-research-reveals-growing-potential-142000660.html,Nuvei Research Reveals Growing Potential of Optimized Payment Strategies for Marketplaces,NVEI.TO
@@ -1554,7 +1551,7 @@ MarketWatch,/m/77f63f24-b488-3bea-a2bd-ee7c178086b6/palladium-touches-an-all-tim
 GlobeNewswire,/news/points-international-announces-results-annual-200500232.html,Points International Announces Results of Annual General Meeting,PTS.TO
 GlobeNewswire,/news/points-international-reports-first-quarter-200500551.html,Points International Reports First Quarter 2021 Results,PTS.TO
 ACCESSWIRE,/news/points-international-ltd-host-earnings-183000493.html,Points International Ltd. to Host Earnings Call,PTS.TO
-CNW Group,/news/polaris-infrastructure-declares-quarterly-dividend-130600652.html,Polaris Infrastructure Declares Quarterly Dividend,PIF.TO
+PR Newswire,/news/polaris-infrastructure-declares-quarterly-dividend-130600987.html,Polaris Infrastructure Declares Quarterly Dividend,PIF.TO
 PR Newswire,/news/polaris-infrastructure-announces-q1-2021-120000571.html,Polaris Infrastructure Announces Q1 2021 Results,PIF.TO
 Simply Wall St.,/news/polaris-infrastructure-inc-tse-pif-085218441.html,Polaris Infrastructure Inc. (TSE:PIF) Stock Has Shown Weakness Lately But Financials Look Strong: Should Prospective Shareholders Make The Leap?,PIF.TO
 Reuters,/news/1-minnesota-court-orders-fresh-183957954.html,UPDATE 1-Minnesota court orders fresh review of PolyMet mine permits,POM.TO
@@ -1664,7 +1661,7 @@ GlobeNewswire,/news/rogers-sugar-inc-declares-dividend-100000475.html,Rogers Sug
 Motley Fool,/m/295b2ddd-c0a5-3d49-953e-876fe5a9d4b5/fortuna-silver-mines-fsm-q1.html,Fortuna Silver Mines (FSM) Q1 2021 Earnings Call Transcript,ROXG.TO
 Business Wire,/news/roxgold-reports-first-quarter-2021-203000230.html,Roxgold Reports First Quarter 2021 Financial Results,ROXG.TO
 Business Wire,/news/roxgold-release-first-quarter-financial-231000462.html,"Roxgold to Release First Quarter Financial Results on May 11, 2021 & Reschedules AGM to Follow Special Meeting for Proposed Transaction with Fortuna",ROXG.TO
-Bloomberg,/news/canadian-banks-signal-covid-19-124632488.html,Canadian Banks Signal a Covid-19 All-Clear Earlier Than Expected,RY.TO
+Bloomberg,/news/canadian-banks-signal-covid-19-124632488.html,Canadian Banks Signal Covid All-Clear Earlier Than Expected,RY.TO
 Zacks,/news/royal-bank-ry-beats-q2-122312410.html,Royal Bank (RY) Beats Q2 Earnings and Revenue Estimates (Revised),RY.TO
 Zacks,/news/royal-bank-ry-beats-q2-113511829.html,Royal Bank (RY) Beats Q2 Earnings and Revenue Estimates,RY.TO
 PR Newswire,/news/royal-canadian-mint-reports-profits-181900505.html,Royal Canadian Mint Reports Profits and Performance for Q1 2021,MNT.TO
@@ -1733,14 +1730,14 @@ GlobeNewswire,/news/silver-bull-announces-postponement-annual-131500835.html,Sil
 ACCESSWIRE,/news/silver-elephant-appoints-nickel-experts-124500078.html,Silver Elephant Appoints Nickel Experts from Vale for its Flying Nickel Spinout,ELEF.TO
 ACCESSWIRE,/news/silver-elephant-pause-sunawayo-payments-120000588.html,Silver Elephant To Pause Sunawayo Payments and Exploration,ELEF.TO
 ACCESSWIRE,/news/silver-elephant-finds-large-geophysical-120000550.html,"Silver Elephant Finds Large Geophysical Anomaly 300 Meters North of Tajo Vein at Pulacayo Silver Project, Drilling to Commence in July",ELEF.TO
-CNW Group,/news/silvercorp-declares-semi-annual-dividend-105500589.html,Silvercorp Declares Semi-Annual Dividend of US$0.0125 Per Share,SVM.TO
+PR Newswire,/news/silvercorp-declares-semi-annual-dividend-105500342.html,Silvercorp Declares Semi-Annual Dividend of US$0.0125 Per Share,SVM.TO
 CNW Group,/news/silvercorp-intersects-vein-lm7-19-105500287.html,"Silvercorp Intersects Vein LM7 With 19.67 Metres True Width Grading 261 Grams Per Tonne Silver, 1.1% Lead, and 0.78% Copper at the LMW Mine, Ying Mining District, China",SVM.TO
 Simply Wall St.,/news/estimating-fair-value-silvercorp-metals-142933571.html,Estimating The Fair Value Of Silvercorp Metals Inc. (TSE:SVM),SVM.TO
 CNW Group,/news/silvercrest-reports-q1-2021-financial-221600841.html,SilverCrest Reports Q1 2021 Financial Results and Update,SIL.TO
 CNW Group,/news/silvercrest-announces-high-grade-drill-110000928.html,SilverCrest Announces High-Grade Drill Results on Multiple Veins in the Babicanora Area,SIL.TO
 CNW Group,/news/silvercrest-reports-2020-annual-financial-110000960.html,SilverCrest Reports 2020 Annual Financial Results and Update,SIL.TO
-CNW Group,/news/dormez-vous-bianca-andreescu-join-110000845.html,Dormez-vous and Bianca Andreescu join forces to awaken Quebecers to the power of sleep,ZZZ.TO
 CNW Group,/news/sleep-country-bianca-andreescu-join-110000748.html,Sleep Country and Bianca Andreescu join forces to awaken Canadians to the power of sleep,ZZZ.TO
+CNW Group,/news/dormez-vous-bianca-andreescu-join-110000845.html,Dormez-vous and Bianca Andreescu join forces to awaken Quebecers to the power of sleep,ZZZ.TO
 CNW Group,/news/sleep-country-canada-announces-election-200700229.html,Sleep Country Canada Announces Election of Directors,ZZZ.TO
 CNW Group,/news/snc-lavalin-wins-hydro-expansion-110000783.html,SNC-Lavalin wins hydro expansion project for Taku River Tlingit First Nation,SNC.TO
 CNW Group,/news/snc-lavalin-announces-results-vote-210500477.html,SNC-Lavalin Announces the Results of the Vote for the Election of Directors,SNC.TO
@@ -1945,9 +1942,9 @@ CNW Group,/news/r-e-p-e-t-151600574.html,/R E P E A T -- Media Advisory - TD Ban
 GlobeNewswire,/news/total-energy-services-inc-reports-210000410.html,Total Energy Services Inc. Reports on Voting from the  Annual Meeting of Shareholders,TOT.TO
 ACCESSWIRE,/news/total-energy-services-inc-host-131500040.html,"Total Energy Services, Inc. to Host Earnings Call",TOT.TO
 Simply Wall St.,/news/introducing-total-energy-services-tse-125603482.html,"Introducing Total Energy Services (TSE:TOT), The Stock That Zoomed 133% In The Last Year",TOT.TO
+ACCESSWIRE,/news/cinedigm-announces-significant-over-growth-133000758.html,Cinedigm Announces Significant Year Over Year Growth in Total Users and Minutes Viewed for the Month of April on the Dove Channel,TXP.TO
 PR Newswire,/news/broadside-enterprises-inc-otc-brse-125300149.html,Broadside Enterprises Inc (OTC: BRSE) announces Worldwide digital content distribution deal with Cinedigm Corp (NASDAQ: CIDM),TXP.TO
 ACCESSWIRE,/news/cinedigm-partners-struum-streaming-designed-133000598.html,"Cinedigm Partners With Struum, A Streaming Service Designed To Simplify Discovery And Sampling Through A First-Of-Its-Kind Credit Based System",TXP.TO
-CNW Group,/news/touchstone-provides-operational-060000120.html,Touchstone Provides Operational Update,TXP.TO
 Simply Wall St.,/news/tourmaline-oil-corp-tse-tou-094848092.html,Is Tourmaline Oil Corp.'s (TSE:TOU) Stock's Recent Performance Being Led By Its Attractive Financial Prospects?,TOU.TO
 CNW Group,/news/tourmaline-completes-further-consolidation-nebc-201000772.html,"Tourmaline Completes Further Consolidation of NEBC Montney Assets, Positioning the Company For Higher Free Cash Flow in 2022 and the Revised Five-Year Plan",TOU.TO
 CNW Group,/news/tourmaline-delivers-record-production-cash-210000805.html,"Tourmaline Delivers Record Production, Cash Flow and Free Cash Flow in Q1 2021",TOU.TO
@@ -2095,9 +2092,9 @@ GlobeNewswire,/news/western-resources-reports-agm-results-230000655.html,Western
 Zacks,/news/westport-wprt-plunges-13-3-111311942.html,Westport (WPRT) Plunges 13.3% Since Q1 Loss Amid Chip Crunch,WPRT.TO
 Motley Fool,/m/7df657c7-b642-3d5f-b00b-412c9849374f/westport-fuel-systems-inc-.html,Westport Fuel Systems Inc. (WPRT) Q1 2021 Earnings Call Transcript,WPRT.TO
 ACCESSWIRE,/news/westport-fuel-systems-inc-host-114500649.html,"Westport Fuel Systems, Inc. to Host Earnings Call",WPRT.TO
+Insider Monkey,/news/15-largest-mining-companies-market-142123756.html,15 Largest Mining Companies by Market Cap,WPM.TO
 Simply Wall St.,/news/wheaton-precious-metals-corp-tse-121342615.html,Is Wheaton Precious Metals Corp.'s (TSE:WPM) Stock's Recent Performance Being Led By Its Attractive Financial Prospects?,WPM.TO
 Zacks,/news/wheaton-wpm-gain-mine-expansion-155003983.html,Wheaton (WPM) to Gain From Mine Expansion Moves & Buyouts,WPM.TO
-Zacks,/news/impuy-wpm-better-value-stock-154003091.html,IMPUY or WPM: Which Is the Better Value Stock Right Now?,WPM.TO
 SmarterAnalyst,/news/whitecap-resources-closes-kicking-horse-164213847.html,Whitecap Resources Closes Kicking Horse Oil & Gas Acquisition; Hikes Dividend 8%,WCP.TO
 CNW Group,/news/whitecap-resources-inc-demonstrates-continued-110000392.html,Whitecap Resources Inc. Demonstrates Continued Operational Momentum And Increases Dividend 8%,WCP.TO
 ACCESSWIRE,/news/whitecap-resources-inc-host-earnings-124500059.html,"Whitecap Resources, Inc. to Host Earnings Call",WCP.TO
@@ -2331,7 +2328,7 @@ GlobeNewswire,/news/arena-minerals-announces-closing-pampa-113000672.html,Arena 
 GlobeNewswire,/news/arena-minerals-acquire-large-high-113000597.html,"Arena Minerals to Acquire Large, High-Grade Lithium Brine Project in Salta, Argentina",AN.V
 PR Newswire,/news/otc-markets-group-welcomes-ares-120000335.html,OTC Markets Group Welcomes Ares Strategic Mining Inc to OTCQX,ARS.V
 CNW Group,/news/u-western-metals-mining-investor-123500366.html,U.S. Western Metals & Mining Investor Presentations Now Available for On-Demand Viewing,ARS.V
-CNW Group,/news/u-western-metals-mining-live-123500890.html,U.S. Western Metals & Mining Live Virtual Investor Conference June 30th,ARS.V
+PR Newswire,/news/u-western-metals-mining-live-123500998.html,U.S. Western Metals & Mining Live Virtual Investor Conference June 30th,ARS.V
 Newsfile,/news/investmentpitch-media-video-discusses-argentina-131500218.html,InvestmentPitch Media Video Discusses Argentina Lithium and its Two Projects in Argentina as its Featured Company - Video Available on Investmentpitch.com,LIT.V
 Newsfile,/news/argentum-sells-interest-vanadium-ridge-175700995.html,Argentum Sells Interest in Vanadium Ridge Property,ASL.V
 GlobeNewswire,/news/arht-media-named-official-holopresence-123000508.html,"ARHT Media Named Official HoloPresence™ Partner at  Art Basel Hong Kong May 19 – 23, 2021",ART.V
@@ -2563,10 +2560,10 @@ Newsfile,/news/blumetric-chosen-compete-uk-water-210500828.html,BluMetric Chosen
 Newsfile,/news/retransmission-bmex-gold-welcomes-steve-103000244.html,RETRANSMISSION: BMEX Gold Welcomes Steve Dunlop to the Advisory Board,BMEX.V
 Newsfile,/news/bmex-gold-welcomes-steve-dunlop-070100111.html,BMEX Gold Welcomes Steve Dunlop to the Advisory Board,BMEX.V
 Newsfile,/news/retransmission-bmex-gold-announces-appointment-103000812.html,RETRANSMISSION: BMEX Gold Announces the Appointment of Jeremi Fournier as Director,BMEX.V
-PR Newswire,/news/boardwalktech-selected-fortune-50-social-120000182.html,Boardwalktech Selected by Fortune 50 Social Media Company to Deliver New Applications for Data Management and Supply Chain,BWLK.V
+CNW Group,/news/boardwalktech-selected-fortune-50-social-120000255.html,Boardwalktech Selected by Fortune 50 Social Media Company to Deliver New Applications for Data Management and Supply Chain,BWLK.V
 CNW Group,/news/boardwalktech-granted-full-forgiveness-payroll-120000967.html,Boardwalktech Granted Full Forgiveness of Payroll Protection Program Loan,BWLK.V
 CNW Group,/news/canada-ontario-invest-accessible-sport-154500147.html,Boardwalktech Announces Full Payoff of Loan and Other Debt,BWLK.V
-PR Newswire,/news/boardwalktech-selected-fortune-50-social-120000182.html,Boardwalktech Selected by Fortune 50 Social Media Company to Deliver New Applications for Data Management and Supply Chain,BWLK.V
+CNW Group,/news/boardwalktech-selected-fortune-50-social-120000255.html,Boardwalktech Selected by Fortune 50 Social Media Company to Deliver New Applications for Data Management and Supply Chain,BWLK.V
 CNW Group,/news/boardwalktech-granted-full-forgiveness-payroll-120000967.html,Boardwalktech Granted Full Forgiveness of Payroll Protection Program Loan,BWLK.V
 CNW Group,/news/canada-ontario-invest-accessible-sport-154500147.html,Boardwalktech Announces Full Payoff of Loan and Other Debt,BWLK.V
 ACCESSWIRE,/news/bold-ventures-announces-first-closing-120000061.html,Bold Ventures Announces First Closing of Non-Brokered Private Placement,BOL.V
@@ -2579,8 +2576,8 @@ Newsfile,/news/boundary-gold-begins-investigation-lowell-200500000.html,"Boundar
 Simply Wall St.,/news/comfort-insider-transactions-bqe-water-054356271.html,Should You Take Comfort From Insider Transactions At BQE Water Inc. (CVE:BQE)?,BQE.V
 Simply Wall St.,/news/financials-role-play-driving-bqe-055139827.html,Do Its Financials Have Any Role To Play In Driving BQE Water Inc.'s (CVE:BQE) Stock Up Recently?,BQE.V
 Simply Wall St.,/news/eps-growth-more-bqe-water-051053758.html,"With EPS Growth And More, BQE Water (CVE:BQE) Is Interesting",BQE.V
-ACCESSWIRE,/news/braille-energy-systems-inc-signs-131500527.html,Braille Energy Systems Inc. Signs MOU with Australian Battery Casing Technology Company Vaulta,BES.V
 ACCESSWIRE,/news/focus-graphite-signs-mou-australian-131500631.html,Focus Graphite Signs MOU With Australian Battery Casing Technology Company Vaulta and Lithium Battery Manufacturer Braille Energy Systems Inc.,BES.V
+ACCESSWIRE,/news/braille-energy-systems-inc-signs-131500527.html,Braille Energy Systems Inc. Signs MOU with Australian Battery Casing Technology Company Vaulta,BES.V
 ACCESSWIRE,/news/braille-energy-systems-inc-announces-210000675.html,Braille Energy Systems Inc. Announces Distribution Agreement With Leading North American Distributor,BES.V
 Newsfile,/news/braveheart-engages-maple-leaf-forestry-131700053.html,Braveheart Engages Maple Leaf Forestry for Upgrade to Alpine Gold Mine Access Road,BHT.V
 Newsfile,/news/braveheart-commence-underground-drilling-program-135200124.html,Braveheart to Commence Underground Drilling Program at Bull River Mine Project,BHT.V
@@ -2735,7 +2732,7 @@ GlobeNewswire,/news/char-announces-appointment-three-board-123100351.html,"CHAR 
 GlobeNewswire,/news/char-announces-milestone-1-000-123100282.html,"CHAR Announces Milestone 1,000 Tonne Biocoal Order",YES.V
 Newsfile,/news/chesapeake-gold-completes-bulk-drilling-210000740.html,Chesapeake Gold Completes Bulk Drilling Program and Provides Update on 2021 Work Program,CKG.V
 Newsfile,/news/chesapeake-gold-announces-results-annual-212000729.html,Chesapeake Gold Announces Results from the Annual General Meeting,CKG.V
-Newsfile,/news/inomin-closes-la-gitana-pena-070800616.html,Inomin Closes La Gitana and Pena Blanca Gold-Silver Property Acquisitions,CKG.V
+Newsfile,/news/chesapeake-gold-announces-director-resignation-023100589.html,Chesapeake Gold Announces Director Resignation,CKG.V
 CNW Group,/news/tech-leaders-health-authorities-around-123000965.html,/R E P E A T -- Notice to the media - Government of Canada officials to hold a technical briefing on COVID-19 vaccines in Canada/,CBG.V
 CNW Group,/news/edmontonians-beirut-coordinate-humanitarian-efforts-200800302.html,Beware of solicitations by Axes LLC,CBG.V
 GlobeNewswire,/news/bateman-bay-project-chibougamau-140000693.html,Update – Bateman Bay Project in Chibougamau,CBG.V
@@ -2844,7 +2841,7 @@ CNW Group,/news/hikvision-releases-2020-h1-financial-090900456.html,Xinhua Silk 
 Simply Wall St.,/news/calculating-fair-value-corsa-coal-071300907.html,Calculating The Fair Value Of Corsa Coal Corp. (CVE:CSO),CSO.V
 Newsfile,/news/cortus-leads-nevadas-age-discovery-130000954.html,"Cortus Leads Nevada's New Age of Discovery, Exercises Option to Acquire Intermont and Arranges Private Placement",CRTS.V
 Newsfile,/news/cortus-acquire-claims-data-package-211700664.html,Cortus to Acquire Claims and Data Package as Project and Target Generation Are Well Underway in Nevada,CRTS.V
-CNW Group,/news/covalon-announces-conference-call-discuss-123000056.html,Covalon Announces Conference Call to Discuss Second Quarter Fiscal 2021 Financial Results,COV.V
+PR Newswire,/news/covalon-announces-conference-call-discuss-123000005.html,Covalon Announces Conference Call to Discuss Second Quarter Fiscal 2021 Financial Results,COV.V
 CNW Group,/news/precision-biomonitoring-announces-submission-xprizes-120000554.html,Government of Canada supports recovery and growth of women-led businesses across British Columbia amid COVID-19 pandemic,COV.V
 GlobeNewswire,/news/winshear-appoints-cfo-175100517.html,Winshear Appoints New CFO,COV.V
 GlobeNewswire,/news/crown-point-announces-operating-financial-230500993.html,"Crown Point Announces Operating and Financial Results for the Three Months Ended March 31, 2021",CWV.V
@@ -2856,9 +2853,9 @@ CNW Group,/news/cryptostar-corp-announces-participation-h-124200680.html,"Crypto
 ACCESSWIRE,/news/cub-energy-announces-first-quarter-201500355.html,Cub Energy Announces First Quarter Results,KUB.V
 ACCESSWIRE,/news/cub-energy-announces-results-annual-211000656.html,Cub Energy Announces Results From the Annual Meeting of Shareholders,KUB.V
 ACCESSWIRE,/news/cub-energy-announces-commencement-power-132200151.html,Cub Energy Announces Commencement of Power Generation,KUB.V
+CNW Group,/news/iiroc-trading-resumption-cub-143800300.html,IIROC Trading Resumption - CUB,CUB.V
+GlobeNewswire,/news/cubicfarm-systems-corp-announces-upsize-140300072.html,CubicFarm Systems Corp. Announces Upsize to Previously Announced Bought Deal Public Offering of Common Shares,CUB.V
 GlobeNewswire,/news/cubicfarm-systems-corp-announces-20-195000572.html,CubicFarm Systems Corp. Announces $20 Million Bought Deal Public Offering of Common Shares to Meet Accelerating Global Demand,CUB.V
-CNW Group,/news/iiroc-trading-halt-cub-185300841.html,IIROC Trading Halt - CUB,CUB.V
-CNW Group,/news/cubicfarm-systems-corp-announces-c-120000730.html,"CubicFarm Systems Corp. Announces C$2,000,000 Sale of 12 HydroGreen Grow Systems to Supply Customers in the U.S. Beef Cattle Industry",CUB.V
 Newsfile,/news/cuda-oil-gas-inc-announces-214600354.html,"Cuda Oil and Gas Inc. Announces December 31, 2020 Year-End Financial and Operating Results",CUDA.V
 Newsfile,/news/cuda-oil-gas-inc-reports-000000809.html,"Cuda Oil and Gas Inc. Reports an Increase in Proved, Developed and Producing Oil and Liquid Reserves and Achieves 1 BCF of Gas Injected into the Shannon Oil Pool",CUDA.V
 Newsfile,/news/bridging-finance-inc-acquires-control-230000621.html,Bridging Finance Inc. Acquires Control of Common Shares of Cuda Oil and Gas Inc.,CUDA.V
@@ -3038,7 +3035,7 @@ GlobeNewswire,/news/eloro-resources-intersects-122-7-110000876.html,"Eloro Resou
 GlobeNewswire,/news/eloro-resources-first-drill-hole-110000208.html,"Eloro Resources’ First Drill Hole at the Iska Iska Project’s Central Breccia Pipe Encounters Multiple Mineralized Intercepts including 196 Grams Silver Equivalent/tonne (g Ag eq/t) over 56.2m and containing 343 g Ag eq/t (274 g Ag/t, 0.16% Sn and 0.16 g Au/t) over 27.5m",ELO.V
 GlobeNewswire,/news/eloro-resources-reports-442-grams-100000130.html,"Eloro Resources reports 442 grams silver equivalent/tonne (Ag eq/t) over 166m including 1,092 g Ag eq/t (446 g Ag/t, 9.03%Pb and 1.16%Sn) over 56.2m in Continuous Channel Sampling of Santa Barbara Adit, Iska Iska Silver-Tin Polymetallic Project, Potosi Department, Southern Bolivia",ELO.V
 CNW Group,/news/else-nutrition-launch-plant-based-110000938.html,Else Nutrition to launch Plant-Based Toddler Nutrition at Associated Food Stores,BABY.V
-PR Newswire,/news/else-nutrition-launch-plant-based-110000920.html,Else Nutrition to Launch Plant-Based Toddler Nutrition at PCC Community Markets - Largest Consumer-Owned Food Co-Op in the U.S.,BABY.V
+CNW Group,/news/else-nutrition-launch-plant-based-110000143.html,Else Nutrition to Launch Plant-Based Toddler Nutrition at PCC Community Markets - Largest Consumer-Owned Food Co-Op in the U.S.,BABY.V
 CNW Group,/news/else-nutrition-set-bolster-northwest-110000502.html,Else Nutrition Set to Bolster Northwest Distribution with Launch of Plant-Based Toddler Nutrition at Haggen Food & Pharmacy,BABY.V
 Newsfile,/news/ely-gold-royalties-announces-change-124900519.html,Ely Gold Royalties Announces Change to Board of Directors,ELY.V
 Newsfile,/news/ely-gold-royalties-tsxv-ely-214600038.html,Ely Gold Royalties (TSXV: ELY) (OTCQX: ELYGF) Announces Postponed Town Hall Meeting,ELY.V
@@ -3240,9 +3237,9 @@ GlobeNewswire,/news/g2-goldfields-clarifies-due-bill-211500333.html,G2 Goldfield
 ACCESSWIRE,/news/black-tusk-completes-diamond-drilling-193000339.html,"Black Tusk Completes Diamond Drilling on Lorrain Property, Quebec & Announces Corporate Changes",GGG.V
 CNW Group,/news/educational-money-app-treasure-card-140000930.html,IIROC Trading Resumption - GGG,GGG.V
 CNW Group,/news/lg-velvet-5g-time-capsule-140600695.html,IIROC Trading Halt - GGG,GGG.V
+CNW Group,/news/iiroc-trading-resumption-gbu-133200889.html,IIROC Trading Resumption - GBU,GBU.V
 ACCESSWIRE,/news/gabriel-resources-ltd-2021-first-132200999.html,Gabriel Resources Ltd. 2021 First Quarter Results,GBU.V
 ACCESSWIRE,/news/gabriel-resources-ltd-private-placement-130700983.html,Gabriel Resources Ltd. Private Placement & Convertible Note Maturity Notice,GBU.V
-CNW Group,/news/iiroc-trading-halt-gbu-124200813.html,IIROC Trading Halt - GBU,GBU.V
 ACCESSWIRE,/news/gaia-metals-complete-ip-resistivity-140000552.html,"Gaia Metals to Complete IP-Resistivity Survey at the Freeman Creek Gold Property, Idaho, USA",GMC.V
 ACCESSWIRE,/news/gaia-metals-accelerates-freeman-creek-140000176.html,Gaia Metals Accelerates the Freeman Creek Property Option Agreement,GMC.V
 ACCESSWIRE,/news/gaia-metals-corp-releases-second-140000723.html,Gaia Metals Corp. Releases Second Edition of President's Letter,GMC.V
@@ -3277,7 +3274,7 @@ Newsfile,/news/genesis-metals-drills-40-89-120100562.html,"Genesis Metals Drills
 Newsfile,/news/genesis-metals-drills-13-46-120200980.html,"Genesis Metals Drills 13.46 g/t Gold over 8.90 metres at Fox Zone, Chevrier Main Deposit, Chevrier Gold Project, Quebec",GIS.V
 GlobeNewswire,/news/gentor-provides-corporate-203510367.html,Gentor Provides Corporate Update,GNT.V
 GlobeNewswire,/news/innord-develops-bauxite-residues-process-110000427.html,Innord Develops Bauxite Residues Process Using Its Environmentally Friendly Technology,GMA.V
-PR Newswire,/news/investor-presentations-now-available-demand-123500961.html,Investor Presentations Now Available for On-Demand Viewing: Critical & Strategic Minerals Investment Opportunities in Quebec,GMA.V
+CNW Group,/news/investor-presentations-now-available-demand-123500095.html,Investor Presentations Now Available for On-Demand Viewing: Critical & Strategic Minerals Investment Opportunities in Quebec,GMA.V
 CNW Group,/news/critical-strategic-minerals-investment-opportunities-123500157.html,Critical and Strategic Minerals Investment Opportunities in the Province of Quebec Conference: Executives Present Live on April 22nd,GMA.V
 CNW Group,/news/gettys-gold-silver-porphyry-copper-183000926.html,"Getty's Gold, Silver, Porphyry Copper Geological Field Work Supports Historical Data",GTC.V
 GlobeNewswire,/news/gfg-provides-exploration-activities-pen-110000799.html,"GFG Provides Update on Exploration Activities at the Pen Gold Project West of Timmins, Ontario",GFG.V
@@ -3435,7 +3432,7 @@ CNW Group,/news/greenfirst-announces-preliminary-operating-results-120000883.htm
 Simply Wall St.,/news/type-shareholders-own-most-number-090759035.html,What Type Of Shareholders Own The Most Number of GreenFirst Forest Products Inc. (CVE:GFP) Shares?,GFP.V
 GlobeNewswire,/news/ballantyne-strong-reports-first-quarter-201500534.html,Ballantyne Strong Reports First Quarter 2021 Operating Results,GFP.V
 SmarterAnalyst,/news/greenpower-delivers-star-cab-chassis-105536213.html,GreenPower Delivers Star Cab and Chassis to Berkshire Hathaway’s Forest River,GPV.V
-CNW Group,/news/greenpower-delivers-five-ev-star-123000437.html,GreenPower Delivers Five EV Star Cab and Chassis to Forest River,GPV.V
+PR Newswire,/news/greenpower-delivers-five-ev-star-123000905.html,GreenPower Delivers Five EV Star Cab and Chassis to Forest River,GPV.V
 PR Newswire,/news/greenpower-announces-results-annual-general-232100679.html,GreenPower Announces Results of Annual General and Special Meeting,GPV.V
 CNW Group,/news/greenspace-brands-inc-announces-upcoming-220000061.html,Greenspace Brands Inc. Announces Upcoming Chief Financial Officer Succession,JTR.V
 CNW Group,/news/greenspace-brands-inc-partners-consus-103000236.html,GreenSpace Brands Inc. Partners with Consus Global to Drive Supply Chain Efficiencies,JTR.V
@@ -3731,9 +3728,9 @@ GlobeNewswire,/news/juggernaut-closes-non-brokered-financing-124500807.html,Jugg
 CNW Group,/news/justkitchen-appoints-two-visionaries-founding-070500471.html,JustKitchen Appoints Two Visionaries as Founding Members of Strategic Advisory Board,JK.V
 CNW Group,/news/justkitchen-announces-international-expansion-plan-070500529.html,JustKitchen Announces International Expansion Plan,JK.V
 CNW Group,/news/justkitchen-announces-ghost-kitchen-location-070500676.html,JustKitchen Announces New Ghost Kitchen Location in World Famous Taipei 101 Tower,JK.V
+CNW Group,/news/tsx-venture-exchange-alkemy-c-140000586.html,"TSX Venture Exchange, Alkemy, C-Suite at The Open",AKMY.V
 CNW Group,/news/alkemy-engages-hybrid-financial-brand-190800221.html,Alkemy Engages Hybrid Financial for Brand Awareness Expansion within the Investment Community,AKMY.V
 CNW Group,/news/leon-koffler-joins-alkemy-board-150700120.html,Leon Koffler Joins Alkemy Board of Directors,AKMY.V
-CNW Group,/news/alkemy-remotely-opens-market-150000771.html,Alkemy Remotely Opens The Market,AKMY.V
 Newsfile,/news/k9-gold-joins-newfoundland-gold-130000205.html,K9 Gold Joins Newfoundland.Gold Strategic Alliance,KNC.V
 Newsfile,/news/investmentpitch-media-video-discusses-k9-131500599.html,InvestmentPitch Media Video Discusses K9 Gold and its Induced Polarization Survey at its Stony Lake Property in Central Newfoundland and Preparation for June Drill Program - Video Available on Investmentpitch.com,KNC.V
 Newsfile,/news/k9-gold-completes-ip-survey-123000229.html,"K9 Gold Completes IP Survey at Stony Lake, NL; New Anomalies Revealed",KNC.V
@@ -3757,14 +3754,10 @@ CNW Group,/news/katipult-adds-fintech-executives-leadership-133700658.html,Katip
 CNW Group,/news/katipult-vopay-join-forces-deliver-120000249.html,Katipult and VoPay Join Forces to Deliver Advanced Payment Processing For Capital Markets,FUND.V
 CNW Group,/news/451-research-report-captures-impact-130000812.html,TSX Venture Exchange Stock Maintenance Bulletins,KDA.V
 Simply Wall St.,/news/calculating-intrinsic-value-kda-group-052336324.html,Calculating The Intrinsic Value Of KDA Group Inc. (CVE:KDA),KDA.V
-CNW Group,/news/iiroc-trading-halt-ken-115200242.html,IIROC Trading Halt - KEN,KEN.V
 PR Newswire,/news/kenorland-minerals-intersects-90-56-122500550.html,"Kenorland Minerals intersects 90.56 g/t Au over 5.72m at Regnault, Sumitomo Metal Mining completes earn-in to the Frotet Project",KLD.V
 CNW Group,/news/kenorland-acquires-district-scale-land-122500370.html,Kenorland Acquires District-Scale Land Package in Ontario's Birch-Uchi Greenstone Belt,KLD.V
 PR Newswire,/news/kenorland-announces-2021-summer-exploration-122500084.html,"Kenorland Announces 2021 Summer Exploration Program at the Chebistuan Project, Quebec",KLD.V
 CNW Group,/news/iiroc-trading-resumption-klm-202100979.html,IIROC Trading Resumption - KLM,KLM.V
-Newsfile,/news/kesselrun-extends-mckellar-zone-depth-060000558.html,Kesselrun Extends McKellar Zone Depth With 5.8 Metres of 7.2 g/t Au Within a 67.8 Metre Zone Averaging 1.6 g/t Au,KES.V
-Newsfile,/news/kesselrun-intercepts-99-0-g-104500810.html,Kesselrun Intercepts 99.0 g/t Au over 0.5 M Within 3.5 M Zone Averaging 15.6 g/t Au,KES.V
-Newsfile,/news/kesselrun-intercepts-81-5-g-104500821.html,Kesselrun Intercepts 81.5 g/t Au over 0.6 m within 4.1 m Zone Averaging 16.2 g/t Au,KES.V
 ACCESSWIRE,/news/kestrel-gold-operational-corporate-133000090.html,Kestrel Gold - Operational & Corporate Update,KGC.V
 ACCESSWIRE,/news/kestrel-gold-inc-announces-closing-191500273.html,Kestrel Gold Inc. Announces Closing of Private Placement,KGC.V
 ACCESSWIRE,/news/kestrel-gold-inc-announces-increase-195800331.html,Kestrel Gold Inc. Announces Increase of Proposed Private Placement,KGC.V
@@ -3773,9 +3766,6 @@ GlobeNewswire,/news/kilo-goldmines-announces-management-changes-210010792.html,K
 PR Newswire,/news/khiron-partners-colombia-cancer-league-141800731.html,"Khiron Partners with Colombia Cancer League to Deliver 3,000 Medical Cannabis Patient Consultations",KHRN.V
 CNW Group,/news/khiron-host-first-quarter-2021-213000798.html,"Khiron to Host First Quarter 2021 Conference Call on May 28, 2021",KHRN.V
 Newsfile,/news/khiron-life-sciences-corp-invitation-120000215.html,Khiron Life Sciences Corp.: Invitation to the Q2 Virtual Investor Summit,KHRN.V
-PR Newswire,/news/kiaro-participate-canaccord-genuitys-5th-224300093.html,Kiaro to Participate in Canaccord Genuity's 5th Annual Virtual Cannabis Conference,KO.V
-PR Newswire,/news/kiaro-reports-230-increase-revenue-120000088.html,Kiaro Reports 230% Increase in Revenue in Fiscal Year 2021,KO.V
-CNW Group,/news/kiaro-appoints-mr-colin-davis-014900877.html,Kiaro Appoints Mr. Colin Davis to the Board of Directors,KO.V
 ACCESSWIRE,/news/kidoz-launches-agoracom-platform-increase-200000018.html,Kidoz Launches on AGORACOM Platform to Increase Investor Awareness,KIDZ.V
 CNW Group,/news/nova-announces-first-quarter-2021-222000114.html,Nova Announces First Quarter 2021 Results,KIDZ.V
 ACCESSWIRE,/news/kidoz-inc-announces-strong-growth-211500610.html,Kidoz Inc. Announces Strong Growth in Q1 2021 Results,KIDZ.V
@@ -3920,7 +3910,7 @@ CNW Group,/news/lumiera-health-begins-sales-awaye-120000348.html,Lumiera Health 
 CNW Group,/news/lumina-gold-receives-eis-approval-123000859.html,Canada and Ontario invest in improved sports facility for residents of Milton,LUM.V
 PR Newswire,/news/lumina-gold-receives-eis-approval-123000903.html,Lumina Gold Receives EIS Approval For C20 Concession,LUM.V
 Simply Wall St.,/news/lumina-gold-cve-lum-good-092242544.html,Is Lumina Gold (CVE:LUM) In A Good Position To Deliver On Growth Plans?,LUM.V
-PR Newswire,/news/luminex-announces-upcoming-drill-program-110000695.html,Luminex Announces Upcoming Drill Program at the Nayumbi Gold-Silver Discovery,LR.V
+CNW Group,/news/luminex-announces-upcoming-drill-program-110000100.html,Luminex Announces Upcoming Drill Program at the Nayumbi Gold-Silver Discovery,LR.V
 CNW Group,/news/luminex-resources-announces-closing-c-202000360.html,Luminex Resources Announces Closing of C$12.5 Million Private Placement,LR.V
 CNW Group,/news/luminex-resources-announces-upsized-c-221800055.html,Luminex Resources Announces Upsized C$12.5 Million Private Placement,LR.V
 GlobeNewswire,/news/lupaka-provides-further-arbitration-claim-225400607.html,Lupaka Provides Further Update on Arbitration Claim Against the Republic of Peru,LPK.V
@@ -4072,9 +4062,6 @@ GlobeNewswire,/news/correcting-replacing-millrock-acquires-property-165000935.ht
 CNW Group,/news/mimis-rock-reports-q1-2021-120000110.html,Mimi's Rock reports Q1 2021 results,MIMI.V
 Simply Wall St.,/news/earnings-miss-mimis-rock-corp-071252748.html,Earnings Miss: Mimi's Rock Corp. Missed EPS By 33% And Analysts Are Revising Their Forecasts,MIMI.V
 Simply Wall St.,/news/worried-mimis-rock-corp-cve-085058798.html,Should You Be Worried About Mimi's Rock Corp.'s (CVE:MIMI) 11% Return On Equity?,MIMI.V
-ACCESSWIRE,/news/minaean-sp-construction-corp-expression-080000499.html,Minaean SP Construction Corp.; Expression of Interest for Construction of a Hospital Project in Gambia,MSP.V
-ACCESSWIRE,/news/development-construction-hospital-project-costa-070500071.html,Update on Development and Construction of Hospital Project in Costa Rica,MSP.V
-ACCESSWIRE,/news/project-study-construction-university-students-070500151.html,Project Study for Construction of University and Students' Campus in Cote D’ivoire Developed by Minaean SP Construction Corp. Nearing Completion,MSP.V
 GlobeNewswire,/news/bayshore-enters-letter-intent-acquire-231400409.html,Bayshore Enters Into Letter of Intent to Acquire Infinitum Copper Corp.,MGG.V
 Newsfile,/news/minaurum-corporate-124500860.html,Minaurum Corporate Update,MGG.V
 Simply Wall St.,/news/heres-why-were-watching-minaurum-080119421.html,Here's Why We're Watching Minaurum Gold's (CVE:MGG) Cash Burn Situation,MGG.V
@@ -4124,9 +4111,9 @@ ACCESSWIRE,/news/mongolia-growth-group-updates-shareholders-192500537.html,Mongo
 CNW Group,/news/montage-announces-kon-gold-project-103000258.html,Montage Announces Koné Gold Project PEA with After-Tax NPV of $652M and 31% IRR,MAU.V
 CNW Group,/news/montage-reports-positive-infill-drill-103000395.html,Montage Reports Positive Infill Drill Results Including 4.95m Grading 22.25g/t within 200.50m Grading 1.51g/t,MAU.V
 Simply Wall St.,/news/montage-gold-cve-mau-strong-093225265.html,Montage Gold (CVE:MAU) Is In A Strong Position To Grow Its Business,MAU.V
+GlobeNewswire,/news/montero-provides-expropriation-wigu-hill-152600607.html,Montero Provides Update on the Expropriation of the Wigu Hill Rare Earth Deposit in Tanzania,MON.V
 GlobeNewswire,/news/montero-awarded-exploration-concessions-expands-162800930.html,"Montero Awarded Exploration Concessions and Expands Land Package Over Copper Molybdenum Porphyry Target, Chile",MON.V
 GlobeNewswire,/news/montero-drill-program-isabella-gold-142000700.html,Montero Update on Drill Program at The Isabella Gold-Silver Project in Chile,MON.V
-GlobeNewswire,/news/montero-identifies-additional-potential-sediment-145600049.html,"Montero Identifies Additional Potential for Sediment-Hosted Mineralization at Isabella Gold Silver Project, Chile",MON.V
 CNW Group,/news/tmx-group-equity-financing-statistics-130000317.html,TMX Group Equity Financing Statistics - April 2021,MGLD.V
 CNW Group,/news/iiroc-trading-resumption-mgld-202100604.html,IIROC Trading Resumption - MGLD,MGLD.V
 CNW Group,/news/iiroc-trading-halt-mgld-120300553.html,IIROC Trading Halt - MGLD,MGLD.V
@@ -4338,8 +4325,8 @@ CNW Group,/news/nubian-announces-metallurgical-characterization-results-14130008
 CNW Group,/news/nubian-provides-exploration-yandoit-gold-120000490.html,"Nubian Provides Exploration Update for Yandoit Gold Project, Victoria Australia",NBR.V
 CNW Group,/news/beckman-coulter-lauded-frost-sullivan-130000949.html,"Nubian Begins Exploration at Yandoit Gold Project, Victoria, Australia",NBR.V
 CNW Group,/news/numinus-wellness-announces-key-leadership-120000948.html,Numinus Wellness Announces Key Leadership Hires to Support Rapid Growth and Innovation,NUMI.V
-GlobeNewswire,/news/optimi-health-numinus-wellness-submit-130000191.html,Optimi Health and Numinus Wellness Submit All-Natural Psilocybin Extract to Health Canada for Pre-Clinical Trial Application,NUMI.V
 CNW Group,/news/numinus-wellness-optimi-health-submit-130000897.html,Numinus Wellness and Optimi Health Submit All-Natural Psilocybin Extract to Health Canada for Pre-Clinical Trial Application,NUMI.V
+GlobeNewswire,/news/optimi-health-numinus-wellness-submit-130000191.html,Optimi Health and Numinus Wellness Submit All-Natural Psilocybin Extract to Health Canada for Pre-Clinical Trial Application,NUMI.V
 GlobeNewswire,/news/o2gold-identifies-first-drill-targets-110000574.html,"O2Gold Identifies First Drill Targets, Updates Exploration Campaign, and Anticipates Forthcoming Transformation of Exploitation Title",OTGO.V
 GlobeNewswire,/news/o2gold-identifies-two-vein-systems-113000937.html,"O2Gold Identifies Two New Vein Systems, Updates the Works Developed and Other Results in the Otú Centro Gold Project, in Segovia, Colombia",OTGO.V
 GlobeNewswire,/news/o2gold-announces-grant-compensation-securities-010000833.html,O2Gold Announces Grant of Compensation Securities,OTGO.V
@@ -4704,9 +4691,6 @@ Simply Wall St.,/news/regulus-resources-cve-reg-good-084856688.html,Regulus Reso
 GlobeNewswire,/news/regulus-announces-board-changes-130000834.html,Regulus Announces Board Changes,REG.V
 GlobeNewswire,/news/regulus-provides-antakori-project-130000209.html,Regulus Provides Update on the AntaKori Project,REG.V
 CNW Group,/news/reitmans-canada-limited-announces-appointment-150000723.html,Reitmans (Canada) Limited Announces the Appointment of Richard Wait as Executive Vice-President & Chief Financial Officer,RET.V
-CNW Group,/news/r-e-p-e-t-100000005.html,Reko Reports Profitable Second Quarter,REKO.V
-CNW Group,/news/village-farms-international-announces-availability-120000082.html,"Reko International Group Inc. to Buy Back up to 307,162 of Its Common Shares",REKO.V
-Simply Wall St.,/news/confidence-lacking-reko-international-group-182201277.html,Some Confidence Is Lacking In Reko International Group Inc.'s (CVE:REKO) P/E,REKO.V
 GlobeNewswire,/news/relevium-announces-appointment-dr-wolfgang-060000605.html,Relevium Announces the Appointment of Dr. Wolfgang Renz as Chief Scientific Officer for Biocannabix Health Corporation,RLV.V
 GlobeNewswire,/news/relevium-provides-exclusive-supply-medical-134700963.html,Relevium Provides Update on the Exclusive Supply of Medical Examination Gloves,RLV.V
 GlobeNewswire,/news/biocannabix-enters-loi-iam-health-131200696.html,Biocannabix Enters Into LOI With IAM Health GmbH,RLV.V
@@ -4719,9 +4703,6 @@ CNW Group,/news/renaissance-announces-conversion-outstanding-convertible-0050002
 CNW Group,/news/renoworks-announces-record-first-quarter-123000623.html,Renoworks Announces Record First Quarter 2021 Financial Results,RW.V
 Simply Wall St.,/news/calculating-fair-value-renoworks-software-120946020.html,Calculating The Fair Value Of RenoWorks Software Inc. (CVE:RW),RW.V
 CNW Group,/news/renoworks-engages-sophic-capital-capital-123000004.html,Renoworks Engages Sophic Capital for Capital Markets Advisory and IR Services,RW.V
-ACCESSWIRE,/news/replicel-launches-testing-dermal-injector-100000347.html,RepliCel Launches Testing of Dermal Injector Units,RP.V
-ACCESSWIRE,/news/replicel-launches-preparations-second-skin-100000403.html,RepliCel Launches Preparations for Second Skin Rejuvenation and Tendon Regeneration Clinical Studies,RP.V
-ACCESSWIRE,/news/replicel-announces-appointment-leading-dermatologist-100000080.html,RepliCel Announces Appointment of Leading Dermatologist in Japan as Clinical Advisor,RP.V
 CNW Group,/news/resaas-present-ld-micro-invitational-123000883.html,RESAAS to Present at LD Micro Invitational Investor Conference,RSS.V
 CNW Group,/news/resaas-adds-mastercard-resaas-rewards-123000480.html,RESAAS Adds Mastercard® to RESAAS Rewards Online Gifting Solution,RSS.V
 CNW Group,/news/virani-selects-resaas-enhance-international-123000610.html,VIRANI Selects RESAAS to Enhance its International Marketing and Referral Business,RSS.V
@@ -4829,9 +4810,9 @@ CNW Group,/news/sable-intercepts-4-381-g-110000045.html,"Sable Intercepts 4,381 
 Newsfile,/news/sahara-energy-ltd-announces-resignation-164400155.html,Sahara Energy Ltd. Announces Resignation of Director,SAH.V
 CNW Group,/news/cumberland-strategies-government-relations-strategic-120800715.html,"Ontario Lottery and Gaming Corporation - EVENING LOTTERY WINNING NUMBERS - March 9, 2021",SAH.V
 Newsfile,/news/sahara-energy-ltd-provides-information-185600939.html,Sahara Energy Ltd. Provides Information Respecting Change of Business,SAH.V
+Simply Wall St.,/news/sailfish-royalty-cve-fish-spend-104130776.html,Will Sailfish Royalty (CVE:FISH) Spend Its Cash Wisely?,FISH.V
 CNW Group,/news/sailfish-files-technical-report-updated-153100197.html,Sailfish Files Technical Report for Updated Mineral Resource Estimate for the Gavilanes Silver Project,FISH.V
 CNW Group,/news/sailfish-updates-mineral-estimate-gavilanes-120000812.html,Sailfish Updates Mineral Resource Estimate for the Gavilanes Silver Project; Highlighted by an Inferred Resource of 22.4 Million oz AgEq at 245.6 g/t AgEq,FISH.V
-CNW Group,/news/sailfish-receives-remaining-us-3-120000963.html,Sailfish Receives Remaining US$3 Million from the Monetization of a Portion of the NSR on the Tocantinzinho Gold Project and Receives First Delivery from the San Albino Gold Stream,FISH.V
 GlobeNewswire,/news/saint-jean-carbon-closes-books-122800890.html,Saint Jean Carbon Closes Books on Private Placement,SJL.V
 GlobeNewswire,/news/saint-jean-carbon-provides-2nd-125100611.html,Saint Jean Carbon Provides a 2nd Operational Update,SJL.V
 GlobeNewswire,/news/saint-jean-carbon-provides-operational-125200143.html,Saint Jean Carbon Provides an Operational Update,SJL.V
@@ -4885,9 +4866,6 @@ CNW Group,/news/shamaran-march-2021-payments-received-161500750.html,ShaMaran Ma
 CNW Group,/news/shamaran-announces-annual-general-meeting-213000003.html,"ShaMaran announces Annual General Meeting of Shareholders to be held on June 23, 2021",SNM.V
 CNW Group,/news/shamaran-reports-krg-proposed-amendments-160000235.html,ShaMaran Reports KRG Proposed Amendments to Payment Terms,SNM.V
 Simply Wall St.,/news/insiders-buying-shine-minerals-corp-121911264.html,Have Insiders Been Buying Shine Minerals Corp. (CVE:SMR) Shares This Year?,SMR.V
-Newsfile,/news/sienna-engages-arctic-drilling-norway-070100540.html,Sienna Engages Arctic Drilling AS of Norway for Bleka Gold Project Drilling,SIE.V
-Newsfile,/news/sienna-receives-off-road-application-070100640.html,"Sienna Receives Off-Road Application Approval from Seljord Municipality, Norway for Bleka Gold Project",SIE.V
-Newsfile,/news/sienna-resources-inc-grants-stock-215300777.html,Sienna Resources Inc. Grants Stock Options,SIE.V
 ACCESSWIRE,/news/sierra-madre-announces-commencement-drilling-073000506.html,Sierra Madre Announces Commencement of Drilling at Tepic,SM.V
 CNW Group,/news/tmx-group-equity-financing-statistics-130000317.html,TMX Group Equity Financing Statistics - April 2021,SM.V
 ACCESSWIRE,/news/sierra-madre-identifies-over-10-073000633.html,Sierra Madre Identifies Over 10 Kilometres of Mineralized Structures and Announces Results from Sampling Program,SM.V
@@ -5100,7 +5078,7 @@ GlobeNewswire,/news/sugarbud-launches-website-feature-know-110000427.html,"Sugar
 GlobeNewswire,/news/sugarbud-announces-positive-ebitda-result-225700783.html,"Sugarbud Announces Positive EBITDA Result for Q4, 2020 and Filing of Financial & Operating Results for the Year Ended December 31, 2020",SUGR.V
 Simply Wall St.,/news/were-keeping-eye-summa-silvers-145203016.html,We're Keeping An Eye On Summa Silver's (CVE:SSVR) Cash Burn Rate,SSVR.V
 CNW Group,/news/summa-silver-commences-drill-program-113500164.html,"Summa Silver Commences Drill Program at the Hughes High-Grade Silver Project, Tonopah, Nevada",SSVR.V
-CNW Group,/news/summa-silver-drills-2-995-113500128.html,"Summa Silver Drills 2,995 g/t Silver Equivalent over 0.8 m at the Hughes Property, Nevada",SSVR.V
+PR Newswire,/news/summa-silver-drills-2-995-113500479.html,"Summa Silver Drills 2,995 g/t Silver Equivalent over 0.8 m at the Hughes Property, Nevada",SSVR.V
 Simply Wall St.,/news/sun-peak-metals-cve-peak-135804922.html,Sun Peak Metals (CVE:PEAK) Is In A Good Position To Deliver On Growth Plans,PEAK.V
 ACCESSWIRE,/news/sun-peak-metals-corp-listed-220000756.html,Sun Peak Metals Corp Listed on OTCQB,PEAK.V
 CNW Group,/news/harborside-inc-reports-second-quarter-134100110.html,"Telefónica, Telefônica Brasil and CDPQ Create FiBrasil, a Neutral Fibre Wholesale Network Provider in Brazil",PEAK.V
@@ -5599,8 +5577,8 @@ ACCESSWIRE,/news/aduro-clean-technologies-inc-announces-113000864.html,Aduro Cle
 Newsfile,/news/advantagewon-announces-proposed-acquisition-vivo-235000361.html,Advantagewon Announces Proposed Acquisition of Vivo Cubes,AOC.CN
 Newsfile,/news/advantagewon-oil-corp-rebrands-starvolt-120000671.html,Advantagewon Oil Corp. Rebrands to StarVolt Innovations Corp. and Appoints Global Logistics Expert Carlos Brasil as Chief Executive Officer,AOC.CN
 Newsfile,/news/advantagewon-oil-announces-acquisition-minority-184700784.html,Advantagewon Oil Announces Acquisition of Minority Interest in Starvolt,AOC.CN
-CNW Group,/news/advantex-announces-fiscal-2021-first-174400305.html,Advantex Announces Fiscal 2021 First Quarter Results,ADX.CN
 CNW Group,/news/advantex-announces-fiscal-2020-results-174400922.html,Advantex Announces Fiscal 2020 Results,ADX.CN
+CNW Group,/news/advantex-announces-fiscal-2021-first-174400305.html,Advantex Announces Fiscal 2021 First Quarter Results,ADX.CN
 CNW Group,/news/advantex-announces-fiscal-2021-second-174300923.html,Advantex Announces Fiscal 2021 Second Quarter Results,ADX.CN
 CNW Group,/news/maitri-health-launches-canadian-made-110000151.html,The Prime Minister announces changes in the senior ranks of the Public Service,ATHR.CN
 Newsfile,/news/aether-catalyst-solutions-inc-announces-130000464.html,"Aether Catalyst Solutions, Inc. Announces the City of Burnaby Joining Urban Small Motors Emissions Abatement Project",ATHR.CN
@@ -5615,7 +5593,7 @@ ACCESSWIRE,/news/ai-ml-innovations-inc-announces-113000107.html,AI/ML Innovation
 ACCESSWIRE,/news/ai-ml-innovations-inc-announces-171500391.html,AI/ML Innovations Inc. Announces Annual General Meeting Results,AIML.CN
 ACCESSWIRE,/news/ai-ml-innovations-inc-announces-172000583.html,AI/ML Innovations Inc. Announces Annual General Meeting,AIML.CN
 CNW Group,/news/combined-apollon-aion-formulations-kill-150200033.html,Combined Apollon and Aion Formulations Kill Breast Cancer Cells Through Multiple Pathways,AION.CN
-CNW Group,/news/aion-therapeutics-proprietary-mushroom-preparations-131500897.html,Aion Therapeutic's Proprietary Mushroom Preparations Shown Effective in Killing Breast Cancer Cells,AION.CN
+PR Newswire,/news/aion-therapeutics-proprietary-mushroom-preparations-131500020.html,Aion Therapeutic's Proprietary Mushroom Preparations Shown Effective in Killing Breast Cancer Cells,AION.CN
 CNW Group,/news/aion-therapeutic-engages-kcsa-strategic-132500380.html,Aion Therapeutic Engages KCSA Strategic Communications as Corporate Communications Counsel,AION.CN
 ACCESSWIRE,/news/urban-one-inc-host-earnings-121500130.html,"Urban One, Inc. to Host Earnings Call",AJN.CN
 PR Newswire,/news/urban-one-inc-reports-first-104500275.html,"Urban One, Inc. Reports First Quarter Results",AJN.CN
@@ -5714,7 +5692,7 @@ CNW Group,/news/bhang-granted-management-cease-trade-012700487.html,Bhang Grante
 CNW Group,/news/bhang-reports-delay-filing-2020-225100772.html,Bhang Reports Delay in Filing 2020 Annual Financial Statements,BHNG.CN
 PR Newswire,/news/crypto-digital-currency-company-investor-123500189.html,Crypto & Digital Currency Company Investor Presentations Now Available for On-Demand Viewing,BIGG.CN
 ACCESSWIRE,/news/transmission-netcoins-ca-reacts-bank-130000624.html,RE-TRANSMISSION: Netcoins.ca Reacts to Bank of England Governor Andrew Bailey Scare Tactics over Bitcoin,BIGG.CN
-PR Newswire,/news/bigg-digital-assets-inc-webcast-123500058.html,BIGG Digital Assets Inc. to Webcast Live at VirtualInvestorConferences.com May 20th,BIGG.CN
+CNW Group,/news/crypto-digital-currency-live-virtual-123500721.html,Crypto and Digital Currency Live Virtual Investor Conference: Companies Present on May 20th,BIGG.CN
 Newsfile,/news/biocurepharm-korea-bpk-signs-mou-140000575.html,"BiocurePharm, Korea (BPK) Signs MOU With Symbasis GmbH to Develop CAR-T Therapy for Chronic Lymphocyte Leukemia (CLL)",CURE.CN
 Newsfile,/news/biocurepharm-korea-bpk-announces-submission-140000323.html,"BiocurePharm, Korea (""BPK"") Announces the Submission of IND Application for Phase 1 Trial of CD19 CAR-T Therapy",CURE.CN
 Newsfile,/news/biocure-technology-inc-announces-closing-155300387.html,BioCure Technology Inc. Announces Closing of Financing,CURE.CN
@@ -5960,7 +5938,7 @@ GlobeNewswire,/news/deer-horn-provides-more-information-123000357.html,Deer Horn
 Newsfile,/news/defence-therapeutics-accuvac-d001-cancer-073000625.html,Defence Therapeutics AccuVAC-D001 Cancer Vaccine Generates Effective Long-lasting Anti-Tumoral Response,DTC.CN
 CNW Group,/news/leading-psychedelic-wellness-platform-delic-123000671.html,"Leading Psychedelic Wellness Platform, Delic, Completes Acquisition of Complex Biotech Discovery Ventures Ltd.",DELC.CN
 PR Newswire,/news/delics-acquisition-target-complex-biotech-123000686.html,"Delic's Acquisition Target, Complex Biotech Discovery Ventures Ltd., Announces Closing of Non-Brokered Private Placement",DELC.CN
-CNW Group,/news/delics-acquisition-target-ketamine-infusion-123000714.html,"Delic's Acquisition Target, Ketamine Infusion Centers, Announces Proposal to Acquire 2 Additional Clinic Locations",DELC.CN
+PR Newswire,/news/delics-acquisition-target-ketamine-infusion-123000356.html,"Delic's Acquisition Target, Ketamine Infusion Centers, Announces Proposal to Acquire 2 Additional Clinic Locations",DELC.CN
 ACCESSWIRE,/news/digicrypts-blockchain-solutions-changes-name-125000701.html,DigiCrypts Blockchain Solutions Changes Name to DigiMax Global Inc.,DIGI.CN
 ACCESSWIRE,/news/digimax-completes-acquisition-barberton-fund-130500121.html,DigiMax Completes Acquisition of Barberton Fund - Expects to Launch Crypto Trading Fund in August 2021,DIGI.CN
 ACCESSWIRE,/news/digimax-acquires-crypto-division-delphi-202000817.html,DigiMax Acquires Crypto Division of Delphi Analytics to Increase AI Depth and Expand its Predictive Solutions,DIGI.CN
@@ -6224,7 +6202,7 @@ Newsfile,/news/investmentpitch-media-video-discusses-hawkmoon-131500247.html,Inv
 CNW Group,/news/healthspace-announces-contracts-el-paso-123000200.html,"HealthSpace Announces Contracts with El Paso County, CO, Multnomah County OR, Grey Bruce, Ontario, Jackson County, MO.",HS.CN
 CNW Group,/news/healthspace-data-systems-announces-planned-123000892.html,HealthSpace Data Systems Announces Planned Launch of GovCall: a Video and Audio Communications Platform for Enabling Telegov,HS.CN
 CNW Group,/news/rockwool-introduces-prorox-mat-wrap-133000272.html,TSX Venture Exchange Stock Maintenance Bulletins,HS.CN
-PR Newswire,/news/hello-pal-acquires-dogecoin-miner-120000488.html,Hello Pal Acquires Dogecoin Miner Crypto Pal,HP.CN
+CNW Group,/news/hello-pal-acquires-dogecoin-miner-120000190.html,Hello Pal Acquires Dogecoin Miner Crypto Pal,HP.CN
 CNW Group,/news/hello-pal-announces-release-escrowed-190000077.html,Hello Pal Announces Release of Escrowed Funds and Automatic Exercise of Subscription Receipts into Common Shares and Warrants and Closing of Cryptocurrency Mining Rig Acquisition,HP.CN
 CNW Group,/news/hello-pal-announces-2-494-120000005.html,Hello Pal Announces $2.494 Million Monthly Revenue for April 2021,HP.CN
 CNW Group,/news/iiroc-trade-resumption-hfh-145900551.html,IIROC Trade Resumption - HFH,HFH.CN
@@ -6347,7 +6325,7 @@ ACCESSWIRE,/news/global-technologies-closes-oversubscribed-1-070300875.html,"Lin
 ACCESSWIRE,/news/global-technologies-arranges-1-500-070300874.html,"Link Global Technologies Arranges $1,500,000 Non-Brokered Private Placement Offering",LNK.CN
 ACCESSWIRE,/news/multi-platinum-rapper-jeezy-partnership-120000672.html,"Multi-Platinum Rapper, Jeezy, In Partnership with Oasis Digital Studios, Releases His Iconic Snowman Logo as AR-Enhanced NFTs",LQID.CN
 ACCESSWIRE,/news/liquid-avatar-presents-digital-wallets-124500285.html,Liquid Avatar Presents Digital Wallets & Verifiable Credentials - The Future of Online Identity Live Online Webinar Today at 12pm EST,LQID.CN
-ACCESSWIRE,/news/world-renowned-artist-may-pang-120000118.html,"World-Renowned Artist May Pang Presents John Lennon’s Lost Weekend Experience, The ""Walls and Bridges"" NFT Collection, in Partnership with McCartney Multimedia and Oasis Digital Studios",LQID.CN
+CNW Group,/news/world-renowned-artist-may-pang-120000428.html,"World-Renowned Artist May Pang Presents John Lennon's Lost Weekend Experience, The ""Walls and Bridges"" NFT Collection, in Partnership with McCartney Multimedia and Oasis Digital Studios",LQID.CN
 Newsfile,/news/lobe-sciences-secures-production-supply-124500561.html,Lobe Sciences Secures Production and Supply Agreement for Vitamind Consumer Packaged Goods Products,LOBE.CN
 Newsfile,/news/lobe-sciences-invites-join-us-120000815.html,Lobe Sciences Invites You to Join Us at the Q2 Virtual Investor Summit,LOBE.CN
 Newsfile,/news/lobe-sciences-present-benzinga-global-123000560.html,Lobe Sciences to Present at the Benzinga Global Small Cap Conference,LOBE.CN
@@ -6604,7 +6582,7 @@ CNW Group,/news/plantfuel-signs-agreement-leading-clinical-130000050.html,PlantF
 CNW Group,/news/gnc-launch-plantfuel-breakthrough-premium-125500027.html,"GNC to Launch PlantFuel® breakthrough, premium plant-based nutritional supplement brand",FUEL.CN
 CNW Group,/news/plantx-completes-acquisition-mkcs-plant-123000753.html,"PlantX Completes Acquisition of MKC's Plant-Based Deli, LLC",VEGA.CN
 PR Newswire,/news/plantx-announces-launch-first-set-123000078.html,PlantX Announces the Launch of Its First Set of Products on Hudson's Bay Marketplace,VEGA.CN
-CNW Group,/news/plantx-announces-indoor-plant-warehouse-123000156.html,PlantX Announces New Indoor Plant Warehouse in Squamish,VEGA.CN
+PR Newswire,/news/plantx-announces-indoor-plant-warehouse-123000543.html,PlantX Announces New Indoor Plant Warehouse in Squamish,VEGA.CN
 GlobeNewswire,/news/platinex-announces-technical-members-team-121000265.html,Platinex Announces New Technical Members to the Team,PTX.CN
 GlobeNewswire,/news/platinex-announces-drilling-provides-project-124900192.html,Platinex Announces Drilling and Provides Project Update at Shining Tree,PTX.CN
 GlobeNewswire,/news/platinex-announces-director-retirement-appointment-130900991.html,Platinex Announces Director Retirement and Appointment of Frank Hoegel To Finance Advisory Committee,PTX.CN
@@ -6717,8 +6695,8 @@ ACCESSWIRE,/news/rockland-resources-board-appointment-sets-224500101.html,Rockla
 ACCESSWIRE,/news/rockland-resources-closes-private-placement-223500931.html,Rockland Resources Closes Private Placement,RKL.CN
 Newsfile,/news/rockshield-capital-announces-renewal-normal-110000823.html,Rockshield Capital Announces Renewal of Normal Course Issuer Bid,RKS.CN
 Newsfile,/news/rockshield-enters-binding-loi-acquire-121200596.html,Rockshield Enters Binding LOI to Acquire Three Plant-Based Companies,RKS.CN
-CNW Group,/news/nexe-rritual-sign-deal-collaborate-123000803.html,NEXE and Rritual Sign Deal to Collaborate on New Superfoods Products in NEXE Compostable Pods,RSF.CN
 PR Newswire,/news/rritual-nexe-sign-letter-intent-123000987.html,Rritual and NEXE Sign Letter of Intent to Pursue Strategic Alliance for Compostable Superfood Products,RSF.CN
+PR Newswire,/news/nexe-rritual-sign-deal-collaborate-123000089.html,NEXE and Rritual Sign Deal to Collaborate on New Superfoods Products in NEXE Compostable Pods,RSF.CN
 CNW Group,/news/rritual-superfoods-initiates-canadian-retail-110000711.html,Rritual Superfoods Initiates Canadian Retail Growth Strategy Signing with Ultimate Sales Canada,RSF.CN
 GlobeNewswire,/news/ryah-medtech-inc-ships-devices-120000748.html,RYAH Medtech Inc. Ships Devices for Use in Pilot Study with CLINN Medical Center,RYAH.CN
 GlobeNewswire,/news/ryah-medtech-inc-signs-exclusive-120000400.html,RYAH Medtech Inc. Signs Exclusive Distribution Agreement and Software Development Agreement with DelleD SAS in France,RYAH.CN
@@ -6984,7 +6962,7 @@ PR Newswire,/news/statement-vireo-health-expansion-minnesotas-120200366.html,Sta
 PR Newswire,/news/vireo-health-host-virtual-investor-120200195.html,Vireo Health to Host Virtual Investor Day Events on June 8th and June 9th,VREO.CN
 PR Newswire,/news/vireo-health-announces-first-quarter-110200645.html,Vireo Health Announces First Quarter 2021 Financial Results,VREO.CN
 Newsfile,/news/volatus-acquires-belle-property-heart-130000032.html,Volatus Acquires Belle Property in the Heart of the JD Project and The More Creek Project in the Golden Triangle BC,VC.CN
-PR Newswire,/news/voyager-digital-joins-blockchain-association-120000278.html,Voyager Digital Joins The Blockchain Association,VYGR.CN
+CNW Group,/news/voyager-digital-joins-blockchain-association-120000757.html,Voyager Digital Joins The Blockchain Association,VYGR.CN
 PR Newswire,/news/voyager-digital-reports-record-revenues-200500865.html,Voyager Digital Reports Record Revenues of US$60 Million with a 50% Operating Margin Generating an Operating Profit of $30 Million for the Fiscal Third Quarter,VYGR.CN
 CNW Group,/news/iiroc-trade-resumption-vygr-192400854.html,IIROC Trade Resumption - VYGR,VYGR.CN
 GlobeNewswire,/news/voyageur-mineral-explorers-corp-results-110000456.html,Voyageur Mineral Explorers Corp.: Results of Early Warrant Exercise Program,VOY.CN
