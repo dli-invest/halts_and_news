@@ -1,4 +1,6 @@
 Halts,Listing
+"Jun 1, 2021IIROC Trading Halt - VEGN",VEGN
+"Jun 1, 2021IIROC Trade Resumption - EMER",EMER
 "Jun 1, 2021IIROC Trade Resumption - FUTR",FUTR
 "Jun 1, 2021IIROC Trade Resumption - MPXI",MPXI
 "Jun 1, 2021IIROC Trading Halt - MPXI",MPXI
@@ -22,5 +24,3 @@ Halts,Listing
 "May 28, 2021IIROC Trading Resumption - HAKK.P",HAKK.P
 "May 28, 2021IIROC Trading Resumption - VCC.P",VCC.P
 "May 28, 2021IIROC Trade Resumption - AI.DB.B",AI.DB.B
-"May 28, 2021IIROC Trading Halt - AI.DB.B",AI.DB.B
-"May 28, 2021IIROC Trading Resumption - GIII",GIII
