@@ -1,4 +1,7 @@
 Halts,Listing
+"Jun 3, 2021IIROC Trading Halt - BCT",BCT
+"Jun 3, 2021IIROC Trading Halt - MCC.P",MCC.P
+"Jun 3, 2021IIROC Trading Halt - MCC.P",MCC.P
 "Jun 2, 2021IIROC Trade Resumption - GRHK",GRHK
 "Jun 2, 2021IIROC Trading Resumption - PMKR",PMKR
 "Jun 2, 2021IIROC Trading Resumption - RLT.P",RLT.P
@@ -21,6 +24,3 @@ Halts,Listing
 "Jun 1, 2021IIROC Trade Resumption - PPL",PPL
 "Jun 1, 2021IIROC Trading Halt - IPL",IPL
 "Jun 1, 2021IIROC Trading Halt - PPL",PPL
-"Jun 1, 2021/C O R R E C T I O N from Source -- Investment Industry Regulatory Organization of Canada (IIROC) - Halts/Resumptions/",Halts/Resumptions/
-"May 31, 2021IIROC Trading Resumption - GIP",GIP
-"May 31, 2021IIROC Trading Resumption - MSLV",MSLV
