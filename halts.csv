@@ -1,4 +1,9 @@
 Halts,Listing
+"Jun 7, 2021IIROC Trade Resumption - EXF",EXF
+"Jun 7, 2021IIROC Trading Halt - EXF",EXF
+"Jun 7, 2021IIROC Trading Halt - LBL",LBL
+"Jun 7, 2021IIROC Trading Halt - HMT",HMT
+"Jun 7, 2021IIROC Trading Halt - HAND",HAND
 "Jun 4, 2021IIROC Trade Resumption - VEGA",VEGA
 "Jun 4, 2021IIROC Trading Halt - VEGA",VEGA
 "Jun 4, 2021IIROC Trading Resumption - ISD",ISD
@@ -19,8 +24,3 @@ Halts,Listing
 "Jun 3, 2021IIROC Trading Halt - GTT",GTT
 "Jun 3, 2021IIROC Trade Resumption - LGT.A",LGT.A
 "Jun 3, 2021IIROC Trading Resumption - BCT",BCT
-"Jun 3, 2021IIROC Trading Halt - LGT.A",LGT.A
-"Jun 3, 2021IIROC Trading Halt - BCT",BCT
-"Jun 3, 2021IIROC Trading Halt - MCC.P",MCC.P
-"Jun 3, 2021IIROC Trading Halt - MCC.P",MCC.P
-"Jun 2, 2021IIROC Trade Resumption - GRHK",GRHK
