@@ -1,4 +1,7 @@
 Halts,Listing
+"Jun 8, 2021IIROC Trade Resumption - MEND",MEND
+"Jun 8, 2021IIROC Trading Resumption - SGMD",SGMD
+"Jun 8, 2021IIROC Trading Halt - VPH",VPH
 "Jun 8, 2021IIROC Trade Resumption - IKNK.U",IKNK.U
 "Jun 8, 2021IIROC Trading Resumption - CTM",CTM
 "Jun 8, 2021IIROC Trade Resumption - BCA",BCA
@@ -21,6 +24,3 @@ Halts,Listing
 "Jun 4, 2021IIROC Trading Resumption - ISD",ISD
 "Jun 4, 2021IIROC Trading Halt - ADK",ADK
 "Jun 4, 2021IIROC Trading Halt - Enter Symbol(s) Here",Here
-"Jun 4, 2021IIROC Trade Resumption - DBM",DBM
-"Jun 4, 2021IIROC Trading Halt - DBM",DBM
-"Jun 3, 2021IIROC Trading Resumption - OWN",OWN
