@@ -1,4 +1,9 @@
 Halts,Listing
+"Jun 9, 2021IIROC Trading Halt - DCX.P",DCX.P
+"Jun 9, 2021IIROC Trading Resumption - INFD",INFD
+"Jun 9, 2021IIROC Trading Resumption - BRCB.P",BRCB.P
+"Jun 9, 2021IIROC Trading Halt - TAU",TAU
+"Jun 9, 2021IIROC Trading Halt - ALY",ALY
 "Jun 9, 2021IIROC Trade Resumption - NWC",NWC
 "Jun 9, 2021IIROC Trading Halt - NWC",NWC
 "Jun 9, 2021IIROC Trading Resumption - CANS",CANS
@@ -19,8 +24,3 @@ Halts,Listing
 "Jun 8, 2021IIROC Trading Halt - CTM",CTM
 "Jun 8, 2021IIROC Trading Halt - BCA",BCA
 "Jun 8, 2021IIROC Trading Halt - MEND",MEND
-"Jun 8, 2021IIROC Trading Halt - BRCB.P",BRCB.P
-"Jun 8, 2021IIROC Trade Resumption - MHC.U",MHC.U
-"Jun 7, 2021IIROC Trade Resumption - YUM",YUM
-"Jun 7, 2021IIROC Trade Resumption - PYR",PYR
-"Jun 7, 2021IIROC Trading Halt - MHC.U",MHC.U
