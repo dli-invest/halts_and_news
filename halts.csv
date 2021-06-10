@@ -1,4 +1,7 @@
 Halts,Listing
+"Jun 10, 2021IIROC Trading Resumption - RLV",RLV
+"Jun 10, 2021IIROC Trading Resumption - TAU",TAU
+"Jun 10, 2021IIROC Trading Halt - PLAY",PLAY
 "Jun 9, 2021IIROC Trading Halt - DCX.P",DCX.P
 "Jun 9, 2021IIROC Trading Resumption - INFD",INFD
 "Jun 9, 2021IIROC Trading Resumption - BRCB.P",BRCB.P
@@ -21,6 +24,3 @@ Halts,Listing
 "Jun 8, 2021IIROC Trade Resumption - IKNK.U",IKNK.U
 "Jun 8, 2021IIROC Trading Resumption - CTM",CTM
 "Jun 8, 2021IIROC Trade Resumption - BCA",BCA
-"Jun 8, 2021IIROC Trading Halt - CTM",CTM
-"Jun 8, 2021IIROC Trading Halt - BCA",BCA
-"Jun 8, 2021IIROC Trading Halt - MEND",MEND
