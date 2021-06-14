@@ -1,4 +1,7 @@
 Halts,Listing
+"Jun 14, 2021IIROC Trade Resumption - ESNR",ESNR
+"Jun 14, 2021IIROC Trading Halt - SIZE",SIZE
+"Jun 14, 2021IIROC Trading Halt - DSM",DSM
 "Jun 14, 2021IIROC Trading Halt - AVCN",AVCN
 "Jun 14, 2021IIROC Trading Halt - RENT.P",RENT.P
 "Jun 14, 2021IIROC Trading Halt - VALU",VALU
@@ -21,6 +24,3 @@ Halts,Listing
 "Jun 10, 2021IIROC Trading Resumption - TAU",TAU
 "Jun 10, 2021IIROC Trading Halt - PLAY",PLAY
 "Jun 9, 2021IIROC Trading Halt - DCX.P",DCX.P
-"Jun 9, 2021IIROC Trading Resumption - INFD",INFD
-"Jun 9, 2021IIROC Trading Resumption - BRCB.P",BRCB.P
-"Jun 9, 2021IIROC Trading Halt - TAU",TAU
