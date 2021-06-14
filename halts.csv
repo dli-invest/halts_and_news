@@ -1,4 +1,6 @@
 Halts,Listing
+"Jun 14, 2021IIROC Trading Halt - GURU",GURU
+"Jun 14, 2021IIROC Trading Halt - GDV",GDV
 "Jun 14, 2021IIROC Trade Resumption - CFE",CFE
 "Jun 14, 2021IIROC Trading Halt - CFE",CFE
 "Jun 14, 2021IIROC Trade Resumption - SIZE",SIZE
@@ -22,5 +24,3 @@ Halts,Listing
 "Jun 10, 2021IIROC Trading Halt - NVCN",NVCN
 "Jun 10, 2021IIROC Trading Halt - ESNR",ESNR
 "Jun 10, 2021IIROC Trading Resumption - ALY",ALY
-"Jun 10, 2021IIROC Trade Resumption - PLAY",PLAY
-"Jun 10, 2021IIROC Trading Resumption - RLV",RLV
