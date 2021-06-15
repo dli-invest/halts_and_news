@@ -1,6 +1,12 @@
 Halts,Listing
+"Jun 15, 2021IIROC Trading Halt - HSTR",HSTR
+"Jun 15, 2021IIROC Trade Resumption - ESM",ESM
+"Jun 15, 2021IIROC Trading Halt - ESNR",ESNR
+"Jun 15, 2021IIROC Trade Resumption - SOLV",SOLV
+"Jun 15, 2021IIROC Trade Resumption - HUT.WT.A",HUT.WT.A
+"Jun 15, 2021IIROC Trading Halt - SOLV",SOLV
 "Jun 15, 2021IIROC Trade Resumption - FORA",FORA
-"Jun 15, 2021IIROC Trading Halt - FORA",FORA
+"Jun 15, 2021/C O R R E C T I O N from Source -- Investment Industry Regulatory Organization of Canada (IIROC) - Halts/Resumptions/",Halts/Resumptions/
 "Jun 15, 2021IIROC Trading Halt - HUT.WT.A",HUT.WT.A
 "Jun 15, 2021IIROC Trade Resumption - GURU",GURU
 "Jun 15, 2021IIROC Trading Halt - ESM",ESM
@@ -18,9 +24,3 @@ Halts,Listing
 "Jun 14, 2021IIROC Trading Halt - SIZE",SIZE
 "Jun 14, 2021IIROC Trading Halt - DSM",DSM
 "Jun 14, 2021IIROC Trading Halt - AVCN",AVCN
-"Jun 14, 2021IIROC Trading Halt - RENT.P",RENT.P
-"Jun 14, 2021IIROC Trading Halt - VALU",VALU
-"Jun 14, 2021IIROC Trading Halt - YVR.P",YVR.P
-"Jun 14, 2021IIROC Trading Halt - ECCT.P",ECCT.P
-"Jun 11, 2021IIROC Trade Resumption - SONA",SONA
-"Jun 11, 2021IIROC Trading Resumption - MGG",MGG
