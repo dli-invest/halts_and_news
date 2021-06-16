@@ -1,4 +1,6 @@
 Halts,Listing
+"Jun 16, 2021IIROC Trading Halt - STCK",STCK
+"Jun 16, 2021IIROC Trading Halt - FAIR",FAIR
 "Jun 15, 2021IIROC Trading Resumption - ECCT.P",ECCT.P
 "Jun 15, 2021IIROC Trading Halt - PHI",PHI
 "Jun 15, 2021IIROC Trading Resumption - YVR.P",YVR.P
@@ -22,5 +24,3 @@ Halts,Listing
 "Jun 15, 2021IIROC Trading Halt - SSX.P",SSX.P
 "Jun 14, 2021IIROC Trading Halt - GURU",GURU
 "Jun 14, 2021IIROC Trading Halt - GDV",GDV
-"Jun 14, 2021IIROC Trade Resumption - CFE",CFE
-"Jun 14, 2021IIROC Trading Halt - CFE",CFE
