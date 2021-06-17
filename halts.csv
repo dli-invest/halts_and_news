@@ -1,4 +1,10 @@
 Halts,Listing
+"Jun 17, 2021IIROC Trading Resumption - DSM",DSM
+"Jun 17, 2021IIROC Trading Halt - GBC",GBC
+"Jun 17, 2021IIROC Trading Halt - ORO",ORO
+"Jun 17, 2021IIROC Trading Halt - ADCO.WT",ADCO.WT
+"Jun 17, 2021IIROC Trading Halt - XYZ.P",XYZ.P
+"Jun 16, 2021IIROC Trading Resumption - CPC.P",CPC.P
 "Jun 16, 2021IIROC Trading Resumption - PHC",PHC
 "Jun 16, 2021IIROC Trading Resumption - YVI",YVI
 "Jun 16, 2021IIROC Trading Resumption - SSX.P",SSX.P
@@ -18,9 +24,3 @@ Halts,Listing
 "Jun 16, 2021IIROC Trading Halt - STCK",STCK
 "Jun 16, 2021IIROC Trading Halt - FAIR",FAIR
 "Jun 15, 2021IIROC Trading Resumption - ECCT.P",ECCT.P
-"Jun 15, 2021IIROC Trading Halt - PHI",PHI
-"Jun 15, 2021IIROC Trading Resumption - YVR.P",YVR.P
-"Jun 15, 2021IIROC Trading Halt - VERY",VERY
-"Jun 15, 2021IIROC Trade Resumption - ESNR",ESNR
-"Jun 15, 2021IIROC Trading Halt - HSTR",HSTR
-"Jun 15, 2021IIROC Trade Resumption - ESM",ESM
