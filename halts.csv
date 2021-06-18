@@ -1,4 +1,9 @@
 Halts,Listing
+"Jun 18, 2021IIROC Trading Resumption - ORO",ORO
+"Jun 18, 2021IIROC Trading Halt - EAT",EAT
+"Jun 18, 2021IIROC Trading Halt - ANRG",ANRG
+"Jun 18, 2021IIROC Trading Halt - CCCA.P",CCCA.P
+"Jun 18, 2021IIROC Trading Halt - AVX",AVX
 "Jun 17, 2021IIROC Trading Resumption - EQG",EQG
 "Jun 17, 2021IIROC Trading Resumption - BITF",BITF
 "Jun 17, 2021IIROC Trading Halt - BITF",BITF
@@ -19,8 +24,3 @@ Halts,Listing
 "Jun 16, 2021IIROC Trading Resumption - ECCF.P",ECCF.P
 "Jun 16, 2021IIROC Trade Resumption - GTOO",GTOO
 "Jun 16, 2021IIROC Trading Halt - MUSH",MUSH
-"Jun 16, 2021IIROC Trade Resumption - EXF",EXF
-"Jun 16, 2021IIROC Trading Halt - GTOO",GTOO
-"Jun 16, 2021IIROC Trading Halt - EXF",EXF
-"Jun 16, 2021IIROC Trading Halt - QUIS.WT",QUIS.WT
-"Jun 16, 2021IIROC Trading Resumption - FCO",FCO
