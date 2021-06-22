@@ -1,4 +1,7 @@
 Halts,Listing
+"Jun 22, 2021IIROC Trading Halt - AZM",AZM
+"Jun 22, 2021IIROC Trading Halt - AGR.UN",AGR.UN
+"Jun 22, 2021IIROC Trade Resumption - EIT.UN",EIT.UN
 "Jun 21, 2021IIROC Trading Resumption - FAIR",FAIR
 "Jun 21, 2021IIROC Trading Resumption - PCL.P",PCL.P
 "Jun 21, 2021IIROC Trading Resumption - CEBI",CEBI
@@ -21,6 +24,3 @@ Halts,Listing
 "Jun 18, 2021IIROC Trading Resumption - WEB",WEB
 "Jun 18, 2021IIROC Trade Resumption - ANRG",ANRG
 "Jun 18, 2021IIROC Trading Resumption - ORO",ORO
-"Jun 18, 2021IIROC Trading Halt - EAT",EAT
-"Jun 18, 2021IIROC Trading Halt - ANRG",ANRG
-"Jun 18, 2021IIROC Trading Halt - CCCA.P",CCCA.P
