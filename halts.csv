@@ -1,4 +1,7 @@
 Halts,Listing
+"Jun 22, 2021IIROC Trading Halt - BTR",BTR
+"Jun 22, 2021IIROC Trading Resumption - AZM",AZM
+"Jun 22, 2021IIROC Trade Resumption - AGR.UN",AGR.UN
 "Jun 22, 2021IIROC Trading Halt - AZM",AZM
 "Jun 22, 2021IIROC Trading Halt - AGR.UN",AGR.UN
 "Jun 22, 2021IIROC Trade Resumption - EIT.UN",EIT.UN
@@ -21,6 +24,3 @@ Halts,Listing
 "Jun 21, 2021IIROC Trading Halt - ELY",ELY
 "Jun 21, 2021IIROC Trading Halt - AX.UN",AX.UN
 "Jun 18, 2021IIROC Trading Resumption - CRI",CRI
-"Jun 18, 2021IIROC Trading Resumption - WEB",WEB
-"Jun 18, 2021IIROC Trade Resumption - ANRG",ANRG
-"Jun 18, 2021IIROC Trading Resumption - ORO",ORO
