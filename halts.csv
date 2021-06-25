@@ -1,4 +1,6 @@
 Halts,Listing
+"Jun 25, 2021IIROC Trading Halt - XMG.WT.C",XMG.WT.C
+"Jun 25, 2021IIROC Trading Halt - DBG",DBG
 "Jun 25, 2021IIROC Trade Resumption - VAI",VAI
 "Jun 25, 2021IIROC Trading Resumption - DSM",DSM
 "Jun 25, 2021IIROC Trade Resumption - FFN",FFN
@@ -22,5 +24,3 @@ Halts,Listing
 "Jun 23, 2021IIROC Trading Resumption - BTR",BTR
 "Jun 22, 2021IIROC Trading Halt - FANS",FANS
 "Jun 22, 2021IIROC Trading Resumption - DVX.P",DVX.P
-"Jun 22, 2021IIROC Trading Halt - BTR",BTR
-"Jun 22, 2021IIROC Trading Resumption - AZM",AZM
