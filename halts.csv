@@ -1,4 +1,6 @@
 Halts,Listing
+"Jun 28, 2021IIROC Trading Halt - MMAT",MMAT
+"Jun 28, 2021IIROC Trading Halt - MEND",MEND
 "Jun 25, 2021IIROC Trading Resumption - KEN",KEN
 "Jun 25, 2021IIROC Trade Resumption - PUSH",PUSH
 "Jun 25, 2021IIROC Trading Halt - LNK",LNK
@@ -22,5 +24,3 @@ Halts,Listing
 "Jun 23, 2021IIROC Trading Resumption - PAV.H",PAV.H
 "Jun 23, 2021IIROC Trade Resumption - FANS",FANS
 "Jun 23, 2021IIROC Trading Halt - DSM",DSM
-"Jun 23, 2021IIROC Trade Resumption - WPK",WPK
-"Jun 23, 2021IIROC Trading Halt - WPK",WPK
