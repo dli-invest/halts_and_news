@@ -1,4 +1,7 @@
 Halts,Listing
+"Jul 2, 2021IIROC Trading Halt - ESK",ESK
+"Jul 2, 2021IIROC Trade Resumption - MTEC",MTEC
+"Jul 2, 2021IIROC Trade Resumption - KNR",KNR
 "Jun 30, 2021IIROC Trading Resumption - GII.P",GII.P
 "Jun 30, 2021IIROC Trading Halt - KNR",KNR
 "Jun 30, 2021IIROC Trading Halt - GHL",GHL
@@ -21,6 +24,3 @@ Halts,Listing
 "Jun 29, 2021IIROC Trading Halt - TDG",TDG
 "Jun 28, 2021IIROC Trading Halt - BRND.A.U",BRND.A.U
 "Jun 28, 2021IIROC Trading Resumption - AGX",AGX
-"Jun 28, 2021IIROC Trading Halt - GPY",GPY
-"Jun 28, 2021IIROC Trading Halt - AZG",AZG
-"Jun 28, 2021IIROC Trading Resumption - NAU",NAU
