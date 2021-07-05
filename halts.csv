@@ -1,4 +1,6 @@
 Halts,Listing
+"Jul 5, 2021IIROC Trading Resumption - FMS",FMS
+"Jul 5, 2021IIROC Trading Halt - FMS",FMS
 "Jul 2, 2021IIROC Trading Resumption - NOW",NOW
 "Jul 2, 2021IIROC Trading Resumption - MEED.P",MEED.P
 "Jul 2, 2021IIROC Trading Resumption - SRI",SRI
@@ -22,5 +24,3 @@ Halts,Listing
 "Jun 29, 2021IIROC Trading Resumption - AMO",AMO
 "Jun 29, 2021IIROC Trading Halt - GCAP.P",GCAP.P
 "Jun 29, 2021IIROC Trading Resumption - AVX",AVX
-"Jun 29, 2021IIROC Trading Resumption - CAGR",CAGR
-"Jun 29, 2021IIROC Trade Resumption - NUR",NUR
