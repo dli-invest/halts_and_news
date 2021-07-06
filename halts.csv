@@ -1,4 +1,7 @@
 Halts,Listing
+"Jul 6, 2021IIROC Trading Halt - PUMA",PUMA
+"Jul 6, 2021IIROC Trading Resumption - DIA",DIA
+"Jul 6, 2021IIROC Trading Resumption - ADD",ADD
 "Jul 6, 2021IIROC Trade Resumption - LSPK",LSPK
 "Jul 6, 2021IIROC Trading Halt - ADD",ADD
 "Jul 6, 2021IIROC Trading Halt - DIA",DIA
@@ -21,6 +24,3 @@ Halts,Listing
 "Jul 2, 2021IIROC Trade Resumption - KNR",KNR
 "Jun 30, 2021IIROC Trading Resumption - GII.P",GII.P
 "Jun 30, 2021IIROC Trading Halt - KNR",KNR
-"Jun 30, 2021IIROC Trading Halt - GHL",GHL
-"Jun 30, 2021IIROC Trade Resumption - TLG.WT",TLG.WT
-"Jun 30, 2021IIROC Trading Halt - TLG.WT",TLG.WT
