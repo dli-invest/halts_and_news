@@ -1,4 +1,6 @@
 Halts,Listing
+"Jul 7, 2021IIROC Trading Halt - PKK",PKK
+"Jul 7, 2021IIROC Trading Resumption - PUMA",PUMA
 "Jul 7, 2021IIROC Trading Resumption - AZT",AZT
 "Jul 7, 2021IIROC Trading Halt - HHS",HHS
 "Jul 7, 2021IIROC Trading Halt - KING",KING
@@ -22,5 +24,3 @@ Halts,Listing
 "Jul 2, 2021IIROC Trading Resumption - NOW",NOW
 "Jul 2, 2021IIROC Trading Resumption - MEED.P",MEED.P
 "Jul 2, 2021IIROC Trading Resumption - SRI",SRI
-"Jul 2, 2021IIROC Trading Halt - SRI",SRI
-"Jul 2, 2021IIROC Trade Resumption - MEDA",MEDA
