@@ -1,4 +1,7 @@
 Halts,Listing
+"Jul 8, 2021IIROC Trading Halt - HRL",HRL
+"Jul 8, 2021IIROC Trading Halt - GYA",GYA
+"Jul 8, 2021IIROC Trade Resumption - YUMY",YUMY
 "Jul 8, 2021IIROC Trading Halt - FLT",FLT
 "Jul 8, 2021IIROC Trading Resumption - CRAN.P",CRAN.P
 "Jul 8, 2021IIROC Trading Halt - NILI",NILI
@@ -21,6 +24,3 @@ Halts,Listing
 "Jul 6, 2021IIROC Trading Halt - SRA",SRA
 "Jul 6, 2021IIROC Trading Halt - AZT",AZT
 "Jul 6, 2021IIROC Trading Halt - TTX",TTX
-"Jul 6, 2021IIROC Trading Halt - PUMA",PUMA
-"Jul 6, 2021IIROC Trading Resumption - DIA",DIA
-"Jul 6, 2021IIROC Trading Resumption - ADD",ADD
