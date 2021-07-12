@@ -1,4 +1,7 @@
 Halts,Listing
+"Jul 12, 2021IIROC Trading Halt - MMO.H",MMO.H
+"Jul 12, 2021IIROC Trading Halt - RPC",RPC
+"Jul 12, 2021IIROC Trading Halt - BRCK.U",BRCK.U
 "Jul 9, 2021IIROC Trading Halt - JET",JET
 "Jul 9, 2021IIROC Trading Resumption - MRVL",MRVL
 "Jul 9, 2021IIROC Trading Resumption - FLT",FLT
@@ -21,6 +24,3 @@ Halts,Listing
 "Jul 7, 2021IIROC Trade Resumption - TTX",TTX
 "Jul 7, 2021IIROC Trade Resumption - PKK",PKK
 "Jul 7, 2021IIROC Trading Halt - PKK",PKK
-"Jul 7, 2021IIROC Trading Resumption - PUMA",PUMA
-"Jul 7, 2021IIROC Trading Resumption - AZT",AZT
-"Jul 7, 2021IIROC Trading Halt - HHS",HHS
