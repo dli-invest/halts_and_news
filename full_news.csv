@@ -39,6 +39,8 @@ Business Wire,/news/arc-resources-closes-strategic-montney-115800969.html,ARC Re
 CNW Group,/news/p-dow-jones-indices-announces-211500741.html,S&P Dow Jones Indices Announces Changes to the S&P/TSX Composite Index,ARX.TO
 Simply Wall St.,/news/kind-shareholders-hold-majority-arc-095417183.html,What Kind Of Shareholders Hold The Majority In ARC Resources Ltd.'s (TSE:ARX) Shares?,ARX.TO
 CNW Group,/news/arc-resources-seven-generations-announce-213800713.html,ARC Resources and Seven Generations Announce Shareholder and Court Approval of Strategic Montney Combination,ARX.TO
+PR Newswire,/news/aritzia-reports-voting-results-2021-191600680.html,Aritzia Reports on Voting Results from the 2021 Annual General and Special Meeting of Shareholders,ATZ.TO
+CNW Group,/news/aritzia-release-first-quarter-fiscal-130000516.html,Aritzia to Release First Quarter Fiscal 2022 Financial Results,ATZ.TO
 PR Newswire,/news/aritzia-accelerates-expansion-mens-acquisition-233000537.html,Aritzia accelerates expansion into men's with acquisition of premium athletic wear brand Reigning Champ,ATZ.TO
 CNW Group,/news/aritzia-announces-closing-secondary-offering-124700531.html,Aritzia Announces Closing of Secondary Offering of Subordinate Voting Shares,ATZ.TO
 Simply Wall St.,/news/aritzia-inc-tse-atz-worth-070329380.html,Is Aritzia Inc. (TSE:ATZ) Worth CA$29.8 Based On Its Intrinsic Value?,ATZ.TO
@@ -47,8 +49,6 @@ SmarterAnalyst,/news/aritzia-4q-e-commerce-revenue-230211646.html,Aritzia 4Q E-C
 PR Newswire,/news/aritzia-reports-fourth-quarter-full-200100167.html,Aritzia Reports Fourth Quarter and Full Year Fiscal 2021 Results,ATZ.TO
 ACCESSWIRE,/news/aritzia-inc-host-earnings-call-183000369.html,"Aritzia, Inc. to Host Earnings Call",ATZ.TO
 CNW Group,/news/media-advisory-reminder-aritzia-fiscal-173500563.html,"MEDIA ADVISORY REMINDER - Aritzia Fiscal 2021 Q4 earnings release and webcast on Tuesday, May 11th",ATZ.TO
-Simply Wall St.,/news/aritzia-tse-atz-share-price-054314404.html,"The Aritzia (TSE:ATZ) Share Price Has Gained 137%, So Why Not Pay It Some Attention?",ATZ.TO
-PR Newswire,/news/aritzia-release-fourth-quarter-full-200100396.html,Aritzia to Release Fourth Quarter and Full Year Fiscal 2021 Financial Results,ATZ.TO
 Bloomberg,/news/banks-poised-13-dividend-boost-123943666.html,Banks Poised for 13% Dividend Boost When Canada Regulator Allows,BNS.TO
 Reuters,/news/dye-durham-appoint-jpmorgan-scotiabank-032735757.html,"Dye & Durham appoints JPMorgan, Scotiabank as advisers for strategic review",BNS.TO
 Reuters,/news/dye-durham-appoint-jpmorgan-scotiabank-032603577.html,"Dye & Durham appoint JPMorgan, Scotiabank advisers for strategic review",BNS.TO
@@ -149,6 +149,8 @@ Yahoo Finance,/news/redditors-wrong-on-amc-as-disney-and-other-studios-drive-sec
 SmarterAnalyst,/news/cineplex-1q-revenue-falls-85-150230124.html,Cineplex’s 1Q Revenue Falls 85% As Most Theaters Remain Closed; Shares Drop 5%,CGX.TO
 CNW Group,/news/cineplex-inc-reports-first-quarter-101500985.html,Cineplex Inc. Reports First Quarter Results,CGX.TO
 CNW Group,/news/cineplex-announces-change-annual-general-140000139.html,Cineplex Announces Change to its Annual General Meeting of Shareholders,CGX.TO
+Simply Wall St.,/news/converge-technology-solutions-corp-tse-055737778.html,Converge Technology Solutions Corp. (TSE:CTS) Shares Could Be 35% Below Their Intrinsic Value Estimate,CTS.TO
+CNW Group,/news/converge-technology-solutions-corp-named-123000365.html,Converge Technology Solutions Corp. Named Ingram Micro's 2021 Blue Series Partner of the Year and CORE Partner of the Year for North America,CTS.TO
 CNW Group,/news/converge-technology-solutions-corp-acquire-120600274.html,"Converge Technology Solutions Corp. To Acquire Vicom Infinity, Inc. and Infinity Systems Software, Inc.",CTS.TO
 PR Newswire,/news/converge-technology-solutions-corp-announces-120000443.html,Converge Technology Solutions Corp. Announces Board and Management Changes,CTS.TO
 CNW Group,/news/converge-technology-solutions-corp-announces-200000229.html,"Converge Technology Solutions Corp. Announces Acquisition of ExactlyIT, Inc.",CTS.TO
@@ -157,8 +159,6 @@ CNW Group,/news/converge-technology-solutions-corp-achieves-120000514.html,Conve
 CNW Group,/news/converge-technology-solutions-corp-announces-125000405.html,Converge Technology Solutions Corp. Announces Closing of Previously Announced Bought Deal Financing and Exercise of Over-Allotment Option,CTS.TO
 PR Newswire,/news/converge-technology-solutions-corp-named-140000369.html,Converge Technology Solutions Corp. Named #39 on CRN's 2021 Solution Provider 500 List,CTS.TO
 CNW Group,/news/converge-technology-solutions-corp-announces-134800027.html,Converge Technology Solutions Corp. Announces Upsize to Previously Announced Bought Deal Financing,CTS.TO
-CNW Group,/news/converge-technology-solutions-corp-announces-201800961.html,Converge Technology Solutions Corp. Announces $100 Million Bought Deal Financing,CTS.TO
-CNW Group,/news/converge-technology-solutions-corp-achieves-123000255.html,Converge Technology Solutions Corp. Achieves Diamond Partner Status with Palo Alto Networks,CTS.TO
 Oilprice.com,/news/world-most-exciting-oil-play-233000999.html,Update On World’s Most Exciting Oil Play: An Interview With Jim Granath,CPG.TO
 Zacks,/news/value-investors-buy-crescent-point-155003077.html,Should Value Investors Buy Crescent Point Energy (CPG) Stock?,CPG.TO
 PR Newswire,/news/crescent-point-releases-2021-sustainability-120000073.html,Crescent Point Releases 2021 Sustainability Report,CPG.TO
@@ -390,16 +390,6 @@ Newsfile,/news/talon-metals-reports-results-quarter-203400331.html,"Talon Metals
 Newsfile,/news/talon-metals-reports-more-high-113000168.html,Talon Metals Reports More High-Grade Massive Sulphide Intercepts Outside of the Resource Area at the Tamarack Nickel Project,TLO.TO
 Newsfile,/news/talon-metals-reports-excellent-grades-113000935.html,Talon Metals Reports Excellent Grades at Shallow Depths Extending 300 Meters Outside of the Tamarack Nickel Project's Resource Area,TLO.TO
 Newsfile,/news/talon-metals-unveils-platform-building-162400756.html,"Talon Metals Unveils Platform for Building a Domestic USA Supply Chain from Mine to Battery the ""Smart"" Way at the Tamarack Nickel Project",TLO.TO
-Bloomberg,/news/oil-edges-lower-rising-u-235054427.html,Oil Extends Drop With Rising U.S. Fuel Stockpiles Denting Rally,TRP.TO
-The Wall Street Journal,/m/bb892cef-8dc6-3eb8-885b-859a0f91638f/keystone-xl-oil-project.html,Keystone XL Oil Project Abandoned by Developer,TRP.TO
-Bloomberg,/news/keystone-xl-project-galvanized-climate-220704813.html,"Keystone Pipeline, Symbol to Oil’s Foes and Friends, Is Now Dead",TRP.TO
-MarketWatch,/m/e5fd2def-7393-38c9-bb03-d2b549dd207a/keystone-xl-pipeline-project.html,"Keystone XL pipeline project scuttled, in major win for environmentalists",TRP.TO
-GlobeNewswire,/news/tc-energy-confirms-termination-keystone-203000696.html,TC Energy confirms termination of Keystone XL Pipeline Project,TRP.TO
-Oilprice.com,/news/most-exciting-oil-gas-play-234500819.html,The Most Exciting Oil And Gas Play On The Planet? Interview with Bill Mooney,TRP.TO
-Oilprice.com,/news/world-most-exciting-oil-discovery-000000894.html,Is This The World’s Most Exciting Oil Discovery? An Interview With Craig Steinke,TRP.TO
-Simply Wall St.,/news/heres-tc-energys-tse-trp-101847857.html,Here's What To Make Of TC Energy's (TSE:TRP) Decelerating Rates Of Return,TRP.TO
-Zacks,/news/tc-energys-trp-stock-barely-171005738.html,TC Energy's (TRP) Stock Barely Moves Despite Q1 Earnings Beat,TRP.TO
-GlobeNewswire,/news/don-marchand-retire-chief-financial-113000965.html,Don Marchand to retire as Chief Financial Officer (CFO),TRP.TO
 Insider Monkey,/news/12-best-marijuana-stocks-invest-171148321.html,12 Best Marijuana Stocks to Invest In,TLRY.TO
 Benzinga,/news/week-cannabis-justice-clarence-thomas-210920990.html,"The Week In Cannabis: Justice Clarence Thomas, Mexico's Decriminalization, Apple's Policy Changes, Tilray And More",TLRY.TO
 Motley Fool,/m/2e82d326-7d95-3b82-8fe9-757b1e5d4c44/3-better-stocks-to-buy-than.html,3 Better Stocks to Buy Than Reddit Favorite Tilray,TLRY.TO
@@ -510,6 +500,8 @@ CNW Group,/news/drone-delivery-canada-selected-ubc-113000248.html,Drone Delivery
 Simply Wall St.,/news/heres-why-were-not-concerned-113732333.html,Here's Why We're Not At All Concerned With Drone Delivery Canada's (CVE:FLT) Cash Burn Situation,FLT.V
 CNW Group,/news/drone-delivery-canada-awarded-third-172700039.html,Drone Delivery Canada Awarded Third Patent for Its Proprietary Drone Delivery Solution,FLT.V
 CNW Group,/news/drone-delivery-canada-nominated-canadian-193000980.html,Drone Delivery Canada Nominated to Canadian Drone Advisory Committee (CanaDAC),FLT.V
+Business Wire,/news/live-selects-facedrive-tracescan-contact-120000334.html,TO Live Selects Facedrive’s TraceSCAN as a Contact Tracing Solution for Staff Members,FD.V
+GlobeNewswire,/news/satsuma-pharmaceuticals-present-svb-leerink-200100054.html,Satsuma Pharmaceuticals to Present at SVB Leerink’s CNS Forum,FD.V
 Business Wire,/news/facedrive-reports-record-revenues-q1-115900070.html,Facedrive Reports Record Revenues in Q1 2021,FD.V
 Business Wire,/news/facedrive-ecocred-app-piloted-department-115900697.html,"Facedrive’s EcoCRED App Piloted by the Department of Parks and Recreation in Prince George’s County, MD",FD.V
 Business Wire,/news/facedrive-steer-ev-subscription-launched-120000701.html,Facedrive’s Steer EV Subscription Service Launched in Toronto,FD.V
@@ -518,8 +510,6 @@ Business Wire,/news/facedrive-reports-2020-financial-results-014400339.html,Face
 Business Wire,/news/facedrive-foods-achieves-record-high-120000865.html,Facedrive Foods Achieves Record High in Daily Delivery Volumes,FD.V
 Business Wire,/news/facedrive-acquires-ecocred-llc-exelon-025800383.html,"Facedrive Acquires EcoCRED, LLC From Exelon Subsidiary Exelorate - Update",FD.V
 CNW Group,/news/iiroc-trading-resumption-fd-144200384.html,IIROC Trading Resumption - FD,FD.V
-CNW Group,/news/iiroc-trading-halt-fd-142400796.html,IIROC Trading Halt - FD,FD.V
-Business Wire,/news/facedrive-acquires-ecocred-llc-exelon-110000547.html,"Facedrive Acquires EcoCRED, LLC From Exelon Subsidiary Exelorate",FD.V
 PR Newswire,/news/eat-beyond-portfolio-company-good-130000890.html,"Eat Beyond Portfolio Company good natured® Develops Microwavable, Compostable Containers",GDNP.V
 Simply Wall St.,/news/analysts-lowered-expectations-good-natured-052258049.html,Analysts Have Lowered Expectations For good natured Products Inc. (CVE:GDNP) After Its Latest Results,GDNP.V
 CNW Group,/news/good-natured-products-inc-announces-180400357.html,good natured Products Inc. Announces the Closing of its Acquisition of Ex-Tech Plastics,GDNP.V
