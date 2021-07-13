@@ -1,4 +1,8 @@
 Halts,Listing
+"Jul 13, 2021IIROC Trading Halt - WESA",WESA
+"Jul 13, 2021IIROC Trading Halt - KO",KO
+"Jul 13, 2021IIROC Trade Resumption - DGS",DGS
+"Jul 13, 2021IIROC Trading Halt - GTG",GTG
 "Jul 12, 2021IIROC Trading Resumption - TZR",TZR
 "Jul 12, 2021IIROC Trading Halt - DGS",DGS
 "Jul 12, 2021IIROC Trading Halt - TZR",TZR
@@ -20,7 +24,3 @@ Halts,Listing
 "Jul 8, 2021IIROC Trading Halt - CRAN.P",CRAN.P
 "Jul 8, 2021IIROC Trading Halt - DME",DME
 "Jul 8, 2021IIROC Trade Resumption - FMAN",FMAN
-"Jul 8, 2021IIROC Trading Halt - FMAN",FMAN
-"Jul 8, 2021IIROC Trading Halt - TF.DB.D",TF.DB.D
-"Jul 8, 2021IIROC Trading Halt - LWR",LWR
-"Jul 8, 2021IIROC Trading Halt - TBI",TBI
