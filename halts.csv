@@ -1,4 +1,6 @@
 Halts,Listing
+"Jul 13, 2021IIROC Trading Halt - KOR",KOR
+"Jul 13, 2021IIROC Trade Resumption - WESA",WESA
 "Jul 13, 2021IIROC Trading Halt - WESA",WESA
 "Jul 13, 2021IIROC Trading Halt - KO",KO
 "Jul 13, 2021IIROC Trade Resumption - DGS",DGS
@@ -22,5 +24,3 @@ Halts,Listing
 "Jul 8, 2021IIROC Trading Resumption - CRAN.P",CRAN.P
 "Jul 8, 2021IIROC Trading Halt - NILI",NILI
 "Jul 8, 2021IIROC Trading Halt - CRAN.P",CRAN.P
-"Jul 8, 2021IIROC Trading Halt - DME",DME
-"Jul 8, 2021IIROC Trade Resumption - FMAN",FMAN
