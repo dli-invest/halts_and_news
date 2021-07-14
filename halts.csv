@@ -1,4 +1,6 @@
 Halts,Listing
+"Jul 14, 2021IIROC Trading Halt - GLL",GLL
+"Jul 14, 2021IIROC Trade Resumption - GTG",GTG
 "Jul 14, 2021IIROC Trading Resumption - DBG",DBG
 "Jul 14, 2021IIROC Trade Resumption - DBO",DBO
 "Jul 14, 2021IIROC Trading Resumption - RPC",RPC
@@ -22,5 +24,3 @@ Halts,Listing
 "Jul 13, 2021IIROC Trading Halt - WESA",WESA
 "Jul 13, 2021IIROC Trading Halt - KO",KO
 "Jul 13, 2021IIROC Trade Resumption - DGS",DGS
-"Jul 13, 2021IIROC Trading Halt - GTG",GTG
-"Jul 12, 2021IIROC Trading Resumption - TZR",TZR
