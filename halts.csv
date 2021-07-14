@@ -1,4 +1,6 @@
 Halts,Listing
+"Jul 14, 2021IIROC Trading Halt - DBO",DBO
+"Jul 14, 2021IIROC Trading Halt - DURO.P",DURO.P
 "Jul 13, 2021IIROC Trading Resumption - HIT",HIT
 "Jul 13, 2021IIROC Trading Resumption - OAM",OAM
 "Jul 13, 2021IIROC Trading Resumption - FRED",FRED
@@ -22,5 +24,3 @@ Halts,Listing
 "Jul 12, 2021IIROC Trading Halt - DGS",DGS
 "Jul 12, 2021IIROC Trading Halt - TZR",TZR
 "Jul 12, 2021IIROC Trading Resumption - AN",AN
-"Jul 12, 2021IIROC Trading Halt - MMO.H",MMO.H
-"Jul 12, 2021IIROC Trading Halt - RPC",RPC
