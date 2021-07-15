@@ -1,4 +1,9 @@
 Halts,Listing
+"Jul 15, 2021IIROC Trading Resumption - PUMA",PUMA
+"Jul 15, 2021IIROC Trading Halt - MCCP.P",MCCP.P
+"Jul 15, 2021IIROC Trading Halt - FFC.P",FFC.P
+"Jul 15, 2021IIROC Trading Halt - PUMA",PUMA
+"Jul 15, 2021IIROC Trading Halt - THNK",THNK
 "Jul 14, 2021IIROC Trading Halt - AUX",AUX
 "Jul 14, 2021IIROC Trading Resumption - HTE.P",HTE.P
 "Jul 14, 2021IIROC Trading Resumption - NILI",NILI
@@ -19,8 +24,3 @@ Halts,Listing
 "Jul 13, 2021IIROC Trading Halt - SLI",SLI
 "Jul 13, 2021IIROC Trading Resumption - SLI",SLI
 "Jul 13, 2021IIROC Trading Halt - SLI",SLI
-"Jul 13, 2021IIROC Trade Resumption - MVT",MVT
-"Jul 13, 2021IIROC Trading Resumption - KO",KO
-"Jul 13, 2021IIROC Trading Halt - MVT",MVT
-"Jul 13, 2021IIROC Trading Halt - KOR",KOR
-"Jul 13, 2021IIROC Trade Resumption - WESA",WESA
