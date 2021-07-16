@@ -1,4 +1,7 @@
 Halts,Listing
+"Jul 16, 2021IIROC Trading Resumption - SNM",SNM
+"Jul 16, 2021IIROC Trading Halt - VAI",VAI
+"Jul 16, 2021IIROC Trading Halt - SNM",SNM
 "Jul 16, 2021IIROC Trading Resumption - ML",ML
 "Jul 16, 2021IIROC Trading Resumption - NET.UN",NET.UN
 "Jul 16, 2021IIROC Trading Halt - ML",ML
@@ -21,6 +24,3 @@ Halts,Listing
 "Jul 14, 2021IIROC Trading Resumption - DBG",DBG
 "Jul 14, 2021IIROC Trade Resumption - DBO",DBO
 "Jul 14, 2021IIROC Trading Resumption - RPC",RPC
-"Jul 14, 2021IIROC Trading Halt - DBO",DBO
-"Jul 14, 2021IIROC Trading Halt - DURO.P",DURO.P
-"Jul 13, 2021IIROC Trading Resumption - HIT",HIT
