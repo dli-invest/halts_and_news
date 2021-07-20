@@ -1,4 +1,6 @@
 source,link_href,link_text,ticker
+ACCESSWIRE,/news/repeat-hive-buys-3-019-120000961.html,"REPEAT - HIVE Buys 3,019 High Performance Bitcoin Miners  Increasing Production By 46% Immediately",HIVE.V
+ACCESSWIRE,/news/hive-buys-3-019-high-055500660.html,"HIVE Buys 3,019 High Performance Bitcoin Miners Increasing Production By 46% Immediately",HIVE.V
 ACCESSWIRE,/news/repeat-hive-announces-long-term-120000614.html,REPEAT - HIVE Announces Long Term HPC Computing Strategy Beyond Ethereum 2.0,HIVE.V
 ACCESSWIRE,/news/hive-announces-long-term-hpc-052000834.html,HIVE Announces Long Term HPC Computing Strategy Beyond Ethereum 2.0,HIVE.V
 ACCESSWIRE,/news/hive-joins-nvidia-partner-network-153000288.html,HIVE Joins NVIDIA Partner Network and Grows Professional GPU Footprint with US$66 Million Purchase,HIVE.V
@@ -7,8 +9,6 @@ ACCESSWIRE,/news/hive-announces-nasdaq-listing-date-050000586.html,HIVE Announce
 ACCESSWIRE,/news/hive-expands-growth-strategy-sweden-232000832.html,HIVE Expands Its Growth Strategy in Sweden by Sourcing More Green Energy,HIVE.V
 ACCESSWIRE,/news/repeat-hive-announces-nasdaq-listing-120000010.html,REPEAT - HIVE Announces NASDAQ Listing,HIVE.V
 ACCESSWIRE,/news/hive-announces-nasdaq-listing-050000001.html,HIVE Announces Nasdaq Listing,HIVE.V
-Simply Wall St.,/news/weakness-hive-blockchain-technologies-ltd-081901650.html,Should Weakness in HIVE Blockchain Technologies Ltd.'s (CVE:HIVE) Stock Be Seen As A Sign That Market Will Correct The Share Price Given Decent Financials?,HIVE.V
-ACCESSWIRE,/news/hive-announces-10-mw-expansion-051500994.html,"HIVE Announces 10 MW Expansion of Green Energy GPU Data Centre in Sweden, HODL and ESG Update",HIVE.V
 Motley Fool,/m/6dfa9231-c818-3047-8b79-99b97373cf27/is-blackberry-a-meme-stock.html,Is BlackBerry a Meme Stock Worth Buying?,BB.TO
 Investor's Business Daily,/m/7a61721c-1b1f-3257-9fd6-6c1ab575f5f9/is-blackberry-stock-a-buy-.html,"Is BlackBerry Stock A Buy? What Fundamentals, Fund Metrics, Chart Say",BB.TO
 Yahoo Finance Video,/video/owning-stocks-privilege-few-betterment-134205734.html,Owning stocks is ‘a privilege of the few’: Betterment CEO,BB.TO
@@ -59,6 +59,7 @@ Motley Fool,/m/542c5b2c-5ef4-3ae0-9e6c-f9fe7b7717ee/the-top-50-robinhood-stocks.
 Benzinga,/news/video-talking-cannabis-aurora-co-040105615.html,Video: Talking Cannabis With Aurora Co-Founder & Audacious Brands CEO Terry Booth | Benzinga Cannabis Insider 6/29,ACB.TO
 Yahoo Finance Video,/video/former-nba-star-al-harrington-193808842.html,Former NBA Star Al Harrington on mentorship program for Black youths looking to enter the tech space,ACB.TO
 Benzinga,/news/tilray-kushco-aurora-among-top-210059823.html,"Tilray, KushCo And Aurora Among Top Cannabis Stock Movers On June 28, 2021",ACB.TO
+Reuters,/news/air-canada-enough-pilots-meet-192919076.html,Air Canada has enough pilots to meet demand as U.S. tourists return,AC.TO
 CNW Group,/news/air-canada-ready-reconnect-canada-203600861.html,Air Canada Ready to Reconnect Canada and U.S. Travel With Up to 220 Daily Flights Between the Two Countries,AC.TO
 CNW Group,/news/air-canada-announces-launch-syndication-112500743.html,Air Canada Announces Launch of Syndication of New Credit Facilities,AC.TO
 CNW Group,/news/media-advisory-air-canada-present-135300988.html,UPDATE - Media Advisory - Air Canada to Present Second Quarter 2021 Results,AC.TO
@@ -68,17 +69,16 @@ CNW Group,/news/air-canadas-between-montreal-kelowna-150000203.html,Air Canada's
 CNW Group,/news/media-advisory-air-canada-present-190000883.html,Media Advisory - Air Canada to Present Second Quarter 2021 Results,AC.TO
 CNW Group,/news/air-canada-announces-election-directors-175000155.html,Air Canada Announces Election of Directors,AC.TO
 CNW Group,/news/air-canada-introduces-digital-solution-140000053.html,Air Canada Introduces a Digital Solution to Simplify COVID-19 Related Travel Requirements,AC.TO
-CNW Group,/news/iconic-national-scenes-starring-role-203900439.html,"Iconic National Scenes Get Starring Role in Air Canada's New Onboard Safety Video, Ode to Canada",AC.TO
+Insider Monkey,/news/where-hedge-funds-stand-lightspeed-222006301.html,Where Do Hedge Funds Stand On Lightspeed POS Inc. (LSPD)?,LSPD.TO
+SmarterAnalyst,/news/lightspeed-study-reveals-covid-19-164334415.html,Lightspeed Study Reveals COVID-19 Impact on North American LGBTQ+ Businesses,LSPD.TO
+PR Newswire,/news/lightspeed-study-sheds-light-impact-110000296.html,New Lightspeed study sheds light on impact of COVID-19 on LGBTQ+ businesses in North America,LSPD.TO
+TheStreet.com,/m/672ecee5-8de6-3be1-aa19-f7d0d91f0e87/lightspeed-pos-looks-to-break.html,Lightspeed POS Looks to Break Out of Sideways Trading Pattern,LSPD.TO
 PR Newswire,/news/horizon-technology-finance-provides-second-201500538.html,Horizon Technology Finance Provides Second Quarter 2021 Portfolio Update,LSPD.TO
 CNW Group,/news/lightspeed-announces-fiscal-first-quarter-200500551.html,Lightspeed Announces Fiscal First Quarter 2022 Financial Results Conference Call,LSPD.TO
 PR Newswire,/news/lightspeed-announces-closing-acquisition-nuorder-110000574.html,Lightspeed Announces Closing of Acquisition of NuORDER,LSPD.TO
 PR Newswire,/news/ascent360-introduces-lightspeed-integration-retailers-140000868.html,Ascent360 Introduces Lightspeed Integration for Retailers to Leverage the Power of POS and E-commerce Data,LSPD.TO
 SmarterAnalyst,/news/lightspeed-acquire-two-e-commerce-085642096.html,Lightspeed to Acquire Two E-Commerce Platforms for $925 M; Street Says Buy,LSPD.TO
 PR Newswire,/news/lightspeed-acquire-ecwid-nuorder-unify-110000158.html,Lightspeed to acquire Ecwid and NuORDER to unify commerce ecosystem and ignite business creation,LSPD.TO
-PR Newswire,/news/lightspeed-announces-resignation-board-member-210000370.html,Lightspeed Announces Resignation of Board Member Manon Brouillette,LSPD.TO
-GlobeNewswire,/news/manon-brouillette-named-chief-operating-130000036.html,Manon Brouillette named Chief Operating Officer and Deputy CEO at Verizon Consumer Group,LSPD.TO
-Zacks,/news/3-stocks-watch-businesses-enmbrace-125012047.html,3 Stocks to Watch as Businesses Enmbrace Automation Bigtime,LSPD.TO
-CNW Group,/news/xtms-today-solution-first-gratuity-110000668.html,XTM's Today™ Solution -- The First Gratuity Solution to Launch on The Lightspeed Commerce Platform,LSPD.TO
 Business Wire,/news/oneconnect-announce-second-quarter-financial-035200057.html,OneConnect to Announce Second Quarter Financial Results,OCFT
 PR Newswire,/news/oneconnect-impresses-world-artificial-intelligence-090800915.html,OneConnect Impresses at World Artificial Intelligence Conference 2021 in Shanghai,OCFT
 TipRanks,/news/2-stocks-flirting-bottom-analysts-003506694.html,2 Stocks That Are Flirting With a Bottom; Analysts Say ‘Buy’,OCFT
