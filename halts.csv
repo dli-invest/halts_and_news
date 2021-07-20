@@ -1,4 +1,6 @@
 Halts,Listing
+"Jul 20, 2021IIROC Trading Halt - AUIX.P",AUIX.P
+"Jul 20, 2021IIROC Trading Halt - ISH",ISH
 "Jul 19, 2021IIROC Trading Resumption - KING",KING
 "Jul 19, 2021IIROC Trading Halt - CBX.P",CBX.P
 "Jul 19, 2021IIROC Trade Resumption - VAI.X",VAI.X
@@ -22,5 +24,3 @@ Halts,Listing
 "Jul 15, 2021IIROC Trade Resumption - NVRO",NVRO
 "Jul 15, 2021IIROC Trading Halt - NET.UN",NET.UN
 "Jul 15, 2021IIROC Trade Resumption - RVV",RVV
-"Jul 15, 2021IIROC Trading Halt - RVV",RVV
-"Jul 15, 2021IIROC Trading Resumption - PUMA",PUMA
