@@ -1,4 +1,9 @@
 Halts,Listing
+"Jul 22, 2021IIROC Trading Halt - LLG",LLG
+"Jul 22, 2021IIROC Trading Halt - GTWO",GTWO
+"Jul 22, 2021IIROC Trading Halt - THRM",THRM
+"Jul 22, 2021IIROC Trading Resumption - RIO",RIO
+"Jul 22, 2021IIROC Trading Halt - NMI",NMI
 "Jul 21, 2021IIROC Trading Resumption - OOOO",OOOO
 "Jul 21, 2021IIROC Trade Resumption - GTOO",GTOO
 "Jul 21, 2021IIROC Trading Halt - BIOV",BIOV
@@ -19,8 +24,3 @@ Halts,Listing
 "Jul 20, 2021IIROC Trading Halt - ISH",ISH
 "Jul 19, 2021IIROC Trading Resumption - KING",KING
 "Jul 19, 2021IIROC Trading Halt - CBX.P",CBX.P
-"Jul 19, 2021IIROC Trade Resumption - VAI.X",VAI.X
-"Jul 19, 2021IIROC Trade Resumption - NZC",NZC
-"Jul 19, 2021IIROC Trading Halt - JRV",JRV
-"Jul 19, 2021IIROC Trading Halt - MIZA.P",MIZA.P
-"Jul 19, 2021IIROC Trading Halt - SAWC.P",SAWC.P
