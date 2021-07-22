@@ -1,4 +1,6 @@
 Halts,Listing
+"Jul 22, 2021IIROC Trade Resumption - ARE",ARE
+"Jul 22, 2021IIROC Trading Halt - ARE",ARE
 "Jul 22, 2021IIROC Trading Halt - YES",YES
 "Jul 22, 2021IIROC Trading Resumption - GTWO",GTWO
 "Jul 22, 2021IIROC Trading Resumption - NMI",NMI
@@ -22,5 +24,3 @@ Halts,Listing
 "Jul 20, 2021IIROC Trading Resumption - MIZA.P",MIZA.P
 "Jul 20, 2021IIROC Trading Resumption - AZS",AZS
 "Jul 20, 2021IIROC Trade Resumption - SLS",SLS
-"Jul 20, 2021IIROC Trading Halt - AZS",AZS
-"Jul 20, 2021IIROC Trading Halt - SLS",SLS
