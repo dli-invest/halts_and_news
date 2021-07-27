@@ -1,4 +1,7 @@
 Halts,Listing
+"Jul 27, 2021IIROC Trading Halt - AMZN",AMZN
+"Jul 27, 2021IIROC Trading Halt - LMR",LMR
+"Jul 27, 2021IIROC Trading Halt - WAT.P",WAT.P
 "Jul 26, 2021IIROC Trading Halt - AUAU",AUAU
 "Jul 26, 2021IIROC Trade Resumption - TFII",TFII
 "Jul 26, 2021IIROC Trading Halt - TFII",TFII
@@ -21,6 +24,3 @@ Halts,Listing
 "Jul 22, 2021IIROC Trading Resumption - NMI",NMI
 "Jul 22, 2021IIROC Trading Resumption - THRM",THRM
 "Jul 22, 2021IIROC Trade Resumption - BIOV",BIOV
-"Jul 22, 2021IIROC Trading Halt - LLG",LLG
-"Jul 22, 2021IIROC Trading Halt - GTWO",GTWO
-"Jul 22, 2021IIROC Trading Halt - THRM",THRM
