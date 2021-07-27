@@ -1,4 +1,9 @@
 Halts,Listing
+"Jul 27, 2021IIROC Trading Halt - ROE",ROE
+"Jul 27, 2021IIROC Trading Halt - RECO",RECO
+"Jul 27, 2021IIROC Trading Halt - PKK",PKK
+"Jul 27, 2021IIROC Trading Resumption - AUAU",AUAU
+"Jul 27, 2021IIROC Trade Resumption - AMZN",AMZN
 "Jul 27, 2021IIROC Trading Halt - AMZN",AMZN
 "Jul 27, 2021IIROC Trading Halt - LMR",LMR
 "Jul 27, 2021IIROC Trading Halt - WAT.P",WAT.P
@@ -19,8 +24,3 @@ Halts,Listing
 "Jul 23, 2021IIROC Trading Halt - POG",POG
 "Jul 22, 2021IIROC Trade Resumption - ARE",ARE
 "Jul 22, 2021IIROC Trading Halt - ARE",ARE
-"Jul 22, 2021IIROC Trading Halt - YES",YES
-"Jul 22, 2021IIROC Trading Resumption - GTWO",GTWO
-"Jul 22, 2021IIROC Trading Resumption - NMI",NMI
-"Jul 22, 2021IIROC Trading Resumption - THRM",THRM
-"Jul 22, 2021IIROC Trade Resumption - BIOV",BIOV
