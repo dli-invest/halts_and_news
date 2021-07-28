@@ -1,4 +1,7 @@
 Halts,Listing
+"Jul 28, 2021IIROC Trading Halt - ELO",ELO
+"Jul 28, 2021IIROC Trade Resumption - NAB",NAB
+"Jul 28, 2021IIROC Trading Halt - SAWC.P",SAWC.P
 "Jul 27, 2021IIROC Trade Resumption - PKK",PKK
 "Jul 27, 2021IIROC Trading Halt - NAB",NAB
 "Jul 27, 2021IIROC Trade Resumption - KWG",KWG
@@ -21,6 +24,3 @@ Halts,Listing
 "Jul 26, 2021IIROC Trade Resumption - KUYA",KUYA
 "Jul 26, 2021IIROC Trading Halt - KUYA",KUYA
 "Jul 26, 2021IIROC Trading Resumption - LLG",LLG
-"Jul 26, 2021IIROC Trading Halt - CBDN",CBDN
-"Jul 26, 2021IIROC Trading Halt - ZOMD",ZOMD
-"Jul 26, 2021IIROC Trading Halt - ULTH",ULTH
