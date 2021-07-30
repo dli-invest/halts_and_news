@@ -1,4 +1,6 @@
 Halts,Listing
+"Jul 30, 2021IIROC Trading Halt - GFP.RT",GFP.RT
+"Jul 30, 2021IIROC Trading Halt - MICH",MICH
 "Jul 30, 2021IIROC Trade Resumption - EIF.DB.L",EIF.DB.L
 "Jul 30, 2021IIROC Trading Halt - EIF.DB.L",EIF.DB.L
 "Jul 30, 2021IIROC Trading Halt - EVGN",EVGN
@@ -22,5 +24,3 @@ Halts,Listing
 "Jul 28, 2021IIROC Trade Resumption - PKK",PKK
 "Jul 28, 2021IIROC Trading Halt - ELO",ELO
 "Jul 28, 2021IIROC Trade Resumption - NAB",NAB
-"Jul 28, 2021IIROC Trading Halt - SAWC.P",SAWC.P
-"Jul 27, 2021IIROC Trade Resumption - PKK",PKK
