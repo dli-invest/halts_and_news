@@ -1,4 +1,6 @@
 Halts,Listing
+"Aug 3, 2021IIROC Trading Halt - HI",HI
+"Aug 3, 2021IIROC Trading Halt - BEP.PR.I",BEP.PR.I
 "Jul 30, 2021IIROC Trading Resumption - RUG",RUG
 "Jul 30, 2021IIROC Trading Halt - CCW",CCW
 "Jul 30, 2021IIROC Trading Halt - GFP.RT",GFP.RT
@@ -22,5 +24,3 @@ Halts,Listing
 "Jul 28, 2021IIROC Trading Halt - PKK",PKK
 "Jul 28, 2021IIROC Trade Resumption - REAL",REAL
 "Jul 28, 2021IIROC Trading Halt - REAL",REAL
-"Jul 28, 2021IIROC Trading Resumption - ELO",ELO
-"Jul 28, 2021IIROC Trade Resumption - PKK",PKK
