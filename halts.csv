@@ -1,4 +1,8 @@
 Halts,Listing
+"Aug 4, 2021IIROC Trading Halt - DBG",DBG
+"Aug 4, 2021IIROC Trading Resumption - CAP",CAP
+"Aug 4, 2021IIROC Trading Halt - ASE",ASE
+"Aug 4, 2021IIROC Trading Halt - CAP",CAP
 "Aug 4, 2021IIROC Trading Halt - ZENI.P",ZENI.P
 "Aug 4, 2021IIROC Trade Resumption - GRID",GRID
 "Aug 4, 2021IIROC Trade Resumption - MGRO",MGRO
@@ -20,7 +24,3 @@ Halts,Listing
 "Aug 3, 2021IIROC Trading Halt - HI",HI
 "Aug 3, 2021IIROC Trading Halt - BEP.PR.I",BEP.PR.I
 "Jul 30, 2021IIROC Trading Resumption - RUG",RUG
-"Jul 30, 2021IIROC Trading Halt - CCW",CCW
-"Jul 30, 2021IIROC Trading Halt - GFP.RT",GFP.RT
-"Jul 30, 2021IIROC Trading Halt - MICH",MICH
-"Jul 30, 2021IIROC Trade Resumption - EIF.DB.L",EIF.DB.L
