@@ -1,4 +1,6 @@
 Halts,Listing
+"Aug 4, 2021IIROC Trade Resumption - MAXR",MAXR
+"Aug 4, 2021IIROC Trading Halt - MAXR",MAXR
 "Aug 4, 2021IIROC Trading Halt - DBG",DBG
 "Aug 4, 2021IIROC Trading Resumption - CAP",CAP
 "Aug 4, 2021IIROC Trading Halt - ASE",ASE
@@ -22,5 +24,3 @@ Halts,Listing
 "Aug 3, 2021IIROC Trading Resumption - CCW",CCW
 "Aug 3, 2021IIROC Trading Resumption - HI",HI
 "Aug 3, 2021IIROC Trading Halt - HI",HI
-"Aug 3, 2021IIROC Trading Halt - BEP.PR.I",BEP.PR.I
-"Jul 30, 2021IIROC Trading Resumption - RUG",RUG
