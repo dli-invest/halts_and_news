@@ -1,4 +1,10 @@
 Halts,Listing
+"Aug 5, 2021IIROC Trading Resumption - NTS",NTS
+"Aug 5, 2021IIROC Trading Halt - NTS",NTS
+"Aug 5, 2021IIROC Trade Resumption - ASE",ASE
+"Aug 5, 2021IIROC Trading Halt - REO",REO
+"Aug 5, 2021IIROC Trading Halt - HSI",HSI
+"Aug 5, 2021IIROC Trading Halt - PANO.P",PANO.P
 "Aug 4, 2021IIROC Trade Resumption - MAXR",MAXR
 "Aug 4, 2021IIROC Trading Halt - MAXR",MAXR
 "Aug 4, 2021IIROC Trading Halt - DBG",DBG
@@ -18,9 +24,3 @@ Halts,Listing
 "Aug 3, 2021IIROC Trading Resumption - APMI",APMI
 "Aug 3, 2021IIROC Trading Halt - ENS",ENS
 "Aug 3, 2021IIROC Trading Halt - GRTO.P",GRTO.P
-"Aug 3, 2021/C O R R E C T I O N from Source -- Investment Industry Regulatory Organization of Canada (IIROC) - Halts/Resumptions/",Halts/Resumptions/
-"Aug 3, 2021IIROC Trading Halt - MGRO",MGRO
-"Aug 3, 2021IIROC Trading Halt - AZS",AZS
-"Aug 3, 2021IIROC Trading Resumption - CCW",CCW
-"Aug 3, 2021IIROC Trading Resumption - HI",HI
-"Aug 3, 2021IIROC Trading Halt - HI",HI
