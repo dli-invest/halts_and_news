@@ -1,4 +1,10 @@
 Halts,Listing
+"Aug 9, 2021IIROC Trading Halt - EXF",EXF
+"Aug 9, 2021IIROC Trading Halt - CHV",CHV
+"Aug 9, 2021IIROC Trading Halt - RMS.P",RMS.P
+"Aug 9, 2021IIROC Trading Halt - PQE",PQE
+"Aug 9, 2021IIROC Trading Halt - PIV.P",PIV.P
+"Aug 9, 2021IIROC Trading Halt - GMIN",GMIN
 "Aug 6, 2021IIROC Trading Halt - CHIP.H",CHIP.H
 "Aug 6, 2021IIROC Trading Halt - INCA",INCA
 "Aug 6, 2021IIROC Trade Resumption - BAMM",BAMM
@@ -18,9 +24,3 @@ Halts,Listing
 "Aug 5, 2021IIROC Trading Resumption - DBG",DBG
 "Aug 5, 2021IIROC Trading Halt - NTS",NTS
 "Aug 5, 2021IIROC Trading Resumption - NTS",NTS
-"Aug 5, 2021IIROC Trading Halt - NTS",NTS
-"Aug 5, 2021IIROC Trade Resumption - ASE",ASE
-"Aug 5, 2021IIROC Trading Halt - REO",REO
-"Aug 5, 2021IIROC Trading Halt - HSI",HSI
-"Aug 5, 2021IIROC Trading Halt - PANO.P",PANO.P
-"Aug 4, 2021IIROC Trade Resumption - MAXR",MAXR
