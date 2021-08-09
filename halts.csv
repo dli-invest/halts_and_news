@@ -1,4 +1,10 @@
 Halts,Listing
+"Aug 9, 2021IIROC Trading Halt - CLAS.WT.A",CLAS.WT.A
+"Aug 9, 2021IIROC Trading Halt - FLWR.WT",FLWR.WT
+"Aug 9, 2021IIROC Trading Resumption - SRL",SRL
+"Aug 9, 2021IIROC Trading Resumption - ADZN",ADZN
+"Aug 9, 2021IIROC Trade Resumption - PKK",PKK
+"Aug 9, 2021IIROC Trading Halt - PKK",PKK
 "Aug 9, 2021IIROC Trading Halt - ADZN",ADZN
 "Aug 9, 2021IIROC Trading Halt - SRL",SRL
 "Aug 9, 2021IIROC Trade Resumption - EXF",EXF
@@ -18,9 +24,3 @@ Halts,Listing
 "Aug 5, 2021IIROC Trading Resumption - PTEC",PTEC
 "Aug 5, 2021IIROC Trading Resumption - ENA",ENA
 "Aug 5, 2021IIROC Trading Resumption - AVII.P",AVII.P
-"Aug 5, 2021IIROC Trading Halt - BAMM",BAMM
-"Aug 5, 2021IIROC Trade Resumption - UBQ",UBQ
-"Aug 5, 2021IIROC Trading Halt - UBQ",UBQ
-"Aug 5, 2021IIROC Trading Resumption - ADY",ADY
-"Aug 5, 2021IIROC Trading Halt - ADY",ADY
-"Aug 5, 2021IIROC Trading Halt - VAI.X",VAI.X
