@@ -1,4 +1,7 @@
 Halts,Listing
+"Aug 9, 2021IIROC Trading Halt - ADZN",ADZN
+"Aug 9, 2021IIROC Trading Halt - SRL",SRL
+"Aug 9, 2021IIROC Trade Resumption - EXF",EXF
 "Aug 9, 2021IIROC Trading Halt - EXF",EXF
 "Aug 9, 2021IIROC Trading Halt - CHV",CHV
 "Aug 9, 2021IIROC Trading Halt - RMS.P",RMS.P
@@ -21,6 +24,3 @@ Halts,Listing
 "Aug 5, 2021IIROC Trading Resumption - ADY",ADY
 "Aug 5, 2021IIROC Trading Halt - ADY",ADY
 "Aug 5, 2021IIROC Trading Halt - VAI.X",VAI.X
-"Aug 5, 2021IIROC Trading Resumption - DBG",DBG
-"Aug 5, 2021IIROC Trading Halt - NTS",NTS
-"Aug 5, 2021IIROC Trading Resumption - NTS",NTS
