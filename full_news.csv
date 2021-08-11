@@ -109,6 +109,7 @@ PR Newswire,/news/crescent-point-announces-q2-2021-160000429.html,Crescent Point
 Oilprice.com,/news/best-2-stocks-hold-oil-233000866.html,The Best 2 Stocks To Hold As Oil Prices Explode,CPG.TO
 Zacks,/news/crescent-point-energy-cpg-stock-155003574.html,Is Crescent Point Energy (CPG) Stock Undervalued Right Now?,CPG.TO
 Oilprice.com,/news/world-most-exciting-oil-play-233000999.html,Update On World’s Most Exciting Oil Play: An Interview With Jim Granath,CPG.TO
+Business Wire,/news/docebo-announces-addition-three-oem-110000076.html,Docebo Announces the Addition of Three OEM Partnerships as the Need for Learning Technology Grows Across Markets,DCBO.TO
 Business Wire,/news/docebo-announces-appointment-rudy-valdez-110000190.html,Docebo Announces Appointment of Rudy Valdez as Its New Chief Operating Officer and the Transition of Martino Bagini to Chief Corporate Development Officer,DCBO.TO
 Business Wire,/news/global-research-analyst-josh-bersin-110000426.html,"Global Research Analyst, Josh Bersin, recognizes Docebo as Leader in Revenue Generating Learning for Enterprise",DCBO.TO
 Business Wire,/news/docebo-host-second-quarter-fiscal-110000800.html,Docebo to Host Second Quarter Fiscal 2021 Conference Call,DCBO.TO
@@ -118,7 +119,6 @@ Business Wire,/news/docebo-announces-addition-learning-analytics-133900149.html,
 Business Wire,/news/docebo-announces-launch-docebo-community-123000790.html,Docebo’s Announces the Launch of Docebo Community: An Interactive Experience to Keep Customers Engaged and Informed,DCBO.TO
 Business Wire,/news/docebo-reports-first-quarter-2021-103000109.html,Docebo Reports First Quarter 2021 Results,DCBO.TO
 Business Wire,/news/first-tee-selects-docebo-platform-110000518.html,First Tee selects Docebo as platform for engagement with kids and coaches,DCBO.TO
-Business Wire,/news/docebo-announces-market-expansion-four-110000187.html,Docebo Announces Market Expansion With Four Key Partnership Developments,DCBO.TO
 GlobeNewswire,/news/enthusiast-gaming-partners-america-navy-110000321.html,Enthusiast Gaming Partners with America’s Navy to Increase Awareness with Gen Z Audiences,EGLX.TO
 GlobeNewswire,/news/enthusiast-gaming-announce-second-quarter-110000148.html,"Enthusiast Gaming to Announce Second Quarter Financial Results on August 10, 2021",EGLX.TO
 GlobeNewswire,/news/enthusiast-gaming-g-fuel-renew-110000745.html,Enthusiast Gaming and G FUEL Renew and Expand Partnership to Launch a New Limited-Edition G FUEL Flavour,EGLX.TO
@@ -139,6 +139,8 @@ GlobeNewswire,/news/goodfood-appoints-jonathan-roiter-management-110000456.html,
 GlobeNewswire,/news/goodfood-appoints-greg-christopher-management-110000167.html,Goodfood Appoints Greg Christopher to its Management Team as  Executive Vice President of Operations,FOOD.TO
 Simply Wall St.,/news/had-bought-goodfood-market-tse-080243242.html,"If You Had Bought Goodfood Market (TSE:FOOD) Stock Three Years Ago, You Could Pocket A 225% Gain Today",FOOD.TO
 GlobeNewswire,/news/goodfood-reports-record-quarterly-revenues-103000584.html,Goodfood Reports Record Quarterly Revenues Surpassing $100 Million for the First Time,FOOD.TO
+CNW Group,/news/greenlane-renewables-signs-12-8-200300085.html,Greenlane Renewables Signs $12.8 Million in Biogas Upgrading System Supply Contracts for RNG Projects in the United States,GRN.TO
+CNW Group,/news/greenlane-renewables-announce-second-quarter-210000817.html,"Greenlane Renewables to Announce Second Quarter 2021 Results on August 12, 2021 and Host Conference Call",GRN.TO
 CNW Group,/news/greenlane-renewables-announces-upcoming-investor-120000009.html,Greenlane Renewables Announces Upcoming Investor Conference Participation,GRN.TO
 CNW Group,/news/greenlane-renewables-announces-results-2021-004500765.html,Greenlane Renewables Announces Results From 2021 Annual General and Special Meeting of Shareholders,GRN.TO
 Simply Wall St.,/news/greenlane-renewables-inc-tse-grn-064416461.html,Greenlane Renewables Inc.'s (TSE:GRN) Intrinsic Value Is Potentially 50% Above Its Share Price,GRN.TO
@@ -147,8 +149,6 @@ Business Wire,/news/greenlane-renewables-announces-filing-shelf-004500260.html,G
 Business Wire,/news/greenlane-renewables-signs-9-8-141000157.html,Greenlane Renewables Signs $9.8 Million Landfill Gas-to-RNG Contract,GRN.TO
 Business Wire,/news/greenlane-renewables-announces-first-quarter-201100715.html,Greenlane Renewables Announces First Quarter 2021 Financial Results,GRN.TO
 ACCESSWIRE,/news/greenlane-renewables-inc-host-earnings-184500084.html,Greenlane Renewables Inc to Host Earnings Call,GRN.TO
-Simply Wall St.,/news/greenlane-renewables-inc-tse-grn-063306002.html,Greenlane Renewables Inc.'s (TSE:GRN) Has Found A Path To Profitability,GRN.TO
-Business Wire,/news/greenlane-renewables-announce-first-quarter-203000751.html,"Greenlane Renewables to Announce First Quarter 2021 Results on May 12, 2021 and Host Conference Call",GRN.TO
 PR Newswire,/news/hut-8-mining-release-q2-110000109.html,"Hut 8 Mining to Release Q2 2021 Results and Host Conference Call on August 12, 2021",HUT.TO
 PR Newswire,/news/hut-8-mining-provides-production-110000675.html,Hut 8 Mining Provides Production Update for July 2021; Craig-Hallum Initiates Coverage,HUT.TO
 Newsfile,/news/hut-8-mining-corp-digital-185300342.html,"Hut 8 Mining Corp., Digital Asset Mining Pioneers, CEO Clip Video",HUT.TO
@@ -400,6 +400,16 @@ Business Wire,/news/immunoprecise-announces-appointment-dr-ilse-010500772.html,I
 Business Wire,/news/immunoprecise-names-dr-dion-neame-122800864.html,ImmunoPrecise Names Dr. Dion Neame to Strategic Advisory Board,IPA.V
 Business Wire,/news/immunoprecise-moves-sars-cov-2-112800417.html,ImmunoPrecise Moves SARS-CoV-2 PolyTope™ Cocktail Program’s Path Toward IND Filing,IPA.V
 Business Wire,/news/immunoprecise-selects-lifesci-advisors-investor-122800051.html,ImmunoPrecise Selects LifeSci Advisors as Investor Relations Agent of Record,IPA.V
+GlobeNewswire,/news/solar-alliance-launches-us-large-131900484.html,Solar Alliance launches US large-scale utility solar project platform,SOLR.V
+Simply Wall St.,/news/had-bought-solar-alliance-energy-121130532.html,If You Had Bought Solar Alliance Energy (CVE:SOLR) Shares A Year Ago You'd Have Earned 820% Returns,SOLR.V
+GlobeNewswire,/news/solar-alliance-files-full-patent-110000333.html,Solar Alliance files full patent application for Powershed – the solar powered charging station for robotic lawnmowers,SOLR.V
+GlobeNewswire,/news/solar-alliance-continues-execute-milestones-110000393.html,Solar Alliance continues to execute on milestones and drive growth heading into second half of 2021,SOLR.V
+GlobeNewswire,/news/solar-alliance-boyd-cat-launch-110000527.html,Solar Alliance and Boyd CAT launch joint development initiative in U.S. Southeast,SOLR.V
+GlobeNewswire,/news/solar-alliance-accelerates-growth-strategy-110000285.html,Solar Alliance accelerates growth strategy with second U.S. solar project acquisition,SOLR.V
+GlobeNewswire,/news/solar-alliance-completes-1-megawatt-110000939.html,Solar Alliance completes 1 megawatt Solar Share Project for LG&E/KU in Kentucky,SOLR.V
+GlobeNewswire,/news/solar-alliance-present-2021-ld-110000788.html,Solar Alliance to Present at 2021 LD Micro Invitational Investor Conference,SOLR.V
+GlobeNewswire,/news/solar-alliance-signs-agreement-first-110000971.html,Solar Alliance Signs Agreement for First U.S. Operating Asset,SOLR.V
+ACCESSWIRE,/news/sidoti-microcap-virtual-conference-213000858.html,Sidoti Microcap Virtual Conference,SOLR.V
 ACCESSWIRE,/news/empower-clinics-reports-record-q1-065000904.html,Empower Clinics Reports Record Q1 2021 Results with Revenues Over $2.5M CAD,CBDT.CN
 ACCESSWIRE,/news/empower-clinics-reports-record-revenue-085000189.html,Empower Clinics Reports Record Revenue and Fiscal 2020 Results,CBDT.CN
 ACCESSWIRE,/news/empower-clinics-provides-bi-weekly-033000270.html,Empower Clinics Provides Bi-Weekly Update on Status of Management Cease Trade Order,CBDT.CN
