@@ -1,4 +1,7 @@
 Halts,Listing
+"Aug 11, 2021IIROC Trading Resumption - CRE",CRE
+"Aug 11, 2021IIROC Trading Halt - SAAS.P",SAAS.P
+"Aug 11, 2021IIROC Trade Resumption - ECN",ECN
 "Aug 10, 2021IIROC Trading Halt - ECN",ECN
 "Aug 10, 2021IIROC Trading Halt - CRE",CRE
 "Aug 10, 2021IIROC Trading Halt - WLTR",WLTR
@@ -21,6 +24,3 @@ Halts,Listing
 "Aug 9, 2021IIROC Trading Halt - FLWR.WT",FLWR.WT
 "Aug 9, 2021IIROC Trading Resumption - SRL",SRL
 "Aug 9, 2021IIROC Trading Resumption - ADZN",ADZN
-"Aug 9, 2021IIROC Trade Resumption - PKK",PKK
-"Aug 9, 2021IIROC Trading Halt - PKK",PKK
-"Aug 9, 2021IIROC Trading Halt - ADZN",ADZN
