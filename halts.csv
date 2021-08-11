@@ -1,4 +1,6 @@
 Halts,Listing
+"Aug 11, 2021IIROC Trade Resumption - LNF",LNF
+"Aug 11, 2021IIROC Trading Halt - LNF",LNF
 "Aug 11, 2021IIROC Trading Resumption - SGZ",SGZ
 "Aug 11, 2021IIROC Trading Resumption - SLI",SLI
 "Aug 11, 2021IIROC Trading Halt - SLI",SLI
@@ -22,5 +24,3 @@ Halts,Listing
 "Aug 10, 2021IIROC Trading Halt - MEND",MEND
 "Aug 10, 2021IIROC Trading Halt - HBK",HBK
 "Aug 9, 2021IIROC Trade Resumption - CBDX",CBDX
-"Aug 9, 2021IIROC Trading Halt - CBDX",CBDX
-"Aug 9, 2021IIROC Trading Resumption - INCA",INCA
