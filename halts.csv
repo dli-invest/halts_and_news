@@ -1,4 +1,7 @@
 Halts,Listing
+"Aug 12, 2021IIROC Trading Halt - GMG",GMG
+"Aug 12, 2021IIROC Trade Resumption - BYL",BYL
+"Aug 12, 2021IIROC Trade Resumption - MDF",MDF
 "Aug 11, 2021IIROC Trading Halt - BYL",BYL
 "Aug 11, 2021IIROC Trading Resumption - R.P",R.P
 "Aug 11, 2021IIROC Trading Resumption - COLL.P",COLL.P
@@ -21,6 +24,3 @@ Halts,Listing
 "Aug 10, 2021IIROC Trade Resumption - MEND",MEND
 "Aug 10, 2021IIROC Trading Halt - CFF",CFF
 "Aug 10, 2021IIROC Trading Resumption - POND",POND
-"Aug 10, 2021IIROC Trade Resumption - LUX",LUX
-"Aug 10, 2021IIROC Trading Halt - POND",POND
-"Aug 10, 2021IIROC Trading Resumption - CHIP.H",CHIP.H
