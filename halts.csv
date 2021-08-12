@@ -1,4 +1,6 @@
 Halts,Listing
+"Aug 12, 2021IIROC Trading Resumption - SAAS.P",SAAS.P
+"Aug 12, 2021IIROC Trading Halt - CO",CO
 "Aug 12, 2021IIROC Trade Resumption - BGP.U",BGP.U
 "Aug 12, 2021IIROC Trading Halt - BGP.U",BGP.U
 "Aug 12, 2021IIROC Trade Resumption - VAI.X",VAI.X
@@ -22,5 +24,3 @@ Halts,Listing
 "Aug 10, 2021IIROC Trading Halt - CRE",CRE
 "Aug 10, 2021IIROC Trading Halt - WLTR",WLTR
 "Aug 10, 2021IIROC Trading Resumption - GMIN",GMIN
-"Aug 10, 2021IIROC Trading Resumption - ZBNI",ZBNI
-"Aug 10, 2021IIROC Trade Resumption - CFF",CFF
