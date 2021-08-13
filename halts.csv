@@ -1,4 +1,6 @@
 Halts,Listing
+"Aug 13, 2021IIROC Trading Halt - DGTL",DGTL
+"Aug 13, 2021IIROC Trading Halt - EL",EL
 "Aug 13, 2021IIROC Trade Resumption - LCFS",LCFS
 "Aug 13, 2021IIROC Trade Resumption - VALU",VALU
 "Aug 13, 2021IIROC Trading Halt - LCFS",LCFS
@@ -22,5 +24,3 @@ Halts,Listing
 "Aug 11, 2021IIROC Trading Halt - SLI",SLI
 "Aug 11, 2021IIROC Trading Halt - SGZ",SGZ
 "Aug 11, 2021IIROC Trading Resumption - CRE",CRE
-"Aug 11, 2021IIROC Trading Halt - SAAS.P",SAAS.P
-"Aug 11, 2021IIROC Trade Resumption - ECN",ECN
