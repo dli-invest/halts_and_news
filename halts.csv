@@ -1,4 +1,8 @@
 Halts,Listing
+"Aug 16, 2021IIROC Trade Resumption - LIDO",LIDO
+"Aug 16, 2021IIROC Trading Halt - PLC",PLC
+"Aug 16, 2021IIROC Trading Halt - NXR.UN",NXR.UN
+"Aug 16, 2021IIROC Trading Halt - NOVR",NOVR
 "Aug 16, 2021IIROC Trading Resumption - MHI",MHI
 "Aug 16, 2021IIROC Trading Halt - MHI",MHI
 "Aug 16, 2021IIROC Trading Resumption - SPOT",SPOT
@@ -20,7 +24,3 @@ Halts,Listing
 "Aug 13, 2021IIROC Trading Halt - EL",EL
 "Aug 13, 2021IIROC Trade Resumption - LCFS",LCFS
 "Aug 13, 2021IIROC Trade Resumption - VALU",VALU
-"Aug 13, 2021IIROC Trading Halt - LCFS",LCFS
-"Aug 13, 2021IIROC Trading Halt - MCCP.P",MCCP.P
-"Aug 12, 2021IIROC Trading Resumption - SAAS.P",SAAS.P
-"Aug 12, 2021IIROC Trading Halt - CO",CO
