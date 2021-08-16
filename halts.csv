@@ -1,4 +1,8 @@
 Halts,Listing
+"Aug 16, 2021IIROC Trading Halt - MHI",MHI
+"Aug 16, 2021IIROC Trading Resumption - SPOT",SPOT
+"Aug 16, 2021IIROC Trading Halt - SPOT",SPOT
+"Aug 16, 2021IIROC Trading Resumption - SPOT",SPOT
 "Aug 16, 2021IIROC Trading Halt - VISN",VISN
 "Aug 16, 2021IIROC Trading Halt - PWR",PWR
 "Aug 16, 2021IIROC Trading Halt - GHM.P",GHM.P
@@ -20,7 +24,3 @@ Halts,Listing
 "Aug 12, 2021IIROC Trading Resumption - SAAS.P",SAAS.P
 "Aug 12, 2021IIROC Trading Halt - CO",CO
 "Aug 12, 2021IIROC Trade Resumption - BGP.U",BGP.U
-"Aug 12, 2021IIROC Trading Halt - BGP.U",BGP.U
-"Aug 12, 2021IIROC Trade Resumption - VAI.X",VAI.X
-"Aug 12, 2021IIROC Trading Halt - GMG",GMG
-"Aug 12, 2021IIROC Trade Resumption - BYL",BYL
