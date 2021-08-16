@@ -1,4 +1,6 @@
 Halts,Listing
+"Aug 16, 2021IIROC Trading Halt - VISN",VISN
+"Aug 16, 2021IIROC Trading Halt - PWR",PWR
 "Aug 16, 2021IIROC Trading Halt - GHM.P",GHM.P
 "Aug 16, 2021IIROC Trading Halt - CGM",CGM
 "Aug 16, 2021IIROC Trading Halt - SPOT",SPOT
@@ -22,5 +24,3 @@ Halts,Listing
 "Aug 12, 2021IIROC Trade Resumption - VAI.X",VAI.X
 "Aug 12, 2021IIROC Trading Halt - GMG",GMG
 "Aug 12, 2021IIROC Trade Resumption - BYL",BYL
-"Aug 12, 2021IIROC Trade Resumption - MDF",MDF
-"Aug 11, 2021IIROC Trading Halt - BYL",BYL
