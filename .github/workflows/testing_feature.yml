@@ -1,4 +1,4 @@
-name: Getting Halts featuyre
+name: Getting Halts feature
 # Don't want to burn my private minutes at this point
 on:
   push:
