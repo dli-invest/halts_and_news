@@ -1,4 +1,8 @@
 Halts,Listing
+"Aug 20, 2021IIROC Trading Halt - HEXO",HEXO
+"Aug 20, 2021IIROC Trading Halt - AUS",AUS
+"Aug 20, 2021IIROC Trading Halt - ATY",ATY
+"Aug 20, 2021IIROC Trading Halt - JJJJ.P",JJJJ.P
 "Aug 19, 2021IIROC Trading Resumption - OTSO",OTSO
 "Aug 19, 2021IIROC Trading Halt - OTSO",OTSO
 "Aug 19, 2021IIROC Trading Resumption - SJL",SJL
@@ -20,7 +24,3 @@ Halts,Listing
 "Aug 17, 2021IIROC Trading Resumption - GHM.P",GHM.P
 "Aug 17, 2021IIROC Trading Halt - LOCL",LOCL
 "Aug 17, 2021IIROC Trading Halt - GIG.P",GIG.P
-"Aug 17, 2021IIROC Trading Resumption - MFG",MFG
-"Aug 17, 2021IIROC Trade Resumption - PWR",PWR
-"Aug 17, 2021IIROC Trading Resumption - VISN",VISN
-"Aug 17, 2021IIROC Trading Halt - MFG",MFG
