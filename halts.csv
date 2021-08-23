@@ -1,4 +1,6 @@
 Halts,Listing
+"Aug 23, 2021IIROC Trading Halt - LIO.WT",LIO.WT
+"Aug 23, 2021IIROC Trading Resumption - ENA",ENA
 "Aug 23, 2021IIROC Trading Halt - ZKL.H",ZKL.H
 "Aug 23, 2021IIROC Trading Resumption - WCU",WCU
 "Aug 23, 2021IIROC Trading Halt - ENA",ENA
@@ -22,5 +24,3 @@ Halts,Listing
 "Aug 18, 2021IIROC Trading Halt - CLAS",CLAS
 "Aug 18, 2021IIROC Trading Halt - SJL",SJL
 "Aug 18, 2021IIROC Trading Resumption - NOVR",NOVR
-"Aug 18, 2021IIROC Trade Resumption - LOCL",LOCL
-"Aug 18, 2021IIROC Trade Resumption - PMN",PMN
