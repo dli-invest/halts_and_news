@@ -1,4 +1,7 @@
 Halts,Listing
+"Aug 30, 2021IIROC Trading Halt - SYG.H",SYG.H
+"Aug 30, 2021IIROC Trading Resumption - AUC",AUC
+"Aug 30, 2021IIROC Trading Halt - AUC",AUC
 "Aug 30, 2021IIROC Trading Halt - HITI.DB",HITI.DB
 "Aug 30, 2021IIROC Trading Resumption - ATU",ATU
 "Aug 30, 2021IIROC Trading Halt - NIP",NIP
@@ -21,6 +24,3 @@ Halts,Listing
 "Aug 26, 2021IIROC Trading Halt - GAC.P",GAC.P
 "Aug 26, 2021IIROC Trading Halt - DGL.P",DGL.P
 "Aug 26, 2021IIROC Trading Halt - AAA.P",AAA.P
-"Aug 25, 2021IIROC Trading Resumption - EHT",EHT
-"Aug 25, 2021IIROC Trade Resumption - ASTI",ASTI
-"Aug 25, 2021IIROC Trading Halt - SOI",SOI
