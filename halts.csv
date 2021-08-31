@@ -1,4 +1,7 @@
 Halts,Listing
+"Aug 31, 2021IIROC Trading Halt - SDE.N",SDE.N
+"Aug 31, 2021IIROC Trade Resumption - WNDR",WNDR
+"Aug 31, 2021IIROC Trading Halt - MDF.R",MDF.R
 "Aug 30, 2021IIROC Trading Resumption - PANO.P",PANO.P
 "Aug 30, 2021IIROC Trading Halt - SYG.H",SYG.H
 "Aug 30, 2021IIROC Trading Resumption - AUC",AUC
@@ -21,6 +24,3 @@ Halts,Listing
 "Aug 26, 2021IIROC Trade Resumption - LLP",LLP
 "Aug 26, 2021IIROC Trading Halt - LLP",LLP
 "Aug 26, 2021IIROC Trading Resumption - SOI",SOI
-"Aug 26, 2021IIROC Trading Halt - WNDR",WNDR
-"Aug 26, 2021IIROC Trading Halt - GAC.P",GAC.P
-"Aug 26, 2021IIROC Trading Halt - DGL.P",DGL.P
