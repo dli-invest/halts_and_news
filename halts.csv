@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 2, 2021IIROC Trading Halt - FCC",FCC
+"Sep 2, 2021IIROC Trade Resumption - AUSA",AUSA
 "Sep 2, 2021IIROC Trading Halt - EIF.DB.H",EIF.DB.H
 "Sep 2, 2021IIROC Trade Resumption - BIP.PR.C",BIP.PR.C
 "Sep 1, 2021IIROC Trading Halt - GPY",GPY
@@ -22,5 +24,3 @@ Halts,Listing
 "Aug 31, 2021IIROC Trade Resumption - WNDR",WNDR
 "Aug 31, 2021IIROC Trading Halt - MDF.R",MDF.R
 "Aug 30, 2021IIROC Trading Resumption - PANO.P",PANO.P
-"Aug 30, 2021IIROC Trading Halt - SYG.H",SYG.H
-"Aug 30, 2021IIROC Trading Resumption - AUC",AUC
