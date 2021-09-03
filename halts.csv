@@ -1,4 +1,7 @@
 Halts,Listing
+"Sep 3, 2021IIROC Trading Halt - IAU",IAU
+"Sep 3, 2021IIROC Trading Resumption - AGX",AGX
+"Sep 3, 2021IIROC Trading Halt - AGX",AGX
 "Sep 3, 2021IIROC Trading Resumption - SHL",SHL
 "Sep 3, 2021IIROC Trading Resumption - FCC",FCC
 "Sep 3, 2021IIROC Trade Resumption - FC.DB.K",FC.DB.K
@@ -21,6 +24,3 @@ Halts,Listing
 "Sep 1, 2021IIROC Trade Resumption - CYBN",CYBN
 "Sep 1, 2021IIROC Trading Halt - KUU",KUU
 "Sep 1, 2021IIROC Trading Halt - GAGE",GAGE
-"Sep 1, 2021IIROC Trading Halt - TER",TER
-"Aug 31, 2021IIROC Trade Resumption - VRT",VRT
-"Aug 31, 2021IIROC Trading Resumption - ASI",ASI
