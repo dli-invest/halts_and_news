@@ -1,4 +1,10 @@
 Halts,Listing
+"Sep 3, 2021IIROC Trade Resumption - FC.DB.K",FC.DB.K
+"Sep 3, 2021IIROC Trading Halt - SHL",SHL
+"Sep 3, 2021IIROC Trading Resumption - KUU",KUU
+"Sep 3, 2021IIROC Trading Halt - FC.DB.K",FC.DB.K
+"Sep 3, 2021IIROC Trading Halt - OTC formerly ""QBC.P""","""QBC.P"""
+"Sep 3, 2021IIROC Trading Halt - MNO",MNO
 "Sep 2, 2021IIROC Trading Halt - MFX",MFX
 "Sep 2, 2021IIROC Trading Halt - FCC",FCC
 "Sep 2, 2021IIROC Trade Resumption - AUSA",AUSA
@@ -17,10 +23,4 @@ Halts,Listing
 "Aug 31, 2021IIROC Trade Resumption - VRT",VRT
 "Aug 31, 2021IIROC Trading Resumption - ASI",ASI
 "Aug 31, 2021IIROC Trading Halt - CONE",CONE
-"Aug 31, 2021IIROC Trading Halt - MDF.R",MDF.R
-"Aug 31, 2021IIROC Trade Resumption - MDF.R",MDF.R
-"Aug 31, 2021IIROC Trading Resumption - NBM",NBM
-"Aug 31, 2021IIROC Trading Halt - NBM",NBM
-"Aug 31, 2021IIROC Trading Halt - SDE.N",SDE.N
-"Aug 31, 2021IIROC Trade Resumption - WNDR",WNDR
 "Aug 31, 2021IIROC Trading Halt - MDF.R",MDF.R
