@@ -1,4 +1,14 @@
 Halts,Listing
+"Sep 7, 2021IIROC Trading Halt - TRIP",TRIP
+"Sep 7, 2021IIROC Trade Resumption - IAU",IAU
+"Sep 7, 2021IIROC Trading Halt - AZZ",AZZ
+"Sep 7, 2021IIROC Trading Halt - PDM",PDM
+"Sep 7, 2021IIROC Trading Halt - KUB",KUB
+"Sep 7, 2021IIROC Trading Halt - EU",EU
+"Sep 7, 2021IIROC Trading Halt - SGD",SGD
+"Sep 7, 2021IIROC Trading Halt - EI",EI
+"Sep 7, 2021IIROC Trading Halt - VRT",VRT
+"Sep 7, 2021IIROC Trading Halt - TGR",TGR
 "Sep 3, 2021IIROC Trading Halt - IAU",IAU
 "Sep 3, 2021IIROC Trading Resumption - AGX",AGX
 "Sep 3, 2021IIROC Trading Halt - AGX",AGX
@@ -14,13 +24,3 @@ Halts,Listing
 "Sep 2, 2021IIROC Trading Halt - FCC",FCC
 "Sep 2, 2021IIROC Trade Resumption - AUSA",AUSA
 "Sep 2, 2021IIROC Trading Halt - EIF.DB.H",EIF.DB.H
-"Sep 2, 2021IIROC Trade Resumption - BIP.PR.C",BIP.PR.C
-"Sep 1, 2021IIROC Trading Halt - GPY",GPY
-"Sep 1, 2021IIROC Trading Halt - BIP.PR.C",BIP.PR.C
-"Sep 1, 2021IIROC Trading Halt - RNP.WT",RNP.WT
-"Sep 1, 2021IIROC Trade Resumption - TER",TER
-"Sep 1, 2021IIROC Trade Resumption - GAGE",GAGE
-"Sep 1, 2021IIROC Trading Halt - CYBN",CYBN
-"Sep 1, 2021IIROC Trade Resumption - CYBN",CYBN
-"Sep 1, 2021IIROC Trading Halt - KUU",KUU
-"Sep 1, 2021IIROC Trading Halt - GAGE",GAGE
