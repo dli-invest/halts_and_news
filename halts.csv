@@ -1,4 +1,20 @@
 Halts,Listing
+"Sep 7, 2021IIROC Trading Resumption - MRS",MRS
+"Sep 7, 2021IIROC Trading Halt - ETHH.U",ETHH.U
+"Sep 7, 2021IIROC Trade Resumption - ETHH.U",ETHH.U
+"Sep 7, 2021IIROC Trade Resumption - ETHX.U",ETHX.U
+"Sep 7, 2021IIROC Trading Halt - ETHX.U",ETHX.U
+"Sep 7, 2021IIROC Trade Resumption - ETHH.B",ETHH.B
+"Sep 7, 2021IIROC Trading Halt - ETHH.B",ETHH.B
+"Sep 7, 2021IIROC Trading Halt - MRS",MRS
+"Sep 7, 2021IIROC Trading Halt - ETHX.B",ETHX.B
+"Sep 7, 2021IIROC Trade Resumption - ETHX.B",ETHX.B
+"Sep 7, 2021IIROC Trade Resumption - ETHR",ETHR
+"Sep 7, 2021IIROC Trading Halt - ETHR",ETHR
+"Sep 7, 2021IIROC Trading Halt - ETHH",ETHH
+"Sep 7, 2021IIROC Trade Resumption - ETHH",ETHH
+"Sep 7, 2021IIROC Trade Resumption - SGD",SGD
+"Sep 7, 2021IIROC Trading Resumption - MNO",MNO
 "Sep 7, 2021IIROC Trade Resumption - AZZ",AZZ
 "Sep 7, 2021IIROC Trading Resumption - EU",EU
 "Sep 7, 2021IIROC Trading Resumption - KUB",KUB
@@ -8,19 +24,3 @@ Halts,Listing
 "Sep 7, 2021IIROC Trading Halt - AZZ",AZZ
 "Sep 7, 2021IIROC Trading Halt - PDM",PDM
 "Sep 7, 2021IIROC Trading Halt - KUB",KUB
-"Sep 7, 2021IIROC Trading Halt - EU",EU
-"Sep 7, 2021IIROC Trading Halt - SGD",SGD
-"Sep 7, 2021IIROC Trading Halt - EI",EI
-"Sep 7, 2021IIROC Trading Halt - VRT",VRT
-"Sep 7, 2021IIROC Trading Halt - TGR",TGR
-"Sep 3, 2021IIROC Trading Halt - IAU",IAU
-"Sep 3, 2021IIROC Trading Resumption - AGX",AGX
-"Sep 3, 2021IIROC Trading Halt - AGX",AGX
-"Sep 3, 2021IIROC Trading Resumption - SHL",SHL
-"Sep 3, 2021IIROC Trading Resumption - FCC",FCC
-"Sep 3, 2021IIROC Trade Resumption - FC.DB.K",FC.DB.K
-"Sep 3, 2021IIROC Trading Halt - SHL",SHL
-"Sep 3, 2021IIROC Trading Resumption - KUU",KUU
-"Sep 3, 2021IIROC Trading Halt - FC.DB.K",FC.DB.K
-"Sep 3, 2021IIROC Trading Halt - OTC formerly ""QBC.P""","""QBC.P"""
-"Sep 3, 2021IIROC Trading Halt - MNO",MNO
