@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 7, 2021IIROC Trading Resumption - DAR",DAR
+"Sep 7, 2021IIROC Trading Halt - QPM",QPM
 "Sep 7, 2021IIROC Trading Resumption - MCR",MCR
 "Sep 7, 2021IIROC Trade Resumption - TRIP",TRIP
 "Sep 7, 2021IIROC Trading Halt - MCR",MCR
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 7, 2021IIROC Trading Resumption - EU",EU
 "Sep 7, 2021IIROC Trading Resumption - KUB",KUB
 "Sep 7, 2021IIROC Trading Resumption - PDM",PDM
-"Sep 7, 2021IIROC Trading Halt - TRIP",TRIP
-"Sep 7, 2021IIROC Trade Resumption - IAU",IAU
