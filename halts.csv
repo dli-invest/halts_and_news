@@ -1,4 +1,10 @@
 Halts,Listing
+"Sep 8, 2021IIROC Trading Halt - POND",POND
+"Sep 8, 2021IIROC Trading Halt - GOGR.UN",GOGR.UN
+"Sep 8, 2021IIROC Trade Resumption - AQA",AQA
+"Sep 8, 2021IIROC Trading Halt - VLV",VLV
+"Sep 8, 2021IIROC Trading Halt - CTWO.P",CTWO.P
+"Sep 8, 2021IIROC Trading Halt - ML",ML
 "Sep 7, 2021IIROC Trading Halt - AQA",AQA
 "Sep 7, 2021IIROC Trade Resumption - CGII",CGII
 "Sep 7, 2021IIROC Trading Resumption - DAR",DAR
@@ -18,9 +24,3 @@ Halts,Listing
 "Sep 7, 2021IIROC Trade Resumption - ETHX.B",ETHX.B
 "Sep 7, 2021IIROC Trade Resumption - ETHR",ETHR
 "Sep 7, 2021IIROC Trading Halt - ETHR",ETHR
-"Sep 7, 2021IIROC Trading Halt - ETHH",ETHH
-"Sep 7, 2021IIROC Trade Resumption - ETHH",ETHH
-"Sep 7, 2021IIROC Trade Resumption - SGD",SGD
-"Sep 7, 2021IIROC Trading Resumption - MNO",MNO
-"Sep 7, 2021IIROC Trade Resumption - AZZ",AZZ
-"Sep 7, 2021IIROC Trading Resumption - EU",EU
