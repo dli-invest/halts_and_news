@@ -1,4 +1,8 @@
 Halts,Listing
+"Sep 9, 2021IIROC Trading Halt - TCN.DB.U",TCN.DB.U
+"Sep 9, 2021IIROC Trading Halt - ECAP.P",ECAP.P
+"Sep 9, 2021IIROC Trading Halt - GCM.NT.U",GCM.NT.U
+"Sep 9, 2021IIROC Trade Resumption - FRU",FRU
 "Sep 8, 2021IIROC Trading Resumption - SAH",SAH
 "Sep 8, 2021IIROC Trading Halt - FRU",FRU
 "Sep 8, 2021IIROC Trading Resumption - SAC.P",SAC.P
@@ -20,7 +24,3 @@ Halts,Listing
 "Sep 7, 2021IIROC Trade Resumption - CGII",CGII
 "Sep 7, 2021IIROC Trading Resumption - DAR",DAR
 "Sep 7, 2021IIROC Trading Halt - QPM",QPM
-"Sep 7, 2021IIROC Trading Resumption - MCR",MCR
-"Sep 7, 2021IIROC Trade Resumption - TRIP",TRIP
-"Sep 7, 2021IIROC Trading Halt - MCR",MCR
-"Sep 7, 2021IIROC Trading Resumption - MRS",MRS
