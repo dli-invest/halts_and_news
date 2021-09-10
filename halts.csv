@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 10, 2021IIROC Trading Resumption - ECAP.P",ECAP.P
+"Sep 10, 2021IIROC Trading Resumption - BUZH.P",BUZH.P
 "Sep 10, 2021IIROC Trade Resumption - EOM",EOM
 "Sep 10, 2021IIROC Trading Halt - NVT",NVT
 "Sep 10, 2021IIROC Trading Resumption - GASX",GASX
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 8, 2021IIROC Trading Resumption - SAC.P",SAC.P
 "Sep 8, 2021IIROC Trading Resumption - ML",ML
 "Sep 8, 2021IIROC Trade Resumption - TCL.A",TCL.A
-"Sep 8, 2021IIROC Trading Halt - TCL.A",TCL.A
-"Sep 8, 2021IIROC Trading Resumption - AGC",AGC
