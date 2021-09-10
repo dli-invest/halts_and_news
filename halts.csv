@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 10, 2021IIROC Trading Halt - NVT",NVT
+"Sep 10, 2021IIROC Trading Resumption - GASX",GASX
 "Sep 10, 2021IIROC Trading Halt - SCPO.UN",SCPO.UN
 "Sep 10, 2021IIROC Trade Resumption - DFN",DFN
 "Sep 9, 2021IIROC Trading Halt - VIK",VIK
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 8, 2021IIROC Trading Halt - TCL.A",TCL.A
 "Sep 8, 2021IIROC Trading Resumption - AGC",AGC
 "Sep 8, 2021IIROC Trading Resumption - QPM",QPM
-"Sep 8, 2021IIROC Trading Resumption - POND",POND
-"Sep 8, 2021IIROC Trading Halt - AGC",AGC
