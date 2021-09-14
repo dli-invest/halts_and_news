@@ -1,4 +1,7 @@
 Halts,Listing
+"Sep 14, 2021IIROC Trade Resumption - ET",ET
+"Sep 14, 2021IIROC Trading Halt - PET",PET
+"Sep 14, 2021IIROC Trading Halt - ET",ET
 "Sep 14, 2021IIROC Trading Halt - TGIF.WT",TGIF.WT
 "Sep 14, 2021IIROC Trading Resumption - DME",DME
 "Sep 14, 2021IIROC Trading Halt - GRDM",GRDM
@@ -21,6 +24,3 @@ Halts,Listing
 "Sep 10, 2021IIROC Trading Resumption - NVT",NVT
 "Sep 10, 2021IIROC Trading Resumption - ECAP.P",ECAP.P
 "Sep 10, 2021IIROC Trading Resumption - BUZH.P",BUZH.P
-"Sep 10, 2021IIROC Trade Resumption - EOM",EOM
-"Sep 10, 2021IIROC Trading Halt - NVT",NVT
-"Sep 10, 2021IIROC Trading Resumption - GASX",GASX
