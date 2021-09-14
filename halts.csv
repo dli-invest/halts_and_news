@@ -1,4 +1,9 @@
 Halts,Listing
+"Sep 14, 2021IIROC Trading Halt - TGIF.WT",TGIF.WT
+"Sep 14, 2021IIROC Trading Resumption - DME",DME
+"Sep 14, 2021IIROC Trading Halt - GRDM",GRDM
+"Sep 14, 2021IIROC Trading Halt - SEI",SEI
+"Sep 14, 2021IIROC Trading Resumption - GRDM",GRDM
 "Sep 14, 2021IIROC Trading Halt - AUSA",AUSA
 "Sep 14, 2021IIROC Trading Resumption - ITR",ITR
 "Sep 13, 2021IIROC Trading Halt - ITR",ITR
@@ -19,8 +24,3 @@ Halts,Listing
 "Sep 10, 2021IIROC Trade Resumption - EOM",EOM
 "Sep 10, 2021IIROC Trading Halt - NVT",NVT
 "Sep 10, 2021IIROC Trading Resumption - GASX",GASX
-"Sep 10, 2021IIROC Trading Halt - SCPO.UN",SCPO.UN
-"Sep 10, 2021IIROC Trade Resumption - DFN",DFN
-"Sep 9, 2021IIROC Trading Halt - VIK",VIK
-"Sep 9, 2021IIROC Trading Resumption - OEG.H",OEG.H
-"Sep 9, 2021IIROC Trading Resumption - OTC",OTC
