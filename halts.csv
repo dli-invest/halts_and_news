@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 15, 2021IIROC Trading Resumption - SEI",SEI
+"Sep 15, 2021IIROC Trading Resumption - SGO",SGO
 "Sep 15, 2021IIROC Trading Halt - SGO",SGO
 "Sep 15, 2021IIROC Trade Resumption - AUSA",AUSA
 "Sep 15, 2021IIROC Trade Resumption - PET",PET
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 13, 2021IIROC Trading Halt - DME",DME
 "Sep 13, 2021IIROC Trading Halt - SHP",SHP
 "Sep 13, 2021IIROC Trade Resumption - AVCN",AVCN
-"Sep 13, 2021IIROC Trading Halt - PLUS",PLUS
-"Sep 13, 2021IIROC Trading Halt - PDFI",PDFI
