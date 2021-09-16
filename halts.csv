@@ -1,4 +1,7 @@
 Halts,Listing
+"Sep 16, 2021IIROC Trading Halt - FD",FD
+"Sep 16, 2021IIROC Trading Halt - FWZ",FWZ
+"Sep 16, 2021IIROC Trading Halt - LAD",LAD
 "Sep 16, 2021IIROC Trading Halt - VRT",VRT
 "Sep 15, 2021IIROC Trading Resumption - SATO",SATO
 "Sep 15, 2021IIROC Trading Resumption - SEI",SEI
@@ -21,6 +24,3 @@ Halts,Listing
 "Sep 13, 2021IIROC Trade Resumption - PDFI",PDFI
 "Sep 13, 2021IIROC Trading Resumption - URC",URC
 "Sep 13, 2021IIROC Trading Halt - URC",URC
-"Sep 13, 2021IIROC Trade Resumption - SHP",SHP
-"Sep 13, 2021IIROC Trading Resumption - SCPO.UN",SCPO.UN
-"Sep 13, 2021IIROC Trading Halt - DME",DME
