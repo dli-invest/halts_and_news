@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 21, 2021IIROC Trading Halt - FOBI",FOBI
+"Sep 21, 2021IIROC Trading Resumption - FOBI",FOBI
 "Sep 21, 2021IIROC Trade Resumption - KNR",KNR
 "Sep 21, 2021IIROC Trading Halt - KNR",KNR
 "Sep 20, 2021IIROC Trading Resumption - FD",FD
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 17, 2021IIROC Trading Halt - FD",FD
 "Sep 17, 2021IIROC Trading Halt - EHT",EHT
 "Sep 17, 2021IIROC Trade Resumption - EI",EI
-"Sep 17, 2021IIROC Trading Resumption - FD",FD
-"Sep 17, 2021IIROC Trading Halt - FD",FD
