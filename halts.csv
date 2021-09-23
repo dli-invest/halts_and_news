@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 23, 2021IIROC Trading Halt - KDC",KDC
+"Sep 23, 2021IIROC Trading Halt - ACOG",ACOG
 "Sep 22, 2021IIROC Trading Halt - MGLD",MGLD
 "Sep 22, 2021IIROC Trading Halt - SGR.R",SGR.R
 "Sep 22, 2021IIROC Trading Halt - CAGR",CAGR
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 20, 2021IIROC Trading Halt - OTGO",OTGO
 "Sep 20, 2021IIROC Trading Resumption - FD",FD
 "Sep 20, 2021IIROC Trading Halt - FD",FD
-"Sep 20, 2021IIROC Trading Halt - FD",FD
-"Sep 20, 2021IIROC Trade Resumption - BEV",BEV
