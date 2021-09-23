@@ -30,6 +30,8 @@ Zacks,/news/whats-cards-scotiabank-bns-q3-122112237.html,What's in the Cards for
 CNW Group,/news/scotiabank-recognized-outstanding-leadership-global-134100661.html,Scotiabank recognized for Outstanding Leadership in the Global Finance 2021 Sustainable Finance Awards,BNS.TO
 News Direct,/news/scotiabank-issues-usd-1-billion-130107845.html,Scotiabank Issues USD 1 Billion Sustainability Bond,BNS.TO
 Yahoo Finance Video,/video/blackberry-rallies-earnings-beat-darden-140816690.html,"Blackberry rallies on earnings beat, Darden jumps on earnings, Toast surges on debut",BB.TO
+Investor's Business Daily,/m/c45a7fee-41ce-3694-bc04-c5f163301fc7/dow-jones-rallies-with-china.html,"Dow Jones Rallies With China Set For Evergrande Collapse; Microsoft, Nvidia Offer Entries; Meme Stock Surges",BB.TO
+Insider Monkey,/news/why-10-stocks-surging-thursday-201417989.html,Why These 10 Stocks Are Surging on Thursday,BB.TO
 Investor's Business Daily,/m/7a61721c-1b1f-3257-9fd6-6c1ab575f5f9/is-blackberry-stock-a-buy-.html,"Is BlackBerry Stock A Buy? What Fundamentals, Fund Metrics, Chart Say",BB.TO
 Motley Fool,/m/7910b377-3d71-363f-a450-b2a7ea6b3df4/2-tech-stocks-climbing-higher.html,2 Tech Stocks Climbing Higher on Thursday,BB.TO
 Benzinga,/news/why-blackberry-shares-trading-higher-140219356.html,Why BlackBerry Shares Are Trading Higher Today,BB.TO
@@ -37,8 +39,6 @@ Insider Monkey,/news/10-stocks-making-big-moves-130435827.html,10 Stocks Making 
 TheStreet.com,/m/39350952-a4c0-3541-b998-60b70ce0da1f/5-top-stock-gainers-for.html,"5 Top Stock Gainers for Thursday: BlackBerry, Salesforce, Darden",BB.TO
 Barrons.com,/m/3422c530-0c32-3103-8588-b114833dce9b/blackberry-reported-earnings-.html,BlackBerry Reported Earnings. Here’s What To Know.,BB.TO
 Zacks,/news/blackberry-bb-q2-loss-meets-124112921.html,"BlackBerry (BB) Q2 Loss Meets Estimates, Shares Up on Solid Demand",BB.TO
-TheStreet.com,/m/df70a156-0aff-3f04-8f9b-c196b5eb479b/how-high-can-blackberry-go-.html,How High Can BlackBerry Go? The Chart Gives a Hint.,BB.TO
-PR Newswire,/news/cisa-deputy-director-nitin-natarajan-120000892.html,CISA Deputy Director Nitin Natarajan to Speak at BlackBerry Security Summit 2021,BB.TO
 Business Wire,/news/bragg-gaming-group-begins-trading-120000206.html,Bragg Gaming Group Begins Trading on Nasdaq Today,BRAG.TO
 Business Wire,/news/bragg-gaming-group-begin-trading-120000431.html,Bragg Gaming Group to Begin Trading on Nasdaq on August 27,BRAG.TO
 Business Wire,/news/bragg-oryx-gaming-strengthens-presence-120000037.html,Bragg’s ORYX Gaming Strengthens Presence in Greece After Taking Content Live with Novibet,BRAG.TO
@@ -285,6 +285,16 @@ GlobeNewswire,/news/cloudmd-issues-55-249-common-200000425.html,"CloudMD Issues 
 GlobeNewswire,/news/digital-transformation-healthcare-leaders-cloudmd-133600818.html,"Digital Transformation of Healthcare: Leaders of CloudMD, AI/ML, Reliq, and WELL Health Technologies Driving Explosive Revenue Growth with Innovation and M&A",DOC.V
 GlobeNewswire,/news/cloudmd-announces-closing-oncidium-acquisition-113000696.html,CloudMD Announces Closing of Oncidium Acquisition and Secures Credit Facilities of up to $62 Million,DOC.V
 Simply Wall St.,/news/cloudmd-software-services-cve-doc-082409511.html,"CloudMD Software & Services (CVE:DOC) May Not Be Profitable But It Seems To Be Managing Its Debt Just Fine, Anyway",DOC.V
+GlobeNewswire,/news/growth-momentum-leaders-ceo-lightspeed-130400453.html,"Growth Momentum Leaders: CEO’s of Lightspeed Commerce, ESE Entertainment, WELL Health, and AI/ML Scaling Revenue Growth with Innovation, New Markets and M&A",ESE.V
+GlobeNewswire,/news/ese-entertainment-inc-announces-fiscal-120000463.html,ESE Entertainment Inc. Announces Fiscal 2021 Third Quarter Financial Results,ESE.V
+GlobeNewswire,/news/digital-entertainment-winners-ceo-rush-150200454.html,"Digital Entertainment Winners: CEO’s of Rush Street Interactive, ESE Entertainment, Electronic Arts, and FansUnite Pursue Multi-Billion Dollar Market Opportunities in E-Sports, I-Gaming and Sports Betting",ESE.V
+GlobeNewswire,/news/digital-motorsports-launches-technology-digital-130000726.html,Digital Motorsports Launches New Technology and Digital Motorsports World Cup at the ADAC Expo in Germany,ESE.V
+GlobeNewswire,/news/ceo-crocs-reliq-health-tech-135400850.html,"CEO’s of Crocs, Reliq Health Tech, Zoom Video, and ESE Entertainment Discuss New MegaTrends Driving Growth in Telehealth, E-Sports, Iconic Brands, and Video Communications",ESE.V
+GlobeNewswire,/news/ese-completes-acquisition-auto-simulation-131500447.html,ESE Completes Acquisition of Auto Simulation Limited T/A Digital Motorsports,ESE.V
+GlobeNewswire,/news/ese-signs-multiyear-agreement-fia-130000782.html,"ESE Signs Multiyear Agreement with FIA, the Governing Body of World Motor Sport, for Marketing Rights",ESE.V
+GlobeNewswire,/news/ceo-lululemon-ese-entertainment-lightspeed-120400133.html,"CEO’s of lululemon, ESE Entertainment, Lightspeed Commerce and AI/ML Innovations Discuss New Megatrends in E-Sports, HealthTech, E-Commerce, & Wellness Powering Revenue Growth",ESE.V
+GlobeNewswire,/news/ese-secures-tv-distribution-deal-130000963.html,ESE Secures TV Distribution Deal with ELEVEN SPORTS for the Porsche Esports Sprint Challenge Poland,ESE.V
+GlobeNewswire,/news/e-sports-digital-entertainment-leaders-120000913.html,"E-Sports & Digital Entertainment Leaders: CEOs of Zynga, ESE Entertainment, Corsair Gaming, and Electronic Arts Driving Explosive Revenue Growth",ESE.V
 CNW Group,/news/facedrive-confirms-no-material-undisclosed-152600845.html,Facedrive Confirms No Material Undisclosed Information,FD.V
 CNW Group,/news/iiroc-trading-halt-fd-134500857.html,IIROC Trading Halt - FD,FD.V
 CNW Group,/news/iiroc-trading-resumption-fd-134300917.html,IIROC Trading Resumption - FD,FD.V
