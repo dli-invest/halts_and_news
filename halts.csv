@@ -1,4 +1,8 @@
 Halts,Listing
+"Sep 24, 2021IIROC Trading Resumption - MAR.UN",MAR.UN
+"Sep 24, 2021IIROC Trading Halt - ML",ML
+"Sep 24, 2021IIROC Trading Halt - FRU.N",FRU.N
+"Sep 24, 2021IIROC Trading Halt - MAR.UN",MAR.UN
 "Sep 24, 2021IIROC Trade Resumption - CCM",CCM
 "Sep 24, 2021IIROC Trading Halt - CCM",CCM
 "Sep 24, 2021IIROC Trade Resumption - EMA.PR.L",EMA.PR.L
@@ -20,7 +24,3 @@ Halts,Listing
 "Sep 22, 2021IIROC Trade Resumption - FRU.N",FRU.N
 "Sep 22, 2021IIROC Trading Halt - FRU.N",FRU.N
 "Sep 22, 2021IIROC Trade Resumption - DGS",DGS
-"Sep 22, 2021IIROC Trade Resumption - GTMS",GTMS
-"Sep 21, 2021IIROC Trading Halt - GTMS",GTMS
-"Sep 21, 2021IIROC Trading Halt - DGS",DGS
-"Sep 21, 2021IIROC Trading Halt - FOBI",FOBI
