@@ -1,4 +1,8 @@
 Halts,Listing
+"Sep 28, 2021IIROC Trading Resumption - FD",FD
+"Sep 28, 2021IIROC Trading Halt - FD",FD
+"Sep 28, 2021IIROC Trading Halt - STUV",STUV
+"Sep 28, 2021IIROC Trading Resumption - NAM",NAM
 "Sep 28, 2021IIROC Trade Resumption - BLN",BLN
 "Sep 28, 2021IIROC Trade Resumption - HWX",HWX
 "Sep 28, 2021IIROC Trading Resumption - VPT",VPT
@@ -20,7 +24,3 @@ Halts,Listing
 "Sep 24, 2021IIROC Trade Resumption - CCM",CCM
 "Sep 24, 2021IIROC Trading Halt - CCM",CCM
 "Sep 24, 2021IIROC Trade Resumption - EMA.PR.L",EMA.PR.L
-"Sep 24, 2021IIROC Trading Halt - EMA.PR.L",EMA.PR.L
-"Sep 23, 2021IIROC Trading Halt - CDB.RT",CDB.RT
-"Sep 23, 2021IIROC Trading Resumption - ACOG",ACOG
-"Sep 23, 2021IIROC Trading Resumption - FD",FD
