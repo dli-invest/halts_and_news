@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 28, 2021IIROC Trading Halt - IPO",IPO
+"Sep 28, 2021IIROC Trading Halt - PSEC",PSEC
 "Sep 28, 2021IIROC Trading Resumption - ML",ML
 "Sep 28, 2021IIROC Trading Resumption - STUV",STUV
 "Sep 28, 2021IIROC Trading Resumption - FD",FD
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 24, 2021IIROC Trading Resumption - MAR.UN",MAR.UN
 "Sep 24, 2021IIROC Trading Halt - ML",ML
 "Sep 24, 2021IIROC Trading Halt - FRU.N",FRU.N
-"Sep 24, 2021IIROC Trading Halt - MAR.UN",MAR.UN
-"Sep 24, 2021IIROC Trade Resumption - CCM",CCM
