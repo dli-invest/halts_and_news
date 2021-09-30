@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 30, 2021IIROC Trading Halt - ARR",ARR
+"Sep 30, 2021IIROC Trading Halt - JUMP",JUMP
 "Sep 30, 2021IIROC Trade Resumption - DHT.UN",DHT.UN
 "Sep 30, 2021IIROC Trading Resumption - TVI",TVI
 "Sep 30, 2021IIROC Trading Halt - DHT.UN",DHT.UN
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 28, 2021IIROC Trading Resumption - FD",FD
 "Sep 28, 2021IIROC Trading Halt - FD",FD
 "Sep 28, 2021IIROC Trading Halt - STUV",STUV
-"Sep 28, 2021IIROC Trading Resumption - NAM",NAM
-"Sep 28, 2021IIROC Trade Resumption - BLN",BLN
