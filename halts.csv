@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 30, 2021IIROC Trading Halt - BIG",BIG
+"Sep 30, 2021IIROC Trading Resumption - KO",KO
 "Sep 30, 2021IIROC Trading Resumption - EESH.P",EESH.P
 "Sep 30, 2021IIROC Trading Halt - KO",KO
 "Sep 30, 2021IIROC Trade Resumption - ARR",ARR
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 29, 2021IIROC Trade Resumption - IPO",IPO
 "Sep 28, 2021IIROC Trading Halt - IPO",IPO
 "Sep 28, 2021IIROC Trading Halt - PSEC",PSEC
-"Sep 28, 2021IIROC Trading Resumption - ML",ML
-"Sep 28, 2021IIROC Trading Resumption - STUV",STUV
