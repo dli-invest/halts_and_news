@@ -1,4 +1,6 @@
 Halts,Listing
+"Oct 4, 2021IIROC Trade Resumption - ELEM",ELEM
+"Oct 4, 2021IIROC Trading Halt - ELEM",ELEM
 "Oct 4, 2021IIROC Trade Resumption - AIM",AIM
 "Oct 4, 2021IIROC Trading Halt - YUB.P",YUB.P
 "Oct 4, 2021IIROC Trading Halt - AIM",AIM
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 30, 2021IIROC Trading Halt - JUMP",JUMP
 "Sep 30, 2021IIROC Trade Resumption - DHT.UN",DHT.UN
 "Sep 30, 2021IIROC Trading Resumption - TVI",TVI
-"Sep 30, 2021IIROC Trading Halt - DHT.UN",DHT.UN
-"Sep 30, 2021IIROC Trade Resumption - BIGG",BIGG
