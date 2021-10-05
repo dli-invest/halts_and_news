@@ -1,4 +1,6 @@
 Halts,Listing
+"Oct 5, 2021IIROC Trading Halt - GDV",GDV
+"Oct 5, 2021IIROC Trading Resumption - BARU",BARU
 "Oct 5, 2021IIROC Trading Halt - LQID",LQID
 "Oct 5, 2021IIROC Trading Resumption - ARU",ARU
 "Oct 5, 2021IIROC Trading Halt - PJO",PJO
@@ -22,5 +24,3 @@ Halts,Listing
 "Oct 4, 2021IIROC Trading Halt - BCC.P",BCC.P
 "Oct 1, 2021IIROC Trading Halt - BUZH.P",BUZH.P
 "Oct 1, 2021IIROC Trading Resumption - PRE",PRE
-"Oct 1, 2021IIROC Trading Resumption - CAGR",CAGR
-"Oct 1, 2021IIROC Trading Resumption - CAP",CAP
