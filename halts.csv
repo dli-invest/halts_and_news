@@ -1,4 +1,9 @@
 Halts,Listing
+"Oct 5, 2021IIROC Trading Halt - CDC",CDC
+"Oct 5, 2021IIROC Trading Halt - BARU",BARU
+"Oct 5, 2021IIROC Trading Halt - ORCS.P",ORCS.P
+"Oct 5, 2021IIROC Trading Halt - NTS",NTS
+"Oct 5, 2021IIROC Trading Resumption - SSSS.P",SSSS.P
 "Oct 4, 2021IIROC Trading Resumption - IBO",IBO
 "Oct 4, 2021IIROC Trading Resumption - SSSS.P",SSSS.P
 "Oct 4, 2021IIROC Trading Resumption - BIG",BIG
@@ -19,8 +24,3 @@ Halts,Listing
 "Oct 1, 2021IIROC Trading Resumption - JUMP",JUMP
 "Oct 1, 2021IIROC Trading Halt - FOBI",FOBI
 "Oct 1, 2021IIROC Trade Resumption - ACRG.A.U",ACRG.A.U
-"Oct 1, 2021IIROC Trading Halt - ACRG.A.U",ACRG.A.U
-"Oct 1, 2021IIROC Trading Halt - HARV",HARV
-"Sep 30, 2021IIROC Trading Halt - BIG",BIG
-"Sep 30, 2021IIROC Trading Resumption - KO",KO
-"Sep 30, 2021IIROC Trading Resumption - EESH.P",EESH.P
