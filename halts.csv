@@ -1,4 +1,9 @@
 Halts,Listing
+"Oct 7, 2021IIROC Trading Halt - FD",FD
+"Oct 7, 2021IIROC Trading Resumption - FD",FD
+"Oct 7, 2021IIROC Trade Resumption - APLI",APLI
+"Oct 7, 2021IIROC Trading Resumption - FOBI",FOBI
+"Oct 7, 2021IIROC Trade Resumption - GSK",GSK
 "Oct 7, 2021IIROC Trade Resumption - CPLF",CPLF
 "Oct 7, 2021IIROC Trading Halt - CPLF",CPLF
 "Oct 7, 2021IIROC Trade Resumption - TRL",TRL
@@ -19,8 +24,3 @@ Halts,Listing
 "Oct 6, 2021IIROC Trading Halt - LILL.P",LILL.P
 "Oct 5, 2021IIROC Trading Resumption - GYM",GYM
 "Oct 5, 2021IIROC Trading Resumption - SLK.H",SLK.H
-"Oct 5, 2021IIROC Trading Halt - AND",AND
-"Oct 5, 2021IIROC Trading Resumption - BCC.P",BCC.P
-"Oct 5, 2021IIROC Trading Halt - GDV",GDV
-"Oct 5, 2021IIROC Trading Resumption - BARU",BARU
-"Oct 5, 2021IIROC Trading Halt - LQID",LQID
