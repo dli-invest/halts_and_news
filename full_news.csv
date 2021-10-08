@@ -1,4 +1,5 @@
 source,link_href,link_text,ticker
+Yahoo Finance Video,/video/tsmc-reports-record-sales-sundial-135754006.html,"TSMC reports record sales, Sundial acquiring Alcanna, JPM upgrades Oatly stock",CLIQ.TO
 GlobeNewswire,/news/alcanna-inc-acquired-sundial-growers-220000797.html,Alcanna Inc. to be Acquired by Sundial Growers Inc.,CLIQ.TO
 CNW Group,/news/alcanna-responds-recent-trading-activity-004600384.html,Alcanna Responds to Recent Trading Activity,CLIQ.TO
 PR Newswire,/news/nova-cannabis-webcast-live-virtualinvestorconferences-123500425.html,Nova Cannabis to Webcast Live at VirtualInvestorConferences.com September 8th,CLIQ.TO
@@ -8,7 +9,6 @@ GlobeNewswire,/news/alcanna-inc-announces-timing-second-110000716.html,Alcanna I
 CNW Group,/news/nova-cannabis-announces-graduation-tsx-110000357.html,Nova Cannabis Announces Graduation to the TSX,CLIQ.TO
 GlobeNewswire,/news/alcanna-announces-acceptance-normal-course-110000179.html,Alcanna Announces Acceptance of Normal Course Issuer Bid,CLIQ.TO
 PR Newswire,/news/nova-cannabis-webcast-live-virtualinvestorconferences-123500063.html,Nova Cannabis to Webcast Live at VirtualInvestorConferences.com June 30th,CLIQ.TO
-Simply Wall St.,/news/think-alcanna-tse-cliq-stay-074640712.html,We Think Alcanna (TSE:CLIQ) Can Stay On Top Of Its Debt,CLIQ.TO
 MarketWatch,/m/c48b1831-171a-36fd-a698-151d46ec3b70/aurora-cannabis-sales-shrink.html,"Aurora Cannabis sales shrink more than expected, stock falls in late trading",ACB.TO
 Investor's Business Daily,/m/6e8fb483-3ff2-3a41-8275-9e9949427873/are-any-marijuana-stocks-on.html,Are Any Marijuana Stocks On U.S. Exchanges Good Buys Right Now As Aurora Reports Earnings?,ACB.TO
 PR Newswire,/news/aurora-cannabis-announces-fiscal-2021-201500038.html,Aurora Cannabis Announces Fiscal 2021 Fourth Quarter Results,ACB.TO
@@ -49,6 +49,16 @@ CNW Group,/news/big-screen-back-ontario-moviegoers-170400585.html,THE BIG SCREEN
 CNW Group,/news/cineplex-vip-cinemas-brentwood-opens-150000451.html,Cineplex VIP Cinemas Brentwood Opens Today in Burnaby!,CGX.TO
 CNW Group,/news/ready-set-game-rec-room-150000622.html,"Ready, Set, Game! The Rec Room Is Now Open in Burnaby",CGX.TO
 CNW Group,/news/cineplex-introduces-mighty-pop-150000553.html,Cineplex Introduces Mighty Pop,CGX.TO
+Bloomberg,/news/software-firm-dye-durham-rejects-120042927.html,Dye & Durham Falls After Rejecting $2.8 Billion Buyout Offer,DND.TO
+CNW Group,/news/dye-durham-announces-recapitalization-credit-103500921.html,Dye & Durham Announces a Recapitalization of its Credit Facilities and Provides a Corporate Update,DND.TO
+CNW Group,/news/dye-durham-announces-completion-special-103000916.html,Dye & Durham Announces Completion of Special Committee Process,DND.TO
+CNW Group,/news/dye-durham-declares-quarterly-dividend-120000629.html,Dye & Durham Declares Quarterly Dividend Payment,DND.TO
+CNW Group,/news/dye-durham-provides-united-kingdoms-100000407.html,Dye & Durham Provides Update on the United Kingdom's Competition and Markets Authority's Initial Enforcement Order in Respect of TM Group Acquisition,DND.TO
+CNW Group,/news/united-kingdoms-competition-markets-authority-110000248.html,The United Kingdom's Competition and Markets Authority to Issue Initial Enforcement Order in Respect of TM Group Acquisition,DND.TO
+CNW Group,/news/dye-durham-reports-fourth-quarter-203000141.html,Dye & Durham Reports Fourth Quarter and Fiscal Year 2021 Financial Results,DND.TO
+CNW Group,/news/dye-durham-host-fourth-quarter-213000037.html,Dye & Durham to Host Fourth Quarter and Fiscal Year 2021 Conference Call,DND.TO
+CNW Group,/news/dye-durham-acquires-tm-group-110000542.html,Dye & Durham Acquires TM Group (UK) Limited,DND.TO
+CNW Group,/news/dye-durham-closes-acquisition-globalx-124300560.html,Dye & Durham Closes Acquisition of GlobalX,DND.TO
 CNW Group,/news/hut-8-mining-closes-us-151000141.html,Hut 8 Mining Closes US$173 Million Common Share Public Offering,HUT.TO
 CNW Group,/news/hut-8-mining-announces-pricing-115800009.html,Hut 8 Mining Announces Pricing of $US150 Million Public Offering,HUT.TO
 CNW Group,/news/hut-8-mining-announces-proposed-200500329.html,Hut 8 Mining Announces Proposed Public Offering,HUT.TO
