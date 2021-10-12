@@ -1,4 +1,5 @@
 Halts,Listing
+"Oct 12, 2021IIROC Trading Halt - IMCC.WT",IMCC.WT
 "Oct 12, 2021IIROC Trading Halt - IAN",IAN
 "Oct 12, 2021IIROC Trading Resumption - PXA",PXA
 "Oct 12, 2021IIROC Trading Resumption - VXL",VXL
@@ -23,4 +24,3 @@ Halts,Listing
 "Oct 7, 2021IIROC Trade Resumption - GSK",GSK
 "Oct 7, 2021IIROC Trade Resumption - CPLF",CPLF
 "Oct 7, 2021IIROC Trading Halt - CPLF",CPLF
-"Oct 7, 2021IIROC Trade Resumption - TRL",TRL
