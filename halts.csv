@@ -1,4 +1,10 @@
 Halts,Listing
+"Oct 12, 2021IIROC Trading Resumption - PML",PML
+"Oct 12, 2021IIROC Trading Halt - GDNP",GDNP
+"Oct 12, 2021IIROC Trading Halt - PML",PML
+"Oct 12, 2021IIROC Trading Resumption - ISO",ISO
+"Oct 12, 2021IIROC Trade Resumption - MEND",MEND
+"Oct 12, 2021IIROC Trading Halt - ISO",ISO
 "Oct 12, 2021IIROC Trading Halt - IMCC.WT",IMCC.WT
 "Oct 12, 2021IIROC Trading Halt - IAN",IAN
 "Oct 12, 2021IIROC Trading Resumption - PXA",PXA
@@ -18,9 +24,3 @@ Halts,Listing
 "Oct 7, 2021IIROC Trade Resumption - TONY",TONY
 "Oct 7, 2021IIROC Trading Halt - ORO",ORO
 "Oct 7, 2021IIROC Trading Halt - FD",FD
-"Oct 7, 2021IIROC Trading Resumption - FD",FD
-"Oct 7, 2021IIROC Trade Resumption - APLI",APLI
-"Oct 7, 2021IIROC Trading Resumption - FOBI",FOBI
-"Oct 7, 2021IIROC Trade Resumption - GSK",GSK
-"Oct 7, 2021IIROC Trade Resumption - CPLF",CPLF
-"Oct 7, 2021IIROC Trading Halt - CPLF",CPLF
