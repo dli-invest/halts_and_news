@@ -1,4 +1,9 @@
 Halts,Listing
+"Oct 12, 2021IIROC Trading Halt - VXL",VXL
+"Oct 12, 2021IIROC Trading Halt - SCZ",SCZ
+"Oct 12, 2021IIROC Trading Halt - MEND",MEND
+"Oct 12, 2021IIROC Trading Halt - BASQ.P",BASQ.P
+"Oct 12, 2021IIROC Trading Halt - PXA",PXA
 "Oct 8, 2021IIROC Trading Resumption - XYZ.P",XYZ.P
 "Oct 8, 2021IIROC Trading Resumption - FRS.P",FRS.P
 "Oct 8, 2021IIROC Trade Resumption - AUHI",AUHI
@@ -19,8 +24,3 @@ Halts,Listing
 "Oct 7, 2021IIROC Trading Halt - APLI",APLI
 "Oct 6, 2021IIROC Trading Resumption - ORCS.P",ORCS.P
 "Oct 6, 2021IIROC Trading Halt - TRL",TRL
-"Oct 6, 2021IIROC Trading Halt - GSK",GSK
-"Oct 6, 2021IIROC Trading Halt - EQX.WT",EQX.WT
-"Oct 6, 2021IIROC Trading Halt - SPOR",SPOR
-"Oct 6, 2021IIROC Trading Resumption - KTN",KTN
-"Oct 6, 2021IIROC Trade Resumption - LQID",LQID
