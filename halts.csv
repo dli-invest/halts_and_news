@@ -1,4 +1,6 @@
 Halts,Listing
+"Oct 13, 2021IIROC Trading Halt - ICM",ICM
+"Oct 13, 2021IIROC Trading Halt - NVLH",NVLH
 "Oct 12, 2021IIROC Trading Resumption - PML",PML
 "Oct 12, 2021IIROC Trading Halt - GDNP",GDNP
 "Oct 12, 2021IIROC Trading Halt - PML",PML
@@ -22,5 +24,3 @@ Halts,Listing
 "Oct 7, 2021IIROC Trading Resumption - LILL.P",LILL.P
 "Oct 7, 2021IIROC Trading Halt - NBLY",NBLY
 "Oct 7, 2021IIROC Trade Resumption - TONY",TONY
-"Oct 7, 2021IIROC Trading Halt - ORO",ORO
-"Oct 7, 2021IIROC Trading Halt - FD",FD
