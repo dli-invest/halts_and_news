@@ -1,4 +1,6 @@
 Halts,Listing
+"Oct 14, 2021IIROC Trading Resumption - GSPR",GSPR
+"Oct 14, 2021IIROC Trading Halt - NPR",NPR
 "Oct 13, 2021IIROC Trade Resumption - ATZ",ATZ
 "Oct 13, 2021IIROC Trading Halt - ATZ",ATZ
 "Oct 13, 2021IIROC Trading Resumption - QAI.H",QAI.H
@@ -22,5 +24,3 @@ Halts,Listing
 "Oct 12, 2021IIROC Trading Halt - GDNP",GDNP
 "Oct 12, 2021IIROC Trading Halt - PML",PML
 "Oct 12, 2021IIROC Trading Resumption - ISO",ISO
-"Oct 12, 2021IIROC Trade Resumption - MEND",MEND
-"Oct 12, 2021IIROC Trading Halt - ISO",ISO
