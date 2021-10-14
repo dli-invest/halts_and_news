@@ -1,4 +1,8 @@
 Halts,Listing
+"Oct 14, 2021IIROC Trading Halt - VXL",VXL
+"Oct 14, 2021IIROC Trading Resumption - BABY",BABY
+"Oct 14, 2021IIROC Trading Resumption - ADY",ADY
+"Oct 14, 2021IIROC Trading Halt - ADY",ADY
 "Oct 14, 2021IIROC Trading Resumption - GSPR",GSPR
 "Oct 14, 2021IIROC Trading Halt - NPR",NPR
 "Oct 13, 2021IIROC Trade Resumption - ATZ",ATZ
@@ -20,7 +24,3 @@ Halts,Listing
 "Oct 13, 2021IIROC Trading Halt - FIND",FIND
 "Oct 13, 2021IIROC Trading Halt - ICM",ICM
 "Oct 13, 2021IIROC Trading Halt - NVLH",NVLH
-"Oct 12, 2021IIROC Trading Resumption - PML",PML
-"Oct 12, 2021IIROC Trading Halt - GDNP",GDNP
-"Oct 12, 2021IIROC Trading Halt - PML",PML
-"Oct 12, 2021IIROC Trading Resumption - ISO",ISO
