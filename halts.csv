@@ -1,4 +1,7 @@
 Halts,Listing
+"Oct 22, 2021IIROC Trading Halt - QFOR",QFOR
+"Oct 22, 2021IIROC Trading Halt - JHC.H",JHC.H
+"Oct 22, 2021IIROC Trading Halt - EAT",EAT
 "Oct 21, 2021IIROC Trading Resumption - WWA.P",WWA.P
 "Oct 21, 2021IIROC Trading Resumption - CNO",CNO
 "Oct 21, 2021IIROC Trade Resumption - SNR",SNR
@@ -21,6 +24,3 @@ Halts,Listing
 "Oct 20, 2021IIROC Trading Halt - CYBN",CYBN
 "Oct 20, 2021IIROC Trade Resumption - GSW",GSW
 "Oct 20, 2021IIROC Trade Resumption - PRL",PRL
-"Oct 20, 2021IIROC Trade Resumption - ASTL",ASTL
-"Oct 20, 2021IIROC Trade Resumption - IPO.R",IPO.R
-"Oct 20, 2021IIROC Trading Halt - SFX",SFX
