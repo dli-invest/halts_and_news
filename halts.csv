@@ -1,4 +1,7 @@
 Halts,Listing
+"Oct 25, 2021IIROC Trading Halt - AAC.P",AAC.P
+"Oct 25, 2021IIROC Trading Halt - FNI",FNI
+"Oct 25, 2021IIROC Trading Resumption - FWTC",FWTC
 "Oct 25, 2021IIROC Trading Resumption - CAP",CAP
 "Oct 25, 2021IIROC Trading Halt - DF",DF
 "Oct 25, 2021IIROC Trading Halt - COIN",COIN
@@ -21,6 +24,3 @@ Halts,Listing
 "Oct 22, 2021IIROC Trading Halt - EAT",EAT
 "Oct 21, 2021IIROC Trading Resumption - WWA.P",WWA.P
 "Oct 21, 2021IIROC Trading Resumption - CNO",CNO
-"Oct 21, 2021IIROC Trade Resumption - SNR",SNR
-"Oct 21, 2021IIROC Trading Resumption - SNV",SNV
-"Oct 21, 2021IIROC Trade Resumption - CBDT",CBDT
