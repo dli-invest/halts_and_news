@@ -1,4 +1,6 @@
 Halts,Listing
+"Oct 25, 2021IIROC Trading Resumption - AAX",AAX
+"Oct 25, 2021IIROC Trading Halt - AAX",AAX
 "Oct 25, 2021IIROC Trading Resumption - AUU",AUU
 "Oct 25, 2021IIROC Trading Halt - AUU",AUU
 "Oct 25, 2021IIROC Trading Resumption - AMC",AMC
@@ -6,7 +8,6 @@ Halts,Listing
 "Oct 22, 2021IIROC Trading Resumption - SMTH.P",SMTH.P
 "Oct 22, 2021IIROC Trading Halt - AMC",AMC
 "Oct 22, 2021IIROC Trading Halt - HSC.P",HSC.P
-"Oct 22, 2021IIROC Trade Resumption - ARS",ARS
 "Oct 22, 2021IIROC Trading Resumption - ARS",ARS
 "Oct 22, 2021IIROC Trade Resumption - EAT",EAT
 "Oct 22, 2021IIROC Trading Halt - QFOR",QFOR
@@ -23,4 +24,3 @@ Halts,Listing
 "Oct 21, 2021IIROC Trade Resumption - QTRH",QTRH
 "Oct 21, 2021IIROC Trading Halt - SMTH.P",SMTH.P
 "Oct 21, 2021IIROC Trading Halt - DJI",DJI
-"Oct 21, 2021IIROC Trading Halt - CBDT",CBDT
