@@ -1,4 +1,6 @@
 Halts,Listing
+"Oct 28, 2021IIROC Trading Halt - RPX",RPX
+"Oct 28, 2021IIROC Trading Resumption - SOU",SOU
 "Oct 28, 2021IIROC Trading Halt - OYL.RT",OYL.RT
 "Oct 28, 2021IIROC Trade Resumption - ANRG",ANRG
 "Oct 28, 2021IIROC Trading Resumption - TVC",TVC
@@ -22,5 +24,3 @@ Halts,Listing
 "Oct 27, 2021IIROC Trading Halt - API",API
 "Oct 27, 2021IIROC Trading Resumption - CNL",CNL
 "Oct 27, 2021IIROC Trade Resumption - HR.UN",HR.UN
-"Oct 27, 2021IIROC Trade Resumption - QTRH.DB",QTRH.DB
-"Oct 27, 2021IIROC Trading Halt - WOW",WOW
