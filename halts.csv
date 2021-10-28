@@ -1,4 +1,9 @@
 Halts,Listing
+"Oct 28, 2021IIROC Trading Halt - OYL.RT",OYL.RT
+"Oct 28, 2021IIROC Trade Resumption - ANRG",ANRG
+"Oct 28, 2021IIROC Trading Resumption - TVC",TVC
+"Oct 28, 2021IIROC Trading Halt - ANRG",ANRG
+"Oct 28, 2021IIROC Trading Halt - TVC",TVC
 "Oct 28, 2021IIROC Trade Resumption - ECN.DB.A",ECN.DB.A
 "Oct 28, 2021IIROC Trading Halt - SOU",SOU
 "Oct 28, 2021IIROC Trading Halt - ECN.DB.A",ECN.DB.A
@@ -19,8 +24,3 @@ Halts,Listing
 "Oct 27, 2021IIROC Trade Resumption - HR.UN",HR.UN
 "Oct 27, 2021IIROC Trade Resumption - QTRH.DB",QTRH.DB
 "Oct 27, 2021IIROC Trading Halt - WOW",WOW
-"Oct 27, 2021IIROC Trading Halt - CNL",CNL
-"Oct 27, 2021IIROC Trade Resumption - AQN",AQN
-"Oct 27, 2021IIROC Trading Halt - QTRH.DB",QTRH.DB
-"Oct 27, 2021IIROC Trading Halt - HR.UN",HR.UN
-"Oct 27, 2021IIROC Trading Halt - CBDT",CBDT
