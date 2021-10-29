@@ -1,4 +1,6 @@
 Halts,Listing
+"Oct 29, 2021IIROC Trading Halt - MOZ",MOZ
+"Oct 29, 2021IIROC Trading Halt - GMTN",GMTN
 "Oct 29, 2021IIROC Trading Halt - CUR",CUR
 "Oct 29, 2021IIROC Trade Resumption - PRR",PRR
 "Oct 29, 2021IIROC Trading Halt - PRR",PRR
@@ -22,5 +24,3 @@ Halts,Listing
 "Oct 27, 2021IIROC Trade Resumption - LGIQ",LGIQ
 "Oct 27, 2021IIROC Trading Halt - CUI",CUI
 "Oct 27, 2021IIROC Trade Resumption - API",API
-"Oct 27, 2021IIROC Trading Halt - LGIQ",LGIQ
-"Oct 27, 2021IIROC Trading Resumption - AAN",AAN
