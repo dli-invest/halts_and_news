@@ -1,4 +1,8 @@
 Halts,Listing
+"Nov 1, 2021IIROC Trade Resumption - GSQ",GSQ
+"Nov 1, 2021IIROC Trading Resumption - BECN",BECN
+"Nov 1, 2021IIROC Trading Halt - GSQ",GSQ
+"Nov 1, 2021IIROC Trading Halt - ENS",ENS
 "Nov 1, 2021IIROC Trading Halt - CANS",CANS
 "Nov 1, 2021IIROC Trading Resumption - CAP",CAP
 "Nov 1, 2021IIROC Trading Halt - CAP",CAP
@@ -20,7 +24,3 @@ Halts,Listing
 "Oct 29, 2021IIROC Trading Halt - CUR",CUR
 "Oct 29, 2021IIROC Trade Resumption - PRR",PRR
 "Oct 29, 2021IIROC Trading Halt - PRR",PRR
-"Oct 29, 2021IIROC Trading Resumption - TVI",TVI
-"Oct 29, 2021IIROC Trading Resumption - RPX",RPX
-"Oct 29, 2021IIROC Trading Halt - RPC",RPC
-"Oct 29, 2021IIROC Trading Halt - TVI",TVI
