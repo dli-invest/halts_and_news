@@ -1,4 +1,10 @@
 Halts,Listing
+"Nov 1, 2021IIROC Trading Resumption - ML",ML
+"Nov 1, 2021IIROC Trade Resumption - MOZ",MOZ
+"Nov 1, 2021IIROC Trading Halt - FMAN",FMAN
+"Nov 1, 2021IIROC Trading Halt - ML",ML
+"Nov 1, 2021IIROC Trading Halt - BRAS",BRAS
+"Nov 1, 2021IIROC Trading Halt - BEA",BEA
 "Oct 29, 2021IIROC Trading Halt - SPRT",SPRT
 "Oct 29, 2021IIROC Trading Resumption - IMIN",IMIN
 "Oct 29, 2021IIROC Trading Resumption - BOLD.P",BOLD.P
@@ -18,9 +24,3 @@ Halts,Listing
 "Oct 28, 2021IIROC Trading Halt - OYL.RT",OYL.RT
 "Oct 28, 2021IIROC Trade Resumption - ANRG",ANRG
 "Oct 28, 2021IIROC Trading Resumption - TVC",TVC
-"Oct 28, 2021IIROC Trading Halt - ANRG",ANRG
-"Oct 28, 2021IIROC Trading Halt - TVC",TVC
-"Oct 28, 2021IIROC Trade Resumption - ECN.DB.A",ECN.DB.A
-"Oct 28, 2021IIROC Trading Halt - SOU",SOU
-"Oct 28, 2021IIROC Trading Halt - ECN.DB.A",ECN.DB.A
-"Oct 28, 2021IIROC Trading Halt - LBY",LBY
