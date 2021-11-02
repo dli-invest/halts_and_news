@@ -1,4 +1,10 @@
 Halts,Listing
+"Nov 2, 2021IIROC Trading Resumption - EXG",EXG
+"Nov 2, 2021IIROC Trading Halt - EXG",EXG
+"Nov 2, 2021IIROC Trading Halt - INEO",INEO
+"Nov 2, 2021IIROC Trade Resumption - SPOR",SPOR
+"Nov 2, 2021IIROC Trading Resumption - FD",FD
+"Nov 2, 2021IIROC Trading Halt - FD",FD
 "Nov 2, 2021IIROC Trading Resumption - FD",FD
 "Nov 2, 2021IIROC Trading Halt - FD",FD
 "Nov 2, 2021IIROC Trade Resumption - BRAS",BRAS
@@ -18,9 +24,3 @@ Halts,Listing
 "Nov 1, 2021IIROC Trading Resumption - CAP",CAP
 "Nov 1, 2021IIROC Trading Halt - CAP",CAP
 "Nov 1, 2021IIROC Trading Halt - EGT",EGT
-"Nov 1, 2021IIROC Trade Resumption - HECO",HECO
-"Nov 1, 2021IIROC Trading Halt - HECO",HECO
-"Nov 1, 2021IIROC Trading Resumption - CUR",CUR
-"Nov 1, 2021IIROC Trading Resumption - ML",ML
-"Nov 1, 2021IIROC Trade Resumption - MOZ",MOZ
-"Nov 1, 2021IIROC Trading Halt - FMAN",FMAN
