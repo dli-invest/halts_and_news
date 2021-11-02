@@ -1,4 +1,7 @@
 Halts,Listing
+"Nov 2, 2021IIROC Trading Resumption - FD",FD
+"Nov 2, 2021IIROC Trading Halt - FD",FD
+"Nov 2, 2021IIROC Trade Resumption - BRAS",BRAS
 "Nov 2, 2021IIROC Trading Halt - RGLD",RGLD
 "Nov 2, 2021IIROC Trade Resumption - ENS",ENS
 "Nov 2, 2021IIROC Trading Halt - DG",DG
@@ -21,6 +24,3 @@ Halts,Listing
 "Nov 1, 2021IIROC Trading Resumption - ML",ML
 "Nov 1, 2021IIROC Trade Resumption - MOZ",MOZ
 "Nov 1, 2021IIROC Trading Halt - FMAN",FMAN
-"Nov 1, 2021IIROC Trading Halt - ML",ML
-"Nov 1, 2021IIROC Trading Halt - BRAS",BRAS
-"Nov 1, 2021IIROC Trading Halt - BEA",BEA
