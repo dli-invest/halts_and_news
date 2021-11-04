@@ -1,4 +1,8 @@
 Halts,Listing
+"Nov 4, 2021IIROC Trading Halt - KLM",KLM
+"Nov 4, 2021IIROC Trading Halt - TUP.P",TUP.P
+"Nov 4, 2021IIROC Trading Resumption - NXLV",NXLV
+"Nov 4, 2021IIROC Trade Resumption - AMS.X",AMS.X
 "Nov 4, 2021IIROC Trading Resumption - MNRL",MNRL
 "Nov 4, 2021IIROC Trading Halt - XRX",XRX
 "Nov 4, 2021IIROC Trading Halt - XRTX",XRTX
@@ -20,7 +24,3 @@ Halts,Listing
 "Nov 3, 2021IIROC Trade Resumption - RGLD",RGLD
 "Nov 3, 2021IIROC Trade Resumption - DTOL",DTOL
 "Nov 3, 2021IIROC Trade Resumption - EINC",EINC
-"Nov 3, 2021IIROC Trading Halt - EINC",EINC
-"Nov 3, 2021IIROC Trading Halt - AFN.DB.I",AFN.DB.I
-"Nov 3, 2021IIROC Trading Halt - DTOL",DTOL
-"Nov 3, 2021IIROC Trade Resumption - OBE",OBE
