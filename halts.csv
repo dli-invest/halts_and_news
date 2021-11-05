@@ -1,4 +1,6 @@
 Halts,Listing
+"Nov 5, 2021IIROC Trading Resumption - NGMD",NGMD
+"Nov 5, 2021IIROC Trading Resumption - AXM",AXM
 "Nov 5, 2021IIROC Trade Resumption - CYBN",CYBN
 "Nov 5, 2021IIROC Trading Halt - CYBN",CYBN
 "Nov 5, 2021IIROC Trading Halt - CDPR",CDPR
@@ -22,5 +24,3 @@ Halts,Listing
 "Nov 4, 2021IIROC Trading Resumption - KLM",KLM
 "Nov 4, 2021IIROC Trading Resumption - OGO",OGO
 "Nov 4, 2021IIROC Trade Resumption - SAP",SAP
-"Nov 4, 2021IIROC Trading Halt - SAP",SAP
-"Nov 4, 2021IIROC Trading Resumption - BEA",BEA
