@@ -1,4 +1,7 @@
 Halts,Listing
+"Nov 5, 2021IIROC Trading Halt - CUDA",CUDA
+"Nov 5, 2021IIROC Trading Resumption - YEG",YEG
+"Nov 5, 2021IIROC Trading Halt - YEG",YEG
 "Nov 5, 2021IIROC Trading Resumption - MRS",MRS
 "Nov 5, 2021IIROC Trade Resumption - BYFM",BYFM
 "Nov 5, 2021IIROC Trading Halt - MRS",MRS
@@ -21,6 +24,3 @@ Halts,Listing
 "Nov 4, 2021IIROC Trading Resumption - MNRL",MNRL
 "Nov 4, 2021IIROC Trading Halt - XRX",XRX
 "Nov 4, 2021IIROC Trading Halt - XRTX",XRTX
-"Nov 4, 2021IIROC Trading Halt - NM",NM
-"Nov 4, 2021IIROC Trading Halt - CNFA",CNFA
-"Nov 4, 2021IIROC Trading Halt - VPN",VPN
