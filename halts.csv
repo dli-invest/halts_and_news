@@ -1,4 +1,7 @@
 Halts,Listing
+"Nov 9, 2021IIROC Trading Halt - GPR",GPR
+"Nov 9, 2021IIROC Trading Halt - EMM",EMM
+"Nov 9, 2021IIROC Trading Resumption - CTEK",CTEK
 "Nov 9, 2021IIROC Trading Resumption - MSR",MSR
 "Nov 9, 2021IIROC Trading Halt - MSR",MSR
 "Nov 9, 2021IIROC Trading Resumption - HIVE",HIVE
@@ -21,6 +24,3 @@ Halts,Listing
 "Nov 8, 2021IIROC Trading Halt - ALLI",ALLI
 "Nov 8, 2021IIROC Trading Halt - CSC",CSC
 "Nov 8, 2021IIROC Trading Halt - ASI",ASI
-"Nov 5, 2021IIROC Trading Resumption - NGMD",NGMD
-"Nov 5, 2021IIROC Trading Resumption - AXM",AXM
-"Nov 5, 2021IIROC Trade Resumption - CYBN",CYBN
