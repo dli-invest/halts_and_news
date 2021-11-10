@@ -1,4 +1,9 @@
 Halts,Listing
+"Nov 10, 2021IIROC Trading Halt - VRNO",VRNO
+"Nov 10, 2021IIROC Trading Halt - LHR",LHR
+"Nov 10, 2021IIROC Trading Halt - PILL",PILL
+"Nov 10, 2021IIROC Trade Resumption - GPR",GPR
+"Nov 10, 2021IIROC Trading Halt - ICY.P",ICY.P
 "Nov 9, 2021IIROC Trading Halt - GPR",GPR
 "Nov 9, 2021IIROC Trading Halt - EMM",EMM
 "Nov 9, 2021IIROC Trading Resumption - CTEK",CTEK
@@ -19,8 +24,3 @@ Halts,Listing
 "Nov 8, 2021IIROC Trading Halt - CANN.WT",CANN.WT
 "Nov 8, 2021IIROC Trade Resumption - NM",NM
 "Nov 8, 2021IIROC Trade Resumption - CDPR",CDPR
-"Nov 8, 2021IIROC Trading Halt - UVN",UVN
-"Nov 8, 2021IIROC Trading Halt - SONA",SONA
-"Nov 8, 2021IIROC Trading Halt - ALLI",ALLI
-"Nov 8, 2021IIROC Trading Halt - CSC",CSC
-"Nov 8, 2021IIROC Trading Halt - ASI",ASI
