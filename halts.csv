@@ -1,4 +1,9 @@
 Halts,Listing
+"Nov 10, 2021IIROC Trading Halt - BIP.UN",BIP.UN
+"Nov 10, 2021IIROC Trading Halt - BIPC",BIPC
+"Nov 10, 2021IIROC Trading Resumption - DJI",DJI
+"Nov 10, 2021IIROC Trading Halt - NCU",NCU
+"Nov 10, 2021IIROC Trading Halt - NOW",NOW
 "Nov 10, 2021IIROC Trading Halt - HOT.UN",HOT.UN
 "Nov 10, 2021IIROC Trading Resumption - LHR",LHR
 "Nov 10, 2021IIROC Trading Halt - FNR.RT",FNR.RT
@@ -19,8 +24,3 @@ Halts,Listing
 "Nov 9, 2021IIROC Trading Resumption - HIVE",HIVE
 "Nov 9, 2021IIROC Trading Resumption - SLVR",SLVR
 "Nov 9, 2021IIROC Trading Resumption - QUIS",QUIS
-"Nov 9, 2021IIROC Trading Resumption - KALO",KALO
-"Nov 9, 2021IIROC Trading Halt - HIVE",HIVE
-"Nov 9, 2021IIROC Trading Halt - KALO",KALO
-"Nov 9, 2021IIROC Trading Halt - SLVR",SLVR
-"Nov 8, 2021IIROC Trading Resumption - KC",KC
