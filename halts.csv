@@ -1,4 +1,6 @@
 Halts,Listing
+"Nov 11, 2021IIROC Trade Resumption - NCU",NCU
+"Nov 11, 2021IIROC Trading Halt - APLI",APLI
 "Nov 11, 2021IIROC Trade Resumption - COIN",COIN
 "Nov 11, 2021IIROC Trading Halt - COIN",COIN
 "Nov 11, 2021IIROC Trading Resumption - NOW",NOW
@@ -22,5 +24,3 @@ Halts,Listing
 "Nov 10, 2021IIROC Trade Resumption - CFW",CFW
 "Nov 10, 2021IIROC Trading Halt - CFW",CFW
 "Nov 10, 2021IIROC Trade Resumption - VRNO",VRNO
-"Nov 10, 2021IIROC Trading Halt - VRNO",VRNO
-"Nov 10, 2021IIROC Trading Halt - LHR",LHR
