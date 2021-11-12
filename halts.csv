@@ -1,4 +1,10 @@
 Halts,Listing
+"Nov 12, 2021IIROC Trading Resumption - BBB",BBB
+"Nov 12, 2021IIROC Trading Resumption - VEG",VEG
+"Nov 12, 2021IIROC Trading Halt - VEG",VEG
+"Nov 12, 2021IIROC Trading Halt - PINH.P",PINH.P
+"Nov 12, 2021IIROC Trade Resumption - MHC.U",MHC.U
+"Nov 12, 2021IIROC Trade Resumption - APLI",APLI
 "Nov 12, 2021IIROC Trading Halt - TBLZ.P",TBLZ.P
 "Nov 11, 2021IIROC Trading Resumption - ICY.P",ICY.P
 "Nov 11, 2021IIROC Trading Resumption - NIP",NIP
@@ -18,9 +24,3 @@ Halts,Listing
 "Nov 11, 2021IIROC Trading Halt - FUZN",FUZN
 "Nov 11, 2021IIROC Trading Halt - MYLK",MYLK
 "Nov 10, 2021IIROC Trading Halt - BIP.UN",BIP.UN
-"Nov 10, 2021IIROC Trading Halt - BIPC",BIPC
-"Nov 10, 2021IIROC Trading Resumption - DJI",DJI
-"Nov 10, 2021IIROC Trading Halt - NCU",NCU
-"Nov 10, 2021IIROC Trading Halt - NOW",NOW
-"Nov 10, 2021IIROC Trading Halt - HOT.UN",HOT.UN
-"Nov 10, 2021IIROC Trading Resumption - LHR",LHR
