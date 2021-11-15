@@ -1,4 +1,6 @@
 Halts,Listing
+"Nov 15, 2021IIROC Trading Halt - HAMR",HAMR
+"Nov 15, 2021IIROC Trading Halt - HEO.WT",HEO.WT
 "Nov 15, 2021IIROC Trading Resumption - SMY",SMY
 "Nov 15, 2021IIROC Trading Halt - SMY",SMY
 "Nov 15, 2021IIROC Trade Resumption - PDFI",PDFI
@@ -22,5 +24,3 @@ Halts,Listing
 "Nov 11, 2021IIROC Trading Halt - BBB",BBB
 "Nov 11, 2021IIROC Trade Resumption - NCU",NCU
 "Nov 11, 2021IIROC Trading Halt - APLI",APLI
-"Nov 11, 2021IIROC Trade Resumption - COIN",COIN
-"Nov 11, 2021IIROC Trading Halt - COIN",COIN
