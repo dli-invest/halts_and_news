@@ -1,4 +1,10 @@
 Halts,Listing
+"Nov 15, 2021IIROC Trading Halt - DRT",DRT
+"Nov 15, 2021IIROC Trading Resumption - TBLZ.P",TBLZ.P
+"Nov 15, 2021IIROC Trading Halt - TAAL",TAAL
+"Nov 15, 2021IIROC Trading Halt - SOT.UN",SOT.UN
+"Nov 15, 2021IIROC Trading Halt - NXR.UN",NXR.UN
+"Nov 15, 2021IIROC Trading Halt - NFI",NFI
 "Nov 15, 2021IIROC Trading Resumption - CDB",CDB
 "Nov 15, 2021IIROC Trading Resumption - BGS",BGS
 "Nov 15, 2021IIROC Trading Halt - BGS",BGS
@@ -18,9 +24,3 @@ Halts,Listing
 "Nov 12, 2021IIROC Trading Resumption - BBB",BBB
 "Nov 12, 2021IIROC Trading Resumption - VEG",VEG
 "Nov 12, 2021IIROC Trading Halt - VEG",VEG
-"Nov 12, 2021IIROC Trading Halt - PINH.P",PINH.P
-"Nov 12, 2021IIROC Trade Resumption - MHC.U",MHC.U
-"Nov 12, 2021IIROC Trade Resumption - APLI",APLI
-"Nov 12, 2021IIROC Trading Halt - TBLZ.P",TBLZ.P
-"Nov 11, 2021IIROC Trading Resumption - ICY.P",ICY.P
-"Nov 11, 2021IIROC Trading Resumption - NIP",NIP
