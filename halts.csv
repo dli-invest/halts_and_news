@@ -1,4 +1,8 @@
 Halts,Listing
+"Nov 16, 2021IIROC Trading Halt - AFN.DB.D",AFN.DB.D
+"Nov 16, 2021IIROC Trading Halt - GLI",GLI
+"Nov 16, 2021IIROC Trading Resumption - SURF.A",SURF.A
+"Nov 16, 2021IIROC Trading Resumption - SURF.U",SURF.U
 "Nov 15, 2021IIROC Trading Halt - HR.UN",HR.UN
 "Nov 15, 2021IIROC Trading Halt - DRT",DRT
 "Nov 15, 2021IIROC Trading Resumption - TBLZ.P",TBLZ.P
@@ -20,7 +24,3 @@ Halts,Listing
 "Nov 15, 2021IIROC Trading Halt - RKL",RKL
 "Nov 15, 2021IIROC Trading Halt - PDFI",PDFI
 "Nov 15, 2021IIROC Trading Halt - SURF.A, SURF.U",SURF.U
-"Nov 12, 2021IIROC Trading Halt - CDB",CDB
-"Nov 12, 2021IIROC Trading Halt - STAG",STAG
-"Nov 12, 2021IIROC Trading Resumption - BBB",BBB
-"Nov 12, 2021IIROC Trading Resumption - VEG",VEG
