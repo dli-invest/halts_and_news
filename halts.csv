@@ -1,4 +1,7 @@
 Halts,Listing
+"Nov 16, 2021IIROC Trading Halt - GTCH",GTCH
+"Nov 16, 2021IIROC Trading Resumption - GSVR",GSVR
+"Nov 16, 2021IIROC Trading Resumption - NBM",NBM
 "Nov 16, 2021IIROC Trading Halt - GSVR",GSVR
 "Nov 16, 2021IIROC Trading Halt - NBM",NBM
 "Nov 16, 2021IIROC Trade Resumption - FUZN",FUZN
@@ -21,6 +24,3 @@ Halts,Listing
 "Nov 16, 2021IIROC Trading Halt - GLI",GLI
 "Nov 16, 2021IIROC Trading Resumption - SURF.A",SURF.A
 "Nov 16, 2021IIROC Trading Resumption - SURF.U",SURF.U
-"Nov 15, 2021IIROC Trading Halt - HR.UN",HR.UN
-"Nov 15, 2021IIROC Trading Halt - DRT",DRT
-"Nov 15, 2021IIROC Trading Resumption - TBLZ.P",TBLZ.P
