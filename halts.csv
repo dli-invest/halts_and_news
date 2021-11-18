@@ -1,4 +1,8 @@
 Halts,Listing
+"Nov 18, 2021IIROC Trading Resumption - QRO",QRO
+"Nov 18, 2021IIROC Trading Halt - MFG",MFG
+"Nov 18, 2021IIROC Trading Halt - NSE",NSE
+"Nov 18, 2021IIROC Trading Halt - VTI",VTI
 "Nov 18, 2021IIROC Trading Halt - QRO",QRO
 "Nov 18, 2021IIROC Trade Resumption - OBE.R",OBE.R
 "Nov 18, 2021IIROC Trade Resumption - CVO",CVO
@@ -20,7 +24,3 @@ Halts,Listing
 "Nov 17, 2021IIROC Trading Resumption - GRDM",GRDM
 "Nov 17, 2021IIROC Trading Resumption - ML",ML
 "Nov 17, 2021IIROC Trading Halt - GRDM",GRDM
-"Nov 17, 2021IIROC Trade Resumption - GDC.RT",GDC.RT
-"Nov 17, 2021IIROC Trading Resumption - ZEN",ZEN
-"Nov 17, 2021IIROC Trade Resumption - WORK.UN",WORK.UN
-"Nov 17, 2021IIROC Trading Halt - GDC.RT",GDC.RT
