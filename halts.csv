@@ -1,4 +1,5 @@
 Halts,Listing
+"Nov 18, 2021IIROC Trading Halt - CUDA",CUDA
 "Nov 17, 2021IIROC Trading Halt - MHI",MHI
 "Nov 17, 2021IIROC Trading Halt - DGL.P",DGL.P
 "Nov 17, 2021IIROC Trading Resumption - MYLK",MYLK
@@ -23,4 +24,3 @@ Halts,Listing
 "Nov 16, 2021IIROC Trading Resumption - HMRK",HMRK
 "Nov 16, 2021IIROC Trading Halt - HDI",HDI
 "Nov 16, 2021IIROC Trading Halt - ZEN",ZEN
-"Nov 16, 2021IIROC Trading Halt - GTCH",GTCH
