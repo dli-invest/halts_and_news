@@ -1,4 +1,6 @@
 Halts,Listing
+"Nov 22, 2021IIROC Trading Halt - FANS",FANS
+"Nov 22, 2021IIROC Trading Halt - QIPT",QIPT
 "Nov 22, 2021IIROC Trading Halt - BURG",BURG
 "Nov 22, 2021IIROC Trading Halt - IVI",IVI
 "Nov 22, 2021IIROC Trading Halt - SHLL.P",SHLL.P
@@ -22,5 +24,3 @@ Halts,Listing
 "Nov 18, 2021IIROC Trading Halt - NSE",NSE
 "Nov 18, 2021IIROC Trading Halt - VTI",VTI
 "Nov 18, 2021IIROC Trading Halt - QRO",QRO
-"Nov 18, 2021IIROC Trade Resumption - OBE.R",OBE.R
-"Nov 18, 2021IIROC Trade Resumption - CVO",CVO
