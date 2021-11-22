@@ -1,4 +1,7 @@
 Halts,Listing
+"Nov 22, 2021IIROC Trading Halt - BURG",BURG
+"Nov 22, 2021IIROC Trading Halt - IVI",IVI
+"Nov 22, 2021IIROC Trading Halt - SHLL.P",SHLL.P
 "Nov 19, 2021IIROC Trade Resumption - MNG",MNG
 "Nov 19, 2021IIROC Trading Resumption - ITM",ITM
 "Nov 19, 2021IIROC Trading Resumption - NSE",NSE
@@ -21,6 +24,3 @@ Halts,Listing
 "Nov 18, 2021IIROC Trading Halt - QRO",QRO
 "Nov 18, 2021IIROC Trade Resumption - OBE.R",OBE.R
 "Nov 18, 2021IIROC Trade Resumption - CVO",CVO
-"Nov 18, 2021IIROC Trading Resumption - MNOW",MNOW
-"Nov 18, 2021IIROC Trade Resumption - DFY",DFY
-"Nov 18, 2021IIROC Trading Halt - DFY",DFY
