@@ -1,4 +1,6 @@
 Halts,Listing
+"Nov 23, 2021IIROC Trading Halt - MKT",MKT
+"Nov 23, 2021IIROC Trading Halt - MONA.P",MONA.P
 "Nov 22, 2021IIROC Trading Resumption - SYG.H",SYG.H
 "Nov 22, 2021IIROC Trading Resumption - MARV",MARV
 "Nov 22, 2021IIROC Trading Resumption - QIPT",QIPT
@@ -22,5 +24,3 @@ Halts,Listing
 "Nov 19, 2021IIROC Trading Halt - MSA",MSA
 "Nov 18, 2021IIROC Trading Halt - MARV",MARV
 "Nov 18, 2021IIROC Trading Resumption - MFG",MFG
-"Nov 18, 2021IIROC Trading Resumption - QRO",QRO
-"Nov 18, 2021IIROC Trading Halt - MFG",MFG
