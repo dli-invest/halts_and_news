@@ -1,4 +1,9 @@
 Halts,Listing
+"Nov 23, 2021IIROC Trading Halt - CCW",CCW
+"Nov 23, 2021IIROC Trading Halt - HZM",HZM
+"Nov 23, 2021IIROC Trade Resumption - MOGO",MOGO
+"Nov 23, 2021IIROC Trading Halt - MOGO",MOGO
+"Nov 23, 2021IIROC Trading Halt - DAC",DAC
 "Nov 23, 2021IIROC Trade Resumption - FANS",FANS
 "Nov 23, 2021IIROC Trading Halt - PNG",PNG
 "Nov 23, 2021IIROC Trading Halt - MKT",MKT
@@ -19,8 +24,3 @@ Halts,Listing
 "Nov 19, 2021IIROC Trading Resumption - MSA",MSA
 "Nov 19, 2021IIROC Trade Resumption - TSAT",TSAT
 "Nov 19, 2021IIROC Trade Resumption - MSA",MSA
-"Nov 19, 2021IIROC Trading Halt - DMR",DMR
-"Nov 19, 2021IIROC Trading Halt - SOT.DB.A",SOT.DB.A
-"Nov 19, 2021IIROC Trading Halt - SOT.R",SOT.R
-"Nov 19, 2021IIROC Trading Halt - TSAT",TSAT
-"Nov 19, 2021IIROC Trading Halt - MSA",MSA
