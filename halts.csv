@@ -1,4 +1,9 @@
 Halts,Listing
+"Nov 29, 2021IIROC Trading Halt - PMET",PMET
+"Nov 29, 2021IIROC Trade Resumption - NCU.WT.B",NCU.WT.B
+"Nov 29, 2021IIROC Trading Halt - JEC",JEC
+"Nov 29, 2021IIROC Trading Halt - NCU.WT.B",NCU.WT.B
+"Nov 29, 2021IIROC Trading Halt - MNTO",MNTO
 "Nov 26, 2021IIROC Trading Resumption - MERG",MERG
 "Nov 26, 2021IIROC Trade Resumption - HOT.DB.V",HOT.DB.V
 "Nov 26, 2021IIROC Trade Resumption - HE",HE
@@ -19,8 +24,3 @@ Halts,Listing
 "Nov 24, 2021IIROC Trade Resumption - CXC",CXC
 "Nov 24, 2021IIROC Trading Resumption - MCLD",MCLD
 "Nov 24, 2021IIROC Trading Halt - MCLD",MCLD
-"Nov 24, 2021IIROC Trade Resumption - HZM",HZM
-"Nov 24, 2021IIROC Trading Halt - GAC.P",GAC.P
-"Nov 23, 2021IIROC Trading Resumption - BURG",BURG
-"Nov 23, 2021IIROC Trading Resumption - SHLL.P",SHLL.P
-"Nov 23, 2021IIROC Trading Resumption - PNG",PNG
