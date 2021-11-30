@@ -1,4 +1,6 @@
 Halts,Listing
+"Nov 30, 2021IIROC Trading Halt - BZ",BZ
+"Nov 30, 2021IIROC Trading Halt - TRS",TRS
 "Nov 30, 2021IIROC Trading Halt - IPO.R",IPO.R
 "Nov 30, 2021IIROC Trade Resumption - SNA",SNA
 "Nov 30, 2021IIROC Trade Resumption - LUXX",LUXX
@@ -22,5 +24,3 @@ Halts,Listing
 "Nov 26, 2021IIROC Trading Resumption - MERG",MERG
 "Nov 26, 2021IIROC Trade Resumption - HOT.DB.V",HOT.DB.V
 "Nov 26, 2021IIROC Trade Resumption - HE",HE
-"Nov 26, 2021IIROC Trading Halt - HOT.DB.V",HOT.DB.V
-"Nov 26, 2021IIROC Trading Halt - AUD.P",AUD.P
