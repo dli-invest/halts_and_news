@@ -1,4 +1,5 @@
 Halts,Listing
+"Nov 30, 2021IIROC Trading Halt - PSEC",PSEC
 "Nov 30, 2021IIROC Trade Resumption - AI.DB.F",AI.DB.F
 "Nov 30, 2021IIROC Trading Halt - AI.DB.F",AI.DB.F
 "Nov 30, 2021IIROC Trading Halt - AMI",AMI
@@ -23,4 +24,3 @@ Halts,Listing
 "Nov 25, 2021IIROC Trading Resumption - SBIO",SBIO
 "Nov 25, 2021IIROC Trading Resumption - CSPN",CSPN
 "Nov 25, 2021IIROC Trading Resumption - SVP.H",SVP.H
-"Nov 25, 2021IIROC Trading Halt - HE",HE
