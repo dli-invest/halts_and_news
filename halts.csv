@@ -1,4 +1,8 @@
 Halts,Listing
+"Dec 1, 2021IIROC Trade Resumption - DRT.DB.A",DRT.DB.A
+"Dec 1, 2021IIROC Trading Halt - DRT.DB.A",DRT.DB.A
+"Dec 1, 2021IIROC Trading Halt - CPAU",CPAU
+"Dec 1, 2021IIROC Trading Halt - NGLD",NGLD
 "Nov 30, 2021IIROC Trading Halt - BZ",BZ
 "Nov 30, 2021IIROC Trading Halt - TRS",TRS
 "Nov 30, 2021IIROC Trading Halt - IPO.R",IPO.R
@@ -20,7 +24,3 @@ Halts,Listing
 "Nov 29, 2021IIROC Trade Resumption - NCU.WT.B",NCU.WT.B
 "Nov 29, 2021IIROC Trading Halt - JEC",JEC
 "Nov 29, 2021IIROC Trading Halt - NCU.WT.B",NCU.WT.B
-"Nov 29, 2021IIROC Trading Halt - MNTO",MNTO
-"Nov 26, 2021IIROC Trading Resumption - MERG",MERG
-"Nov 26, 2021IIROC Trade Resumption - HOT.DB.V",HOT.DB.V
-"Nov 26, 2021IIROC Trade Resumption - HE",HE
