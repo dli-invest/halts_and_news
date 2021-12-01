@@ -1,4 +1,6 @@
 Halts,Listing
+"Dec 1, 2021IIROC Trading Halt - ACQ",ACQ
+"Dec 1, 2021IIROC Trading Resumption - AMI",AMI
 "Dec 1, 2021IIROC Trading Resumption - TRS",TRS
 "Dec 1, 2021IIROC Trading Resumption - PUMA",PUMA
 "Dec 1, 2021IIROC Trading Halt - PUMA",PUMA
@@ -22,5 +24,3 @@ Halts,Listing
 "Nov 29, 2021IIROC Trade Resumption - PMET",PMET
 "Nov 29, 2021IIROC Trading Halt - GTD.H",GTD.H
 "Nov 29, 2021IIROC Trading Resumption - LFST",LFST
-"Nov 29, 2021IIROC Trading Halt - LFST",LFST
-"Nov 29, 2021IIROC Trading Halt - PMET",PMET
