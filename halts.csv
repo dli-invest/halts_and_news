@@ -1,4 +1,7 @@
 Halts,Listing
+"Dec 1, 2021IIROC Trading Resumption - TRS",TRS
+"Dec 1, 2021IIROC Trading Resumption - PUMA",PUMA
+"Dec 1, 2021IIROC Trading Halt - PUMA",PUMA
 "Dec 1, 2021IIROC Trade Resumption - DRT.DB.A",DRT.DB.A
 "Dec 1, 2021IIROC Trading Halt - DRT.DB.A",DRT.DB.A
 "Dec 1, 2021IIROC Trading Halt - CPAU",CPAU
@@ -21,6 +24,3 @@ Halts,Listing
 "Nov 29, 2021IIROC Trading Resumption - LFST",LFST
 "Nov 29, 2021IIROC Trading Halt - LFST",LFST
 "Nov 29, 2021IIROC Trading Halt - PMET",PMET
-"Nov 29, 2021IIROC Trade Resumption - NCU.WT.B",NCU.WT.B
-"Nov 29, 2021IIROC Trading Halt - JEC",JEC
-"Nov 29, 2021IIROC Trading Halt - NCU.WT.B",NCU.WT.B
