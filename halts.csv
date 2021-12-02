@@ -1,4 +1,6 @@
 Halts,Listing
+"Dec 2, 2021IIROC Trading Halt - MRS",MRS
+"Dec 2, 2021IIROC Trading Halt - RSY.H",RSY.H
 "Dec 2, 2021IIROC Trading Resumption - PCAA.P",PCAA.P
 "Dec 2, 2021IIROC Trading Halt - PCAA.P",PCAA.P
 "Dec 2, 2021IIROC Trade Resumption - XBRA",XBRA
@@ -22,5 +24,3 @@ Halts,Listing
 "Dec 1, 2021IIROC Trading Halt - CPAU",CPAU
 "Dec 1, 2021IIROC Trading Halt - NGLD",NGLD
 "Nov 30, 2021IIROC Trading Halt - BZ",BZ
-"Nov 30, 2021IIROC Trading Halt - TRS",TRS
-"Nov 30, 2021IIROC Trading Halt - IPO.R",IPO.R
