@@ -1,4 +1,7 @@
 Halts,Listing
+"Dec 6, 2021IIROC Trading Halt - FUZN",FUZN
+"Dec 6, 2021IIROC Trading Halt - BYT",BYT
+"Dec 6, 2021IIROC Trading Halt - MJRX",MJRX
 "Dec 3, 2021IIROC Trading Resumption - CPAU",CPAU
 "Dec 3, 2021IIROC Trading Resumption - NGLD",NGLD
 "Dec 3, 2021IIROC Trading Resumption - OZAU",OZAU
@@ -21,6 +24,3 @@ Halts,Listing
 "Dec 2, 2021IIROC Trading Resumption - DMR",DMR
 "Dec 2, 2021IIROC Trading Halt - NGC",NGC
 "Dec 2, 2021IIROC Trading Halt - DMR",DMR
-"Dec 2, 2021IIROC Trading Resumption - BZ",BZ
-"Dec 2, 2021IIROC Trading Resumption - BZ",BZ
-"Dec 2, 2021IIROC Trading Halt - NFI.DB",NFI.DB
