@@ -1,4 +1,7 @@
 Halts,Listing
+"Dec 7, 2021IIROC Trading Halt - KUT",KUT
+"Dec 7, 2021IIROC Trading Halt - TELE",TELE
+"Dec 7, 2021IIROC Trading Resumption - TEM",TEM
 "Dec 7, 2021IIROC Trading Resumption - CPR",CPR
 "Dec 7, 2021IIROC Trading Resumption - RYE",RYE
 "Dec 7, 2021IIROC Trading Halt - CPR",CPR
@@ -21,6 +24,3 @@ Halts,Listing
 "Dec 6, 2021IIROC Trade Resumption - PLTH",PLTH
 "Dec 6, 2021IIROC Trading Halt - PLTH",PLTH
 "Dec 6, 2021IIROC Trading Resumption - NPR",NPR
-"Dec 6, 2021IIROC Trading Halt - BKM",BKM
-"Dec 6, 2021IIROC Trade Resumption - EIF.DB.M",EIF.DB.M
-"Dec 6, 2021IIROC Trading Halt - NPR",NPR
