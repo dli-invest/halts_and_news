@@ -1,4 +1,6 @@
 Halts,Listing
+"Dec 8, 2021IIROC Trading Resumption - KUT",KUT
+"Dec 8, 2021IIROC Trading Halt - GENM",GENM
 "Dec 7, 2021IIROC Trading Resumption - MNLX",MNLX
 "Dec 7, 2021IIROC Trading Halt - KUT",KUT
 "Dec 7, 2021IIROC Trading Halt - TELE",TELE
@@ -22,5 +24,3 @@ Halts,Listing
 "Dec 6, 2021IIROC Trading Halt - AUC",AUC
 "Dec 6, 2021IIROC Trade Resumption - MMI",MMI
 "Dec 6, 2021IIROC Trade Resumption - WDR",WDR
-"Dec 6, 2021IIROC Trade Resumption - PLTH",PLTH
-"Dec 6, 2021IIROC Trading Halt - PLTH",PLTH
