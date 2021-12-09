@@ -1,4 +1,6 @@
 Halts,Listing
+"Dec 9, 2021IIROC Trading Halt - HVI.P",HVI.P
+"Dec 9, 2021IIROC Trading Halt - PMR",PMR
 "Dec 8, 2021IIROC Trading Resumption - BKM",BKM
 "Dec 8, 2021IIROC Trading Resumption - YUB.P",YUB.P
 "Dec 8, 2021IIROC Trading Halt - DGS",DGS
@@ -22,5 +24,3 @@ Halts,Listing
 "Dec 7, 2021IIROC Trading Halt - NAB.NT",NAB.NT
 "Dec 7, 2021IIROC Trade Resumption - VMH.U",VMH.U
 "Dec 7, 2021IIROC Trading Halt - VMH.U",VMH.U
-"Dec 7, 2021IIROC Trade Resumption - CHE.UN",CHE.UN
-"Dec 7, 2021IIROC Trading Halt - HRT",HRT
