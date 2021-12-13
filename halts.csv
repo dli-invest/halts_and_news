@@ -1,4 +1,8 @@
 Halts,Listing
+"Dec 13, 2021IIROC Trading Halt - TUF",TUF
+"Dec 13, 2021IIROC Trading Halt - ORTH",ORTH
+"Dec 13, 2021IIROC Trading Resumption - ITM",ITM
+"Dec 13, 2021IIROC Trading Halt - SIG",SIG
 "Dec 13, 2021IIROC Trading Halt - WT.H",WT.H
 "Dec 10, 2021IIROC Trading Halt - AAA.P",AAA.P
 "Dec 10, 2021IIROC Trading Resumption - TORA",TORA
@@ -20,7 +24,3 @@ Halts,Listing
 "Dec 9, 2021IIROC Trading Halt - CU.PR.J",CU.PR.J
 "Dec 9, 2021IIROC Trade Resumption - DGS",DGS
 "Dec 9, 2021IIROC Trading Halt - HVI.P",HVI.P
-"Dec 9, 2021IIROC Trading Halt - PMR",PMR
-"Dec 8, 2021IIROC Trading Resumption - BKM",BKM
-"Dec 8, 2021IIROC Trading Resumption - YUB.P",YUB.P
-"Dec 8, 2021IIROC Trading Halt - DGS",DGS
