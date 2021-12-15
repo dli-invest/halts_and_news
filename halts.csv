@@ -1,4 +1,8 @@
 Halts,Listing
+"Dec 15, 2021IIROC Trading Halt - OTSO.H",OTSO.H
+"Dec 15, 2021IIROC Trading Resumption - GRAT",GRAT
+"Dec 15, 2021IIROC Trading Resumption - PINK",PINK
+"Dec 15, 2021IIROC Trading Halt - ORM",ORM
 "Dec 15, 2021IIROC Trading Halt - SENS",SENS
 "Dec 15, 2021IIROC Trading Halt - PINK",PINK
 "Dec 15, 2021IIROC Trade Resumption - CHE.DB.G",CHE.DB.G
@@ -20,7 +24,3 @@ Halts,Listing
 "Dec 13, 2021IIROC Trading Halt - TNZ.RT",TNZ.RT
 "Dec 13, 2021IIROC Trading Halt - ALTS",ALTS
 "Dec 13, 2021IIROC Trade Resumption - ORTH",ORTH
-"Dec 13, 2021IIROC Trade Resumption - BLU",BLU
-"Dec 13, 2021IIROC Trading Resumption - TUF",TUF
-"Dec 13, 2021IIROC Trading Halt - BLU",BLU
-"Dec 13, 2021IIROC Trading Halt - TUF",TUF
