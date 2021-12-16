@@ -1,4 +1,10 @@
 Halts,Listing
+"Dec 16, 2021IIROC Trading Halt - CANA",CANA
+"Dec 16, 2021IIROC Trading Resumption - SPOT",SPOT
+"Dec 16, 2021IIROC Trading Resumption - LHR",LHR
+"Dec 16, 2021IIROC Trade Resumption - BAC",BAC
+"Dec 16, 2021IIROC Trading Halt - DRC.H",DRC.H
+"Dec 16, 2021IIROC Trading Halt - RTG",RTG
 "Dec 16, 2021IIROC Trading Halt - SPOT",SPOT
 "Dec 16, 2021IIROC Trading Halt - PBH.DB.F",PBH.DB.F
 "Dec 16, 2021IIROC Trading Halt - ECCV.P",ECCV.P
@@ -18,9 +24,3 @@ Halts,Listing
 "Dec 15, 2021IIROC Trading Halt - PINK",PINK
 "Dec 15, 2021IIROC Trade Resumption - CHE.DB.G",CHE.DB.G
 "Dec 15, 2021IIROC Trading Halt - LHR",LHR
-"Dec 15, 2021IIROC Trading Halt - GRAT",GRAT
-"Dec 15, 2021IIROC Trading Halt - CHE.DB.G",CHE.DB.G
-"Dec 14, 2021IIROC Trading Resumption - MAS",MAS
-"Dec 14, 2021IIROC Trading Resumption - CSL",CSL
-"Dec 14, 2021IIROC Trading Resumption - ZAC",ZAC
-"Dec 14, 2021IIROC Trading Halt - MAS",MAS
