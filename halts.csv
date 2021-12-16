@@ -1,4 +1,6 @@
 Halts,Listing
+"Dec 16, 2021IIROC Trade Resumption - SENS",SENS
+"Dec 16, 2021IIROC Trade Resumption - FUZN",FUZN
 "Dec 16, 2021IIROC Trading Halt - CANA",CANA
 "Dec 16, 2021IIROC Trading Resumption - SPOT",SPOT
 "Dec 16, 2021IIROC Trading Resumption - LHR",LHR
@@ -22,5 +24,3 @@ Halts,Listing
 "Dec 15, 2021IIROC Trading Halt - ORM",ORM
 "Dec 15, 2021IIROC Trading Halt - SENS",SENS
 "Dec 15, 2021IIROC Trading Halt - PINK",PINK
-"Dec 15, 2021IIROC Trade Resumption - CHE.DB.G",CHE.DB.G
-"Dec 15, 2021IIROC Trading Halt - LHR",LHR
