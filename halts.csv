@@ -1,4 +1,9 @@
 Halts,Listing
+"Dec 17, 2021IIROC Trade Resumption - MRT.UN & MRT.DB.A",MRT.DB.A
+"Dec 17, 2021IIROC Trading Halt - MRT.UN",MRT.UN
+"Dec 17, 2021IIROC Trade Resumption - BETS",BETS
+"Dec 17, 2021IIROC Trading Halt - BCM",BCM
+"Dec 17, 2021IIROC Trading Halt - MRT.DB",MRT.DB
 "Dec 17, 2021IIROC Trading Halt - ECCS.P",ECCS.P
 "Dec 16, 2021IIROC Trading Resumption - DAT.H",DAT.H
 "Dec 16, 2021IIROC Trading Resumption - TNR",TNR
@@ -19,8 +24,3 @@ Halts,Listing
 "Dec 15, 2021IIROC Trading Halt - STWO",STWO
 "Dec 15, 2021IIROC Trade Resumption - COIN",COIN
 "Dec 15, 2021IIROC Trading Halt - COIN",COIN
-"Dec 15, 2021IIROC Trading Halt - BAC",BAC
-"Dec 15, 2021IIROC Trading Resumption - ORM",ORM
-"Dec 15, 2021IIROC Trading Halt - OTSO.H",OTSO.H
-"Dec 15, 2021IIROC Trading Resumption - GRAT",GRAT
-"Dec 15, 2021IIROC Trading Resumption - PINK",PINK
