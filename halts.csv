@@ -1,4 +1,9 @@
 Halts,Listing
+"Dec 20, 2021IIROC Trade Resumption - MJRX",MJRX
+"Dec 20, 2021IIROC Trading Halt - OML",OML
+"Dec 20, 2021IIROC Trading Halt - LSX.WT",LSX.WT
+"Dec 20, 2021IIROC Trading Resumption - EMO",EMO
+"Dec 20, 2021IIROC Trading Halt - EMO",EMO
 "Dec 20, 2021IIROC Trading Resumption - TVI",TVI
 "Dec 20, 2021IIROC Trading Halt - WITT.P",WITT.P
 "Dec 20, 2021IIROC Trading Halt - LHR",LHR
@@ -19,8 +24,3 @@ Halts,Listing
 "Dec 17, 2021IIROC Trading Halt - MRT.DB",MRT.DB
 "Dec 17, 2021IIROC Trading Halt - ECCS.P",ECCS.P
 "Dec 16, 2021IIROC Trading Resumption - DAT.H",DAT.H
-"Dec 16, 2021IIROC Trading Resumption - TNR",TNR
-"Dec 16, 2021IIROC Trade Resumption - SENS",SENS
-"Dec 16, 2021IIROC Trade Resumption - FUZN",FUZN
-"Dec 16, 2021IIROC Trading Halt - CANA",CANA
-"Dec 16, 2021IIROC Trading Resumption - SPOT",SPOT
