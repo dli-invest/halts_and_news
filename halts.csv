@@ -1,4 +1,7 @@
 Halts,Listing
+"Dec 21, 2021IIROC Trading Resumption - CAC.P",CAC.P
+"Dec 21, 2021IIROC Trading Resumption - FL",FL
+"Dec 21, 2021IIROC Trading Halt - FL",FL
 "Dec 21, 2021IIROC Trading Halt - PWM",PWM
 "Dec 21, 2021IIROC Trading Halt - CAC.P",CAC.P
 "Dec 21, 2021IIROC Trading Resumption - BCM",BCM
@@ -21,6 +24,3 @@ Halts,Listing
 "Dec 20, 2021IIROC Trading Halt - AHP",AHP
 "Dec 20, 2021IIROC Trading Halt - PLAN",PLAN
 "Dec 20, 2021IIROC Trading Halt - TVI",TVI
-"Dec 20, 2021IIROC Trade Resumption - RTG",RTG
-"Dec 20, 2021IIROC Trading Halt - PEZM.H",PEZM.H
-"Dec 20, 2021IIROC Trading Halt - AMI",AMI
