@@ -1,4 +1,7 @@
 Halts,Listing
+"Dec 21, 2021IIROC Trading Resumption - BCM",BCM
+"Dec 21, 2021IIROC Trading Resumption - MNOW",MNOW
+"Dec 21, 2021IIROC Trading Halt - NEME.P",NEME.P
 "Dec 20, 2021IIROC Trading Halt - MNOW",MNOW
 "Dec 20, 2021IIROC Trading Resumption - ECCV.P",ECCV.P
 "Dec 20, 2021IIROC Trading Resumption - HFC",HFC
@@ -21,6 +24,3 @@ Halts,Listing
 "Dec 20, 2021IIROC Trading Halt - AMI",AMI
 "Dec 17, 2021IIROC Trading Resumption - CAC.P",CAC.P
 "Dec 17, 2021IIROC Trading Resumption - VDKA",VDKA
-"Dec 17, 2021IIROC Trading Resumption - EGT",EGT
-"Dec 17, 2021IIROC Trading Halt - EGT",EGT
-"Dec 17, 2021IIROC Trade Resumption - MRT.UN & MRT.DB.A",MRT.DB.A
