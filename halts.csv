@@ -1,4 +1,7 @@
 Halts,Listing
+"Dec 22, 2021IIROC Trade Resumption - GENM",GENM
+"Dec 22, 2021IIROC Trading Halt - GENM",GENM
+"Dec 22, 2021IIROC Trading Halt - BETR",BETR
 "Dec 22, 2021IIROC Trading Halt - BOLT",BOLT
 "Dec 21, 2021IIROC Trading Resumption - PWM",PWM
 "Dec 21, 2021IIROC Trading Resumption - WITT.P",WITT.P
@@ -21,6 +24,3 @@ Halts,Listing
 "Dec 20, 2021IIROC Trading Halt - OML",OML
 "Dec 20, 2021IIROC Trading Halt - LSX.WT",LSX.WT
 "Dec 20, 2021IIROC Trading Resumption - EMO",EMO
-"Dec 20, 2021IIROC Trading Halt - EMO",EMO
-"Dec 20, 2021IIROC Trading Resumption - TVI",TVI
-"Dec 20, 2021IIROC Trading Halt - WITT.P",WITT.P
