@@ -1,4 +1,8 @@
 Halts,Listing
+"Dec 23, 2021IIROC Trading Resumption - NSX",NSX
+"Dec 23, 2021IIROC Trade Resumption - BOLT",BOLT
+"Dec 23, 2021IIROC Trade Resumption - ECN.DB.B",ECN.DB.B
+"Dec 23, 2021IIROC Trading Halt - NSX",NSX
 "Dec 23, 2021IIROC Trading Halt - ECN.DB.B",ECN.DB.B
 "Dec 23, 2021IIROC Trading Halt - NEME.P",NEME.P
 "Dec 22, 2021IIROC Trading Resumption - LTX",LTX
@@ -20,7 +24,3 @@ Halts,Listing
 "Dec 21, 2021IIROC Trading Resumption - MNOW",MNOW
 "Dec 21, 2021IIROC Trading Halt - NEME.P",NEME.P
 "Dec 20, 2021IIROC Trading Halt - MNOW",MNOW
-"Dec 20, 2021IIROC Trading Resumption - ECCV.P",ECCV.P
-"Dec 20, 2021IIROC Trading Resumption - HFC",HFC
-"Dec 20, 2021IIROC Trading Halt - HFC",HFC
-"Dec 20, 2021IIROC Trading Resumption - AMI",AMI
