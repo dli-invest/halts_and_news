@@ -1,4 +1,6 @@
 Halts,Listing
+"Dec 24, 2021IIROC Trade Resumption - CBDT",CBDT
+"Dec 24, 2021IIROC Trading Halt - ENTG",ENTG
 "Dec 24, 2021IIROC Trading Halt - CBDT",CBDT
 "Dec 23, 2021IIROC Trade Resumption - IONC",IONC
 "Dec 23, 2021IIROC Trading Resumption - GLI",GLI
@@ -22,5 +24,3 @@ Halts,Listing
 "Dec 21, 2021IIROC Trading Resumption - WITT.P",WITT.P
 "Dec 21, 2021IIROC Trading Resumption - CAC.P",CAC.P
 "Dec 21, 2021IIROC Trading Resumption - FL",FL
-"Dec 21, 2021IIROC Trading Halt - FL",FL
-"Dec 21, 2021IIROC Trading Halt - PWM",PWM
