@@ -1,4 +1,6 @@
 Halts,Listing
+"Dec 31, 2021IIROC Trading Resumption - TBLL",TBLL
+"Dec 31, 2021IIROC Trading Halt - TBLL",TBLL
 "Dec 31, 2021IIROC Trading Halt - BSI.H",BSI.H
 "Dec 30, 2021IIROC Trading Resumption - CAP",CAP
 "Dec 30, 2021IIROC Trading Halt - CAP",CAP
@@ -22,5 +24,3 @@ Halts,Listing
 "Dec 23, 2021IIROC Trading Halt - ECN.DB.B",ECN.DB.B
 "Dec 23, 2021IIROC Trading Halt - NEME.P",NEME.P
 "Dec 22, 2021IIROC Trading Resumption - LTX",LTX
-"Dec 22, 2021IIROC Trade Resumption - CANA",CANA
-"Dec 22, 2021IIROC Trade Resumption - BETR",BETR
