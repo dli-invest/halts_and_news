@@ -1,4 +1,7 @@
 Halts,Listing
+"Jan 6, 2022IIROC Trading Halt - BM.H",BM.H
+"Jan 6, 2022IIROC Trading Resumption - HAR",HAR
+"Jan 6, 2022IIROC Trading Resumption - LSX",LSX
 "Jan 6, 2022IIROC Trade Resumption - RGLD",RGLD
 "Jan 6, 2022IIROC Trade Resumption - CLIQ",CLIQ
 "Jan 6, 2022IIROC Trading Halt - LSX",LSX
@@ -21,6 +24,3 @@ Halts,Listing
 "Jan 4, 2022IIROC Trade Resumption - COIN",COIN
 "Jan 4, 2022IIROC Trading Halt - COIN",COIN
 "Jan 4, 2022IIROC Trade Resumption - GDI",GDI
-"Jan 4, 2022IIROC Trading Halt - GDI",GDI
-"Jan 4, 2022IIROC Trading Resumption - OMG",OMG
-"Jan 4, 2022IIROC Trading Resumption - VXL",VXL
