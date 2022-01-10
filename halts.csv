@@ -1,4 +1,6 @@
 Halts,Listing
+"Jan 10, 2022IIROC Trading Resumption - SVA",SVA
+"Jan 10, 2022IIROC Trading Halt - SVA",SVA
 "Jan 10, 2022IIROC Trading Halt - SQD",SQD
 "Jan 10, 2022IIROC Trading Resumption - HTC",HTC
 "Jan 10, 2022IIROC Trading Halt - RLV",RLV
@@ -22,5 +24,3 @@ Halts,Listing
 "Jan 5, 2022IIROC Trading Halt - RGLD",RGLD
 "Jan 5, 2022IIROC Trading Halt - ML",ML
 "Jan 5, 2022IIROC Trade Resumption - FH",FH
-"Jan 5, 2022IIROC Trading Halt - FH",FH
-"Jan 5, 2022IIROC Trade Resumption - MSET",MSET
