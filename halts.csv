@@ -1,4 +1,8 @@
 Halts,Listing
+"Jan 11, 2022IIROC Trading Halt - CDB",CDB
+"Jan 11, 2022IIROC Trading Halt - GOT",GOT
+"Jan 11, 2022IIROC Trading Halt - CPER",CPER
+"Jan 11, 2022IIROC Trade Resumption - TLO",TLO
 "Jan 11, 2022IIROC Trading Halt - SPN",SPN
 "Jan 10, 2022IIROC Trading Resumption - SQD",SQD
 "Jan 10, 2022IIROC Trading Resumption - PLAN",PLAN
@@ -20,7 +24,3 @@ Halts,Listing
 "Jan 6, 2022IIROC Trading Resumption - HAR",HAR
 "Jan 6, 2022IIROC Trading Resumption - LSX",LSX
 "Jan 6, 2022IIROC Trade Resumption - RGLD",RGLD
-"Jan 6, 2022IIROC Trade Resumption - CLIQ",CLIQ
-"Jan 6, 2022IIROC Trading Halt - LSX",LSX
-"Jan 6, 2022IIROC Trading Halt - CLIQ",CLIQ
-"Jan 6, 2022IIROC Trading Halt - HAR",HAR
