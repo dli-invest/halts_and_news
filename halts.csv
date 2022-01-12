@@ -1,4 +1,10 @@
 Halts,Listing
+"Jan 12, 2022IIROC Trade Resumption - VRNO",VRNO
+"Jan 12, 2022IIROC Trade Resumption - JUSH",JUSH
+"Jan 12, 2022IIROC Trading Halt - VRNO",VRNO
+"Jan 12, 2022IIROC Trading Halt - JUSH",JUSH
+"Jan 12, 2022IIROC Trade Resumption - CL",CL
+"Jan 12, 2022IIROC Trading Halt - CL",CL
 "Jan 12, 2022IIROC Trading Resumption - NKG",NKG
 "Jan 12, 2022IIROC Trading Halt - NKG",NKG
 "Jan 12, 2022IIROC Trading Halt - SLK.H",SLK.H
@@ -18,9 +24,3 @@ Halts,Listing
 "Jan 11, 2022IIROC Trading Halt - CDB",CDB
 "Jan 11, 2022IIROC Trading Halt - GOT",GOT
 "Jan 11, 2022IIROC Trading Halt - CPER",CPER
-"Jan 11, 2022IIROC Trade Resumption - TLO",TLO
-"Jan 11, 2022IIROC Trading Halt - SPN",SPN
-"Jan 10, 2022IIROC Trading Resumption - SQD",SQD
-"Jan 10, 2022IIROC Trading Resumption - PLAN",PLAN
-"Jan 10, 2022IIROC Trading Halt - TLO",TLO
-"Jan 10, 2022IIROC Trading Halt - TWR",TWR
