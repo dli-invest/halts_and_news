@@ -1,4 +1,6 @@
 Halts,Listing
+"Jan 13, 2022IIROC Trading Halt - PSH",PSH
+"Jan 13, 2022IIROC Trading Resumption - ANK",ANK
 "Jan 13, 2022IIROC Trade Resumption - SX",SX
 "Jan 13, 2022IIROC Trading Halt - CCD.RT",CCD.RT
 "Jan 13, 2022IIROC Trading Halt - ANK",ANK
@@ -22,5 +24,3 @@ Halts,Listing
 "Jan 12, 2022IIROC Trading Halt - F",F
 "Jan 11, 2022IIROC Trading Resumption - RMB.P",RMB.P
 "Jan 11, 2022IIROC Trading Resumption - VM",VM
-"Jan 11, 2022IIROC Trade Resumption - APLV",APLV
-"Jan 11, 2022IIROC Trading Halt - VM",VM
