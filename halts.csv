@@ -1,4 +1,6 @@
 Halts,Listing
+"Jan 13, 2022IIROC Trading Halt - TPC",TPC
+"Jan 13, 2022IIROC Trading Halt - CI",CI
 "Jan 12, 2022IIROC Trade Resumption - ATZ",ATZ
 "Jan 12, 2022IIROC Trading Halt - FSZ",FSZ
 "Jan 12, 2022IIROC Trading Halt - ATZ",ATZ
@@ -22,5 +24,3 @@ Halts,Listing
 "Jan 11, 2022IIROC Trading Resumption - GOT",GOT
 "Jan 11, 2022IIROC Trade Resumption - FTRP",FTRP
 "Jan 11, 2022IIROC Trading Resumption - SPN",SPN
-"Jan 11, 2022IIROC Trading Halt - FTRP",FTRP
-"Jan 11, 2022IIROC Trading Halt - APLV",APLV
