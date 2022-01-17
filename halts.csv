@@ -1,4 +1,8 @@
 Halts,Listing
+"Jan 17, 2022IIROC Trade Resumption - MMED",MMED
+"Jan 17, 2022IIROC Trading Halt - MMED",MMED
+"Jan 17, 2022IIROC Trading Resumption - SOI",SOI
+"Jan 17, 2022IIROC Trading Halt - SOI",SOI
 "Jan 17, 2022IIROC Trading Halt - POW.PR.F",POW.PR.F
 "Jan 17, 2022IIROC Trading Halt - SPS.A",SPS.A
 "Jan 17, 2022IIROC Trading Halt - KPEN.P",KPEN.P
@@ -20,7 +24,3 @@ Halts,Listing
 "Jan 12, 2022IIROC Trading Halt - FSZ",FSZ
 "Jan 12, 2022IIROC Trading Halt - ATZ",ATZ
 "Jan 12, 2022IIROC Trade Resumption - VRNO",VRNO
-"Jan 12, 2022IIROC Trade Resumption - JUSH",JUSH
-"Jan 12, 2022IIROC Trading Halt - VRNO",VRNO
-"Jan 12, 2022IIROC Trading Halt - JUSH",JUSH
-"Jan 12, 2022IIROC Trade Resumption - CL",CL
