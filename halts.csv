@@ -1,4 +1,7 @@
 Halts,Listing
+"Jan 17, 2022IIROC Trading Resumption - VERT",VERT
+"Jan 17, 2022IIROC Trading Halt - MKO.WT.A",MKO.WT.A
+"Jan 17, 2022IIROC Trading Halt - VERT",VERT
 "Jan 17, 2022IIROC Trade Resumption - MMED",MMED
 "Jan 17, 2022IIROC Trading Halt - MMED",MMED
 "Jan 17, 2022IIROC Trading Resumption - SOI",SOI
@@ -21,6 +24,3 @@ Halts,Listing
 "Jan 13, 2022IIROC Trading Halt - TPC",TPC
 "Jan 13, 2022IIROC Trading Halt - CI",CI
 "Jan 12, 2022IIROC Trade Resumption - ATZ",ATZ
-"Jan 12, 2022IIROC Trading Halt - FSZ",FSZ
-"Jan 12, 2022IIROC Trading Halt - ATZ",ATZ
-"Jan 12, 2022IIROC Trade Resumption - VRNO",VRNO
