@@ -1,4 +1,6 @@
 Halts,Listing
+"Jan 19, 2022IIROC Trading Halt - FAT",FAT
+"Jan 19, 2022IIROC Trading Resumption - ESK",ESK
 "Jan 19, 2022IIROC Trading Halt - VEG",VEG
 "Jan 19, 2022IIROC Trading Halt - ESK",ESK
 "Jan 18, 2022IIROC Trading Resumption - WEX",WEX
@@ -22,5 +24,3 @@ Halts,Listing
 "Jan 14, 2022IIROC Trading Halt - AAWH.U",AAWH.U
 "Jan 13, 2022IIROC Trading Resumption - TPC",TPC
 "Jan 13, 2022IIROC Trading Resumption - CPER",CPER
-"Jan 13, 2022IIROC Trading Halt - PSH",PSH
-"Jan 13, 2022IIROC Trading Resumption - ANK",ANK
