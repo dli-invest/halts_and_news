@@ -1,4 +1,7 @@
 Halts,Listing
+"Jan 20, 2022IIROC Trade Resumption - RCH",RCH
+"Jan 20, 2022IIROC Trading Halt - RCH",RCH
+"Jan 20, 2022IIROC Trading Halt - MGRO",MGRO
 "Jan 20, 2022IIROC Trade Resumption - FAT",FAT
 "Jan 20, 2022IIROC Trading Resumption - ADZN",ADZN
 "Jan 20, 2022IIROC Trade Resumption - FFN",FFN
@@ -21,6 +24,3 @@ Halts,Listing
 "Jan 17, 2022IIROC Trading Halt - VERT",VERT
 "Jan 17, 2022IIROC Trade Resumption - MMED",MMED
 "Jan 17, 2022IIROC Trading Halt - MMED",MMED
-"Jan 17, 2022IIROC Trading Resumption - SOI",SOI
-"Jan 17, 2022IIROC Trading Halt - SOI",SOI
-"Jan 17, 2022IIROC Trading Halt - POW.PR.F",POW.PR.F
