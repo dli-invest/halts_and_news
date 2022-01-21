@@ -1,4 +1,6 @@
 Halts,Listing
+"Jan 21, 2022IIROC Trading Resumption - CTRL",CTRL
+"Jan 21, 2022IIROC Trading Resumption - TAU",TAU
 "Jan 21, 2022IIROC Trading Halt - TAU",TAU
 "Jan 21, 2022IIROC Trade Resumption - ABCT",ABCT
 "Jan 21, 2022IIROC Trading Resumption - AKMY",AKMY
@@ -22,5 +24,3 @@ Halts,Listing
 "Jan 19, 2022IIROC Trading Resumption - KPEN.P",KPEN.P
 "Jan 19, 2022IIROC Trading Halt - FFN",FFN
 "Jan 19, 2022IIROC Trading Halt - ADZN",ADZN
-"Jan 19, 2022IIROC Trading Halt - FAT",FAT
-"Jan 19, 2022IIROC Trading Resumption - ESK",ESK
