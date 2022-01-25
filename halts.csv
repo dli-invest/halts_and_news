@@ -1,4 +1,7 @@
 Halts,Listing
+"Jan 25, 2022IIROC Trading Halt - ML",ML
+"Jan 25, 2022IIROC Trading Halt - CHE.DB.C",CHE.DB.C
+"Jan 25, 2022IIROC Trading Halt - COCO",COCO
 "Jan 24, 2022IIROC Trading Resumption - BLAZ.P",BLAZ.P
 "Jan 24, 2022IIROC Trading Halt - APMI",APMI
 "Jan 24, 2022IIROC Trade Resumption - POM",POM
@@ -21,6 +24,3 @@ Halts,Listing
 "Jan 21, 2022IIROC Trade Resumption - ABCT",ABCT
 "Jan 21, 2022IIROC Trading Resumption - AKMY",AKMY
 "Jan 21, 2022IIROC Trading Halt - ABCT",ABCT
-"Jan 21, 2022IIROC Trade Resumption - MGRO",MGRO
-"Jan 21, 2022IIROC Trading Halt - BLAZ.P",BLAZ.P
-"Jan 21, 2022IIROC Trade Resumption - CRR.UN",CRR.UN
