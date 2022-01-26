@@ -1,4 +1,6 @@
 Halts,Listing
+"Jan 26, 2022IIROC Trading Halt - ZON",ZON
+"Jan 26, 2022IIROC Trading Halt - OTSO.H",OTSO.H
 "Jan 25, 2022IIROC Trade Resumption - CRFT",CRFT
 "Jan 25, 2022IIROC Trading Resumption - MOO.P",MOO.P
 "Jan 25, 2022IIROC Trading Resumption - ASTR",ASTR
@@ -22,5 +24,3 @@ Halts,Listing
 "Jan 24, 2022IIROC Trading Resumption - GWA",GWA
 "Jan 24, 2022IIROC Trading Halt - KUYA",KUYA
 "Jan 24, 2022IIROC Trading Halt - AMS.X",AMS.X
-"Jan 24, 2022IIROC Trading Halt - JAB.P",JAB.P
-"Jan 24, 2022IIROC Trading Halt - CRFT",CRFT
