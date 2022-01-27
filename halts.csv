@@ -1,4 +1,6 @@
 Halts,Listing
+"Jan 27, 2022IIROC Trading Halt - AFX",AFX
+"Jan 27, 2022IIROC Trading Halt - SGMD",SGMD
 "Jan 27, 2022IIROC Trade Resumption - ICAN",ICAN
 "Jan 27, 2022IIROC Trade Resumption - FC.DB.L",FC.DB.L
 "Jan 27, 2022IIROC Trading Halt - FC.DB.L",FC.DB.L
@@ -22,5 +24,3 @@ Halts,Listing
 "Jan 25, 2022IIROC Trading Halt - ML",ML
 "Jan 25, 2022IIROC Trading Halt - CHE.DB.C",CHE.DB.C
 "Jan 25, 2022IIROC Trading Halt - COCO",COCO
-"Jan 24, 2022IIROC Trading Resumption - BLAZ.P",BLAZ.P
-"Jan 24, 2022IIROC Trading Halt - APMI",APMI
