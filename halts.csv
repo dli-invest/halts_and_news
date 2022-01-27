@@ -1,4 +1,6 @@
 Halts,Listing
+"Jan 27, 2022IIROC Trading Halt - SAC.P",SAC.P
+"Jan 27, 2022IIROC Trading Halt - PEM.P",PEM.P
 "Jan 26, 2022IIROC Trading Resumption - EDY",EDY
 "Jan 26, 2022IIROC Trading Resumption - NGC",NGC
 "Jan 26, 2022IIROC Trading Halt - MAGN.P",MAGN.P
@@ -22,5 +24,3 @@ Halts,Listing
 "Jan 24, 2022IIROC Trade Resumption - POM",POM
 "Jan 24, 2022IIROC Trading Halt - POM",POM
 "Jan 24, 2022IIROC Trading Resumption - GIS",GIS
-"Jan 24, 2022IIROC Trade Resumption - JUSH",JUSH
-"Jan 24, 2022IIROC Trading Halt - JUSH",JUSH
