@@ -1,4 +1,7 @@
 Halts,Listing
+"Jan 28, 2022IIROC Trading Resumption - HFC",HFC
+"Jan 28, 2022IIROC Trading Halt - RKR",RKR
+"Jan 28, 2022IIROC Trading Halt - HFC",HFC
 "Jan 28, 2022IIROC Trading Halt - NCU.WT",NCU.WT
 "Jan 28, 2022IIROC Trading Halt - LEXT",LEXT
 "Jan 28, 2022IIROC Trading Resumption - PLRB",PLRB
@@ -21,6 +24,3 @@ Halts,Listing
 "Jan 26, 2022IIROC Trading Halt - ZON",ZON
 "Jan 26, 2022IIROC Trading Halt - OTSO.H",OTSO.H
 "Jan 25, 2022IIROC Trade Resumption - CRFT",CRFT
-"Jan 25, 2022IIROC Trading Resumption - MOO.P",MOO.P
-"Jan 25, 2022IIROC Trading Resumption - ASTR",ASTR
-"Jan 25, 2022IIROC Trading Halt - HS",HS
