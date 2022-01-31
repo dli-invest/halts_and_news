@@ -1,4 +1,7 @@
 Halts,Listing
+"Jan 31, 2022IIROC Trading Halt - AMMP",AMMP
+"Jan 31, 2022IIROC Trade Resumption - SPG",SPG
+"Jan 31, 2022IIROC Trading Halt - SPG",SPG
 "Jan 31, 2022IIROC Trade Resumption - LEXT",LEXT
 "Jan 31, 2022IIROC Trading Halt - ALY",ALY
 "Jan 31, 2022IIROC Trading Halt - SEI",SEI
@@ -21,6 +24,3 @@ Halts,Listing
 "Jan 27, 2022IIROC Trading Halt - FC.DB.L",FC.DB.L
 "Jan 27, 2022IIROC Trading Halt - SAC.P",SAC.P
 "Jan 27, 2022IIROC Trading Halt - PEM.P",PEM.P
-"Jan 26, 2022IIROC Trading Resumption - EDY",EDY
-"Jan 26, 2022IIROC Trading Resumption - NGC",NGC
-"Jan 26, 2022IIROC Trading Halt - MAGN.P",MAGN.P
