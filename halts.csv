@@ -1,4 +1,9 @@
 Halts,Listing
+"Jan 31, 2022IIROC Trading Halt - PP",PP
+"Jan 31, 2022IIROC Trade Resumption - HUNT",HUNT
+"Jan 31, 2022IIROC Trading Halt - HUNT",HUNT
+"Jan 31, 2022IIROC Trading Halt - FEC",FEC
+"Jan 31, 2022IIROC Trading Halt - OYL",OYL
 "Jan 31, 2022IIROC Trading Halt - AMMP",AMMP
 "Jan 31, 2022IIROC Trade Resumption - SPG",SPG
 "Jan 31, 2022IIROC Trading Halt - SPG",SPG
@@ -19,8 +24,3 @@ Halts,Listing
 "Jan 28, 2022IIROC Trading Halt - CDU",CDU
 "Jan 27, 2022IIROC Trading Halt - AFX",AFX
 "Jan 27, 2022IIROC Trading Halt - SGMD",SGMD
-"Jan 27, 2022IIROC Trade Resumption - ICAN",ICAN
-"Jan 27, 2022IIROC Trade Resumption - FC.DB.L",FC.DB.L
-"Jan 27, 2022IIROC Trading Halt - FC.DB.L",FC.DB.L
-"Jan 27, 2022IIROC Trading Halt - SAC.P",SAC.P
-"Jan 27, 2022IIROC Trading Halt - PEM.P",PEM.P
