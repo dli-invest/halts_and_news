@@ -1,4 +1,7 @@
 Halts,Listing
+"Feb 1, 2022IIROC Trading Halt - CPC.P",CPC.P
+"Feb 1, 2022IIROC Trading Halt - GIGA",GIGA
+"Feb 1, 2022IIROC Trading Resumption - SNYB",SNYB
 "Feb 1, 2022IIROC Trading Halt - RS",RS
 "Feb 1, 2022IIROC Trading Resumption - SEI",SEI
 "Feb 1, 2022IIROC Trading Resumption - COCO",COCO
@@ -21,6 +24,3 @@ Halts,Listing
 "Jan 28, 2022IIROC Trading Resumption - RKR",RKR
 "Jan 28, 2022IIROC Trading Resumption - PEM.P",PEM.P
 "Jan 28, 2022IIROC Trading Resumption - HFC",HFC
-"Jan 28, 2022IIROC Trading Halt - RKR",RKR
-"Jan 28, 2022IIROC Trading Halt - HFC",HFC
-"Jan 28, 2022IIROC Trading Halt - NCU.WT",NCU.WT
