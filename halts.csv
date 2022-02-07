@@ -1,4 +1,7 @@
 Halts,Listing
+"Feb 7, 2022IIROC Trading Halt - AJN",AJN
+"Feb 7, 2022IIROC Trading Halt - EOG",EOG
+"Feb 7, 2022IIROC Trading Halt - TRL.WT",TRL.WT
 "Feb 7, 2022IIROC Trade Resumption - XRA",XRA
 "Feb 7, 2022IIROC Trading Halt - RWB",RWB
 "Feb 7, 2022IIROC Trading Halt - GDP",GDP
@@ -21,6 +24,3 @@ Halts,Listing
 "Feb 3, 2022IIROC Trading Halt - ROK",ROK
 "Feb 3, 2022IIROC Trading Resumption - GIGA",GIGA
 "Feb 3, 2022IIROC Trade Resumption - WM",WM
-"Feb 2, 2022IIROC Trading Halt - WM",WM
-"Feb 2, 2022IIROC Trading Resumption - FCO",FCO
-"Feb 2, 2022IIROC Trading Halt - FCO",FCO
