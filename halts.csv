@@ -1,4 +1,8 @@
 Halts,Listing
+"Feb 7, 2022IIROC Trading Halt - EQB",EQB
+"Feb 7, 2022IIROC Trading Resumption - NRM",NRM
+"Feb 7, 2022IIROC Trading Halt - SOT.R",SOT.R
+"Feb 7, 2022IIROC Trading Resumption - EOG",EOG
 "Feb 7, 2022IIROC Trading Halt - AJN",AJN
 "Feb 7, 2022IIROC Trading Halt - EOG",EOG
 "Feb 7, 2022IIROC Trading Halt - TRL.WT",TRL.WT
@@ -20,7 +24,3 @@ Halts,Listing
 "Feb 4, 2022IIROC Trade Resumption - INE",INE
 "Feb 4, 2022IIROC Trading Halt - NEME.P",NEME.P
 "Feb 4, 2022IIROC Trading Halt - CRFT",CRFT
-"Feb 3, 2022IIROC Trading Halt - INE",INE
-"Feb 3, 2022IIROC Trading Halt - ROK",ROK
-"Feb 3, 2022IIROC Trading Resumption - GIGA",GIGA
-"Feb 3, 2022IIROC Trade Resumption - WM",WM
