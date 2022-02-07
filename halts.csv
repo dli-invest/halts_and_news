@@ -1,4 +1,7 @@
 Halts,Listing
+"Feb 7, 2022IIROC Trading Halt - GDP",GDP
+"Feb 7, 2022IIROC Trading Halt - NRM",NRM
+"Feb 7, 2022IIROC Trading Halt - OTS.H",OTS.H
 "Feb 4, 2022IIROC Trading Resumption - FREQ",FREQ
 "Feb 4, 2022IIROC Trade Resumption - QTRH",QTRH
 "Feb 4, 2022IIROC Trading Halt - QTRH",QTRH
@@ -21,6 +24,3 @@ Halts,Listing
 "Feb 2, 2022IIROC Trading Halt - FCO",FCO
 "Feb 2, 2022IIROC Trading Resumption - RCK",RCK
 "Feb 2, 2022IIROC Trading Halt - RCK",RCK
-"Feb 2, 2022IIROC Trade Resumption - RS",RS
-"Feb 1, 2022IIROC Trading Halt - CPC.P",CPC.P
-"Feb 1, 2022IIROC Trading Halt - GIGA",GIGA
