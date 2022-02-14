@@ -1,4 +1,9 @@
 Halts,Listing
+"Feb 14, 2022IIROC Trading Halt - IKC.P",IKC.P
+"Feb 14, 2022IIROC Trading Halt - BAC",BAC
+"Feb 14, 2022IIROC Trading Halt - MCR",MCR
+"Feb 14, 2022IIROC Trading Halt - MRKI.P",MRKI.P
+"Feb 14, 2022IIROC Trading Halt - AWE",AWE
 "Feb 11, 2022IIROC Trading Halt - LRT.DB.G",LRT.DB.G
 "Feb 11, 2022IIROC Trading Resumption - DAQ.P",DAQ.P
 "Feb 11, 2022IIROC Trading Resumption - PLXX.P",PLXX.P
@@ -19,8 +24,3 @@ Halts,Listing
 "Feb 10, 2022IIROC Trading Resumption - GGO",GGO
 "Feb 10, 2022IIROC Trade Resumption - SX",SX
 "Feb 10, 2022IIROC Trading Halt - SX",SX
-"Feb 10, 2022IIROC Trading Resumption - YGT",YGT
-"Feb 10, 2022IIROC Trading Resumption - BKM",BKM
-"Feb 10, 2022IIROC Trading Halt - NPK",NPK
-"Feb 10, 2022IIROC Trading Halt - DAQ.P",DAQ.P
-"Feb 10, 2022IIROC Trading Halt - PLXX.P",PLXX.P
