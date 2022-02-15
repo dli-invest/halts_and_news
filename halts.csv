@@ -1,4 +1,9 @@
 Halts,Listing
+"Feb 15, 2022IIROC Trading Halt - PAR.H",PAR.H
+"Feb 15, 2022IIROC Trading Resumption - REEM.P",REEM.P
+"Feb 15, 2022IIROC Trading Resumption - MRKI.P",MRKI.P
+"Feb 15, 2022IIROC Trading Resumption - IKC.P",IKC.P
+"Feb 15, 2022IIROC Trading Halt - BK",BK
 "Feb 15, 2022IIROC Trading Halt - FARM",FARM
 "Feb 15, 2022IIROC Trade Resumption - GTCH",GTCH
 "Feb 15, 2022IIROC Trading Resumption - RV",RV
@@ -19,8 +24,3 @@ Halts,Listing
 "Feb 14, 2022IIROC Trading Halt - YORK",YORK
 "Feb 14, 2022IIROC Trading Halt - NZRE",NZRE
 "Feb 14, 2022IIROC Trading Halt - LOTA",LOTA
-"Feb 14, 2022IIROC Trading Halt - IKC.P",IKC.P
-"Feb 14, 2022IIROC Trading Halt - BAC",BAC
-"Feb 14, 2022IIROC Trading Halt - MCR",MCR
-"Feb 14, 2022IIROC Trading Halt - MRKI.P",MRKI.P
-"Feb 14, 2022IIROC Trading Halt - AWE",AWE
