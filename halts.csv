@@ -1,4 +1,7 @@
 Halts,Listing
+"Feb 17, 2022IIROC Trading Halt - ASTR",ASTR
+"Feb 17, 2022IIROC Trading Resumption - BTR",BTR
+"Feb 17, 2022IIROC Trading Halt - BTR",BTR
 "Feb 17, 2022IIROC Trading Halt - RNP",RNP
 "Feb 17, 2022IIROC Trading Halt - NAN",NAN
 "Feb 16, 2022IIROC Trade Resumption - WRX",WRX
@@ -21,6 +24,3 @@ Halts,Listing
 "Feb 15, 2022IIROC Trading Resumption - RV",RV
 "Feb 15, 2022IIROC Trade Resumption - LSPK",LSPK
 "Feb 15, 2022IIROC Trading Halt - GTCH",GTCH
-"Feb 15, 2022IIROC Trade Resumption - AOT",AOT
-"Feb 15, 2022IIROC Trading Halt - TGS",TGS
-"Feb 14, 2022IIROC Trading Halt - AOT",AOT
