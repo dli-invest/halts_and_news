@@ -1,4 +1,6 @@
 Halts,Listing
+"Feb 17, 2022IIROC Trading Halt - RNP",RNP
+"Feb 17, 2022IIROC Trading Halt - NAN",NAN
 "Feb 16, 2022IIROC Trade Resumption - WRX",WRX
 "Feb 16, 2022IIROC Trading Halt - WRX",WRX
 "Feb 16, 2022IIROC Trading Resumption - NZRE",NZRE
@@ -22,5 +24,3 @@ Halts,Listing
 "Feb 15, 2022IIROC Trade Resumption - AOT",AOT
 "Feb 15, 2022IIROC Trading Halt - TGS",TGS
 "Feb 14, 2022IIROC Trading Halt - AOT",AOT
-"Feb 14, 2022IIROC Trading Halt - PLNT",PLNT
-"Feb 14, 2022IIROC Trading Resumption - OTS.H",OTS.H
