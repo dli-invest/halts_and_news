@@ -1,4 +1,6 @@
 Halts,Listing
+"Feb 22, 2022IIROC Trading Halt - BOLT",BOLT
+"Feb 22, 2022IIROC Trade Resumption - NLR",NLR
 "Feb 18, 2022IIROC Trading Halt - NLR",NLR
 "Feb 18, 2022IIROC Trading Halt - OR.WT",OR.WT
 "Feb 18, 2022IIROC Trading Resumption - SOIL",SOIL
@@ -22,5 +24,3 @@ Halts,Listing
 "Feb 16, 2022IIROC Trading Halt - EQB.R",EQB.R
 "Feb 16, 2022IIROC Trading Halt - ICAN",ICAN
 "Feb 15, 2022IIROC Trading Halt - PAR.H",PAR.H
-"Feb 15, 2022IIROC Trading Resumption - REEM.P",REEM.P
-"Feb 15, 2022IIROC Trading Resumption - MRKI.P",MRKI.P
