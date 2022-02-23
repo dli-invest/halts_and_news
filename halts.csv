@@ -1,4 +1,6 @@
 Halts,Listing
+"Feb 23, 2022IIROC Trading Halt - BGF",BGF
+"Feb 23, 2022IIROC Trading Resumption - NGC",NGC
 "Feb 23, 2022IIROC Trade Resumption - HLF",HLF
 "Feb 23, 2022IIROC Trading Resumption - WLCO",WLCO
 "Feb 23, 2022IIROC Trading Halt - HLF",HLF
@@ -22,5 +24,3 @@ Halts,Listing
 "Feb 17, 2022IIROC Trading Halt - BTR",BTR
 "Feb 17, 2022IIROC Trading Halt - RNP",RNP
 "Feb 17, 2022IIROC Trading Halt - NAN",NAN
-"Feb 16, 2022IIROC Trade Resumption - WRX",WRX
-"Feb 16, 2022IIROC Trading Halt - WRX",WRX
