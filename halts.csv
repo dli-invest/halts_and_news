@@ -1,4 +1,7 @@
 Halts,Listing
+"Feb 23, 2022IIROC Trading Resumption - JPIM",JPIM
+"Feb 23, 2022IIROC Trading Halt - HFH",HFH
+"Feb 23, 2022IIROC Trading Resumption - MKT",MKT
 "Feb 23, 2022IIROC Trading Halt - MOLY",MOLY
 "Feb 23, 2022IIROC Trading Resumption - BGF",BGF
 "Feb 23, 2022IIROC Trading Halt - BGF",BGF
@@ -21,6 +24,3 @@ Halts,Listing
 "Feb 17, 2022IIROC Trading Halt - SOIL",SOIL
 "Feb 17, 2022IIROC Trading Halt - CTS",CTS
 "Feb 17, 2022IIROC Trading Resumption - ASTR",ASTR
-"Feb 17, 2022IIROC Trading Halt - ASTR",ASTR
-"Feb 17, 2022IIROC Trading Resumption - BTR",BTR
-"Feb 17, 2022IIROC Trading Halt - BTR",BTR
