@@ -1,4 +1,6 @@
 Halts,Listing
+"Feb 24, 2022IIROC Trading Halt - NZRE",NZRE
+"Feb 24, 2022IIROC Trading Halt - ZZE.H",ZZE.H
 "Feb 24, 2022IIROC Trading Halt - ECCV.P",ECCV.P
 "Feb 24, 2022IIROC Trading Resumption - NRN",NRN
 "Feb 24, 2022IIROC Trading Resumption - GOG",GOG
@@ -22,5 +24,3 @@ Halts,Listing
 "Feb 22, 2022IIROC Trading Halt - SLVR",SLVR
 "Feb 22, 2022IIROC Trading Halt - PKB",PKB
 "Feb 22, 2022IIROC Trade Resumption - BOLT",BOLT
-"Feb 22, 2022IIROC Trading Halt - BOLT",BOLT
-"Feb 22, 2022IIROC Trade Resumption - NLR",NLR
