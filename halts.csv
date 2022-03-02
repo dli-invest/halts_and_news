@@ -1,4 +1,8 @@
 Halts,Listing
+"Mar 2, 2022IIROC Trading Resumption - MOS",MOS
+"Mar 2, 2022IIROC Trading Halt - GLDC",GLDC
+"Mar 2, 2022IIROC Trading Halt - MOS",MOS
+"Mar 2, 2022IIROC Trading Halt - DGS",DGS
 "Mar 2, 2022IIROC Trading Halt - AMI",AMI
 "Mar 2, 2022IIROC Trading Halt - RCC.H",RCC.H
 "Mar 2, 2022IIROC Trading Resumption - POR",POR
@@ -20,7 +24,3 @@ Halts,Listing
 "Feb 28, 2022IIROC Trading Resumption - OEG.H",OEG.H
 "Feb 28, 2022IIROC Trading Resumption - ANK",ANK
 "Feb 28, 2022IIROC Trade Resumption - AWR",AWR
-"Feb 28, 2022IIROC Trading Resumption - VZLA",VZLA
-"Feb 28, 2022IIROC Trade Resumption - HFH",HFH
-"Feb 28, 2022IIROC Trading Halt - ANK",ANK
-"Feb 28, 2022IIROC Trading Halt - OEG.H",OEG.H
