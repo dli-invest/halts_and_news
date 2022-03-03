@@ -1,4 +1,8 @@
 Halts,Listing
+"Mar 3, 2022IIROC Trading Halt - NSC",NSC
+"Mar 3, 2022IIROC Trade Resumption - DGS",DGS
+"Mar 3, 2022IIROC Trading Halt - XMG",XMG
+"Mar 3, 2022IIROC Trading Halt - ACU",ACU
 "Mar 3, 2022IIROC Trading Halt - EASY",EASY
 "Mar 3, 2022IIROC Trading Halt - CANN",CANN
 "Mar 2, 2022IIROC Trading Resumption - MOS",MOS
@@ -20,7 +24,3 @@ Halts,Listing
 "Mar 1, 2022IIROC Trading Resumption - MYLK",MYLK
 "Mar 1, 2022IIROC Trading Halt - VZLA",VZLA
 "Mar 1, 2022IIROC Trade Resumption - CULT",CULT
-"Feb 28, 2022IIROC Trading Resumption - ECR",ECR
-"Feb 28, 2022IIROC Trading Halt - MYLK",MYLK
-"Feb 28, 2022IIROC Trading Halt - ECR",ECR
-"Feb 28, 2022IIROC Trading Resumption - OEG.H",OEG.H
