@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 3, 2022IIROC Trading Halt - EASY",EASY
+"Mar 3, 2022IIROC Trading Halt - CANN",CANN
 "Mar 2, 2022IIROC Trading Resumption - MOS",MOS
 "Mar 2, 2022IIROC Trading Halt - GLDC",GLDC
 "Mar 2, 2022IIROC Trading Halt - MOS",MOS
@@ -22,5 +24,3 @@ Halts,Listing
 "Feb 28, 2022IIROC Trading Halt - MYLK",MYLK
 "Feb 28, 2022IIROC Trading Halt - ECR",ECR
 "Feb 28, 2022IIROC Trading Resumption - OEG.H",OEG.H
-"Feb 28, 2022IIROC Trading Resumption - ANK",ANK
-"Feb 28, 2022IIROC Trade Resumption - AWR",AWR
