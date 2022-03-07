@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 7, 2022IIROC Trading Halt - ELVT",ELVT
+"Mar 7, 2022IIROC Trading Halt - RAMM",RAMM
 "Mar 4, 2022IIROC Trading Halt - LIDA",LIDA
 "Mar 4, 2022IIROC Trading Resumption - OYL",OYL
 "Mar 4, 2022IIROC Trading Halt - OYL",OYL
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 2, 2022IIROC Trading Resumption - MOS",MOS
 "Mar 2, 2022IIROC Trading Halt - GLDC",GLDC
 "Mar 2, 2022IIROC Trading Halt - MOS",MOS
-"Mar 2, 2022IIROC Trading Halt - DGS",DGS
-"Mar 2, 2022IIROC Trading Halt - AMI",AMI
