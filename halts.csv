@@ -1,4 +1,7 @@
 Halts,Listing
+"Mar 8, 2022IIROC Trading Halt - MBN",MBN
+"Mar 8, 2022IIROC Trading Halt - DMR",DMR
+"Mar 8, 2022IIROC Trade Resumption - LGD",LGD
 "Mar 7, 2022IIROC Trading Halt - LGD",LGD
 "Mar 7, 2022IIROC Trading Resumption - EVGN",EVGN
 "Mar 7, 2022IIROC Trading Resumption - ACU",ACU
@@ -20,7 +23,4 @@ Halts,Listing
 "Mar 4, 2022IIROC Trading Halt - BBU.W",BBU.W
 "Mar 4, 2022IIROC Trading Halt - BBUC",BBUC
 "Mar 3, 2022IIROC Trading Resumption - AMI",AMI
-"Mar 3, 2022IIROC Trading Resumption - OYL",OYL
-"Mar 3, 2022IIROC Trading Halt - OYL",OYL
-"Mar 3, 2022IIROC Trading Resumption - GLDC",GLDC
 "Mar 3, 2022IIROC Trading Resumption - OYL",OYL
