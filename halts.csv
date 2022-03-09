@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 9, 2022IIROC Trading Halt - GRZ",GRZ
+"Mar 9, 2022IIROC Trading Resumption - ZEN",ZEN
 "Mar 9, 2022IIROC Trade Resumption - ET",ET
 "Mar 9, 2022IIROC Trading Halt - VDKA",VDKA
 "Mar 9, 2022IIROC Trading Halt - IMPC.P",IMPC.P
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 8, 2022IIROC Trading Halt - DMR",DMR
 "Mar 8, 2022IIROC Trade Resumption - LGD",LGD
 "Mar 7, 2022IIROC Trading Halt - LGD",LGD
-"Mar 7, 2022IIROC Trading Resumption - EVGN",EVGN
-"Mar 7, 2022IIROC Trading Resumption - ACU",ACU
