@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 10, 2022IIROC Trading Halt - NBLY",NBLY
+"Mar 10, 2022IIROC Trading Halt - CRI",CRI
 "Mar 10, 2022IIROC Trade Resumption - PIX.UN",PIX.UN
 "Mar 10, 2022IIROC Trade Resumption - CTC",CTC
 "Mar 10, 2022IIROC Trade Resumption - PAT",PAT
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 9, 2022IIROC Trading Resumption - ZEN",ZEN
 "Mar 9, 2022IIROC Trade Resumption - ET",ET
 "Mar 9, 2022IIROC Trading Halt - VDKA",VDKA
-"Mar 9, 2022IIROC Trading Halt - IMPC.P",IMPC.P
-"Mar 8, 2022IIROC Trading Halt - KDK",KDK
