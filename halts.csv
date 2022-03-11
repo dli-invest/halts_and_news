@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 11, 2022IIROC Trading Resumption - CRI",CRI
+"Mar 11, 2022IIROC Trading Halt - MJAR",MJAR
 "Mar 11, 2022IIROC Trading Resumption - GRDM",GRDM
 "Mar 11, 2022IIROC Trading Halt - CRI",CRI
 "Mar 11, 2022IIROC Trading Halt - GRDM",GRDM
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 9, 2022IIROC Trading Resumption - ZAC",ZAC
 "Mar 9, 2022IIROC Trade Resumption - ABRT",ABRT
 "Mar 9, 2022IIROC Trading Resumption - EPO.H",EPO.H
-"Mar 9, 2022IIROC Trade Resumption - AFX",AFX
-"Mar 9, 2022IIROC Trading Halt - HOD",HOD
