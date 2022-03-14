@@ -1,4 +1,10 @@
 Halts,Listing
+"Mar 14, 2022IIROC Trading Resumption - AUAU",AUAU
+"Mar 14, 2022IIROC Trading Halt - CERT",CERT
+"Mar 14, 2022IIROC Trading Halt - TTD",TTD
+"Mar 14, 2022IIROC Trading Halt - ISD",ISD
+"Mar 14, 2022IIROC Trading Halt - HOLY",HOLY
+"Mar 14, 2022IIROC Trading Halt - ICRS.P",ICRS.P
 "Mar 11, 2022IIROC Trade Resumption - NPRA",NPRA
 "Mar 11, 2022IIROC Trading Resumption - CRI",CRI
 "Mar 11, 2022IIROC Trading Halt - MJAR",MJAR
@@ -18,9 +24,3 @@ Halts,Listing
 "Mar 10, 2022IIROC Trade Resumption - CTC",CTC
 "Mar 10, 2022IIROC Trade Resumption - PAT",PAT
 "Mar 10, 2022IIROC Trading Halt - PAT",PAT
-"Mar 10, 2022IIROC Trading Halt - CTC",CTC
-"Mar 10, 2022IIROC Trading Halt - PIX.UN",PIX.UN
-"Mar 10, 2022IIROC Trading Halt - GAGE",GAGE
-"Mar 9, 2022IIROC Trading Resumption - VDKA",VDKA
-"Mar 9, 2022IIROC Trading Resumption - ZAC",ZAC
-"Mar 9, 2022IIROC Trade Resumption - ABRT",ABRT
