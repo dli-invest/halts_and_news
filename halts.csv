@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 15, 2022IIROC Trading Halt - MBO",MBO
+"Mar 15, 2022IIROC Trading Resumption - MMS",MMS
 "Mar 15, 2022IIROC Trading Resumption - STU",STU
 "Mar 15, 2022IIROC Trading Resumption - GCX",GCX
 "Mar 15, 2022IIROC Trade Resumption - IFC.PR.K",IFC.PR.K
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 11, 2022IIROC Trading Halt - CRI",CRI
 "Mar 11, 2022IIROC Trading Halt - GRDM",GRDM
 "Mar 11, 2022IIROC Trading Halt - AUAU",AUAU
-"Mar 11, 2022IIROC Trading Halt - NPRA",NPRA
-"Mar 11, 2022IIROC Trading Resumption - CRI",CRI
