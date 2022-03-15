@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 15, 2022IIROC Trading Resumption - INFI",INFI
+"Mar 15, 2022IIROC Trading Halt - GPCC.P",GPCC.P
 "Mar 15, 2022IIROC Trading Resumption - ICRS.P",ICRS.P
 "Mar 15, 2022IIROC Trading Halt - TDG",TDG
 "Mar 15, 2022IIROC Trading Resumption - RZE",RZE
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 14, 2022IIROC Trading Halt - HOLY",HOLY
 "Mar 14, 2022IIROC Trading Halt - ICRS.P",ICRS.P
 "Mar 11, 2022IIROC Trade Resumption - NPRA",NPRA
-"Mar 11, 2022IIROC Trading Resumption - CRI",CRI
-"Mar 11, 2022IIROC Trading Halt - MJAR",MJAR
