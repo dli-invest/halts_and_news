@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 15, 2022IIROC Trading Halt - IFC.PR.K",IFC.PR.K
+"Mar 15, 2022IIROC Trading Halt - STU",STU
 "Mar 14, 2022IIROC Trade Resumption - HOLY",HOLY
 "Mar 14, 2022IIROC Trading Halt - GCX",GCX
 "Mar 14, 2022IIROC Trading Halt - FCA.WT.V",FCA.WT.V
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 11, 2022IIROC Trade Resumption - NBLY",NBLY
 "Mar 11, 2022IIROC Trading Halt - SWA",SWA
 "Mar 10, 2022IIROC Trading Resumption - IMPC.P",IMPC.P
-"Mar 10, 2022IIROC Trading Halt - NBLY",NBLY
-"Mar 10, 2022IIROC Trading Halt - CRI",CRI
