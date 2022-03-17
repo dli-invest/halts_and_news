@@ -1,4 +1,10 @@
 Halts,Listing
+"Mar 17, 2022IIROC Trading Halt - MOZ",MOZ
+"Mar 17, 2022IIROC Trading Resumption - PEX",PEX
+"Mar 17, 2022IIROC Trading Resumption - YORK",YORK
+"Mar 17, 2022IIROC Trading Halt - BOLD.P",BOLD.P
+"Mar 17, 2022IIROC Trading Halt - YORK",YORK
+"Mar 17, 2022IIROC Trading Halt - PEX",PEX
 "Mar 17, 2022IIROC Trading Resumption - TDG",TDG
 "Mar 16, 2022IIROC Trading Resumption - REVV",REVV
 "Mar 16, 2022IIROC Trading Resumption - SRG",SRG
@@ -18,9 +24,3 @@ Halts,Listing
 "Mar 15, 2022IIROC Trading Resumption - MMS",MMS
 "Mar 15, 2022IIROC Trading Resumption - STU",STU
 "Mar 15, 2022IIROC Trading Resumption - GCX",GCX
-"Mar 15, 2022IIROC Trade Resumption - IFC.PR.K",IFC.PR.K
-"Mar 15, 2022IIROC Trading Halt - ALCC.P",ALCC.P
-"Mar 15, 2022IIROC Trading Halt - IFC.PR.K",IFC.PR.K
-"Mar 15, 2022IIROC Trading Halt - STU",STU
-"Mar 14, 2022IIROC Trade Resumption - HOLY",HOLY
-"Mar 14, 2022IIROC Trading Halt - GCX",GCX
