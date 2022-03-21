@@ -1,4 +1,9 @@
 Halts,Listing
+"Mar 21, 2022IIROC Trading Halt - BTB.UN",BTB.UN
+"Mar 21, 2022IIROC Trading Resumption - MIM",MIM
+"Mar 21, 2022IIROC Trading Resumption - TIDE.P",TIDE.P
+"Mar 21, 2022IIROC Trading Halt - DIV",DIV
+"Mar 21, 2022IIROC Trading Halt - CANS",CANS
 "Mar 21, 2022IIROC Trading Halt - HAWK",HAWK
 "Mar 21, 2022IIROC Trading Halt - FMAN",FMAN
 "Mar 21, 2022IIROC Trade Resumption - ELMT",ELMT
@@ -19,8 +24,3 @@ Halts,Listing
 "Mar 18, 2022IIROC Trading Halt - MMS",MMS
 "Mar 18, 2022IIROC Trading Halt - TIDE.P",TIDE.P
 "Mar 17, 2022IIROC Trade Resumption - VOLT",VOLT
-"Mar 17, 2022IIROC Trade Resumption - MOZ",MOZ
-"Mar 17, 2022IIROC Trading Halt - PAV.H",PAV.H
-"Mar 17, 2022IIROC Trading Halt - MOZ",MOZ
-"Mar 17, 2022IIROC Trading Resumption - PEX",PEX
-"Mar 17, 2022IIROC Trading Resumption - YORK",YORK
