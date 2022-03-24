@@ -1,4 +1,11 @@
 Halts,Listing
+"Mar 24, 2022IIROC Trading Resumption - SIC",SIC
+"Mar 24, 2022IIROC Trading Resumption - BEX",BEX
+"Mar 24, 2022IIROC Trading Resumption - DMR",DMR
+"Mar 24, 2022IIROC Trading Resumption - VTT",VTT
+"Mar 24, 2022IIROC Trading Halt - SIC",SIC
+"Mar 24, 2022IIROC Trading Halt - BEX",BEX
+"Mar 24, 2022IIROC Trading Halt - SX",SX
 "Mar 24, 2022IIROC Trade Resumption - XBRA",XBRA
 "Mar 24, 2022IIROC Trade Resumption - ARA",ARA
 "Mar 24, 2022IIROC Trading Halt - DMR",DMR
@@ -17,10 +24,3 @@ Halts,Listing
 "Mar 23, 2022IIROC Trade Resumption - FABL",FABL
 "Mar 23, 2022IIROC Trading Halt - LORD",LORD
 "Mar 23, 2022IIROC Trading Halt - FABL",FABL
-"Mar 23, 2022IIROC Trading Halt - RSS",RSS
-"Mar 23, 2022IIROC Trading Resumption - CANS",CANS
-"Mar 23, 2022IIROC Trade Resumption - GDV",GDV
-"Mar 23, 2022IIROC Trade Resumption - FTN",FTN
-"Mar 23, 2022IIROC Trading Halt - PCP.P",PCP.P
-"Mar 22, 2022IIROC Trading Resumption - SPRX",SPRX
-"Mar 22, 2022IIROC Trading Halt - GDV",GDV
