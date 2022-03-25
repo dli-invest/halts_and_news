@@ -101,6 +101,7 @@ Reuters,/news/cibcs-c-125-mln-settlement-151313285.html,CIBC's C$125 mln settlem
 CNW Group,/news/cibc-asset-management-announces-cibc-123000930.html,CIBC Asset Management announces CIBC ETF cash distributions for February 2022,CM.TO
 Yahoo Finance Video,/video/cannabis-stocks-rise-amid-potential-211215443.html,Cannabis stocks rise amid potential federal legalization vote,WEED.TO
 Barrons.com,/m/bca97b1a-3ae1-3e5b-8c3b-601cbd7dd27a/tilray-sundial-and-other.html,"Tilray, Sundial, and Other Cannabis Stocks Buzz. The House Will Consider Decriminalization.",WEED.TO
+Investor's Business Daily,/m/6e8fb483-3ff2-3a41-8275-9e9949427873/are-any-marijuana-stocks-on.html,Are Any Marijuana Stocks On U.S. Exchanges Buys As MORE Act Resurfaces?,WEED.TO
 Investopedia,/m/1bce8790-050d-3e80-b889-4ff922f10501/how-canopy-growth-makes.html,How Canopy Growth Makes Money: Recreational and Medical Marijuana,WEED.TO
 PR Newswire,/news/canopy-growth-shines-light-menstrual-120000249.html,CANOPY GROWTH SHINES A LIGHT ON MENSTRUAL HEALTH THROUGH CBD EFFICACY STUDY,WEED.TO
 PR Newswire,/news/canopy-growth-ceo-david-klein-130500452.html,"Canopy Growth CEO David Klein and Wana Cofounder & CEO Nancy Whiteman to Keynote At Benzinga Cannabis Capital Conference, Miami, Apr 20-21",WEED.TO
@@ -108,7 +109,6 @@ Investor's Business Daily,/m/a72862de-cc5e-3ff8-aa5d-7e9bc39a83f6/any-reason-to-
 PR Newswire,/news/martha-stewart-cbd-expands-flavor-120000242.html,Martha Stewart CBD Expands Flavor Portfolio With Launch of New Tropical Medley CBD Wellness Gummies,WEED.TO
 Yahoo Finance Video,/video/jones-soda-launches-line-cannabis-220125628.html,Jones Soda launches new line of cannabis-infused products,WEED.TO
 IPO-Edge.com,/news/video-highlights-cannabis-meets-blockchain-211324769.html,Video Highlights – Cannabis Meets Blockchain: Join Exotix Founder in Fireside Chat,WEED.TO
-IPO-Edge.com,/news/replay-cannabis-meets-blockchain-join-200416977.html,Replay – Cannabis Meets Blockchain: Join Exotix Founder in Fireside Chat,WEED.TO
 GlobeNewswire,/news/dividend-15-split-corp-monthly-130000076.html,Dividend 15 Split Corp. Monthly Dividend Declaration for Class A & Preferred Share,DFN.TO
 GlobeNewswire,/news/dividend-15-split-corp-financial-165500943.html,"Dividend 15 Split Corp.: Financial Results to November 30, 2021",DFN.TO
 GlobeNewswire,/news/dividend-15-split-corp-market-140000454.html,Dividend 15 Split Corp. At-The-Market Equity Program Renewed,DFN.TO
@@ -319,6 +319,9 @@ Motley Fool,/m/f9cb944b-8fb6-39a3-a57e-5b91d33514bc/down-over-50-2-unstoppable.h
 InvestorPlace,/news/shopify-headed-back-march-2020-233058925.html,Shopify Headed Back to March 2020 Lows,SHOP.TO
 InvestorPlace,/news/wait-shopify-bottom-investing-232731363.html,Wait for Shopify to Bottom Out Before Investing in It,SHOP.TO
 Yahoo Finance Video,/video/stocks-end-day-green-led-203139226.html,"Stocks end the day in the green, led by energy and materials sectors",SHOP.TO
+Zacks,/news/want-invest-stocks-buy-5-114011811.html,Want to Invest in Stocks? Buy These 5 Low-Leverage Equities,SU.TO
+Zacks,/news/suncor-energy-su-stock-sinks-220010602.html,Suncor Energy (SU) Stock Sinks As Market Gains: What You Should Know,SU.TO
+Newsfile,/news/suncor-energy-names-peter-zebedee-180000046.html,Suncor Energy Names Peter Zebedee as the Executive Vice President of Mining and Upgrading,SU.TO
 Zacks,/news/suncor-energy-su-crossed-above-140002729.html,Suncor Energy (SU) Crossed Above the 20-Day Moving Average: What That Means for Investors,SU.TO
 The Wall Street Journal,/m/718a7b3b-6063-3a47-83a1-6837d62c9cc0/canadian-oil-sands-buried.html,Canadian Oil Sands: Buried Treasures,SU.TO
 Newsfile,/news/suncor-energys-executive-vice-president-213000345.html,Suncor Energy's Executive Vice President of Mining and Upgrading Retiring,SU.TO
@@ -326,9 +329,6 @@ Zacks,/news/suncor-energy-su-gains-lags-215009278.html,Suncor Energy (SU) Gains 
 Oilprice.com,/news/supply-shortage-could-derail-electric-230000816.html,The Supply Shortage That Could Derail The Electric Car Boom,SU.TO
 Bloomberg,/news/drillers-awaken-canada-russia-war-141115398.html,Drillers Awaken in Canada as War Leaves World Begging for Oil,SU.TO
 Zacks,/news/heres-why-suncor-energy-su-170005400.html,Here's Why Suncor Energy (SU) is a Great Momentum Stock to Buy,SU.TO
-Zacks,/news/suncor-energy-su-outperforming-other-144002425.html,Is Suncor Energy (SU) Outperforming Other Oils-Energy Stocks This Year?,SU.TO
-Zacks,/news/suncor-energy-su-gains-market-230011076.html,Suncor Energy (SU) Gains As Market Dips: What You Should Know,SU.TO
-Motley Fool,/m/7f483a4b-d0d5-38ea-8026-e21720d2145f/3-great-energy-stocks-you-can.html,3 Great Energy Stocks You Can Buy for Under $100,SU.TO
 GlobeNewswire,/news/tc-energy-announces-consideration-subordinated-135500630.html,TC Energy announces consideration of subordinated notes offering by TransCanada Trust,TRP.TO
 Simply Wall St.,/news/ownership-structure-tc-energy-corporation-175301800.html,What Is The Ownership Structure Like For TC Energy Corporation (TSE:TRP)?,TRP.TO
 Reuters,/news/canadian-police-probing-axe-attack-150056082.html,Canadian police probing axe attack at site of TC Energy's disputed pipeline,TRP.TO
@@ -341,14 +341,14 @@ GlobeNewswire,/news/tc-energy-generates-strong-results-123000338.html,TC Energy 
 Motley Fool,/m/986eba8f-6151-3ecd-9926-df15a95d4065/why-these-3-oil-and-gas.html,Why These 3 Oil and Gas Stocks Rallied Double Digits in January,TRP.TO
 Yahoo Finance Video,/video/marijuana-where-congress-stands-cannabis-140621519.html,"Marijuana: Where Congress stands on cannabis legalization, reform efforts",TLRY.TO
 Yahoo Finance Video,/video/cannabis-stocks-rise-amid-potential-211215443.html,Cannabis stocks rise amid potential federal legalization vote,TLRY.TO
-GlobeNewswire,/news/megatrends-ceo-tlry-oggff-bynd-135300647.html,"Megatrends: CEO’s of TLRY, OGGFF, BYND, BIRD Focus on Next Wave of Billion Dollar Market Opportunities in Cannabis, and Plant-Based Lifestyles",TLRY.TO
 Barrons.com,/m/bca97b1a-3ae1-3e5b-8c3b-601cbd7dd27a/tilray-sundial-and-other.html,"Tilray, Sundial, and Other Cannabis Stocks Buzz. The House Will Consider Decriminalization.",TLRY.TO
+Bloomberg,/news/tilray-leads-rally-pot-stocks-140853333.html,Bears Pinched in Tilray-Led Pot-Stock Rally on Legislation Hopes,TLRY.TO
+GlobeNewswire,/news/megatrends-ceo-tlry-oggff-bynd-135300647.html,"Megatrends: CEO’s of TLRY, OGGFF, BYND, BIRD Focus on Next Wave of Billion Dollar Market Opportunities in Cannabis, and Plant-Based Lifestyles",TLRY.TO
 Investing.com,/news/apple-bed-bath-beyond-tilray-081050640.html,"Apple, Bed Bath & Beyond, Tilray Rise Premarket; Honest Company Slumps",TLRY.TO
 GlobeNewswire,/news/solei-brand-launches-wellness-product-110000144.html,Solei Brand Launches New Wellness Product For Nighttime Use,TLRY.TO
 Yahoo Finance Video,/video/gamestop-stock-soars-tilray-stock-195455615.html,"GameStop stock soars, Tilray stock climbs on cannabis M&A, Netflix to crack down on password sharing",TLRY.TO
 Zacks,/news/tilray-brands-inc-tlry-outpaces-214509776.html,"Tilray Brands, Inc. (TLRY) Outpaces Stock Market Gains: What You Should Know",TLRY.TO
 Motley Fool,/m/359bba21-2616-3989-8ddb-85618e3db88d/why-hexo-stock-sank-today.html,Why Hexo Stock Sank Today,TLRY.TO
-GlobeNewswire,/news/tilray-medical-expands-offering-malta-110000197.html,Tilray Medical Expands Offering in Malta and Launches First Medical Cannabis Oil Products in Market,TLRY.TO
 American City Business Journals,/m/1ce86036-19fc-3bfd-b3b1-a63ba0bb5c7d/triangle-bankers-not-afraid.html,"Triangle bankers not afraid to fight for talent. At this point, they have no choice.",TD.TO
 CNW Group,/news/td-bank-group-declares-dividends-113100844.html,TD BANK GROUP DECLARES DIVIDENDS,TD.TO
 CNW Group,/news/td-canada-trust-announces-change-184100689.html,TD Canada Trust announces change to prime rate,TD.TO
@@ -489,23 +489,3 @@ GlobeNewswire,/news/fobi-releases-digital-fan-pass-110000421.html,Fobi Releases 
 GlobeNewswire,/news/fobi-announces-strategic-partnership-barnet-110000691.html,Fobi Announces Strategic Partnership With Barnet Technologies Corporation,FOBI.V
 GlobeNewswire,/news/fobi-launches-passpro-enterprise-grade-110000630.html,"Fobi Launches PassPro, Enterprise-grade Wallet Pass SaaS Platform",FOBI.V
 GlobeNewswire,/news/fobi-signs-marketing-deal-abbot-110000633.html,"Fobi Signs Marketing Deal with Abbot’s Butcher, A Premium US Plant-Based Protein Company",FOBI.V
-Simply Wall St.,/news/investors-very-good-food-cve-170748869.html,Investors in Very Good Food (CVE:VERY) have unfortunately lost 86% over the last year,VERY.V
-PR Newswire,/news/very-good-food-company-inc-120000106.html,The Very Good Food Company Inc. Provides Operations Update and New Additions to its Butcher's Select Line of Plant-Based Meat Alternatives,VERY.V
-GuruFocus.com,/news/corbenic-partners-llc-buys-jpmorgan-183824765.html,"Corbenic Partners LLC Buys JPMorgan Ultra-Short Municipal Income ETF, WisdomTree Emerging ...",VERY.V
-Business Wire,/news/very-good-food-company-receives-220000865.html,The Very Good Food Company Receives Nasdaq Notification Regarding Minimum Bid Requirements,VERY.V
-Business Wire,/news/very-good-food-company-announces-123000959.html,The Very Good Food Company Announces Change to Board of Directors and New VP of Finance and IR,VERY.V
-Business Wire,/news/very-good-food-company-announces-123000903.html,"The Very Good Food Company Announces New Distribution of its Plant-Based ""Stuffed Beast"" across Canada at Select Loblaws, Real Canadian Superstore and Zehrs Locations",VERY.V
-Business Wire,/news/very-good-food-company-announces-123000378.html,The Very Good Food Company Announces CFO Transition,VERY.V
-Business Wire,/news/very-good-food-company-announces-123000355.html,The Very Good Food Company Announces Record Sales from Black Friday and Cyber Monday Promotions,VERY.V
-Business Wire,/news/very-good-food-company-reports-060100278.html,The Very Good Food Company Reports Strong Third Quarter 2021 Financial Results,VERY.V
-Business Wire,/news/very-good-food-company-achieves-123000944.html,The Very Good Food Company Achieves Record Revenue in October,VERY.V
-Investing.com,/news/midday-stock-movers-nike-draganfly-115020862.html,"Midday Stock Movers: Nike, Draganfly, Alibaba Rise",DPRO.CN
-GlobeNewswire,/news/draganfly-receives-order-critical-lifesaving-111500555.html,Draganfly Receives Order for Critical Lifesaving Drones from Revived Soldiers Ukraine for Immediate Deployment to Ukraine,DPRO.CN
-GlobeNewswire,/news/draganfly-technology-clears-path-victory-124500915.html,Draganfly Technology Clears Path to Victory at Mint 400,DPRO.CN
-GlobeNewswire,/news/draganfly-selected-launch-access-healthcare-123000375.html,Draganfly Selected to Launch New Access & Healthcare Solutions with Fobi,DPRO.CN
-GlobeNewswire,/news/draganfly-celebrates-major-health-safety-124500201.html,"Draganfly Celebrates Major Health and Safety Milestone with over 500,000 Seats Sanitized",DPRO.CN
-GlobeNewswire,/news/drone-racing-league-algorand-world-121500309.html,Drone Racing League Algorand World Championship Race Highlights Successful Season for Draganfly,DPRO.CN
-GlobeNewswire,/news/draganfly-partners-women-drones-help-124500966.html,Draganfly Partners with Women And Drones to Help Drive Excellence in the Drone Industry,DPRO.CN
-GlobeNewswire,/news/draganfly-featured-bloomberg-redchip-money-211500116.html,Draganfly to be Featured on Bloomberg on The RedChip Money Report® January 15th,DPRO.CN
-GlobeNewswire,/news/draganfly-unveils-latest-vital-intelligence-124500415.html,Draganfly Unveils Latest Vital Intelligence Smart Vital Kiosk During CES,DPRO.CN
-GlobeNewswire,/news/draganfly-featured-edge22-government-technology-130000520.html,Draganfly to Be Featured at EDGE22: Government Technology - Common Missions in Today's Digital World Conference,DPRO.CN
