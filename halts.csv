@@ -1,4 +1,7 @@
 Halts,Listing
+"Mar 25, 2022IIROC Trading Halt - EDY",EDY
+"Mar 25, 2022IIROC Trade Resumption - SHP",SHP
+"Mar 25, 2022IIROC Trading Halt - SHP",SHP
 "Mar 25, 2022IIROC Trade Resumption - AFD",AFD
 "Mar 25, 2022IIROC Trade Resumption - REO",REO
 "Mar 25, 2022IIROC Trading Resumption - CANS",CANS
@@ -21,6 +24,3 @@ Halts,Listing
 "Mar 24, 2022IIROC Trade Resumption - XBRA",XBRA
 "Mar 24, 2022IIROC Trade Resumption - ARA",ARA
 "Mar 24, 2022IIROC Trading Halt - DMR",DMR
-"Mar 24, 2022IIROC Trading Halt - ARA",ARA
-"Mar 24, 2022IIROC Trading Halt - WFLD",WFLD
-"Mar 24, 2022IIROC Trading Halt - PBM",PBM
