@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 25, 2022IIROC Trading Halt - OM",OM
+"Mar 25, 2022IIROC Trading Halt - REBL.P",REBL.P
 "Mar 25, 2022IIROC Trading Resumption - BLCC.P",BLCC.P
 "Mar 25, 2022IIROC Trading Resumption - EDY",EDY
 "Mar 25, 2022IIROC Trading Halt - EDY",EDY
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 24, 2022IIROC Trading Resumption - VTT",VTT
 "Mar 24, 2022IIROC Trading Halt - SIC",SIC
 "Mar 24, 2022IIROC Trading Halt - BEX",BEX
-"Mar 24, 2022IIROC Trading Halt - SX",SX
-"Mar 24, 2022IIROC Trade Resumption - XBRA",XBRA
