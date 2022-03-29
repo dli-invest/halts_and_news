@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 29, 2022IIROC Trading Halt - AFN",AFN
+"Mar 29, 2022IIROC Trading Halt - VLNS",VLNS
 "Mar 29, 2022IIROC Trading Halt - CHM.WT",CHM.WT
 "Mar 29, 2022IIROC Trade Resumption - SPB",SPB
 "Mar 29, 2022IIROC Trading Halt - HIH",HIH
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 25, 2022IIROC Trade Resumption - PVS.PR.K",PVS.PR.K
 "Mar 25, 2022IIROC Trading Resumption - SWA",SWA
 "Mar 25, 2022IIROC Trading Halt - CANS",CANS
-"Mar 25, 2022IIROC Trading Halt - PVS.PR.K",PVS.PR.K
-"Mar 24, 2022IIROC Trading Resumption - PCP.P",PCP.P
