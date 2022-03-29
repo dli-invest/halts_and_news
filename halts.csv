@@ -1,4 +1,7 @@
 Halts,Listing
+"Mar 29, 2022IIROC Trade Resumption - SPB",SPB
+"Mar 29, 2022IIROC Trading Halt - HIH",HIH
+"Mar 29, 2022IIROC Trading Halt - MMS",MMS
 "Mar 28, 2022IIROC Trading Resumption - ESTW",ESTW
 "Mar 28, 2022IIROC Trading Halt - SPB",SPB
 "Mar 28, 2022IIROC Trading Resumption - FGH",FGH
@@ -21,6 +24,3 @@ Halts,Listing
 "Mar 25, 2022IIROC Trading Halt - PVS.PR.K",PVS.PR.K
 "Mar 24, 2022IIROC Trading Resumption - PCP.P",PCP.P
 "Mar 24, 2022IIROC Trading Resumption - WFLD",WFLD
-"Mar 24, 2022IIROC Trading Halt - EVE",EVE
-"Mar 24, 2022IIROC Trading Halt - AFD",AFD
-"Mar 24, 2022IIROC Trade Resumption - SX",SX
