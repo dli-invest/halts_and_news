@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 30, 2022IIROC Trading Halt - GMA",GMA
+"Mar 30, 2022/C O R R E C T I O N from Source -- Investment Industry Regulatory Organization of Canada (IIROC) - Halts/Resumptions/",Halts/Resumptions/
 "Mar 30, 2022IIROC Trading Resumption - ISD",ISD
 "Mar 30, 2022IIROC Trading Resumption - MJS",MJS
 "Mar 30, 2022IIROC Trading Resumption - SECU",SECU
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 29, 2022IIROC Trade Resumption - SPB",SPB
 "Mar 29, 2022IIROC Trading Halt - HIH",HIH
 "Mar 29, 2022IIROC Trading Halt - MMS",MMS
-"Mar 28, 2022IIROC Trading Resumption - ESTW",ESTW
-"Mar 28, 2022IIROC Trading Halt - SPB",SPB
