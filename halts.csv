@@ -1,4 +1,9 @@
 Halts,Listing
+"Mar 30, 2022IIROC Trading Halt - ENTG",ENTG
+"Mar 30, 2022IIROC Trade Resumption - MSRE.UN",MSRE.UN
+"Mar 30, 2022IIROC Trade Resumption - DIV.DB.A",DIV.DB.A
+"Mar 30, 2022IIROC Trading Halt - SECU",SECU
+"Mar 30, 2022IIROC Trading Halt - XX",XX
 "Mar 30, 2022IIROC Trade Resumption - AFN",AFN
 "Mar 30, 2022IIROC Trading Halt - MJS",MJS
 "Mar 30, 2022IIROC Trading Halt - DIV.DB.A",DIV.DB.A
@@ -19,8 +24,3 @@ Halts,Listing
 "Mar 28, 2022IIROC Trading Halt - TTS",TTS
 "Mar 28, 2022IIROC Trading Halt - FONE.WT",FONE.WT
 "Mar 25, 2022IIROC Trading Halt - OM",OM
-"Mar 25, 2022IIROC Trading Halt - REBL.P",REBL.P
-"Mar 25, 2022IIROC Trading Resumption - BLCC.P",BLCC.P
-"Mar 25, 2022IIROC Trading Resumption - EDY",EDY
-"Mar 25, 2022IIROC Trading Halt - EDY",EDY
-"Mar 25, 2022IIROC Trade Resumption - SHP",SHP
