@@ -1,4 +1,6 @@
 Halts,Listing
+"Mar 31, 2022IIROC Trading Halt - KUAI.P",KUAI.P
+"Mar 31, 2022IIROC Trade Resumption - ANRG",ANRG
 "Mar 30, 2022IIROC Trading Halt - ANRG",ANRG
 "Mar 30, 2022IIROC Trading Halt - GMA",GMA
 "Mar 30, 2022/C O R R E C T I O N from Source -- Investment Industry Regulatory Organization of Canada (IIROC) - Halts/Resumptions/",Halts/Resumptions/
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 29, 2022IIROC Trading Halt - AFN",AFN
 "Mar 29, 2022IIROC Trading Halt - VLNS",VLNS
 "Mar 29, 2022IIROC Trading Halt - CHM.WT",CHM.WT
-"Mar 29, 2022IIROC Trade Resumption - SPB",SPB
-"Mar 29, 2022IIROC Trading Halt - HIH",HIH
