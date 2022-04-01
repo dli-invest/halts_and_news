@@ -1,4 +1,6 @@
 Halts,Listing
+"Apr 1, 2022IIROC Trading Resumption - KUAI.P",KUAI.P
+"Apr 1, 2022IIROC Trading Halt - GPCC.P",GPCC.P
 "Mar 31, 2022IIROC Trading Resumption - OM",OM
 "Mar 31, 2022IIROC Trading Resumption - GMA",GMA
 "Mar 31, 2022IIROC Trading Halt - TCC.DB",TCC.DB
@@ -22,5 +24,3 @@ Halts,Listing
 "Mar 30, 2022IIROC Trading Halt - SECU",SECU
 "Mar 30, 2022IIROC Trading Halt - XX",XX
 "Mar 30, 2022IIROC Trade Resumption - AFN",AFN
-"Mar 30, 2022IIROC Trading Halt - MJS",MJS
-"Mar 30, 2022IIROC Trading Halt - DIV.DB.A",DIV.DB.A
