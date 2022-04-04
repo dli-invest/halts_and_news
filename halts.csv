@@ -1,4 +1,10 @@
 Halts,Listing
+"Apr 4, 2022IIROC Trade Resumption - SX",SX
+"Apr 4, 2022IIROC Trading Halt - AVL",AVL
+"Apr 4, 2022IIROC Trading Halt - SX",SX
+"Apr 4, 2022IIROC Trading Resumption - HMLO",HMLO
+"Apr 4, 2022IIROC Trade Resumption - SOLV",SOLV
+"Apr 4, 2022IIROC Trading Halt - LTX",LTX
 "Apr 4, 2022IIROC Trading Halt - SOLV",SOLV
 "Apr 4, 2022IIROC Trading Halt - AML",AML
 "Apr 4, 2022IIROC Trading Halt - HMLO",HMLO
@@ -18,9 +24,3 @@ Halts,Listing
 "Mar 30, 2022IIROC Trading Halt - ANRG",ANRG
 "Mar 30, 2022IIROC Trading Halt - GMA",GMA
 "Mar 30, 2022/C O R R E C T I O N from Source -- Investment Industry Regulatory Organization of Canada (IIROC) - Halts/Resumptions/",Halts/Resumptions/
-"Mar 30, 2022IIROC Trading Resumption - ISD",ISD
-"Mar 30, 2022IIROC Trading Resumption - MJS",MJS
-"Mar 30, 2022IIROC Trading Resumption - SECU",SECU
-"Mar 30, 2022IIROC Trading Resumption - XX",XX
-"Mar 30, 2022IIROC Trading Resumption - ENTG",ENTG
-"Mar 30, 2022IIROC Trading Halt - ENTG",ENTG
