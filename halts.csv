@@ -1,4 +1,7 @@
 Halts,Listing
+"Apr 4, 2022IIROC Trading Halt - TCAN.WT",TCAN.WT
+"Apr 4, 2022IIROC Trading Resumption - AML",AML
+"Apr 4, 2022IIROC Trade Resumption - AVL",AVL
 "Apr 4, 2022IIROC Trade Resumption - SX",SX
 "Apr 4, 2022IIROC Trading Halt - AVL",AVL
 "Apr 4, 2022IIROC Trading Halt - SX",SX
@@ -21,6 +24,3 @@ Halts,Listing
 "Mar 31, 2022IIROC Trade Resumption - CSI",CSI
 "Mar 31, 2022IIROC Trading Halt - KUAI.P",KUAI.P
 "Mar 31, 2022IIROC Trade Resumption - ANRG",ANRG
-"Mar 30, 2022IIROC Trading Halt - ANRG",ANRG
-"Mar 30, 2022IIROC Trading Halt - GMA",GMA
-"Mar 30, 2022/C O R R E C T I O N from Source -- Investment Industry Regulatory Organization of Canada (IIROC) - Halts/Resumptions/",Halts/Resumptions/
