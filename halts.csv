@@ -1,4 +1,8 @@
 Halts,Listing
+"Apr 4, 2022IIROC Trading Halt - SOLV",SOLV
+"Apr 4, 2022IIROC Trading Halt - AML",AML
+"Apr 4, 2022IIROC Trading Halt - HMLO",HMLO
+"Apr 4, 2022IIROC Trading Halt - REEM.P",REEM.P
 "Apr 1, 2022IIROC Trading Resumption - ESPN",ESPN
 "Apr 1, 2022IIROC Trading Resumption - KUAI.P",KUAI.P
 "Apr 1, 2022IIROC Trading Halt - GPCC.P",GPCC.P
@@ -20,7 +24,3 @@ Halts,Listing
 "Mar 30, 2022IIROC Trading Resumption - XX",XX
 "Mar 30, 2022IIROC Trading Resumption - ENTG",ENTG
 "Mar 30, 2022IIROC Trading Halt - ENTG",ENTG
-"Mar 30, 2022IIROC Trade Resumption - MSRE.UN",MSRE.UN
-"Mar 30, 2022IIROC Trade Resumption - DIV.DB.A",DIV.DB.A
-"Mar 30, 2022IIROC Trading Halt - SECU",SECU
-"Mar 30, 2022IIROC Trading Halt - XX",XX
