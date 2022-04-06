@@ -1,4 +1,6 @@
 Halts,Listing
+"Apr 6, 2022IIROC Trading Halt - CHR.WT",CHR.WT
+"Apr 6, 2022IIROC Trading Resumption - WHN",WHN
 "Apr 6, 2022IIROC Trading Halt - WHN",WHN
 "Apr 6, 2022IIROC Trading Halt - LTX",LTX
 "Apr 6, 2022IIROC Trading Resumption - EOG",EOG
@@ -22,5 +24,3 @@ Halts,Listing
 "Apr 4, 2022IIROC Trading Resumption - AML",AML
 "Apr 4, 2022IIROC Trade Resumption - AVL",AVL
 "Apr 4, 2022IIROC Trade Resumption - SX",SX
-"Apr 4, 2022IIROC Trading Halt - AVL",AVL
-"Apr 4, 2022IIROC Trading Halt - SX",SX
