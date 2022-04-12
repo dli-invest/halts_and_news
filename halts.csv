@@ -1,4 +1,6 @@
 Halts,Listing
+"Apr 12, 2022IIROC Trading Halt - ZMA",ZMA
+"Apr 12, 2022IIROC Trading Resumption - SPN",SPN
 "Apr 12, 2022IIROC Trade Resumption - EPRX",EPRX
 "Apr 12, 2022IIROC Trade Resumption - GLL",GLL
 "Apr 12, 2022IIROC Trade Resumption - NM",NM
@@ -22,5 +24,3 @@ Halts,Listing
 "Apr 8, 2022IIROC Trading Halt - DSM",DSM
 "Apr 8, 2022IIROC Trading Halt - SP",SP
 "Apr 8, 2022IIROC Trading Halt - BEAN",BEAN
-"Apr 8, 2022IIROC Trading Halt - MRKI.P",MRKI.P
-"Apr 8, 2022IIROC Trading Halt - EVOC.P",EVOC.P
