@@ -1,4 +1,7 @@
 Halts,Listing
+"Apr 13, 2022IIROC Trading Halt - NBM",NBM
+"Apr 13, 2022IIROC Trading Halt - SX",SX
+"Apr 13, 2022IIROC Trading Resumption - SOLI.P",SOLI.P
 "Apr 13, 2022IIROC Trade Resumption - NWC",NWC
 "Apr 13, 2022IIROC Trading Halt - NWC",NWC
 "Apr 13, 2022IIROC Trading Resumption - ANTL",ANTL
@@ -21,6 +24,3 @@ Halts,Listing
 "Apr 12, 2022IIROC Trading Halt - SPN",SPN
 "Apr 12, 2022IIROC Trading Halt - SOLI.P",SOLI.P
 "Apr 11, 2022IIROC Trading Resumption - MEGO.P",MEGO.P
-"Apr 11, 2022IIROC Trading Resumption - EVOC.P",EVOC.P
-"Apr 11, 2022IIROC Trading Halt - EPRX",EPRX
-"Apr 11, 2022IIROC Trading Halt - NHK",NHK
