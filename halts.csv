@@ -1,4 +1,8 @@
 Halts,Listing
+"Apr 18, 2022IIROC Trading Halt - SBBC",SBBC
+"Apr 18, 2022IIROC Trading Halt - CAC.P",CAC.P
+"Apr 18, 2022IIROC Trading Halt - JSDA",JSDA
+"Apr 18, 2022IIROC Trading Halt - AHE.H",AHE.H
 "Apr 14, 2022IIROC Trade Resumption - ICAN",ICAN
 "Apr 14, 2022IIROC Trade Resumption - GAMA",GAMA
 "Apr 14, 2022IIROC Trading Resumption - TCK.P",TCK.P
@@ -20,7 +24,3 @@ Halts,Listing
 "Apr 12, 2022IIROC Trading Resumption - TTI",TTI
 "Apr 12, 2022IIROC Trading Resumption - SLK.H",SLK.H
 "Apr 12, 2022IIROC Trading Halt - TSLV",TSLV
-"Apr 12, 2022IIROC Trading Halt - ZMA",ZMA
-"Apr 12, 2022IIROC Trading Resumption - SPN",SPN
-"Apr 12, 2022IIROC Trade Resumption - EPRX",EPRX
-"Apr 12, 2022IIROC Trade Resumption - GLL",GLL
