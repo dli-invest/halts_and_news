@@ -1,4 +1,9 @@
 Halts,Listing
+"Apr 18, 2022IIROC Trading Resumption - DSM",DSM
+"Apr 18, 2022IIROC Trading Resumption - CTH",CTH
+"Apr 18, 2022IIROC Trading Resumption - WMS (Formerly: ORCS.P)",ORCS.P)
+"Apr 18, 2022IIROC Trading Resumption - USCM",USCM
+"Apr 18, 2022IIROC Trading Halt - NIR",NIR
 "Apr 18, 2022IIROC Trading Halt - HEXO.WT",HEXO.WT
 "Apr 18, 2022IIROC Trading Resumption - CAC.P",CAC.P
 "Apr 18, 2022IIROC Trading Halt - SBBC",SBBC
@@ -19,8 +24,3 @@ Halts,Listing
 "Apr 13, 2022IIROC Trade Resumption - NWC",NWC
 "Apr 13, 2022IIROC Trading Halt - NWC",NWC
 "Apr 13, 2022IIROC Trading Resumption - ANTL",ANTL
-"Apr 13, 2022IIROC Trading Halt - ANTL",ANTL
-"Apr 13, 2022IIROC Trading Resumption - TSLV",TSLV
-"Apr 13, 2022IIROC Trade Resumption - HOM.UN",HOM.UN
-"Apr 12, 2022IIROC Trading Halt - HOM.UN",HOM.UN
-"Apr 12, 2022IIROC Trading Resumption - TTI",TTI
