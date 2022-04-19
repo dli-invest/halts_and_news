@@ -1,4 +1,6 @@
 Halts,Listing
+"Apr 19, 2022IIROC Trading Halt - GAMA",GAMA
+"Apr 19, 2022IIROC Trading Halt - IONC",IONC
 "Apr 19, 2022IIROC Trade Resumption - AFN.DB.J",AFN.DB.J
 "Apr 19, 2022IIROC Trading Halt - CBK",CBK
 "Apr 19, 2022IIROC Trading Halt - CSI",CSI
@@ -22,5 +24,3 @@ Halts,Listing
 "Apr 14, 2022IIROC Trading Halt - GAMA",GAMA
 "Apr 14, 2022IIROC Trade Resumption - BEP.PR.R",BEP.PR.R
 "Apr 14, 2022IIROC Trading Halt - BEP.PR.R",BEP.PR.R
-"Apr 13, 2022IIROC Trade Resumption - SX",SX
-"Apr 13, 2022IIROC Trading Halt - NBM",NBM
