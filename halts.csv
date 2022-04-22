@@ -1,4 +1,6 @@
 Halts,Listing
+"Apr 22, 2022IIROC Trading Halt - STA",STA
+"Apr 22, 2022IIROC Trading Halt - CHOO",CHOO
 "Apr 22, 2022IIROC Trade Resumption - SIZE",SIZE
 "Apr 22, 2022IIROC Trading Halt - SIZE",SIZE
 "Apr 22, 2022IIROC Trade Resumption - GDV",GDV
@@ -22,5 +24,3 @@ Halts,Listing
 "Apr 20, 2022IIROC Trading Resumption - RBX",RBX
 "Apr 20, 2022IIROC Trading Halt - GAMA",GAMA
 "Apr 20, 2022IIROC Trading Halt - RWB",RWB
-"Apr 20, 2022IIROC Trade Resumption - EPRX.WT.A",EPRX.WT.A
-"Apr 20, 2022IIROC Trading Halt - YOUR",YOUR
