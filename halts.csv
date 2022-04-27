@@ -1,4 +1,8 @@
 Halts,Listing
+"Apr 27, 2022IIROC Trading Halt - ALS.PR.A",ALS.PR.A
+"Apr 27, 2022IIROC Trading Halt - GRSL",GRSL
+"Apr 27, 2022IIROC Trading Halt - GIS",GIS
+"Apr 27, 2022IIROC Trading Halt - SUP",SUP
 "Apr 26, 2022IIROC Trading Halt - CLAS.WT.B",CLAS.WT.B
 "Apr 26, 2022IIROC Trading Resumption - AFM",AFM
 "Apr 26, 2022IIROC Trading Halt - AFM",AFM
@@ -20,7 +24,3 @@ Halts,Listing
 "Apr 25, 2022IIROC Trading Halt - DIGI",DIGI
 "Apr 25, 2022IIROC Trading Halt - CET.WT",CET.WT
 "Apr 25, 2022IIROC Trading Halt - VENI",VENI
-"Apr 22, 2022IIROC Trading Resumption - CSG.H",CSG.H
-"Apr 22, 2022IIROC Trading Resumption - CORE",CORE
-"Apr 22, 2022IIROC Trade Resumption - MHI",MHI
-"Apr 22, 2022IIROC Trading Resumption - TOP.P",TOP.P
