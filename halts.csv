@@ -1,4 +1,7 @@
 Halts,Listing
+"Apr 28, 2022IIROC Trading Halt - DSAI",DSAI
+"Apr 28, 2022IIROC Trade Resumption - AH.DB",AH.DB
+"Apr 28, 2022IIROC Trading Halt - BZ",BZ
 "Apr 27, 2022IIROC Trading Resumption - GIS",GIS
 "Apr 27, 2022IIROC Trading Resumption - SUP",SUP
 "Apr 27, 2022IIROC Trading Resumption - AKMY",AKMY
@@ -21,6 +24,3 @@ Halts,Listing
 "Apr 25, 2022IIROC Trading Resumption - AHE.H",AHE.H
 "Apr 25, 2022IIROC Trading Resumption - HIH",HIH
 "Apr 25, 2022IIROC Trading Halt - GTWO",GTWO
-"Apr 25, 2022IIROC Trading Halt - BSX",BSX
-"Apr 25, 2022IIROC Trade Resumption - CET.WT",CET.WT
-"Apr 25, 2022IIROC Trade Resumption - VHI",VHI
