@@ -1,4 +1,7 @@
 Halts,Listing
+"May 2, 2022IIROC Trading Halt - AQS.WT",AQS.WT
+"May 2, 2022IIROC Trading Resumption - FARM",FARM
+"May 2, 2022IIROC Trading Halt - ANG",ANG
 "May 2, 2022IIROC Trading Halt - KWG",KWG
 "May 2, 2022IIROC Trade Resumption - KWG",KWG
 "May 2, 2022IIROC Trade Resumption - BAC",BAC
@@ -21,6 +24,3 @@ Halts,Listing
 "Apr 29, 2022IIROC Trade Resumption - NFI",NFI
 "Apr 29, 2022IIROC Trading Halt - NFI",NFI
 "Apr 29, 2022IIROC Trade Resumption - FTRP",FTRP
-"Apr 29, 2022IIROC Trading Halt - CLI",CLI
-"Apr 28, 2022IIROC Trading Halt - FTRP",FTRP
-"Apr 28, 2022IIROC Trading Resumption - RSMX",RSMX
