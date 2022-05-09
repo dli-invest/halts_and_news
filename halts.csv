@@ -1,4 +1,6 @@
 Halts,Listing
+"May 9, 2022IIROC Trading Halt - AAT",AAT
+"May 9, 2022IIROC Trading Resumption - VMS",VMS
 "May 9, 2022IIROC Trade Resumption - PMET",PMET
 "May 9, 2022IIROC Trading Halt - PMET",PMET
 "May 9, 2022IIROC Trading Halt - CWEB.WS",CWEB.WS
@@ -22,5 +24,3 @@ Halts,Listing
 "May 9, 2022IIROC Trading Halt - PTS",PTS
 "May 9, 2022IIROC Trading Halt - BMR",BMR
 "May 9, 2022IIROC Trading Halt - AMO",AMO
-"May 9, 2022IIROC Trading Halt - CHS",CHS
-"May 9, 2022IIROC Trading Halt - CLI.H",CLI.H
