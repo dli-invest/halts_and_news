@@ -1,4 +1,6 @@
 Halts,Listing
+"May 11, 2022IIROC Trading Resumption - MAX",MAX
+"May 11, 2022IIROC Trading Halt - MAX",MAX
 "May 11, 2022IIROC Trading Halt - BEAN",BEAN
 "May 11, 2022IIROC Trade Resumption - EIF",EIF
 "May 11, 2022IIROC Trading Halt - ELXR",ELXR
@@ -22,5 +24,3 @@ Halts,Listing
 "May 9, 2022IIROC Trading Resumption - VMS",VMS
 "May 9, 2022IIROC Trade Resumption - PMET",PMET
 "May 9, 2022IIROC Trading Halt - PMET",PMET
-"May 9, 2022IIROC Trading Halt - CWEB.WS",CWEB.WS
-"May 9, 2022IIROC Trading Resumption - APM",APM
