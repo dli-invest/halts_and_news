@@ -1,4 +1,6 @@
 Halts,Listing
+"May 12, 2022IIROC Trading Halt - ITG",ITG
+"May 12, 2022IIROC Trading Halt - NGEX",NGEX
 "May 12, 2022IIROC Trading Resumption - NGEX",NGEX
 "May 12, 2022IIROC Trade Resumption - EMER",EMER
 "May 12, 2022IIROC Trade Resumption - SW",SW
@@ -22,5 +24,3 @@ Halts,Listing
 "May 10, 2022IIROC Trading Resumption - PBX",PBX
 "May 10, 2022IIROC Trading Halt - OREA",OREA
 "May 10, 2022IIROC Trading Halt - PBX",PBX
-"May 10, 2022IIROC Trading Halt - EMER",EMER
-"May 10, 2022IIROC Trading Halt - AQS",AQS
