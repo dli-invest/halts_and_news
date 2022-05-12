@@ -1,4 +1,5 @@
 source,link_href,link_text,ticker
+PR Newswire,/news/alimentation-couche-tard-launches-u-235900787.html,ALIMENTATION COUCHE-TARD LAUNCHES U.S. COMMERCIAL PAPER PROGRAM FOR US $2.5 BILLION,ATD.TO
 PR Newswire,/news/alimentation-couche-tard-renews-share-110000307.html,ALIMENTATION COUCHE-TARD RENEWS SHARE REPURCHASE PROGRAM,ATD.TO
 PR Newswire,/news/alimentation-couche-tard-announces-agreement-103000659.html,"ALIMENTATION COUCHE-TARD ANNOUNCES AGREEMENT TO REPURCHASE 5,477,451 CLASS A MULTIPLE VOTING SHARES",ATD.TO
 PR Newswire,/news/alimentaton-couche-tard-named-2022-163800303.html,ALIMENTATON COUCHE-TARD NAMED 2022 GALLUP EXCEPTIONAL WORKPLACE AWARD WINNER,ATD.TO
@@ -8,7 +9,6 @@ PR Newswire,/news/circle-k-launches-global-campaign-153000429.html,CIRCLE K LAUN
 Simply Wall St.,/news/type-shareholders-alimentation-couche-tard-093340764.html,What Type Of Shareholders Make Up Alimentation Couche-Tard Inc.'s (TSE:ATD) Share Registry?,ATD.TO
 PR Newswire,/news/alimentation-couche-tard-suspend-operations-131500397.html,ALIMENTATION COUCHE-TARD TO SUSPEND OPERATIONS IN RUSSIA,ATD.TO
 PR Newswire,/news/alimentation-couche-tard-announces-nearly-220500872.html,ALIMENTATION COUCHE-TARD ANNOUNCES NEARLY $55 MILLION OF INVESTMENTS FROM ITS CIRCLE K VENTURE FUND TO EXPLORE THE FUTURE OF CONVENIENCE,ATD.TO
-PR Newswire,/news/alimentation-couche-tard-release-results-150000040.html,"ALIMENTATION COUCHE-TARD TO RELEASE ITS RESULTS FOR ITS THIRD QUARTER OF ITS FISCAL YEAR 2022 ON MARCH 15, 2022",ATD.TO
 CNW Group,/news/aritzia-reports-fourth-quarter-full-200800979.html,Aritzia Reports Fourth Quarter and Full Year Fiscal 2022 Results and Planned CEO Succession,ATZ.TO
 Simply Wall St.,/news/6-1-return-week-takes-105554836.html,The 6.1% return this week takes Aritzia's (TSE:ATZ) shareholders five-year gains to 205%,ATZ.TO
 PR Newswire,/news/aritzia-release-fourth-quarter-full-100000679.html,Aritzia to Release Fourth Quarter and Full Year Fiscal 2022 Financial Results,ATZ.TO
@@ -149,6 +149,8 @@ Motley Fool,/m/91b6f547-d71a-33c5-9349-fc411c8fad9f/why-lithium-americas-stock.h
 Reuters,/news/lithium-technology-help-world-green-183033214.html,New lithium technology can help the world go green -- if it works,LAC.TO
 Reuters,/news/focus-lithium-technology-help-world-182203730.html,FOCUS-New lithium technology can help the world go green -- if it works,LAC.TO
 Motley Fool,/m/053d2608-5c8d-3fae-ad3f-4c09f29638cc/why-lithium-americas-stock.html,Why Lithium Americas Stock Just Slumped 11%,LAC.TO
+CNW Group,/news/manulife-announces-election-directors-202800188.html,Manulife Announces Election of Directors,MFC.TO
+Benzinga,/news/whats-going-manulife-financial-shares-183357760.html,What's Going On With Manulife Financial Shares Today,MFC.TO
 Reuters,/news/manulife-shares-drop-16-month-143337271.html,Manulife shares drop to 16-month low as Asia COVID woes weigh on profit,MFC.TO
 Zacks,/news/manulife-mfc-q1-earnings-lag-142602122.html,"Manulife (MFC) Q1 Earnings Lag Estimates, Asia Business Soft",MFC.TO
 Zacks,/news/manulife-financial-mfc-q1-earnings-231511468.html,Manulife Financial (MFC) Q1 Earnings and Revenues Miss Estimates,MFC.TO
@@ -157,8 +159,6 @@ CNW Group,/news/manulife-declares-common-share-dividend-210200750.html,Manulife 
 CNW Group,/news/manulife-reports-1q22-net-income-210100609.html,"Manulife reports 1Q22 net income of $3.0 billion, core earnings of $1.6 billion, APE sales of $1.6 billion, and Global Wealth and Asset Management net inflows of $6.9 billion",MFC.TO
 CNW Group,/news/manulife-releases-2021-environmental-social-133000242.html,"Manulife Releases 2021 Environmental, Social and Governance Report and Public Accountability Statement",MFC.TO
 Zacks,/news/gohealth-goco-reports-q1-loss-215509014.html,"GoHealth (GOCO) Reports Q1 Loss, Tops Revenue Estimates",MFC.TO
-Simply Wall St.,/news/manulife-financials-tse-mfc-earnings-160216216.html,Do Manulife Financial's (TSE:MFC) Earnings Warrant Your Attention?,MFC.TO
-Zacks,/news/reinsurance-group-rga-q1-earnings-230511905.html,Reinsurance Group (RGA) Q1 Earnings and Revenues Beat Estimates,MFC.TO
 CNW Group,/news/meg-energy-announces-record-first-210000221.html,MEG Energy announces record first quarter operational and financial results and updated capital allocation strategy,MEG.TO
 CNW Group,/news/meg-energy-announces-first-quarter-230100392.html,MEG Energy Announces First Quarter of 2022 Results and Conference Call,MEG.TO
 CNW Group,/news/meg-energy-announces-pending-retirement-210000933.html,MEG Energy Announces Pending Retirement of Chief Financial Officer,MEG.TO
@@ -279,6 +279,8 @@ PR Newswire,/news/well-health-makes-strategic-investment-110000586.html,WELL Hea
 Simply Wall St.,/news/those-invested-well-health-technologies-153339762.html,Those who invested in WELL Health Technologies (TSE:WELL) three years ago are up 709%,WELL.TO
 PR Newswire,/news/well-health-participate-credit-suisses-110000350.html,WELL Health to Participate in Credit Suisse's Hidden Gems Conference,WELL.TO
 CNW Group,/news/c-o-r-r-e-062200135.html,/C O R R E C T I O N  from Source -- WELL Health Technologies Corp./,WELL.TO
+Business Wire,/news/xebec-announces-q1-2022-financial-110000496.html,Xebec Announces Q1 2022 Financial Results,XBC.TO
+Business Wire,/news/xebec-announce-q1-2022-results-110000261.html,Xebec to Announce Q1 2022 Results on May 12 and Host Investor Webinar,XBC.TO
 Business Wire,/news/xebec-announces-113-5m-order-211000191.html,Xebec Announces $113.5M Order for CO2 Capture and Sequestration Equipment with Summit Carbon Solutions,XBC.TO
 Business Wire,/news/xebec-presents-three-strategic-plan-110000903.html,Xebec Presents Three-Year Strategic Plan to Power Its Growth in Sustainable Gases,XBC.TO
 Business Wire,/news/xebec-announces-mou-co2-capture-023000641.html,Xebec Announces MOU for CO2 Capture and Sequestration Equipment with Summit Carbon Solutions,XBC.TO
@@ -287,8 +289,6 @@ Business Wire,/news/xebec-announces-q4-end-2021-110000848.html,Xebec Announces Q
 Business Wire,/news/xebec-announce-q4-end-2021-120000306.html,Xebec to Announce Q4 and Year End 2021 Results on March 17 and Host Investor Webinar,XBC.TO
 Business Wire,/news/xebec-announces-board-resignation-karen-120000915.html,Xebec Announces Board Resignation of Karen Nielsen,XBC.TO
 Business Wire,/news/xebec-host-first-investor-day-120000853.html,"Xebec to Host First Investor Day in Colorado on March 29, 2022",XBC.TO
-Simply Wall St.,/news/investing-xebec-adsorption-tse-xbc-174932414.html,Investing in Xebec Adsorption (TSE:XBC) five years ago would have delivered you a 861% gain,XBC.TO
-Business Wire,/news/xebec-announces-succession-plan-next-211500330.html,Xebec Announces Succession Plan to Next Generation Leadership,XBC.TO
 Bloomberg,/news/alphamin-resources-kicks-off-potential-185027400.html,Alphamin Resources Kicks Off Potential Sale of Miner as Tin Prices Surge,AFM.V
 GlobeNewswire,/news/alphamin-announces-record-q1-2022-170500237.html,"ALPHAMIN ANNOUNCES RECORD Q1 2022 EBITDA GUIDANCE OF US$98m/ TIN SOLD UP 9% TO 3,336 TONNES FOR THE QUARTER",AFM.V
 GlobeNewswire,/news/alphamin-announces-updated-mpama-south-110000136.html,ALPHAMIN ANNOUNCES AN UPDATED MPAMA SOUTH MINERAL RESOURCE ESTIMATE AND THE DECISION TO COMMENCE WITH DEVELOPMENT,AFM.V
