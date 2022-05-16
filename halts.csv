@@ -1,4 +1,7 @@
 Halts,Listing
+"May 16, 2022IIROC Trading Halt - FGH",FGH
+"May 16, 2022IIROC Trading Halt - AZT",AZT
+"May 16, 2022IIROC Trading Halt - PTN.P",PTN.P
 "May 13, 2022IIROC Trading Resumption - JVR.P",JVR.P
 "May 13, 2022IIROC Trading Halt - WRG.RT",WRG.RT
 "May 13, 2022IIROC Trade Resumption - ORBT",ORBT
@@ -21,6 +24,3 @@ Halts,Listing
 "May 11, 2022IIROC Trading Resumption - LEX",LEX
 "May 11, 2022IIROC Trading Halt - MVP",MVP
 "May 11, 2022IIROC Trade Resumption - AJN",AJN
-"May 11, 2022IIROC Trading Resumption - MAX",MAX
-"May 11, 2022IIROC Trading Halt - MAX",MAX
-"May 11, 2022IIROC Trading Halt - BEAN",BEAN
