@@ -1,4 +1,6 @@
 Halts,Listing
+"May 19, 2022IIROC Trading Halt - ORG",ORG
+"May 19, 2022IIROC Trade Resumption - MYCO",MYCO
 "May 18, 2022IIROC Trade Resumption - BB",BB
 "May 18, 2022IIROC Trading Halt - BB",BB
 "May 18, 2022IIROC Trading Resumption - EDM",EDM
@@ -22,5 +24,3 @@ Halts,Listing
 "May 17, 2022IIROC Trading Halt - LOCL",LOCL
 "May 16, 2022IIROC Trade Resumption - AXCP",AXCP
 "May 16, 2022IIROC Trading Resumption - JAB.P",JAB.P
-"May 16, 2022IIROC Trade Resumption - PLTH",PLTH
-"May 16, 2022IIROC Trading Halt - PLTH",PLTH
