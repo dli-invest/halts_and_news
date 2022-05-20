@@ -1,4 +1,6 @@
 Halts,Listing
+"May 20, 2022IIROC Trading Halt - KBY.H",KBY.H
+"May 20, 2022IIROC Trading Halt - SNM.RT",SNM.RT
 "May 20, 2022IIROC Trading Resumption - TSLV",TSLV
 "May 20, 2022IIROC Trading Halt - TSLV",TSLV
 "May 20, 2022IIROC Trade Resumption - NB",NB
@@ -22,5 +24,3 @@ Halts,Listing
 "May 18, 2022IIROC Trading Halt - SIG",SIG
 "May 17, 2022IIROC Trading Resumption - RAU",RAU
 "May 17, 2022IIROC Trading Resumption - PTN.P",PTN.P
-"May 17, 2022IIROC Trading Resumption - YVR.P",YVR.P
-"May 17, 2022IIROC Trading Halt - APLI",APLI
