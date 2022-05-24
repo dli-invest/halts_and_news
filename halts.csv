@@ -1,4 +1,7 @@
 Halts,Listing
+"May 24, 2022IIROC Trading Halt - BSX",BSX
+"May 24, 2022IIROC Trade Resumption - IONC",IONC
+"May 24, 2022IIROC Trade Resumption - PMET",PMET
 "May 24, 2022IIROC Trading Halt - PMET",PMET
 "May 24, 2022IIROC Trading Resumption - GLDC",GLDC
 "May 24, 2022IIROC Trading Halt - IONC",IONC
@@ -21,6 +24,3 @@ Halts,Listing
 "May 19, 2022IIROC Trading Halt - NB",NB
 "May 19, 2022IIROC Trading Halt - TIDE.P",TIDE.P
 "May 19, 2022IIROC Trading Halt - ORG",ORG
-"May 19, 2022IIROC Trade Resumption - MYCO",MYCO
-"May 18, 2022IIROC Trade Resumption - BB",BB
-"May 18, 2022IIROC Trading Halt - BB",BB
