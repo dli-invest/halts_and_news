@@ -1,4 +1,6 @@
 Halts,Listing
+"May 24, 2022IIROC Trading Halt - ZRO",ZRO
+"May 24, 2022IIROC Trading Halt - OSU",OSU
 "May 20, 2022IIROC Trading Resumption - FRXI, FRXI.WT",FRXI.WT
 "May 20, 2022IIROC Trading Resumption - CHS",CHS
 "May 20, 2022IIROC Trading Resumption - LTH",LTH
@@ -22,5 +24,3 @@ Halts,Listing
 "May 18, 2022IIROC Trade Resumption - SIG",SIG
 "May 18, 2022IIROC Trading Resumption - MMG",MMG
 "May 18, 2022IIROC Trading Resumption - TVI",TVI
-"May 18, 2022IIROC Trading Halt - MMG",MMG
-"May 18, 2022IIROC Trading Halt - TVI",TVI
