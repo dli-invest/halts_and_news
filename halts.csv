@@ -1,4 +1,9 @@
 Halts,Listing
+"May 24, 2022IIROC Trading Halt - PMET",PMET
+"May 24, 2022IIROC Trading Resumption - GLDC",GLDC
+"May 24, 2022IIROC Trading Halt - IONC",IONC
+"May 24, 2022IIROC Trading Halt - UBQ",UBQ
+"May 24, 2022IIROC Trading Halt - GLDC",GLDC
 "May 24, 2022IIROC Trading Halt - ZRO",ZRO
 "May 24, 2022IIROC Trading Halt - OSU",OSU
 "May 20, 2022IIROC Trading Resumption - FRXI, FRXI.WT",FRXI.WT
@@ -19,8 +24,3 @@ Halts,Listing
 "May 19, 2022IIROC Trade Resumption - MYCO",MYCO
 "May 18, 2022IIROC Trade Resumption - BB",BB
 "May 18, 2022IIROC Trading Halt - BB",BB
-"May 18, 2022IIROC Trading Resumption - EDM",EDM
-"May 18, 2022IIROC Trading Halt - MYCO",MYCO
-"May 18, 2022IIROC Trade Resumption - SIG",SIG
-"May 18, 2022IIROC Trading Resumption - MMG",MMG
-"May 18, 2022IIROC Trading Resumption - TVI",TVI
