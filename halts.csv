@@ -1,4 +1,6 @@
 Halts,Listing
+"Jun 1, 2022IIROC Trading Halt - NIRV",NIRV
+"Jun 1, 2022IIROC Trading Halt - GGAU",GGAU
 "Jun 1, 2022IIROC Trading Halt - ONC.WT",ONC.WT
 "Jun 1, 2022IIROC Trade Resumption - ACB.WS.U",ACB.WS.U
 "Jun 1, 2022IIROC Trade Resumption - MPCT.UN",MPCT.UN
@@ -22,5 +24,3 @@ Halts,Listing
 "May 30, 2022IIROC Trading Resumption - YORK",YORK
 "May 30, 2022IIROC Trading Halt - KBY.H",KBY.H
 "May 30, 2022IIROC Trading Halt - R.P",R.P
-"May 30, 2022IIROC Trading Halt - PCO",PCO
-"May 30, 2022IIROC Trading Halt - PLRB",PLRB
