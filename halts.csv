@@ -1,4 +1,9 @@
 Halts,Listing
+"Jun 1, 2022IIROC Trade Resumption - ACB.WS.U",ACB.WS.U
+"Jun 1, 2022IIROC Trade Resumption - MPCT.UN",MPCT.UN
+"Jun 1, 2022IIROC Trade Resumption - BK",BK
+"Jun 1, 2022IIROC Trading Halt - ACB.WS.U",ACB.WS.U
+"Jun 1, 2022IIROC Trading Halt - QEX",QEX
 "May 31, 2022IIROC Trading Halt - LXE",LXE
 "May 31, 2022IIROC Trading Halt - MPCT.UN",MPCT.UN
 "May 31, 2022IIROC Trading Resumption - ZZE.H",ZZE.H
@@ -19,8 +24,3 @@ Halts,Listing
 "May 30, 2022IIROC Trading Halt - PCO",PCO
 "May 30, 2022IIROC Trading Halt - PLRB",PLRB
 "May 30, 2022IIROC Trading Halt - PCO",PCO
-"May 27, 2022IIROC Trading Resumption - FGC",FGC
-"May 27, 2022IIROC Trade Resumption - BCBN",BCBN
-"May 27, 2022IIROC Trading Halt - BCBN",BCBN
-"May 27, 2022IIROC Trade Resumption - CUB",CUB
-"May 26, 2022IIROC Trading Resumption - PQE",PQE
