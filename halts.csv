@@ -1,4 +1,6 @@
 Halts,Listing
+"Jun 6, 2022IIROC Trading Halt - JSDA",JSDA
+"Jun 6, 2022IIROC Trading Halt - SBBC",SBBC
 "Jun 6, 2022IIROC Trading Halt - BTV",BTV
 "Jun 6, 2022IIROC Trading Halt - CLV",CLV
 "Jun 6, 2022IIROC Trading Halt - LIO",LIO
@@ -22,5 +24,3 @@ Halts,Listing
 "Jun 2, 2022IIROC Trading Resumption - AGX",AGX
 "Jun 2, 2022IIROC Trading Halt - TV.WT",TV.WT
 "Jun 2, 2022IIROC Trading Halt - AGX",AGX
-"Jun 2, 2022IIROC Trade Resumption - CUB.DB",CUB.DB
-"Jun 2, 2022IIROC Trading Halt - KHRN",KHRN
