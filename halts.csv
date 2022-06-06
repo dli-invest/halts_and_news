@@ -1,4 +1,8 @@
 Halts,Listing
+"Jun 6, 2022IIROC Trading Halt - BTV",BTV
+"Jun 6, 2022IIROC Trading Halt - CLV",CLV
+"Jun 6, 2022IIROC Trading Halt - LIO",LIO
+"Jun 6, 2022IIROC Trading Resumption - LIO",LIO
 "Jun 6, 2022IIROC Trading Resumption - POE",POE
 "Jun 6, 2022IIROC Trading Halt - TIDE.P",TIDE.P
 "Jun 6, 2022IIROC Trading Halt - PSYF.P",PSYF.P
@@ -20,7 +24,3 @@ Halts,Listing
 "Jun 2, 2022IIROC Trading Halt - AGX",AGX
 "Jun 2, 2022IIROC Trade Resumption - CUB.DB",CUB.DB
 "Jun 2, 2022IIROC Trading Halt - KHRN",KHRN
-"Jun 2, 2022IIROC Trading Halt - CUB.DB",CUB.DB
-"Jun 2, 2022IIROC Trade Resumption - SSF.UN",SSF.UN
-"Jun 2, 2022IIROC Trading Halt - PCAA.P",PCAA.P
-"Jun 2, 2022IIROC Trading Halt - NTAR",NTAR
