@@ -1,4 +1,10 @@
 Halts,Listing
+"Jun 13, 2022IIROC Trading Halt - SGZ",SGZ
+"Jun 13, 2022IIROC Trading Halt - NVT",NVT
+"Jun 13, 2022IIROC Trade Resumption - PBH.DB.I",PBH.DB.I
+"Jun 13, 2022IIROC Trading Halt - AGRI.V",AGRI.V
+"Jun 13, 2022IIROC Trading Halt - PBH.DB.I",PBH.DB.I
+"Jun 13, 2022IIROC Trading Halt - CRE",CRE
 "Jun 10, 2022IIROC Trading Resumption - COHO",COHO
 "Jun 10, 2022IIROC Trading Resumption - FRDY",FRDY
 "Jun 10, 2022IIROC Trading Resumption - TSD",TSD
@@ -18,9 +24,3 @@ Halts,Listing
 "Jun 8, 2022IIROC Trading Resumption - CEN.H",CEN.H
 "Jun 8, 2022IIROC Trading Resumption - BMR",BMR
 "Jun 8, 2022IIROC Trading Halt - HEVI",HEVI
-"Jun 8, 2022IIROC Trading Resumption - DG",DG
-"Jun 8, 2022IIROC Trade Resumption - RGLD",RGLD
-"Jun 8, 2022IIROC Trading Halt - RGLD",RGLD
-"Jun 8, 2022IIROC Trading Halt - DG",DG
-"Jun 8, 2022IIROC Trading Halt - NINE",NINE
-"Jun 7, 2022IIROC Trading Resumption - TNA",TNA
