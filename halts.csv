@@ -1,4 +1,6 @@
 Halts,Listing
+"Jun 20, 2022IIROC Trading Halt - CWEB.WR",CWEB.WR
+"Jun 20, 2022IIROC Trading Halt - DYA.WT",DYA.WT
 "Jun 20, 2022IIROC Trading Halt - TIM",TIM
 "Jun 20, 2022IIROC Trade Resumption - MOOO",MOOO
 "Jun 17, 2022IIROC Trading Resumption - RAC.P",RAC.P
@@ -22,5 +24,3 @@ Halts,Listing
 "Jun 14, 2022IIROC Trading Halt - PQE",PQE
 "Jun 14, 2022IIROC Trading Halt - AAAJ.P",AAAJ.P
 "Jun 13, 2022IIROC Trade Resumption - GTOO",GTOO
-"Jun 13, 2022IIROC Trade Resumption - UBQ",UBQ
-"Jun 13, 2022IIROC Trading Halt - UBQ",UBQ
