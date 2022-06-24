@@ -1,4 +1,9 @@
 Halts,Listing
+"Jun 24, 2022IIROC Trading Halt - III.RT.A",III.RT.A
+"Jun 24, 2022IIROC Trade Resumption - IAN",IAN
+"Jun 24, 2022IIROC Trade Resumption - CRP",CRP
+"Jun 24, 2022IIROC Trading Halt - IAN",IAN
+"Jun 24, 2022IIROC Trading Halt - CRP",CRP
 "Jun 24, 2022IIROC Trading Halt - PROP",PROP
 "Jun 24, 2022IIROC Trading Resumption - SOU",SOU
 "Jun 24, 2022IIROC Trading Resumption - AVN",AVN
@@ -19,8 +24,3 @@ Halts,Listing
 "Jun 22, 2022IIROC Trading Halt - ATR.P",ATR.P
 "Jun 21, 2022IIROC Trading Halt - BABY",BABY
 "Jun 21, 2022IIROC Trading Resumption - NRX",NRX
-"Jun 21, 2022IIROC Trading Resumption - TTGI",TTGI
-"Jun 21, 2022IIROC Trading Halt - RS",RS
-"Jun 20, 2022IIROC Trade Resumption - ELEM",ELEM
-"Jun 20, 2022IIROC Trading Halt - ELEM",ELEM
-"Jun 20, 2022IIROC Trading Resumption - ICWY.P",ICWY.P
