@@ -1,4 +1,6 @@
 Halts,Listing
+"Jun 27, 2022IIROC Trading Halt - EV",EV
+"Jun 27, 2022IIROC Trading Halt - TMAS",TMAS
 "Jun 27, 2022IIROC Trading Resumption - GUS",GUS
 "Jun 24, 2022IIROC Trading Resumption - GIG",GIG
 "Jun 24, 2022IIROC Trading Resumption - DEF",DEF
@@ -22,5 +24,3 @@ Halts,Listing
 "Jun 23, 2022IIROC Trade Resumption - XTG",XTG
 "Jun 23, 2022IIROC Trading Halt - SOU",SOU
 "Jun 23, 2022IIROC Trading Halt - XTG",XTG
-"Jun 23, 2022IIROC Trading Halt - AZC.P",AZC.P
-"Jun 23, 2022IIROC Trading Halt - AVN",AVN
