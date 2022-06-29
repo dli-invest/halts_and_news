@@ -1,4 +1,6 @@
 Halts,Listing
+"Jun 29, 2022IIROC Trading Halt - GRB",GRB
+"Jun 29, 2022IIROC Trading Halt - KIB",KIB
 "Jun 28, 2022IIROC Trading Resumption - AZC.P",AZC.P
 "Jun 28, 2022IIROC Trade Resumption - HG",HG
 "Jun 28, 2022IIROC Trade Resumption - IE",IE
@@ -22,5 +24,3 @@ Halts,Listing
 "Jun 24, 2022IIROC Trading Resumption - DEF",DEF
 "Jun 24, 2022IIROC Trading Halt - GUS",GUS
 "Jun 24, 2022IIROC Trading Resumption - GIII",GIII
-"Jun 24, 2022IIROC Trading Halt - GIII",GIII
-"Jun 24, 2022IIROC Trading Halt - III.RT.A",III.RT.A
