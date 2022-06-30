@@ -1,4 +1,6 @@
 Halts,Listing
+"Jun 30, 2022IIROC Trade Resumption - VIK",VIK
+"Jun 30, 2022IIROC Trading Halt - OREA",OREA
 "Jun 30, 2022IIROC Trading Halt - FSZ.DB",FSZ.DB
 "Jun 30, 2022IIROC Trading Halt - IGX.DB",IGX.DB
 "Jun 30, 2022IIROC Trading Halt - MCLD.DB",MCLD.DB
@@ -22,5 +24,3 @@ Halts,Listing
 "Jun 27, 2022IIROC Trade Resumption - PROP",PROP
 "Jun 27, 2022IIROC Trading Halt - MINK.P",MINK.P
 "Jun 27, 2022IIROC Trading Resumption - JZR",JZR
-"Jun 27, 2022IIROC Trading Halt - AH.WT",AH.WT
-"Jun 27, 2022IIROC Trading Halt - MGM.WT",MGM.WT
