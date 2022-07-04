@@ -1,4 +1,6 @@
 Halts,Listing
+"Jul 4, 2022IIROC Trading Halt - ALT",ALT
+"Jul 4, 2022IIROC Trading Halt - HAKK.P",HAKK.P
 "Jul 4, 2022IIROC Trading Halt - EFN.PR.I",EFN.PR.I
 "Jul 4, 2022IIROC Trading Halt - SGD",SGD
 "Jun 30, 2022IIROC Trading Halt - DG",DG
@@ -22,5 +24,3 @@ Halts,Listing
 "Jun 28, 2022IIROC Trade Resumption - HG",HG
 "Jun 28, 2022IIROC Trade Resumption - IE",IE
 "Jun 28, 2022IIROC Trade Resumption - HODL",HODL
-"Jun 28, 2022IIROC Trading Halt - HODL",HODL
-"Jun 28, 2022IIROC Trading Halt - NBLY.R",NBLY.R
