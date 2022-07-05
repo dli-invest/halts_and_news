@@ -1,4 +1,6 @@
 Halts,Listing
+"Jul 5, 2022IIROC Trading Resumption - CYM",CYM
+"Jul 5, 2022IIROC Trading Resumption - AFM",AFM
 "Jul 5, 2022IIROC Trade Resumption - SGD",SGD
 "Jul 5, 2022IIROC Trading Halt - CYM",CYM
 "Jul 5, 2022IIROC Trading Halt - AFM",AFM
@@ -22,5 +24,3 @@ Halts,Listing
 "Jun 30, 2022IIROC Trading Halt - MCLD.DB",MCLD.DB
 "Jun 30, 2022IIROC Trading Halt - BDN",BDN
 "Jun 30, 2022IIROC Trading Halt - ENTG.DB",ENTG.DB
-"Jun 29, 2022IIROC Trading Resumption - GRB",GRB
-"Jun 29, 2022IIROC Trading Halt - ALT",ALT
