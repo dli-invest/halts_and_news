@@ -1,4 +1,9 @@
 Halts,Listing
+"Jul 5, 2022IIROC Trade Resumption - SGD",SGD
+"Jul 5, 2022IIROC Trading Halt - CYM",CYM
+"Jul 5, 2022IIROC Trading Halt - AFM",AFM
+"Jul 5, 2022IIROC Trading Resumption - DG",DG
+"Jul 5, 2022IIROC Trade Resumption - RGLD",RGLD
 "Jul 4, 2022IIROC Trading Resumption - KIB",KIB
 "Jul 4, 2022IIROC Trading Resumption - ADJ.P",ADJ.P
 "Jul 4, 2022IIROC Trading Halt - ALT",ALT
@@ -19,8 +24,3 @@ Halts,Listing
 "Jun 30, 2022IIROC Trading Halt - ENTG.DB",ENTG.DB
 "Jun 29, 2022IIROC Trading Resumption - GRB",GRB
 "Jun 29, 2022IIROC Trading Halt - ALT",ALT
-"Jun 29, 2022IIROC Trading Halt - BETS.WT",BETS.WT
-"Jun 29, 2022IIROC Trading Halt - GRB",GRB
-"Jun 29, 2022IIROC Trading Halt - KIB",KIB
-"Jun 28, 2022IIROC Trading Resumption - AZC.P",AZC.P
-"Jun 28, 2022IIROC Trade Resumption - HG",HG
