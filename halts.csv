@@ -1,4 +1,8 @@
 Halts,Listing
+"Jul 5, 2022IIROC Trading Resumption - BUF",BUF
+"Jul 5, 2022IIROC Trading Halt - FTRP.WT",FTRP.WT
+"Jul 5, 2022IIROC Trading Halt - RIO",RIO
+"Jul 5, 2022IIROC Trading Halt - BUF",BUF
 "Jul 5, 2022IIROC Trading Resumption - CYM",CYM
 "Jul 5, 2022IIROC Trading Resumption - AFM",AFM
 "Jul 5, 2022IIROC Trade Resumption - SGD",SGD
@@ -20,7 +24,3 @@ Halts,Listing
 "Jun 30, 2022IIROC Trade Resumption - VIK",VIK
 "Jun 30, 2022IIROC Trading Halt - OREA",OREA
 "Jun 30, 2022IIROC Trading Halt - FSZ.DB",FSZ.DB
-"Jun 30, 2022IIROC Trading Halt - IGX.DB",IGX.DB
-"Jun 30, 2022IIROC Trading Halt - MCLD.DB",MCLD.DB
-"Jun 30, 2022IIROC Trading Halt - BDN",BDN
-"Jun 30, 2022IIROC Trading Halt - ENTG.DB",ENTG.DB
