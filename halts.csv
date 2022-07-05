@@ -1,4 +1,6 @@
 Halts,Listing
+"Jul 5, 2022IIROC Trading Halt - TGLD",TGLD
+"Jul 5, 2022IIROC Trading Resumption - RIO",RIO
 "Jul 5, 2022IIROC Trading Resumption - BUF",BUF
 "Jul 5, 2022IIROC Trading Halt - FTRP.WT",FTRP.WT
 "Jul 5, 2022IIROC Trading Halt - RIO",RIO
@@ -22,5 +24,3 @@ Halts,Listing
 "Jun 30, 2022IIROC Trade Resumption - OREA",OREA
 "Jun 30, 2022IIROC Trade Resumption - NUR",NUR
 "Jun 30, 2022IIROC Trade Resumption - VIK",VIK
-"Jun 30, 2022IIROC Trading Halt - OREA",OREA
-"Jun 30, 2022IIROC Trading Halt - FSZ.DB",FSZ.DB
