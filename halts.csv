@@ -1,4 +1,6 @@
 Halts,Listing
+"Jul 7, 2022IIROC Trading Halt - GTOO",GTOO
+"Jul 7, 2022IIROC Trading Halt - LET.H",LET.H
 "Jul 7, 2022IIROC Trading Halt - WTER",WTER
 "Jul 7, 2022IIROC Trading Halt - SFX",SFX
 "Jul 6, 2022IIROC Trading Halt - MCLD.WS",MCLD.WS
@@ -22,5 +24,3 @@ Halts,Listing
 "Jul 5, 2022IIROC Trading Resumption - DG",DG
 "Jul 5, 2022IIROC Trade Resumption - RGLD",RGLD
 "Jul 4, 2022IIROC Trading Resumption - KIB",KIB
-"Jul 4, 2022IIROC Trading Resumption - ADJ.P",ADJ.P
-"Jul 4, 2022IIROC Trading Halt - ALT",ALT
