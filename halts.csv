@@ -1,4 +1,7 @@
 Halts,Listing
+"Jul 12, 2022IIROC Trading Resumption - DFR",DFR
+"Jul 12, 2022IIROC Trading Resumption - SFT",SFT
+"Jul 12, 2022IIROC Trading Halt - SFT",SFT
 "Jul 12, 2022IIROC Trading Halt - KUB",KUB
 "Jul 12, 2022IIROC Trading Halt - GHG",GHG
 "Jul 12, 2022IIROC Trading Halt - TBP.WT.A",TBP.WT.A
@@ -21,6 +24,3 @@ Halts,Listing
 "Jul 8, 2022IIROC Trading Halt - GBMC",GBMC
 "Jul 8, 2022IIROC Trade Resumption - TSU",TSU
 "Jul 7, 2022IIROC Trading Halt - TSU",TSU
-"Jul 7, 2022IIROC Trading Resumption - CE.H",CE.H
-"Jul 7, 2022IIROC Trade Resumption - GTOO",GTOO
-"Jul 7, 2022IIROC Trading Halt - GTOO",GTOO
