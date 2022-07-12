@@ -1,4 +1,7 @@
 Halts,Listing
+"Jul 12, 2022IIROC Trading Halt - GHG",GHG
+"Jul 12, 2022IIROC Trading Halt - TBP.WT.A",TBP.WT.A
+"Jul 12, 2022IIROC Trading Halt - HAKK.P",HAKK.P
 "Jul 12, 2022IIROC Trade Resumption - FENX",FENX
 "Jul 11, 2022IIROC Trading Resumption - ZNC.H",ZNC.H
 "Jul 11, 2022IIROC Trading Resumption - UWE.H",UWE.H
@@ -21,6 +24,3 @@ Halts,Listing
 "Jul 7, 2022IIROC Trade Resumption - GTOO",GTOO
 "Jul 7, 2022IIROC Trading Halt - GTOO",GTOO
 "Jul 7, 2022IIROC Trading Halt - LET.H",LET.H
-"Jul 7, 2022IIROC Trading Halt - WTER",WTER
-"Jul 7, 2022IIROC Trading Halt - SFX",SFX
-"Jul 6, 2022IIROC Trading Halt - MCLD.WS",MCLD.WS
