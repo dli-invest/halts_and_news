@@ -1,4 +1,6 @@
 Halts,Listing
+"Jul 14, 2022IIROC Trading Halt - CE.H",CE.H
+"Jul 14, 2022IIROC Trading Resumption - GMN",GMN
 "Jul 14, 2022IIROC Trading Halt - GMN",GMN
 "Jul 13, 2022IIROC Trading Resumption - VIP",VIP
 "Jul 13, 2022IIROC Trading Resumption - PAR.H",PAR.H
@@ -22,5 +24,3 @@ Halts,Listing
 "Jul 11, 2022IIROC Trading Halt - UWE.H",UWE.H
 "Jul 11, 2022IIROC Trade Resumption - GREN",GREN
 "Jul 11, 2022IIROC Trading Halt - GREN",GREN
-"Jul 11, 2022IIROC Trading Halt - CHN",CHN
-"Jul 11, 2022IIROC Trading Halt - MCCN",MCCN
