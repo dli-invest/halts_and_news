@@ -1,4 +1,9 @@
 Halts,Listing
+"Jul 20, 2022IIROC Trading Halt - ALDE",ALDE
+"Jul 20, 2022IIROC Trade Resumption - POM",POM
+"Jul 20, 2022IIROC Trading Halt - POM",POM
+"Jul 20, 2022IIROC Trade Resumption - LBS",LBS
+"Jul 20, 2022IIROC Trading Halt - CLAS",CLAS
 "Jul 19, 2022IIROC Trading Resumption - KLX",KLX
 "Jul 19, 2022IIROC Trading Halt - LBS",LBS
 "Jul 19, 2022IIROC Trade Resumption - WFG",WFG
@@ -19,8 +24,3 @@ Halts,Listing
 "Jul 14, 2022IIROC Trading Halt - GMN",GMN
 "Jul 13, 2022IIROC Trading Resumption - VIP",VIP
 "Jul 13, 2022IIROC Trading Resumption - PAR.H",PAR.H
-"Jul 13, 2022IIROC Trading Resumption - AMO",AMO
-"Jul 13, 2022IIROC Trading Resumption - AQS",AQS
-"Jul 13, 2022IIROC Trading Resumption - SPZ",SPZ
-"Jul 13, 2022IIROC Trade Resumption - WM",WM
-"Jul 13, 2022IIROC Trading Halt - KUB",KUB
