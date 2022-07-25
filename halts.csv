@@ -1,4 +1,7 @@
 Halts,Listing
+"Jul 25, 2022IIROC Trading Halt - VOL",VOL
+"Jul 25, 2022IIROC Trading Halt - VPH.WT",VPH.WT
+"Jul 25, 2022IIROC Trading Resumption - BAY",BAY
 "Jul 25, 2022IIROC Trading Halt - BAY",BAY
 "Jul 22, 2022IIROC Trading Resumption - LFC.P",LFC.P
 "Jul 22, 2022IIROC Trading Resumption - BRVO",BRVO
@@ -21,6 +24,3 @@ Halts,Listing
 "Jul 20, 2022IIROC Trading Resumption - LDI",LDI
 "Jul 20, 2022IIROC Trading Resumption - WAM",WAM
 "Jul 20, 2022IIROC Trading Halt - LDI",LDI
-"Jul 20, 2022IIROC Trading Halt - WAM",WAM
-"Jul 20, 2022IIROC Trading Resumption - ALDE",ALDE
-"Jul 20, 2022IIROC Trading Halt - ALDE",ALDE
