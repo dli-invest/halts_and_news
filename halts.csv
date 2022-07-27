@@ -1,4 +1,7 @@
 Halts,Listing
+"Jul 27, 2022IIROC Trading Halt - SRA",SRA
+"Jul 27, 2022IIROC Trading Halt - SHLL.P",SHLL.P
+"Jul 27, 2022IIROC Trading Halt - OPEN.P",OPEN.P
 "Jul 26, 2022IIROC Trading Resumption - PCAA.P",PCAA.P
 "Jul 26, 2022IIROC Trading Halt - SMR.H",SMR.H
 "Jul 26, 2022IIROC Trade Resumption - NSG",NSG
@@ -21,6 +24,3 @@ Halts,Listing
 "Jul 21, 2022IIROC Trading Halt - NUR",NUR
 "Jul 21, 2022IIROC Trading Halt - RNCH",RNCH
 "Jul 21, 2022IIROC Trade Resumption - SNOW",SNOW
-"Jul 21, 2022IIROC Trade Resumption - WTER",WTER
-"Jul 21, 2022IIROC Trading Halt - SNOW",SNOW
-"Jul 21, 2022IIROC Trade Resumption - TSK",TSK
