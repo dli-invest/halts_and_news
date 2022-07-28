@@ -1,4 +1,6 @@
 Halts,Listing
+"Jul 28, 2022IIROC Trading Halt - TCAN",TCAN
+"Jul 28, 2022IIROC Trade Resumption - TWM",TWM
 "Jul 27, 2022IIROC Trading Halt -TWM",-TWM
 "Jul 27, 2022IIROC Trade Resumption - GREN",GREN
 "Jul 27, 2022IIROC Trading Halt - GREN",GREN
@@ -22,5 +24,3 @@ Halts,Listing
 "Jul 22, 2022IIROC Trading Halt - TNR",TNR
 "Jul 21, 2022IIROC Trading Resumption - TTO.H",TTO.H
 "Jul 21, 2022IIROC Trading Resumption - KUB",KUB
-"Jul 21, 2022IIROC Trade Resumption - NUR",NUR
-"Jul 21, 2022IIROC Trading Resumption - RNCH",RNCH
