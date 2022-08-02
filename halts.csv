@@ -1,4 +1,9 @@
 Halts,Listing
+"Aug 2, 2022IIROC Trade Resumption - TCAN",TCAN
+"Aug 2, 2022IIROC Trading Halt - GASX",GASX
+"Aug 2, 2022IIROC Trading Halt - SMTH.P",SMTH.P
+"Aug 2, 2022IIROC Trade Resumption - SW",SW
+"Aug 2, 2022IIROC Trading Halt - SW",SW
 "Jul 29, 2022IIROC Trading Resumption - SMR.H",SMR.H
 "Jul 29, 2022IIROC Trading Resumption - ASTN.P",ASTN.P
 "Jul 29, 2022IIROC Trading Halt - KRN.RT",KRN.RT
@@ -19,8 +24,3 @@ Halts,Listing
 "Jul 28, 2022IIROC Trade Resumption - BHC",BHC
 "Jul 28, 2022IIROC Trading Halt - TCAN",TCAN
 "Jul 28, 2022IIROC Trade Resumption - TWM",TWM
-"Jul 27, 2022IIROC Trading Halt -TWM",-TWM
-"Jul 27, 2022IIROC Trade Resumption - GREN",GREN
-"Jul 27, 2022IIROC Trading Halt - GREN",GREN
-"Jul 27, 2022IIROC Trading Halt - SRA",SRA
-"Jul 27, 2022IIROC Trading Halt - SHLL.P",SHLL.P
