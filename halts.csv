@@ -1,4 +1,8 @@
 Halts,Listing
+"Aug 4, 2022IIROC Trading Resumption - SDI",SDI
+"Aug 4, 2022IIROC Trading Halt - CBDT",CBDT
+"Aug 4, 2022IIROC Trading Halt - AMR",AMR
+"Aug 4, 2022IIROC Trading Halt - BEV",BEV
 "Aug 3, 2022IIROC Trading Resumption - PTFY",PTFY
 "Aug 3, 2022IIROC Trading Halt - SDI",SDI
 "Aug 3, 2022IIROC Trade Resumption - SGNL",SGNL
@@ -20,7 +24,3 @@ Halts,Listing
 "Jul 29, 2022IIROC Trading Resumption - ASTN.P",ASTN.P
 "Jul 29, 2022IIROC Trading Halt - KRN.RT",KRN.RT
 "Jul 29, 2022IIROC Trading Halt - NCU.WT.A",NCU.WT.A
-"Jul 29, 2022IIROC Trading Resumption - ITR",ITR
-"Jul 29, 2022IIROC Trading Resumption - SRA",SRA
-"Jul 28, 2022IIROC Trading Halt - ITR",ITR
-"Jul 28, 2022IIROC Trade Resumption - BHC",BHC
