@@ -1,4 +1,6 @@
 Halts,Listing
+"Aug 8, 2022IIROC Trading Resumption - SWAN",SWAN
+"Aug 8, 2022IIROC Trading Halt - GAL",GAL
 "Aug 8, 2022IIROC Trading Resumption - FOM",FOM
 "Aug 8, 2022IIROC Trading Halt - FOM",FOM
 "Aug 8, 2022IIROC Trading Halt - SCT",SCT
@@ -22,5 +24,3 @@ Halts,Listing
 "Aug 4, 2022IIROC Trading Halt - SHL",SHL
 "Aug 4, 2022IIROC Trading Resumption - SDI",SDI
 "Aug 4, 2022IIROC Trading Halt - CBDT",CBDT
-"Aug 4, 2022IIROC Trading Halt - AMR",AMR
-"Aug 4, 2022IIROC Trading Halt - BEV",BEV
