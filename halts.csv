@@ -1,4 +1,8 @@
 Halts,Listing
+"Aug 10, 2022IIROC Trading Halt - CLV",CLV
+"Aug 10, 2022IIROC Trading Resumption - CNL",CNL
+"Aug 10, 2022IIROC Trade Resumption - PWI",PWI
+"Aug 10, 2022IIROC Trading Halt - DNO",DNO
 "Aug 9, 2022IIROC Trading Halt - CNL",CNL
 "Aug 9, 2022IIROC Trading Resumption - SLX.P",SLX.P
 "Aug 9, 2022IIROC Trading Resumption - TLX.P",TLX.P
@@ -20,7 +24,3 @@ Halts,Listing
 "Aug 8, 2022IIROC Trading Halt - SLX.P",SLX.P
 "Aug 8, 2022IIROC Trading Halt - TRIG.P",TRIG.P
 "Aug 5, 2022IIROC Trading Resumption - COCO",COCO
-"Aug 5, 2022IIROC Trading Halt - FLT.WT.A",FLT.WT.A
-"Aug 5, 2022IIROC Trading Resumption - BRC",BRC
-"Aug 5, 2022IIROC Trade Resumption - TRP",TRP
-"Aug 4, 2022IIROC Trading Halt - BLAZ.P",BLAZ.P
