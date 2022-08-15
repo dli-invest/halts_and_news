@@ -1,4 +1,6 @@
 Halts,Listing
+"Aug 15, 2022IIROC Trading Halt - UVN",UVN
+"Aug 15, 2022IIROC Trade Resumption - SPEY",SPEY
 "Aug 15, 2022IIROC Trading Resumption - SGMD",SGMD
 "Aug 15, 2022IIROC Trading Halt - SGMD",SGMD
 "Aug 15, 2022IIROC Trade Resumption - VSOL",VSOL
@@ -22,5 +24,3 @@ Halts,Listing
 "Aug 10, 2022IIROC Trade Resumption - LNR",LNR
 "Aug 10, 2022IIROC Trading Resumption - HMPG",HMPG
 "Aug 10, 2022IIROC Trading Resumption - CLV",CLV
-"Aug 10, 2022IIROC Trading Halt - CLV",CLV
-"Aug 10, 2022IIROC Trading Resumption - CNL",CNL
