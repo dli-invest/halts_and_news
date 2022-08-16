@@ -1,4 +1,6 @@
 Halts,Listing
+"Aug 16, 2022IIROC Trading Halt - SBS.H",SBS.H
+"Aug 16, 2022IIROC Trading Resumption - VERT",VERT
 "Aug 16, 2022IIROC Trade Resumption - HWG",HWG
 "Aug 16, 2022IIROC Trading Resumption - BMR",BMR
 "Aug 16, 2022IIROC Trading Halt - BMR",BMR
@@ -22,5 +24,3 @@ Halts,Listing
 "Aug 12, 2022IIROC Trading Halt - LAS.A",LAS.A
 "Aug 12, 2022IIROC Trading Resumption - AUL",AUL
 "Aug 12, 2022IIROC Trading Resumption - RCK",RCK
-"Aug 12, 2022IIROC Trading Halt - AUL",AUL
-"Aug 12, 2022IIROC Trading Halt - RCK",RCK
