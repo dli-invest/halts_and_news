@@ -1,4 +1,7 @@
 Halts,Listing
+"Aug 16, 2022IIROC Trading Halt - DLV.H",DLV.H
+"Aug 16, 2022IIROC Trading Resumption - DGL.P",DGL.P
+"Aug 16, 2022IIROC Trading Resumption - TRIG.P",TRIG.P
 "Aug 16, 2022IIROC Trading Halt - SBS.H",SBS.H
 "Aug 16, 2022IIROC Trading Resumption - VERT",VERT
 "Aug 16, 2022IIROC Trade Resumption - HWG",HWG
@@ -21,6 +24,3 @@ Halts,Listing
 "Aug 12, 2022IIROC Trading Resumption - RVC.P",RVC.P
 "Aug 12, 2022IIROC Trading Halt - MYCO",MYCO
 "Aug 12, 2022IIROC Trade Resumption - LAS.A",LAS.A
-"Aug 12, 2022IIROC Trading Halt - LAS.A",LAS.A
-"Aug 12, 2022IIROC Trading Resumption - AUL",AUL
-"Aug 12, 2022IIROC Trading Resumption - RCK",RCK
