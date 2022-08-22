@@ -1,4 +1,7 @@
 Halts,Listing
+"Aug 22, 2022IIROC Trading Halt - VLNS",VLNS
+"Aug 22, 2022IIROC Trading Halt - TV",TV
+"Aug 22, 2022IIROC Trading Halt - GII.P",GII.P
 "Aug 19, 2022IIROC Trading Halt - RABI",RABI
 "Aug 19, 2022IIROC Trade Resumption - MYCO",MYCO
 "Aug 19, 2022IIROC Trading Halt - RABI",RABI
@@ -21,6 +24,3 @@ Halts,Listing
 "Aug 16, 2022IIROC Trading Resumption - VERT",VERT
 "Aug 16, 2022IIROC Trade Resumption - HWG",HWG
 "Aug 16, 2022IIROC Trading Resumption - BMR",BMR
-"Aug 16, 2022IIROC Trading Halt - BMR",BMR
-"Aug 16, 2022IIROC Trade Resumption - TWM.WT",TWM.WT
-"Aug 16, 2022IIROC Trading Halt - VERT",VERT
