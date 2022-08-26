@@ -1,4 +1,6 @@
 Halts,Listing
+"Aug 26, 2022IIROC Trading Resumption - GDNP",GDNP
+"Aug 26, 2022IIROC Trading Halt - GDNP",GDNP
 "Aug 25, 2022IIROC Trade Resumption - BRAS",BRAS
 "Aug 25, 2022IIROC Trade Resumption - NWH.DB.H",NWH.DB.H
 "Aug 25, 2022IIROC Trading Halt - NWH.DB.H",NWH.DB.H
@@ -22,5 +24,3 @@ Halts,Listing
 "Aug 23, 2022IIROC Trading Halt - HIDE.P",HIDE.P
 "Aug 22, 2022IIROC Trading Halt - MIN.WT",MIN.WT
 "Aug 22, 2022IIROC Trading Resumption - GRDM",GRDM
-"Aug 22, 2022IIROC Trade Resumption - VLNS",VLNS
-"Aug 22, 2022IIROC Trading Halt - GRDM",GRDM
