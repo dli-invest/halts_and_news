@@ -1,4 +1,6 @@
 Halts,Listing
+"Aug 29, 2022IIROC Trading Halt - AZR",AZR
+"Aug 29, 2022IIROC Trading Resumption - SSV",SSV
 "Aug 29, 2022IIROC Trading Resumption - PQE",PQE
 "Aug 29, 2022IIROC Trading Halt - SSV",SSV
 "Aug 29, 2022IIROC Trading Halt - PQE",PQE
@@ -22,5 +24,3 @@ Halts,Listing
 "Aug 24, 2022IIROC Trading Halt - BRAS",BRAS
 "Aug 23, 2022IIROC Trade Resumption - XBLK.X",XBLK.X
 "Aug 23, 2022IIROC Trading Resumption - RCK",RCK
-"Aug 23, 2022IIROC Trading Resumption - MCG",MCG
-"Aug 23, 2022IIROC Trading Halt - EXRO",EXRO
