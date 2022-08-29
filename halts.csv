@@ -1,4 +1,6 @@
 Halts,Listing
+"Aug 29, 2022IIROC Trading Halt - SSV",SSV
+"Aug 29, 2022IIROC Trading Halt - PQE",PQE
 "Aug 29, 2022IIROC Trade Resumption - NEO",NEO
 "Aug 29, 2022IIROC Trading Halt - BILZ",BILZ
 "Aug 29, 2022IIROC Trading Halt - DOSE",DOSE
@@ -22,5 +24,3 @@ Halts,Listing
 "Aug 23, 2022IIROC Trading Resumption - MCG",MCG
 "Aug 23, 2022IIROC Trading Halt - EXRO",EXRO
 "Aug 23, 2022IIROC Trading Halt - FTN",FTN
-"Aug 23, 2022IIROC Trading Resumption - FLYN",FLYN
-"Aug 23, 2022IIROC Trading Halt - RCK",RCK
