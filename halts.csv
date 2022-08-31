@@ -1,4 +1,6 @@
 Halts,Listing
+"Aug 31, 2022IIROC Trading Halt - PMET",PMET
+"Aug 31, 2022IIROC Trade Resumption - OREA",OREA
 "Aug 31, 2022IIROC Trading Halt - OREA",OREA
 "Aug 30, 2022IIROC Trading Halt - GII.P",GII.P
 "Aug 29, 2022IIROC Trading Resumption - AZR",AZR
@@ -22,5 +24,3 @@ Halts,Listing
 "Aug 25, 2022IIROC Trading Halt - NWH.DB.H",NWH.DB.H
 "Aug 25, 2022IIROC Trading Halt - POE",POE
 "Aug 24, 2022IIROC Trading Resumption - GRD",GRD
-"Aug 24, 2022IIROC Trading Resumption - HIDE.P",HIDE.P
-"Aug 24, 2022IIROC Trade Resumption - FTN",FTN
