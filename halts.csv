@@ -1,4 +1,10 @@
 Halts,Listing
+"Sep 1, 2022IIROC Trade Resumption - BCFN",BCFN
+"Sep 1, 2022IIROC Trade Resumption - WNDR",WNDR
+"Sep 1, 2022IIROC Trading Halt - LOBE",LOBE
+"Sep 1, 2022IIROC Trading Halt - MYCO",MYCO
+"Sep 1, 2022IIROC Trading Halt - BCFN",BCFN
+"Sep 1, 2022IIROC Trading Halt - WNDR",WNDR
 "Aug 31, 2022IIROC Trading Resumption - APMI",APMI
 "Aug 31, 2022IIROC Trade Resumption - MUX",MUX
 "Aug 31, 2022IIROC Trading Halt - MUX",MUX
@@ -18,9 +24,3 @@ Halts,Listing
 "Aug 29, 2022IIROC Trading Halt - BILZ",BILZ
 "Aug 29, 2022IIROC Trading Halt - DOSE",DOSE
 "Aug 26, 2022IIROC Trading Resumption - CEC",CEC
-"Aug 26, 2022IIROC Trading Resumption - NVT",NVT
-"Aug 26, 2022IIROC Trading Resumption - CBI",CBI
-"Aug 26, 2022IIROC Trading Halt - NEO",NEO
-"Aug 26, 2022IIROC Trading Resumption - GDNP",GDNP
-"Aug 26, 2022IIROC Trading Halt - GDNP",GDNP
-"Aug 25, 2022IIROC Trade Resumption - BRAS",BRAS
