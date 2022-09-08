@@ -63,18 +63,15 @@ def get_halts():
 
 def get_tickers():
     url = "https://github.com/FriendlyUser/cad_tickers_list/blob/main/static/latest/tickers?raw=true"
-    data = pickle.load(urlopen(url))
-    return data
+    return pickle.load(urlopen(url))
 
 
 def is_valid_news_item(news_item: dict):
-    if (
-        news_item.get("source") == None
-        and news_item.get("link_href") == ""
-        and news_item.get("link_text") == ""
-    ):
-        return False
-    return True
+    return (
+        news_item.get("source") is not None
+        or news_item.get("link_href") != ""
+        or news_item.get("link_text") != ""
+    )
 
 
 def make_embed_from_news_item(news_item: pd.Series):
@@ -85,8 +82,7 @@ def make_embed_from_news_item(news_item: pd.Series):
       title is source
     """
     single_embed = format_news_item_for_embed(news_item)
-    embeds = [single_embed]
-    return embeds
+    return [single_embed]
     # description can take 2000 characters
 
 
@@ -145,7 +141,7 @@ def get_news(args):
         stock_news = scrap_news_for_ticker(t)
         # filter list
         stock_news = [i for i in stock_news if is_valid_news_item(i)]
-        if len(stock_news) == 0:
+        if not stock_news:
             continue
         news_df = news_df.append(stock_news, ignore_index=True)
 
