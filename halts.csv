@@ -1,4 +1,9 @@
 Halts,Listing
+"Sep 12, 2022IIROC Trading Halt - SIXW",SIXW
+"Sep 12, 2022IIROC Trade Resumption - SMT",SMT
+"Sep 12, 2022IIROC Trade Resumption - DND",DND
+"Sep 12, 2022IIROC Trading Halt - SMT",SMT
+"Sep 12, 2022IIROC Trading Halt - DND",DND
 "Sep 12, 2022IIROC Trading Halt - FONC.P",FONC.P
 "Sep 12, 2022IIROC Trading Halt - FINV.P",FINV.P
 "Sep 9, 2022IIROC Trading Resumption - LRC.H",LRC.H
@@ -19,8 +24,3 @@ Halts,Listing
 "Sep 7, 2022IIROC Trading Resumption - CORE",CORE
 "Sep 7, 2022IIROC Trade Resumption - FLYN",FLYN
 "Sep 7, 2022IIROC Trading Halt - CORE",CORE
-"Sep 7, 2022IIROC Trade Resumption - TCL.A",TCL.A
-"Sep 7, 2022IIROC Trading Halt - TCL.A",TCL.A
-"Sep 7, 2022IIROC Trading Halt - ALCC.P",ALCC.P
-"Sep 7, 2022IIROC Trading Resumption - ALBA.P",ALBA.P
-"Sep 7, 2022IIROC Trade Resumption - LUX",LUX
