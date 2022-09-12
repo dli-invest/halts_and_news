@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 12, 2022IIROC Trading Halt - FONC.P",FONC.P
+"Sep 12, 2022IIROC Trading Halt - FINV.P",FINV.P
 "Sep 9, 2022IIROC Trading Resumption - LRC.H",LRC.H
 "Sep 9, 2022IIROC Trading Halt - KWE",KWE
 "Sep 9, 2022IIROC Trading Halt - PLTH.WT.B",PLTH.WT.B
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 7, 2022IIROC Trading Halt - ALCC.P",ALCC.P
 "Sep 7, 2022IIROC Trading Resumption - ALBA.P",ALBA.P
 "Sep 7, 2022IIROC Trade Resumption - LUX",LUX
-"Sep 7, 2022IIROC Trading Halt - FLYN",FLYN
-"Sep 7, 2022IIROC Trading Halt - WR.H",WR.H
