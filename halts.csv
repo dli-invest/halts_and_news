@@ -1,4 +1,7 @@
 Halts,Listing
+"Sep 12, 2022IIROC Trading Halt - DFN",DFN
+"Sep 12, 2022IIROC Trading Halt - MOZ",MOZ
+"Sep 12, 2022IIROC Trading Halt - LM",LM
 "Sep 12, 2022IIROC Trading Halt - MWX.RT",MWX.RT
 "Sep 12, 2022IIROC Trading Halt - VPH.WT.A",VPH.WT.A
 "Sep 12, 2022IIROC Trading Halt - NUMI.WT",NUMI.WT
@@ -21,6 +24,3 @@ Halts,Listing
 "Sep 8, 2022IIROC Trading Halt - MAU",MAU
 "Sep 8, 2022IIROC Trading Halt - RVR",RVR
 "Sep 7, 2022IIROC Trading Resumption - NICU",NICU
-"Sep 7, 2022IIROC Trading Resumption - EPF (FORMERLY: JST.P)",JST.P)
-"Sep 7, 2022IIROC Trading Halt - ICRS.P",ICRS.P
-"Sep 7, 2022IIROC Trading Halt - RPX",RPX
