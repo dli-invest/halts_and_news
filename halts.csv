@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 15, 2022IIROC Trading Resumption - PMET",PMET
+"Sep 15, 2022IIROC Trading Halt - PMET",PMET
 "Sep 15, 2022IIROC Trading Halt - IMA",IMA
 "Sep 15, 2022IIROC Trading Halt - B",B
 "Sep 14, 2022IIROC Trading Resumption - ROVR",ROVR
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 13, 2022IIROC Trade Resumption - DFN",DFN
 "Sep 13, 2022IIROC Trading Halt - SOLV",SOLV
 "Sep 13, 2022IIROC Trade Resumption - MOZ",MOZ
-"Sep 13, 2022IIROC Trading Halt - ARH",ARH
-"Sep 12, 2022IIROC Trading Halt - DFN",DFN
