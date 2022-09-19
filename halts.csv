@@ -1,4 +1,9 @@
 Halts,Listing
+"Sep 19, 2022IIROC Trading Halt - LTH",LTH
+"Sep 19, 2022IIROC Trading Halt - RWB",RWB
+"Sep 19, 2022IIROC Trading Halt - ROVR",ROVR
+"Sep 19, 2022IIROC Trade Resumption - ITKO",ITKO
+"Sep 19, 2022IIROC Trading Halt - ITKO",ITKO
 "Sep 16, 2022IIROC Trading Resumption - TRE",TRE
 "Sep 16, 2022IIROC Trading Halt - IKC.P",IKC.P
 "Sep 16, 2022IIROC Trading Halt - TRE",TRE
@@ -19,8 +24,3 @@ Halts,Listing
 "Sep 13, 2022IIROC Trading Resumption - MOX",MOX
 "Sep 13, 2022IIROC Trading Halt - MOX",MOX
 "Sep 13, 2022IIROC Trading Resumption - KWE",KWE
-"Sep 13, 2022IIROC Trade Resumption - HMBL",HMBL
-"Sep 13, 2022IIROC Trade Resumption - GREN",GREN
-"Sep 13, 2022IIROC Trading Halt - HMBL",HMBL
-"Sep 13, 2022IIROC Trade Resumption - SOLV",SOLV
-"Sep 13, 2022IIROC Trading Halt - GREN",GREN
