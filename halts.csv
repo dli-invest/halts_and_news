@@ -1,5 +1,7 @@
 Halts,Listing
-"Sep 19, 2022IIROC Trading Halt - LTH",LTH
+"Sep 19, 2022IIROC Trading Resumption - LTH",LTH
+"Sep 19, 2022IIROC Trade Resumption - RWB",RWB
+"Sep 19, 2022/C O R R E C T I O N from Source -- Investment Industry Regulatory Organization of Canada (IIROC) - Halts/Resumptions/",Halts/Resumptions/
 "Sep 19, 2022IIROC Trading Halt - RWB",RWB
 "Sep 19, 2022IIROC Trading Halt - ROVR",ROVR
 "Sep 19, 2022IIROC Trade Resumption - ITKO",ITKO
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 13, 2022IIROC Trading Resumption - FINV.P",FINV.P
 "Sep 13, 2022IIROC Trading Resumption - FONC.P",FONC.P
 "Sep 13, 2022IIROC Trading Resumption - MOX",MOX
-"Sep 13, 2022IIROC Trading Halt - MOX",MOX
-"Sep 13, 2022IIROC Trading Resumption - KWE",KWE
