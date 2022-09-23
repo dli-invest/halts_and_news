@@ -1,4 +1,8 @@
 Halts,Listing
+"Sep 23, 2022IIROC Trading Halt - GWAY.WT",GWAY.WT
+"Sep 23, 2022IIROC Trading Halt - CL.WT",CL.WT
+"Sep 23, 2022IIROC Trading Halt - RWB.WT",RWB.WT
+"Sep 23, 2022IIROC Trade Resumption - GGA",GGA
 "Sep 23, 2022IIROC Trade Resumption - AWLI",AWLI
 "Sep 23, 2022IIROC Trading Halt - AWLI",AWLI
 "Sep 23, 2022/C O R R E C T I O N from Source -- Investment Industry Regulatory Organization of Canada (IIROC) - Halts/Resumptions/",Halts/Resumptions/
@@ -20,7 +24,3 @@ Halts,Listing
 "Sep 20, 2022IIROC Trading Resumption - PA",PA
 "Sep 20, 2022IIROC Trading Halt - PA",PA
 "Sep 20, 2022IIROC Trading Resumption - ROVR",ROVR
-"Sep 20, 2022IIROC Trading Halt - PIF.DB",PIF.DB
-"Sep 19, 2022IIROC Trading Resumption - TUP.P",TUP.P
-"Sep 19, 2022IIROC Trading Halt - HAVN",HAVN
-"Sep 19, 2022IIROC Trading Resumption - LTH",LTH
