@@ -1,4 +1,7 @@
 Halts,Listing
+"Sep 27, 2022IIROC Trade Resumption - OSK",OSK
+"Sep 27, 2022IIROC Trading Halt - ORCD",ORCD
+"Sep 27, 2022IIROC Trading Halt - OSK",OSK
 "Sep 27, 2022IIROC Trading Halt - CLVR.P",CLVR.P
 "Sep 26, 2022IIROC Trading Resumption - VAND",VAND
 "Sep 26, 2022IIROC Trading Halt - CBDT",CBDT
@@ -21,6 +24,3 @@ Halts,Listing
 "Sep 22, 2022IIROC Trading Halt - VML",VML
 "Sep 22, 2022IIROC Trading Resumption - ELBM",ELBM
 "Sep 22, 2022IIROC Trading Halt - ELBM",ELBM
-"Sep 22, 2022IIROC Trading Resumption - NOW",NOW
-"Sep 22, 2022IIROC Trading Halt - AUTO",AUTO
-"Sep 21, 2022IIROC Trading Resumption - HPM",HPM
