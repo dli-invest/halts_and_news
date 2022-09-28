@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 28, 2022IIROC Trade Resumption - MEAL",MEAL
+"Sep 28, 2022IIROC Trading Halt - KNG",KNG
 "Sep 28, 2022IIROC Trading Halt - HMCC.P",HMCC.P
 "Sep 27, 2022IIROC Trading Resumption - CBLU",CBLU
 "Sep 27, 2022IIROC Trading Resumption - VMXX",VMXX
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 23, 2022IIROC Trade Resumption - AWLI",AWLI
 "Sep 23, 2022IIROC Trading Halt - AWLI",AWLI
 "Sep 23, 2022/C O R R E C T I O N from Source -- Investment Industry Regulatory Organization of Canada (IIROC) - Halts/Resumptions/",Halts/Resumptions/
-"Sep 23, 2022IIROC Trading Halt - WAT.P",WAT.P
-"Sep 22, 2022IIROC Trading Resumption - CTN",CTN
