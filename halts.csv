@@ -1,4 +1,6 @@
 Halts,Listing
+"Sep 29, 2022IIROC Trading Halt - AEG",AEG
+"Sep 29, 2022IIROC Trading Halt - XBC",XBC
 "Sep 28, 2022IIROC Trade Resumption - TIM.X",TIM.X
 "Sep 28, 2022IIROC Trading Resumption - PNN",PNN
 "Sep 28, 2022IIROC Trading Halt - PNN",PNN
@@ -22,5 +24,3 @@ Halts,Listing
 "Sep 23, 2022IIROC Trading Halt - XAG",XAG
 "Sep 23, 2022IIROC Trading Halt - GWAY.WT",GWAY.WT
 "Sep 23, 2022IIROC Trading Halt - CL.WT",CL.WT
-"Sep 23, 2022IIROC Trading Halt - RWB.WT",RWB.WT
-"Sep 23, 2022IIROC Trade Resumption - GGA",GGA
