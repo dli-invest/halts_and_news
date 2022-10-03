@@ -1,4 +1,8 @@
 Halts,Listing
+"Oct 3, 2022IIROC Trading Resumption - NMI",NMI
+"Oct 3, 2022IIROC Trading Halt - AN",AN
+"Oct 3, 2022IIROC Trading Halt - MAI",MAI
+"Oct 3, 2022IIROC Trading Halt - NMI",NMI
 "Sep 30, 2022IIROC Trade Resumption - GREN",GREN
 "Sep 30, 2022IIROC Trading Resumption - AUTO",AUTO
 "Sep 30, 2022IIROC Trading Halt - GREN",GREN
@@ -20,7 +24,3 @@ Halts,Listing
 "Sep 27, 2022IIROC Trading Resumption - CBLU",CBLU
 "Sep 27, 2022IIROC Trading Resumption - VMXX",VMXX
 "Sep 27, 2022IIROC Trading Halt - CBLU",CBLU
-"Sep 27, 2022IIROC Trade Resumption - OSK",OSK
-"Sep 27, 2022IIROC Trading Halt - ORCD",ORCD
-"Sep 27, 2022IIROC Trading Halt - OSK",OSK
-"Sep 27, 2022IIROC Trading Halt - CLVR.P",CLVR.P
