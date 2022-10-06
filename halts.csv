@@ -1,4 +1,9 @@
 Halts,Listing
+"Oct 6, 2022IIROC Trading Resumption - GAME",GAME
+"Oct 6, 2022IIROC Trading Halt - GAME",GAME
+"Oct 6, 2022IIROC Trading Halt - GSW",GSW
+"Oct 6, 2022IIROC Trading Halt - CBP",CBP
+"Oct 6, 2022IIROC Trading Halt - GNOM",GNOM
 "Oct 5, 2022IIROC Trading Resumption - HVI.P",HVI.P
 "Oct 5, 2022IIROC Trading Resumption - SLG",SLG
 "Oct 5, 2022IIROC Trading Halt - SLG",SLG
@@ -19,8 +24,3 @@ Halts,Listing
 "Oct 3, 2022IIROC Trading Halt - RS",RS
 "Oct 3, 2022IIROC Trade Resumption - EFL",EFL
 "Oct 3, 2022IIROC Trading Halt - EFL",EFL
-"Oct 3, 2022IIROC Trading Halt - KLM",KLM
-"Oct 3, 2022IIROC Trading Halt - RVC.P",RVC.P
-"Oct 3, 2022IIROC Trading Resumption - AN",AN
-"Oct 3, 2022IIROC Trading Resumption - MAI",MAI
-"Oct 3, 2022IIROC Trading Resumption - NMI",NMI
