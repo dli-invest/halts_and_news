@@ -1,4 +1,8 @@
 Halts,Listing
+"Oct 11, 2022IIROC Trading Halt - RSMX",RSMX
+"Oct 11, 2022IIROC Trading Halt - GZD",GZD
+"Oct 11, 2022IIROC Trading Halt - SNOW",SNOW
+"Oct 11, 2022IIROC Trading Halt - CT.P",CT.P
 "Oct 7, 2022IIROC Trading Resumption - HIRE",HIRE
 "Oct 7, 2022IIROC Trading Halt - CAMP",CAMP
 "Oct 7, 2022IIROC Trading Resumption - AVN",AVN
@@ -20,7 +24,3 @@ Halts,Listing
 "Oct 6, 2022IIROC Trading Halt - AVN",AVN
 "Oct 6, 2022IIROC Trading Halt - BABY.WT",BABY.WT
 "Oct 6, 2022IIROC Trading Resumption - GAME",GAME
-"Oct 6, 2022IIROC Trading Halt - GAME",GAME
-"Oct 6, 2022IIROC Trading Halt - GSW",GSW
-"Oct 6, 2022IIROC Trading Halt - CBP",CBP
-"Oct 6, 2022IIROC Trading Halt - GNOM",GNOM
