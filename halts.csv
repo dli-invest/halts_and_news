@@ -1,4 +1,6 @@
 Halts,Listing
+"Oct 12, 2022IIROC Trading Halt - DCY",DCY
+"Oct 12, 2022IIROC Trading Halt - ATZ",ATZ
 "Oct 12, 2022IIROC Trading Resumption - TAO",TAO
 "Oct 12, 2022IIROC Trading Halt - TAO",TAO
 "Oct 12, 2022IIROC Trading Halt - VOTI",VOTI
@@ -22,5 +24,3 @@ Halts,Listing
 "Oct 6, 2022IIROC Trade Resumption - CURA",CURA
 "Oct 6, 2022IIROC Trading Halt - CURA",CURA
 "Oct 6, 2022IIROC Trade Resumption - GTII",GTII
-"Oct 6, 2022IIROC Trade Resumption - TRUL",TRUL
-"Oct 6, 2022IIROC Trading Halt - VRNO",VRNO
