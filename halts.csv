@@ -1,4 +1,7 @@
 Halts,Listing
+"Oct 18, 2022IIROC Trading Halt - PAC",PAC
+"Oct 18, 2022IIROC Trading Resumption - KLM",KLM
+"Oct 18, 2022IIROC Trading Resumption - MTR.P",MTR.P
 "Oct 18, 2022IIROC Trade Resumption - HS",HS
 "Oct 18, 2022IIROC Trading Halt - HS",HS
 "Oct 18, 2022IIROC Trading Resumption - SCAN",SCAN
@@ -21,6 +24,3 @@ Halts,Listing
 "Oct 14, 2022IIROC Trading Halt - DANC.U",DANC.U
 "Oct 14, 2022IIROC Trade Resumption - SBD",SBD
 "Oct 14, 2022IIROC Trading Halt - SDCI.P",SDCI.P
-"Oct 13, 2022IIROC Trade Resumption - CO",CO
-"Oct 13, 2022IIROC Trading Resumption - AUL",AUL
-"Oct 13, 2022IIROC Trade Resumption - BIR",BIR
