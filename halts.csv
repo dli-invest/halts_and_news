@@ -1,4 +1,9 @@
 Halts,Listing
+"Oct 25, 2022IIROC Trade Resumption - ATCM",ATCM
+"Oct 25, 2022IIROC Trading Halt - MLKM",MLKM
+"Oct 25, 2022IIROC Trading Halt - LMR",LMR
+"Oct 25, 2022IIROC Trading Halt - ATCM",ATCM
+"Oct 25, 2022IIROC Trading Halt - BAQ.P",BAQ.P
 "Oct 24, 2022IIROC Trading Resumption - DBG",DBG
 "Oct 24, 2022IIROC Trading Resumption - TM",TM
 "Oct 24, 2022IIROC Trading Halt - DBG",DBG
@@ -19,8 +24,3 @@ Halts,Listing
 "Oct 20, 2022IIROC Trading Resumption - OMG",OMG
 "Oct 20, 2022IIROC Trading Halt - DRM",DRM
 "Oct 20, 2022IIROC Trading Halt - OMG",OMG
-"Oct 20, 2022IIROC Trading Halt - FDR",FDR
-"Oct 19, 2022IIROC Trade Resumption - AMRQ",AMRQ
-"Oct 19, 2022IIROC Trading Halt - AMRQ",AMRQ
-"Oct 19, 2022IIROC Trade Resumption - EMA",EMA
-"Oct 19, 2022IIROC Trading Halt - EMA",EMA
