@@ -1,4 +1,6 @@
 Halts,Listing
+"Nov 1, 2022IIROC Trading Halt - MTR.P",MTR.P
+"Nov 1, 2022IIROC Trading Halt - CRE",CRE
 "Nov 1, 2022IIROC Trade Resumption - TRQ",TRQ
 "Nov 1, 2022IIROC Trading Halt - TRQ",TRQ
 "Nov 1, 2022IIROC Trading Halt - EQB.R",EQB.R
@@ -22,5 +24,3 @@ Halts,Listing
 "Oct 27, 2022IIROC Trading Resumption - GIGA",GIGA
 "Oct 27, 2022IIROC Trading Halt - GIGA",GIGA
 "Oct 26, 2022IIROC Trading Halt - CE.H",CE.H
-"Oct 26, 2022IIROC Trading Halt - DBC.P",DBC.P
-"Oct 25, 2022IIROC Trading Resumption - LMR",LMR
