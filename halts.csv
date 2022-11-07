@@ -1,4 +1,8 @@
 Halts,Listing
+"Nov 7, 2022IIROC Trading Halt - PRT",PRT
+"Nov 7, 2022IIROC Trading Halt - HVI.P",HVI.P
+"Nov 7, 2022IIROC Trading Halt - ESGO.P",ESGO.P
+"Nov 7, 2022IIROC Trading Halt - SCD",SCD
 "Nov 4, 2022IIROC Trading Resumption - CAPL.P",CAPL.P
 "Nov 4, 2022IIROC Trading Halt - BCFN",BCFN
 "Nov 4, 2022IIROC Trade Resumption - AX.UN",AX.UN
@@ -20,7 +24,3 @@ Halts,Listing
 "Nov 2, 2022IIROC Trading Halt - TAAL",TAAL
 "Nov 2, 2022IIROC Trading Halt - LUXX",LUXX
 "Nov 1, 2022IIROC Trading Resumption - RRM.H",RRM.H
-"Nov 1, 2022IIROC Trading Halt - MTR.P",MTR.P
-"Nov 1, 2022IIROC Trading Halt - CRE",CRE
-"Nov 1, 2022IIROC Trade Resumption - TRQ",TRQ
-"Nov 1, 2022IIROC Trading Halt - TRQ",TRQ
