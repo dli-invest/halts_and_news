@@ -1,4 +1,6 @@
 Halts,Listing
+"Nov 9, 2022IIROC Trading Halt - RECO",RECO
+"Nov 9, 2022IIROC Trading Resumption - RECO",RECO
 "Nov 9, 2022IIROC Trading Halt - MCF.H",MCF.H
 "Nov 9, 2022IIROC Trading Halt - JRV",JRV
 "Nov 9, 2022IIROC Trading Halt - SBMI",SBMI
@@ -22,5 +24,3 @@ Halts,Listing
 "Nov 7, 2022IIROC Trading Halt - ESGO.P",ESGO.P
 "Nov 7, 2022IIROC Trading Halt - SCD",SCD
 "Nov 4, 2022IIROC Trading Resumption - CAPL.P",CAPL.P
-"Nov 4, 2022IIROC Trading Halt - BCFN",BCFN
-"Nov 4, 2022IIROC Trade Resumption - AX.UN",AX.UN
