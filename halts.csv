@@ -1,4 +1,6 @@
 Halts,Listing
+"Nov 10, 2022IIROC Trade Resumption - DRM",DRM
+"Nov 10, 2022IIROC Trading Halt - DRM",DRM
 "Nov 10, 2022IIROC Trading Halt - WDO",WDO
 "Nov 10, 2022IIROC Trade Resumption - WDO",WDO
 "Nov 10, 2022IIROC Trading Halt - GCV.P",GCV.P
@@ -22,5 +24,3 @@ Halts,Listing
 "Nov 7, 2022CLZ IIROC Trading Resumption - CLZ",CLZ
 "Nov 7, 2022IIROC Trading Resumption - SCD",SCD
 "Nov 7, 2022IIROC Trading Resumption - VIPR",VIPR
-"Nov 7, 2022IIROC Trading Halt - VIPR",VIPR
-"Nov 7, 2022IIROC Trading Halt - CLZ",CLZ
