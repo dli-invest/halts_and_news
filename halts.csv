@@ -1,4 +1,6 @@
 Halts,Listing
+"Nov 10, 2022IIROC Trade Resumption - WDO",WDO
+"Nov 10, 2022IIROC Trading Halt - WDO",WDO
 "Nov 10, 2022IIROC Trading Halt - GCV.P",GCV.P
 "Nov 10, 2022IIROC Trading Halt - GXY.P",GXY.P
 "Nov 9, 2022IIROC Trading Halt - EMH",EMH
@@ -22,5 +24,3 @@ Halts,Listing
 "Nov 7, 2022IIROC Trading Resumption - VIPR",VIPR
 "Nov 7, 2022IIROC Trading Halt - VIPR",VIPR
 "Nov 7, 2022IIROC Trading Halt - CLZ",CLZ
-"Nov 7, 2022IIROC Trading Halt - PRT",PRT
-"Nov 7, 2022IIROC Trading Halt - HVI.P",HVI.P
