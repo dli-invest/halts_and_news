@@ -1,4 +1,6 @@
 Halts,Listing
+"Nov 11, 2022IIROC Trading Resumption - JRV",JRV
+"Nov 11, 2022IIROC Trading Halt - GSTM",GSTM
 "Nov 10, 2022IIROC Trading Halt - FIOR",FIOR
 "Nov 10, 2022IIROC Trade Resumption - DRM",DRM
 "Nov 10, 2022IIROC Trading Halt - DRM",DRM
@@ -22,5 +24,3 @@ Halts,Listing
 "Nov 7, 2022IIROC Trading Halt - RS",RS
 "Nov 7, 2022IIROC Trading Halt - NHHH",NHHH
 "Nov 7, 2022IIROC Trading Halt - SCD",SCD
-"Nov 7, 2022CLZ IIROC Trading Resumption - CLZ",CLZ
-"Nov 7, 2022IIROC Trading Resumption - SCD",SCD
