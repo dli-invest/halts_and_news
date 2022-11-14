@@ -1,4 +1,6 @@
 Halts,Listing
+"Nov 14, 2022IIROC Trading Halt - DIV",DIV
+"Nov 14, 2022IIROC Trading Halt - IAU",IAU
 "Nov 14, 2022IIROC Trading Resumption - EU",EU
 "Nov 14, 2022IIROC Trading Resumption - GASX",GASX
 "Nov 14, 2022IIROC Trading Halt - EU",EU
@@ -22,5 +24,3 @@ Halts,Listing
 "Nov 10, 2022IIROC Trade Resumption - WDO",WDO
 "Nov 10, 2022IIROC Trading Halt - GCV.P",GCV.P
 "Nov 10, 2022IIROC Trading Halt - GXY.P",GXY.P
-"Nov 9, 2022IIROC Trading Halt - EMH",EMH
-"Nov 9, 2022IIROC Trading Halt - RECO",RECO
