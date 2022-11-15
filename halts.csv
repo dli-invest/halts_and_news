@@ -1,4 +1,7 @@
 Halts,Listing
+"Nov 15, 2022IIROC Trading Halt - KEN",KEN
+"Nov 15, 2022IIROC Trading Halt - WWA.P",WWA.P
+"Nov 15, 2022IIROC Trading Halt - COVE",COVE
 "Nov 14, 2022IIROC Trade Resumption - IAU",IAU
 "Nov 14, 2022IIROC Trading Resumption - SBMI",SBMI
 "Nov 14, 2022IIROC Trading Resumption - LQWD",LQWD
@@ -21,6 +24,3 @@ Halts,Listing
 "Nov 11, 2022IIROC Trading Resumption - JRV",JRV
 "Nov 11, 2022IIROC Trading Halt - GSTM",GSTM
 "Nov 10, 2022IIROC Trading Halt - FIOR",FIOR
-"Nov 10, 2022IIROC Trade Resumption - DRM",DRM
-"Nov 10, 2022IIROC Trading Halt - DRM",DRM
-"Nov 10, 2022IIROC Trading Halt - WDO",WDO
