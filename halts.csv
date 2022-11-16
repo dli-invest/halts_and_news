@@ -1,4 +1,7 @@
 Halts,Listing
+"Nov 16, 2022IIROC Trading Halt - EINC",EINC
+"Nov 16, 2022IIROC Trading Halt - SBC.PR.A",SBC.PR.A
+"Nov 16, 2022/C O R R E C T I O N -- Investment Industry Regulatory Organization of Canada (IIROC) - Halts/Resumptions/",Halts/Resumptions/
 "Nov 16, 2022IIROC Trading Halt - COYX",COYX
 "Nov 16, 2022IIROC Trade Resumption - TLG",TLG
 "Nov 16, 2022IIROC Trading Halt - KEN",KEN
@@ -21,6 +24,3 @@ Halts,Listing
 "Nov 14, 2022IIROC Trading Halt - IAU",IAU
 "Nov 14, 2022IIROC Trading Resumption - EU",EU
 "Nov 14, 2022IIROC Trading Resumption - GASX",GASX
-"Nov 14, 2022IIROC Trading Halt - EU",EU
-"Nov 14, 2022IIROC Trading Halt - GASX",GASX
-"Nov 14, 2022IIROC Trade Resumption - VIK",VIK
