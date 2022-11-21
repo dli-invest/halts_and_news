@@ -1,4 +1,7 @@
 Halts,Listing
+"Nov 21, 2022IIROC Trading Halt - PILL",PILL
+"Nov 21, 2022IIROC Trade Resumption - ELEF",ELEF
+"Nov 21, 2022IIROC Trading Halt - ELEF",ELEF
 "Nov 18, 2022IIROC Trading Halt - MCUR",MCUR
 "Nov 18, 2022IIROC Trade Resumption - MCUR",MCUR
 "Nov 18, 2022IIROC Trading Resumption - ACOG",ACOG
@@ -21,6 +24,3 @@ Halts,Listing
 "Nov 15, 2022IIROC Trade Resumption - EXRO",EXRO
 "Nov 15, 2022IIROC Trading Resumption - GSHR",GSHR
 "Nov 15, 2022IIROC Trading Halt - FONE.WT.A",FONE.WT.A
-"Nov 15, 2022IIROC Trading Halt - ENW.WT",ENW.WT
-"Nov 15, 2022IIROC Trading Halt - EXRO",EXRO
-"Nov 15, 2022IIROC Trading Halt - GSHR",GSHR
