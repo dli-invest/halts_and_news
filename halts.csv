@@ -1,4 +1,6 @@
 Halts,Listing
+"Nov 22, 2022IIROC Trading Halt - OG",OG
+"Nov 22, 2022IIROC Trade Resumption - PILL",PILL
 "Nov 21, 2022IIROC Trading Resumption - RMR",RMR
 "Nov 21, 2022IIROC Trading Resumption - PRO",PRO
 "Nov 21, 2022IIROC Trading Resumption - ABI",ABI
@@ -22,5 +24,3 @@ Halts,Listing
 "Nov 16, 2022IIROC Trading Halt - EINC",EINC
 "Nov 16, 2022IIROC Trading Halt - SBC.PR.A",SBC.PR.A
 "Nov 16, 2022/C O R R E C T I O N -- Investment Industry Regulatory Organization of Canada (IIROC) - Halts/Resumptions/",Halts/Resumptions/
-"Nov 16, 2022IIROC Trading Halt - COYX",COYX
-"Nov 16, 2022IIROC Trade Resumption - TLG",TLG
