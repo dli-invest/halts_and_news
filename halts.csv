@@ -1,4 +1,6 @@
 Halts,Listing
+"Nov 22, 2022IIROC Trading Resumption - NAU",NAU
+"Nov 22, 2022IIROC Trading Halt - CTS",CTS
 "Nov 22, 2022IIROC Trading Halt - NAU",NAU
 "Nov 22, 2022IIROC Trading Halt - LIFT",LIFT
 "Nov 22, 2022IIROC Trading Halt - LHI",LHI
@@ -22,5 +24,3 @@ Halts,Listing
 "Nov 17, 2022IIROC Trade Resumption - BHC",BHC
 "Nov 17, 2022IIROC Trading Halt - BHC",BHC
 "Nov 17, 2022IIROC Trading Halt - WOOD.P",WOOD.P
-"Nov 17, 2022IIROC Trade Resumption - SBC.PR.A",SBC.PR.A
-"Nov 17, 2022IIROC Trade Resumption - EINC",EINC
